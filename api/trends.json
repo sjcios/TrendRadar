@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T15:48:37.870329+08:00",
-  "total_titles_processed": 1282,
+  "generated_at": "2026-02-27T16:32:01.502694+08:00",
+  "total_titles_processed": 1373,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "白宫官员希望以色列先打击伊朗",
@@ -13,17 +13,6 @@
           "source": "凤凰网",
           "ranks": [
             3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时00分 ~ 07时38分]"
-        },
-        {
-          "title": "如美发动攻击，中俄会否联手支援伊朗？外交部回应",
-          "url": "https://news.ifeng.com/c/8r3mAyyc1El",
-          "source": "凤凰网",
-          "ranks": [
-            4
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -38,8 +27,19 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时39分 ~ 16时32分]"
+        },
+        {
+          "title": "如美发动攻击，中俄会否联手支援伊朗？外交部回应",
+          "url": "https://news.ifeng.com/c/8r3mAyyc1El",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[10时39分 ~ 15时48分]"
+          "time_info": "[00时00分 ~ 07时38分]"
         },
         {
           "title": "中国是否会与俄罗斯一道支持伊朗抵御美国侵略？外交部回应",
@@ -53,8 +53,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时00分 ~ 15时48分]"
+          "appearance_count": 17,
+          "time_info": "[00时00分 ~ 16时31分]"
         },
         {
           "title": "中方正密切关注伊朗局势发展",
@@ -82,6 +82,31 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时00分 ~ 07时38分]"
+        },
+        {
+          "title": "伊朗警告：将让侵略者付出惨重代价",
+          "url": "https://www.toutiao.com/trending/7610045179701624886/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时25分 ~ 16时32分]"
+        },
+        {
+          "title": "伊朗外交部发言人：本轮伊美谈判非常深入",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32661028",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时25分 ~ 16时32分]"
         },
         {
           "title": "美媒说美国将在谈判中向伊朗提出强硬要求",
@@ -126,17 +151,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
-        },
-        {
-          "title": "伊朗警告：将让侵略者付出惨重代价",
-          "url": "https://www.toutiao.com/trending/7610045179701624886/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时25分 ~ 15时48分]"
         },
         {
           "title": "伊朗外长敦促阿富汗和巴基斯坦通过对话解决分歧。",
@@ -198,18 +212,6 @@
           "time_info": "[15时25分 ~ 15时48分]"
         },
         {
-          "title": "伊朗外交部发言人：本轮伊美谈判非常深入",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32661028",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时25分 ~ 15时48分]"
-        },
-        {
           "title": "市场消息：伊朗敦促美国放弃“过分的要求”以达成协议。",
           "url": "https://flash.jin10.com/detail/20260227152714694800",
           "source": "金十数据",
@@ -265,6 +267,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
+        },
+        {
+          "title": "伊朗军官称已做好应对敌军行动准备",
+          "url": "https://flash.jin10.com/detail/20260227160957204800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "据伊朗国家电视台：美国代表团参加伊朗问题会谈的车辆离开会场。",
@@ -545,7 +558,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
@@ -573,8 +586,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时37分 ~ 15时48分]"
+          "appearance_count": 12,
+          "time_info": "[07时37分 ~ 16时32分]"
         },
         {
           "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
@@ -612,8 +625,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时25分 ~ 15时48分]"
+          "appearance_count": 6,
+          "time_info": "[15时25分 ~ 16时32分]"
         },
         {
           "title": "美国参议院民主党成员Warren发函货币监理署（OCC）、联邦存款保险公司（FDID）、以及EREBOR Bank。 Warren向亚马逊询问，总统特朗普的关税是否造成（该公司）涨价。",
@@ -722,6 +735,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时47分 ~ 05时39分]"
+        },
+        {
+          "title": "美军中东最高指挥官向特朗普汇报",
+          "url": "https://www.toutiao.com/trending/7611361368545280036/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时32分]"
         },
         {
           "title": "市场消息：特朗普要求美国最高法院终止对叙利亚移民的保护。",
@@ -906,6 +930,17 @@
           "time_info": "07时38分"
         },
         {
+          "title": "谷歌的“豆包手机”来了？",
+          "url": "https://news.ifeng.com/c/8r5Hb8yN4Fm",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时25分 ~ 16时32分]"
+        },
+        {
           "title": "知情人士称，Meta已与谷歌签署协议，将租赁其AI芯片以开发新的AI模型。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3059831",
           "source": "华尔街见闻-快讯",
@@ -971,17 +1006,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时39分 ~ 13时58分]"
-        },
-        {
-          "title": "谷歌的“豆包手机”来了？",
-          "url": "https://news.ifeng.com/c/8r5Hb8yN4Fm",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时25分 ~ 15时48分]"
         },
         {
           "title": "谷歌推出 Nano Banana 2，有哪些亮点值得关注？",
@@ -1409,6 +1433,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "硅谷“最贵华人”被OpenAI挖走",
+          "url": "https://www.baidu.com/s?wd=%E7%A1%85%E8%B0%B7%E2%80%9C%E6%9C%80%E8%B4%B5%E5%8D%8E%E4%BA%BA%E2%80%9D%E8%A2%ABOpenAI%E6%8C%96%E8%B5%B0",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时58分 ~ 16时32分]"
+        },
+        {
           "title": "OpenAI：将与加拿大执法机构建立直接联系渠道，承诺与加拿大政府和专家合作，继续强化我们的强化执法转介标准。",
           "url": "https://flash.jin10.com/detail/20260227062334976800",
           "source": "金十数据",
@@ -1418,18 +1454,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时41分"
-        },
-        {
-          "title": "硅谷“最贵华人”被OpenAI挖走",
-          "url": "https://www.baidu.com/s?wd=%E7%A1%85%E8%B0%B7%E2%80%9C%E6%9C%80%E8%B4%B5%E5%8D%8E%E4%BA%BA%E2%80%9D%E8%A2%ABOpenAI%E6%8C%96%E8%B5%B0",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时58分 ~ 15时48分]"
         }
       ]
     },
@@ -1488,6 +1512,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "LOL",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "lol赛制畸形,左右脑互搏",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351040&amp;topic_name=lol%E8%B5%9B%E5%88%B6%E7%95%B8%E5%BD%A2%2C%E5%B7%A6%E5%8F%B3%E8%84%91%E4%BA%92%E6%90%8F",
+          "source": "贴吧",
+          "ranks": [
+            16,
+            17,
+            19,
+            24,
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时00分 ~ 16时32分]"
         }
       ]
     }
