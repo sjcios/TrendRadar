@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T15:34:17.976929+08:00",
-  "total_titles_processed": 1258,
+  "generated_at": "2026-02-27T15:41:41.983417+08:00",
+  "total_titles_processed": 1282,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "白宫官员希望以色列先打击伊朗",
@@ -41,8 +41,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时00分 ~ 15时34分]"
+          "appearance_count": 15,
+          "time_info": "[00时00分 ~ 15时41分]"
         },
         {
           "title": "伊美第三轮谈判结束，伊朗外长称取得良好进展，美媒称美方谈判期间感到失望",
@@ -53,8 +53,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时39分 ~ 15时34分]"
+          "appearance_count": 7,
+          "time_info": "[10时39分 ~ 15时41分]"
         },
         {
           "title": "中方正密切关注伊朗局势发展",
@@ -183,8 +183,31 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时25分 ~ 15时34分]"
+          "appearance_count": 3,
+          "time_info": "[15时25分 ~ 15时41分]"
+        },
+        {
+          "title": "伊朗将导弹射程限制在2000公里内",
+          "url": "https://www.toutiao.com/trending/7610889833874997291/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时25分 ~ 15时41分]"
+        },
+        {
+          "title": "伊朗外交部发言人：本轮伊美谈判非常深入",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32661028",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时25分 ~ 15时41分]"
         },
         {
           "title": "伊朗拒绝向国外转移浓缩铀",
@@ -222,29 +245,6 @@
           "time_info": "[04时47分 ~ 05时39分]"
         },
         {
-          "title": "伊朗将导弹射程限制在2000公里内",
-          "url": "https://www.toutiao.com/trending/7610889833874997291/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时25分 ~ 15时34分]"
-        },
-        {
-          "title": "伊朗外交部发言人：本轮伊美谈判非常深入",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32661028",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时25分 ~ 15时34分]"
-        },
-        {
           "title": "伊朗外长：伊美第三轮间接谈判取得良好进展",
           "url": "https://flash.jin10.com/detail/20260227035939515800",
           "source": "金十数据",
@@ -265,6 +265,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "市场消息：伊朗敦促美国放弃“过分的要求”以达成协议。",
+          "url": "https://flash.jin10.com/detail/20260227152714694800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
         },
         {
           "title": "据以色列媒体：美国国务卿鲁比奥关于伊朗导弹的言论未能说服国会民主党领导层。",
@@ -550,6 +561,22 @@
           "time_info": "[00时00分 ~ 13时58分]"
         },
         {
+          "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32660479",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16,
+            17,
+            19,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时37分 ~ 15时41分]"
+        },
+        {
           "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
           "url": "https://news.ifeng.com/c/8r3yuvat2ge",
           "source": "凤凰网",
@@ -575,22 +602,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时00分 ~ 07时38分]"
-        },
-        {
-          "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32660479",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16,
-            17,
-            19,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时37分 ~ 15时34分]"
         },
         {
           "title": "美国参议院民主党成员Warren发函货币监理署（OCC）、联邦存款保险公司（FDID）、以及EREBOR Bank。 Warren向亚马逊询问，总统特朗普的关税是否造成（该公司）涨价。",
@@ -629,6 +640,18 @@
           "time_info": "[00时00分 ~ 01时12分]"
         },
         {
+          "title": "史无前例！联合国宣布特朗普夫人将主持安理会会议",
+          "url": "https://news.ifeng.com/c/8r5F4LVejaT",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时25分 ~ 15时41分]"
+        },
+        {
           "title": "白宫：特朗普愿在无前提条件下与金正恩对话",
           "url": "https://news.ifeng.com/c/8r4zqmCwYJf",
           "source": "凤凰网",
@@ -641,18 +664,6 @@
           "time_info": "[12时51分 ~ 15时25分]"
         },
         {
-          "title": "史无前例！联合国宣布特朗普夫人将主持安理会会议",
-          "url": "https://news.ifeng.com/c/8r5F4LVejaT",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时25分 ~ 15时34分]"
-        },
-        {
           "title": "特朗普2026国会演讲全解析",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE2026%E5%9B%BD%E4%BC%9A%E6%BC%94%E8%AE%B2%E5%85%A8%E8%A7%A3%E6%9E%90",
           "source": "bilibili 热搜",
@@ -661,8 +672,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时25分 ~ 15时34分]"
+          "appearance_count": 3,
+          "time_info": "[15时25分 ~ 15时41分]"
         },
         {
           "title": "消息人士称，美国目前并无情报支持特朗普有关“伊朗将很快拥有能打到美国的导弹”的这一说法。（路透）",
@@ -962,6 +973,17 @@
           "time_info": "[10时39分 ~ 13时58分]"
         },
         {
+          "title": "谷歌的“豆包手机”来了？",
+          "url": "https://news.ifeng.com/c/8r5Hb8yN4Fm",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时25分 ~ 15时41分]"
+        },
+        {
           "title": "谷歌推出 Nano Banana 2，有哪些亮点值得关注？",
           "url": "https://www.zhihu.com/question/2010521633262101357",
           "source": "知乎",
@@ -972,17 +994,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时51分 ~ 13时58分]"
-        },
-        {
-          "title": "谷歌的“豆包手机”来了？",
-          "url": "https://news.ifeng.com/c/8r5Hb8yN4Fm",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时25分 ~ 15时34分]"
         },
         {
           "title": "谷歌公司：在AI MAX的文本指引中扩大测试人员的接入权限。 在谷歌翻译中推出全新人工智能驱动功能。",
@@ -1110,8 +1121,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时37分 ~ 15时34分]"
+          "appearance_count": 9,
+          "time_info": "[07时37分 ~ 15时41分]"
         },
         {
           "title": "美股三大期指集体走高 英伟达盘前上涨 | 今夜看点",
@@ -1144,11 +1155,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时25分 ~ 15时34分]"
+          "appearance_count": 3,
+          "time_info": "[15时25分 ~ 15时41分]"
         },
         {
           "title": "Block美股盘后涨22%，该公司计划砍掉将近一半的员工。",
@@ -1302,8 +1314,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "周五，全球基金抛售了创纪录的韩国股票（近50亿美元），这表明在今年韩国股市基准指数上涨近50%之后出现了获利回吐的迹象。",
+          "url": "https://flash.jin10.com/detail/20260227153351294800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
+        },
         {
           "title": "周四（2月26日）纽约尾盘，ICE美元指数涨0.08%，报97.775点，日内交投区间为97.489-97.984点。 彭博美元指数涨0.08%，报1188.39点，日内交投区间为1185.03-1190.69点。",
           "url": "https://wallstreetcn.com/livenews/3059747",
@@ -1405,8 +1428,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时58分 ~ 15时34分]"
+          "appearance_count": 4,
+          "time_info": "[13时58分 ~ 15时41分]"
         }
       ]
     },
