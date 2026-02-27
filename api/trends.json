@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T13:58:23.432236+08:00",
-  "total_titles_processed": 1119,
+  "generated_at": "2026-02-27T15:25:59.010348+08:00",
+  "total_titles_processed": 1248,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 41,
+      "match_count": 46,
       "titles": [
         {
           "title": "白宫官员希望以色列先打击伊朗",
@@ -40,8 +40,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时00分 ~ 13时58分]"
+          "appearance_count": 13,
+          "time_info": "[00时00分 ~ 15时25分]"
         },
         {
           "title": "中方正密切关注伊朗局势发展",
@@ -79,8 +79,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时39分 ~ 13时58分]"
+          "appearance_count": 5,
+          "time_info": "[10时39分 ~ 15时25分]"
         },
         {
           "title": "美媒说美国将在谈判中向伊朗提出强硬要求",
@@ -221,6 +221,17 @@
           "time_info": "04时47分"
         },
         {
+          "title": "伊朗警告：将让侵略者付出惨重代价",
+          "url": "https://www.toutiao.com/trending/7610045179701624886/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
           "title": "据伊朗国家电视台：美国代表团参加伊朗问题会谈的车辆离开会场。",
           "url": "https://flash.jin10.com/detail/20260227023314779800",
           "source": "金十数据",
@@ -230,6 +241,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "伊朗将导弹射程限制在2000公里内",
+          "url": "https://www.toutiao.com/trending/7610889833874997291/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         },
         {
           "title": "据以色列媒体：美国国务卿鲁比奥关于伊朗导弹的言论未能说服国会民主党领导层。",
@@ -315,7 +337,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -340,6 +362,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
+        },
+        {
+          "title": "伊朗外交部发言人：本轮伊美谈判非常深入",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32661028",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         },
         {
           "title": "伊朗外长阿拉格齐：我们已明确提出关于解除制裁的具体要求。我们已就解除制裁及安理会相关进展明确阐述立场。",
@@ -430,6 +463,17 @@
           "time_info": "04时47分"
         },
         {
+          "title": "伊朗外长阿拉格齐：第三轮会谈比以往的讨论更加深入，持续时间也更长。在这一轮会谈中，双方讨论了可能构成协议基础的关键要素。",
+          "url": "https://flash.jin10.com/detail/20260227145037931800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
           "title": "伊朗代表团已返回谈判地点",
           "url": "https://flash.jin10.com/detail/20260227001331592800",
           "source": "金十数据",
@@ -463,6 +507,17 @@
           "time_info": "10时40分"
         },
         {
+          "title": "伊朗外长阿拉格齐：显而易见，伊朗核问题无法通过军事行动解决。他们曾经尝试过，但没有成功。这一次，他们也尽其所能地加大了施压力度，但仍然一无所获。",
+          "url": "https://flash.jin10.com/detail/20260227144950828800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
           "title": "据Axios记者援引美国官员称，在日内瓦与伊朗举行的核谈判取得积极进展。",
           "url": "https://flash.jin10.com/detail/20260227031929854800",
           "source": "金十数据",
@@ -477,7 +532,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
@@ -527,11 +582,12 @@
             20,
             16,
             17,
-            19
+            19,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时37分 ~ 13时58分]"
+          "appearance_count": 7,
+          "time_info": "[07时37分 ~ 15时25分]"
         },
         {
           "title": "美国参议院民主党成员Warren发函货币监理署（OCC）、联邦存款保险公司（FDID）、以及EREBOR Bank。 Warren向亚马逊询问，总统特朗普的关税是否造成（该公司）涨价。",
@@ -574,11 +630,12 @@
           "url": "https://news.ifeng.com/c/8r4zqmCwYJf",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时51分 ~ 13时58分]"
+          "appearance_count": 3,
+          "time_info": "[12时51分 ~ 15时25分]"
         },
         {
           "title": "消息人士称，美国目前并无情报支持特朗普有关“伊朗将很快拥有能打到美国的导弹”的这一说法。（路透）",
@@ -629,6 +686,17 @@
           "time_info": "[04时47分 ~ 05时39分]"
         },
         {
+          "title": "史无前例！联合国宣布特朗普夫人将主持安理会会议",
+          "url": "https://news.ifeng.com/c/8r5F4LVejaT",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
           "title": "市场消息：特朗普要求美国最高法院终止对叙利亚移民的保护。",
           "url": "https://flash.jin10.com/detail/20260227003534213800",
           "source": "金十数据",
@@ -638,6 +706,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "特朗普2026国会演讲全解析",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE2026%E5%9B%BD%E4%BC%9A%E6%BC%94%E8%AE%B2%E5%85%A8%E8%A7%A3%E6%9E%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         },
         {
           "title": "专家：不排除特朗普赶在国会授权前发动攻击的可能",
@@ -797,7 +876,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "谷歌正就TPU租赁合资事宜进行洽谈；谷歌已与投资基金签署协议，将成立TPU租赁合资企业。（The Information）",
@@ -913,13 +992,24 @@
           "time_info": "07时38分"
         },
         {
+          "title": "谷歌的“豆包手机”来了？",
+          "url": "https://news.ifeng.com/c/8r5Hb8yN4Fm",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
           "title": "韩国批准谷歌的地图数据出口申请。",
           "url": "https://flash.jin10.com/detail/20260227130247973800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -952,7 +1042,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -1004,7 +1094,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股收盘：英伟达绩后再现惯性跳水 拖累纳指跌超1%",
@@ -1015,8 +1105,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时37分 ~ 13时58分]"
+          "appearance_count": 7,
+          "time_info": "[07时37分 ~ 15时25分]"
         },
         {
           "title": "美股三大期指集体走高 英伟达盘前上涨 | 今夜看点",
@@ -1042,6 +1132,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时00分 ~ 06时41分]"
+        },
+        {
+          "title": "瑞银下调美股配置至中性 资金全球化分散趋势渐显",
+          "url": "https://flash.jin10.com/detail/20260227151220024800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         },
         {
           "title": "Block美股盘后涨22%，该公司计划砍掉将近一半的员工。",
@@ -1294,11 +1395,40 @@
           "url": "https://www.baidu.com/s?wd=%E7%A1%85%E8%B0%B7%E2%80%9C%E6%9C%80%E8%B4%B5%E5%8D%8E%E4%BA%BA%E2%80%9D%E8%A2%ABOpenAI%E6%8C%96%E8%B5%B0",
           "source": "百度热搜",
           "ranks": [
-            20
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 15时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时37分 ~ 07时38分]"
+        },
+        {
+          "title": "金十图示：2026年02月27日（周五）上海金午盘价为1145.03元/克，较国际金价(1142.36元/克)，高2.67元/克",
+          "url": "https://flash.jin10.com/detail/20260227150244874800",
+          "source": "金十数据",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时58分"
+          "time_info": "15时25分"
         }
       ]
     },
@@ -1328,23 +1458,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价波动",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时37分 ~ 07时38分]"
         }
       ]
     }
