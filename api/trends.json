@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T16:43:14.427511+08:00",
-  "total_titles_processed": 1396,
+  "generated_at": "2026-02-27T16:48:57.688482+08:00",
+  "total_titles_processed": 1401,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时39分 ~ 16时43分]"
+          "appearance_count": 13,
+          "time_info": "[10时39分 ~ 16时48分]"
         },
         {
           "title": "如美发动攻击，中俄会否联手支援伊朗？外交部回应",
@@ -57,6 +57,32 @@
           "time_info": "[00时00分 ~ 16时31分]"
         },
         {
+          "title": "伊朗警告：将让侵略者付出惨重代价",
+          "url": "https://www.toutiao.com/trending/7610045179701624886/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时25分 ~ 16时48分]"
+        },
+        {
+          "title": "伊朗外交部发言人：本轮伊美谈判非常深入",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32661028",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时25分 ~ 16时48分]"
+        },
+        {
           "title": "中方正密切关注伊朗局势发展",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E6%AD%A3%E5%AF%86%E5%88%87%E5%85%B3%E6%B3%A8%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF%E5%8F%91%E5%B1%95",
           "source": "bilibili 热搜",
@@ -82,32 +108,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时00分 ~ 07时38分]"
-        },
-        {
-          "title": "伊朗警告：将让侵略者付出惨重代价",
-          "url": "https://www.toutiao.com/trending/7610045179701624886/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时25分 ~ 16时43分]"
-        },
-        {
-          "title": "伊朗外交部发言人：本轮伊美谈判非常深入",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32661028",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时25分 ~ 16时43分]"
         },
         {
           "title": "美媒说美国将在谈判中向伊朗提出强硬要求",
@@ -220,8 +220,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时32分 ~ 16时43分]"
+          "appearance_count": 3,
+          "time_info": "[16时32分 ~ 16时48分]"
         },
         {
           "title": "市场消息：伊朗敦促美国放弃“过分的要求”以达成协议。",
@@ -587,8 +587,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时37分 ~ 16时43分]"
+          "appearance_count": 15,
+          "time_info": "[07时37分 ~ 16时48分]"
         },
         {
           "title": "史无前例！联合国宣布特朗普夫人将主持安理会会议",
@@ -599,8 +599,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时25分 ~ 16时43分]"
+          "appearance_count": 9,
+          "time_info": "[15时25分 ~ 16时48分]"
         },
         {
           "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
@@ -628,6 +628,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时00分 ~ 07时38分]"
+        },
+        {
+          "title": "美军中东最高指挥官向特朗普汇报",
+          "url": "https://www.toutiao.com/trending/7611361368545280036/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时31分 ~ 16时48分]"
         },
         {
           "title": "美国参议院民主党成员Warren发函货币监理署（OCC）、联邦存款保险公司（FDID）、以及EREBOR Bank。 Warren向亚马逊询问，总统特朗普的关税是否造成（该公司）涨价。",
@@ -678,18 +690,6 @@
           "time_info": "[00时00分 ~ 01时12分]"
         },
         {
-          "title": "美军中东最高指挥官向特朗普汇报",
-          "url": "https://www.toutiao.com/trending/7611361368545280036/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时31分 ~ 16时43分]"
-        },
-        {
           "title": "白宫：特朗普愿在无前提条件下与金正恩对话",
           "url": "https://news.ifeng.com/c/8r4zqmCwYJf",
           "source": "凤凰网",
@@ -700,6 +700,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时51分 ~ 15时25分]"
+        },
+        {
+          "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
+          "url": "https://news.ifeng.com/c/8r5SIs2UIPN",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时42分 ~ 16时48分]"
         },
         {
           "title": "消息人士称，美国目前并无情报支持特朗普有关“伊朗将很快拥有能打到美国的导弹”的这一说法。（路透）",
@@ -724,17 +735,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时02分 ~ 04时47分]"
-        },
-        {
-          "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
-          "url": "https://news.ifeng.com/c/8r5SIs2UIPN",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时42分 ~ 16时43分]"
         },
         {
           "title": "申请英国国籍的美国人数量在特朗普第二任期头一年创历史新高",
@@ -1455,8 +1455,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时58分 ~ 16时43分]"
+          "appearance_count": 10,
+          "time_info": "[13时58分 ~ 16时48分]"
         },
         {
           "title": "OpenAI：将与加拿大执法机构建立直接联系渠道，承诺与加拿大政府和专家合作，继续强化我们的强化执法转介标准。",
@@ -1546,8 +1546,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时00分 ~ 16时43分]"
+          "appearance_count": 21,
+          "time_info": "[00时00分 ~ 16时48分]"
         }
       ]
     }
