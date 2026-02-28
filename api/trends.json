@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-02-28T16:58:02.952871+08:00",
-  "total_titles_processed": 1217,
+  "generated_at": "2026-02-28T17:50:47.450537+08:00",
+  "total_titles_processed": 1331,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
       "match_count": 15,
       "titles": [
+        {
+          "title": "估值7300亿美元！OpenAI完成1100亿美元融资，亚马逊投了500亿",
+          "url": "https://wallstreetcn.com/articles/3766389",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[05时56分 ~ 17时50分]"
+        },
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
           "url": "https://www.cls.cn/detail/2297763",
@@ -21,20 +35,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时01分 ~ 15时18分]"
-        },
-        {
-          "title": "估值7300亿美元！OpenAI完成1100亿美元融资，亚马逊投了500亿",
-          "url": "https://wallstreetcn.com/articles/3766389",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[05时56分 ~ 16时58分]"
         },
         {
           "title": "OpenAI获1100亿美元投资",
@@ -92,8 +92,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时18分 ~ 16时58分]"
+          "appearance_count": 4,
+          "time_info": "[15时18分 ~ 17时50分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：我们与美国国防部达成协议，将我们的模型部署到他们的机密网络中。",
@@ -368,6 +368,17 @@
           "time_info": "[01时01分 ~ 07时50分]"
         },
         {
+          "title": "亲妈试探儿子买手机被拒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351120&amp;topic_name=%E4%BA%B2%E5%A6%88%E8%AF%95%E6%8E%A2%E5%84%BF%E5%AD%90%E4%B9%B0%E6%89%8B%E6%9C%BA%E8%A2%AB%E6%8B%92",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时57分 ~ 17时50分]"
+        },
+        {
           "title": "女子捡手机藏4个月 失主定位找上门",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8D%A1%E6%89%8B%E6%9C%BA%E8%97%8F4%E4%B8%AA%E6%9C%88+%E5%A4%B1%E4%B8%BB%E5%AE%9A%E4%BD%8D%E6%89%BE%E4%B8%8A%E9%97%A8",
           "source": "百度热搜",
@@ -385,17 +396,6 @@
           "time_info": "[01时01分 ~ 07时50分]"
         },
         {
-          "title": "亲妈试探儿子买手机被拒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351120&amp;topic_name=%E4%BA%B2%E5%A6%88%E8%AF%95%E6%8E%A2%E5%84%BF%E5%AD%90%E4%B9%B0%E6%89%8B%E6%9C%BA%E8%A2%AB%E6%8B%92",
-          "source": "贴吧",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时57分 ~ 16时58分]"
-        },
-        {
           "title": "PC、手机预期出货量跌至十年低点 业内坦言：“存储是今年最大的坎”",
           "url": "https://www.cls.cn/detail/2298079",
           "source": "财联社热门",
@@ -405,8 +405,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时01分 ~ 16时58分]"
+          "appearance_count": 5,
+          "time_info": "[14时01分 ~ 17时50分]"
         },
         {
           "title": "手机集体涨价后 汽车会是下一个吗",
@@ -629,7 +629,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金价",
@@ -640,8 +640,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时18分 ~ 16时58分]"
+          "appearance_count": 4,
+          "time_info": "[15时18分 ~ 17时50分]"
         },
         {
           "title": "以色列伊朗 金价",
@@ -653,6 +653,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时57分 ~ 16时58分]"
+        },
+        {
+          "title": "专家：金价极端情况下或到7000美元",
+          "url": "https://www.toutiao.com/trending/7611434469627330601/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
         }
       ]
     },
