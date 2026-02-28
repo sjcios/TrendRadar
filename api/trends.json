@@ -1,454 +1,111 @@
 {
-  "generated_at": "2026-02-28T23:42:33.084971+08:00",
-  "total_titles_processed": 1913,
+  "generated_at": "2026-03-01T00:53:34.451291+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 17,
+      "keyword_group": "苹果 Apple Mac iPhone 手机",
+      "match_count": 4,
       "titles": [
         {
-          "title": "估值7300亿美元！OpenAI完成1100亿美元融资，亚马逊投了500亿",
-          "url": "https://wallstreetcn.com/articles/3766389",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[05时56分 ~ 21时50分]"
-        },
-        {
-          "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
-          "url": "https://www.cls.cn/detail/2297763",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 15时18分]"
-        },
-        {
-          "title": "解读OpenAI获千亿美元投资背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            18,
-            17,
-            9,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时18分 ~ 23时42分]"
-        },
-        {
-          "title": "OpenAI获1100亿美元投资",
-          "url": "https://www.baidu.com/s?wd=OpenAI%E8%8E%B71100%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84",
+          "title": "手机集体涨价 谁最受伤",
+          "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E9%9B%86%E4%BD%93%E6%B6%A8%E4%BB%B7+%E8%B0%81%E6%9C%80%E5%8F%97%E4%BC%A4",
           "source": "百度热搜",
-          "ranks": [
-            25,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 06时56分]"
-        },
-        {
-          "title": "AWS与OpenAI联合开发“有状态运行时环境”，预计数月内推出",
-          "url": "https://flash.jin10.com/detail/20260228132543765800",
-          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时01分"
+          "time_info": "00时53分"
         },
-        {
-          "title": "和Anthropic闹翻“仅数小时” 美国国防部便和OpenAI签署合作协议",
-          "url": "https://flash.jin10.com/detail/20260228120317791800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时37分 ~ 14时01分]"
-        },
-        {
-          "title": "OpenAI将追加融资100亿美元。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3060477",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时22分 ~ 04时59分]"
-        },
-        {
-          "title": "Claude 遭特朗普封杀，亚马逊、英伟达等联手助 OpenAI 完成 1100 亿美元融资，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2011023228328510169",
-          "source": "知乎",
-          "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时49分 ~ 22时49分]"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：我们与美国国防部达成协议，将我们的模型部署到他们的机密网络中。",
-          "url": "https://wallstreetcn.com/livenews/3060587",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时37分 ~ 14时01分]"
-        },
-        {
-          "title": "AI界的“冰火两重天”：Anthropic刚被封杀 OpenAI就拿下了五角大楼",
-          "url": "https://www.cls.cn/detail/2298126",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时50分 ~ 19时36分]"
-        },
-        {
-          "title": "消息人士称，英伟达正准备推出一款专用芯片，以撼动人工智能计算领域的竞争格局。OpenAI即将成为英伟达新款处理器的最大客户之一。",
-          "url": "https://flash.jin10.com/detail/20260228110554688800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时37分"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：我们将部署前线工程师来协助我们的模型，为了确保模型的安全，我们将只在云网络上进行部署。",
-          "url": "https://flash.jin10.com/detail/20260228110043453800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时37分"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：我们强烈希望事态能够缓和，避免诉诸法律和政府行动，并达成合理的协议。",
-          "url": "https://flash.jin10.com/detail/20260228105851301800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时37分"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：我们要求美国国防部向所有人工智能公司提供这些相同条款，我们认为每个人都应该愿意接受。",
-          "url": "https://flash.jin10.com/detail/20260228105836118800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时37分"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：我们也会构建技术安全措施，以确保我们的模型按预期运行，美国国防部也希望如此。",
-          "url": "https://flash.jin10.com/detail/20260228105824885800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时37分"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：我们与美国国防部达成协议，将我们的模型部署到他们的机密网络中。",
-          "url": "https://flash.jin10.com/detail/20260228105722729800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时37分"
-        },
-        {
-          "title": "OpenAI高管Nick Turley：ChatGPT日活用户已突破9亿，付费订阅用户达5000万。",
-          "url": "https://flash.jin10.com/detail/20260228002339246800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 15,
-      "titles": [
         {
           "title": "PC、手机预期出货量跌至十年低点 业内坦言：“存储是今年最大的坎”",
           "url": "https://www.cls.cn/detail/2298079",
           "source": "财联社热门",
           "ranks": [
-            13,
-            6,
-            5,
-            4
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时01分 ~ 23时42分]"
-        },
-        {
-          "title": "中国手机行业将迎来全面涨价，将是 5 年最显著涨幅，存储芯片成本较去年同期上涨超 80%，将产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2010325784494114258",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 07时50分]"
+          "appearance_count": 1,
+          "time_info": "00时53分"
         },
         {
           "title": "亲妈试探儿子买手机被拒",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351120&amp;topic_name=%E4%BA%B2%E5%A6%88%E8%AF%95%E6%8E%A2%E5%84%BF%E5%AD%90%E4%B9%B0%E6%89%8B%E6%9C%BA%E8%A2%AB%E6%8B%92",
           "source": "贴吧",
           "ranks": [
-            5,
-            7,
-            10,
-            11
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时57分 ~ 23时42分]"
-        },
-        {
-          "title": "女子捡手机藏4个月 失主定位找上门",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8D%A1%E6%89%8B%E6%9C%BA%E8%97%8F4%E4%B8%AA%E6%9C%88+%E5%A4%B1%E4%B8%BB%E5%AE%9A%E4%BD%8D%E6%89%BE%E4%B8%8A%E9%97%A8",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            16,
-            25,
-            24,
-            19,
-            22,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 07时50分]"
+          "appearance_count": 1,
+          "time_info": "00时53分"
         },
         {
           "title": "你的下一部手机可能要贵1000块",
           "url": "https://www.toutiao.com/trending/7611810960860253759/",
           "source": "今日头条",
           "ranks": [
-            17,
-            22,
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时50分 ~ 23时42分]"
-        },
-        {
-          "title": "手机集体涨价 谁最受伤",
-          "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E9%9B%86%E4%BD%93%E6%B6%A8%E4%BB%B7+%E8%B0%81%E6%9C%80%E5%8F%97%E4%BC%A4",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时49分 ~ 23时42分]"
-        },
-        {
-          "title": "手机集体涨价后 汽车会是下一个吗",
-          "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E9%9B%86%E4%BD%93%E6%B6%A8%E4%BB%B7%E5%90%8E+%E6%B1%BD%E8%BD%A6%E4%BC%9A%E6%98%AF%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%90%97",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            12,
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时37分 ~ 15时18分]"
+          "appearance_count": 1,
+          "time_info": "00时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "“中东火药桶”炸了！美以对伊朗发起袭击，金价油价或继续飙涨",
+          "url": "https://finance.ifeng.com/c/8r7FgvfAN7q",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时53分"
         },
         {
-          "title": "德黑兰部分地区手机通信中断",
-          "url": "https://www.toutiao.com/trending/7611804419419865124/",
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时53分"
+        },
+        {
+          "title": "专家：金价极端情况下或到7000美元",
+          "url": "https://www.toutiao.com/trending/7611434469627330601/",
           "source": "今日头条",
           "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时57分 ~ 16时58分]"
-        },
-        {
-          "title": "德黑兰部分地区手机通信中断 德黑兰证券交易所停止交易",
-          "url": "https://wallstreetcn.com/livenews/3060646",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
-          "title": "伯克希尔哈撒韦：截至2025年12月31日，持有的股票投资总公允价值中，约65%集中在五家公司。 五大持股公司分别为美国运通、苹果、美国银行、可口可乐和雪佛龙。",
-          "url": "https://wallstreetcn.com/livenews/3060884",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时49分"
-        },
-        {
-          "title": "买 A18 Pro 的入门级 MacBook 和买 M4 MacBook Air，哪个更值得？",
-          "url": "https://www.zhihu.com/question/2009928728206149091",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时37分"
-        },
-        {
-          "title": "伊朗媒体报道称，德黑兰东部和西部部分地区手机通信线路已被切断，部分区域的互联网连接出现减弱。",
-          "url": "https://flash.jin10.com/detail/20260228145444350800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
-          "title": "如何看待消息称 2026 年中国手机行业将正式迎来全面涨价潮，3 月起新品最低涨 1000，老款也将调价？",
-          "url": "https://www.zhihu.com/question/2010317954231788192",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
-        },
-        {
-          "title": "特朗普在Truth Social上发布的FTC信件显示，FTC主席称，近期有报道指出，苹果(AAPL.O)Apple News系统性地推广来自左倾新闻媒体的报道，同时压制来自更为保守出版物的新闻文章。",
-          "url": "https://flash.jin10.com/detail/20260228002113568800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
-        },
-        {
-          "title": "特朗普在Truth Social上发布了一封关于政治行动的FTC信件，其中提到苹果(AAPL.O)。",
-          "url": "https://flash.jin10.com/detail/20260228001824218800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
+          "time_info": "00时53分"
         }
       ]
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 14,
+      "match_count": 3,
       "titles": [
         {
-          "title": "新能源汽车开征“里程税”？多地回应",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E5%BC%80%E5%BE%81%E2%80%9C%E9%87%8C%E7%A8%8B%E7%A8%8E%E2%80%9D%EF%BC%9F%E5%A4%9A%E5%9C%B0%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
+          "title": "人形机器人进入宝马工厂，合作方为瑞典公司Hexagon",
+          "url": "https://wallstreetcn.com/livenews/3060936",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18,
-            10,
-            12,
-            16,
-            2
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 07时50分]"
-        },
-        {
-          "title": "车价大跳水：宝马降30万 雅阁降10万",
-          "url": "https://www.baidu.com/s?wd=%E8%BD%A6%E4%BB%B7%E5%A4%A7%E8%B7%B3%E6%B0%B4%EF%BC%9A%E5%AE%9D%E9%A9%AC%E9%99%8D30%E4%B8%87+%E9%9B%85%E9%98%81%E9%99%8D10%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            10,
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 07时50分]"
-        },
-        {
-          "title": "多地辟谣新能源汽车开征里程税",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E8%BE%9F%E8%B0%A3%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E5%BC%80%E5%BE%81%E9%87%8C%E7%A8%8B%E7%A8%8E",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时36分 ~ 23时42分]"
+          "appearance_count": 1,
+          "time_info": "00时53分"
         },
         {
           "title": "多地辟谣新能源汽车开征“里程税”",
@@ -458,403 +115,36 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时49分 ~ 23时42分]"
+          "appearance_count": 1,
+          "time_info": "00时53分"
         },
         {
-          "title": "机器人将进入宝马德国工厂打工",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B0%86%E8%BF%9B%E5%85%A5%E5%AE%9D%E9%A9%AC%E5%BE%B7%E5%9B%BD%E5%B7%A5%E5%8E%82%E6%89%93%E5%B7%A5",
+          "title": "多地辟谣新能源汽车开征里程税",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E8%BE%9F%E8%B0%A3%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E5%BC%80%E5%BE%81%E9%87%8C%E7%A8%8B%E7%A8%8E",
           "source": "百度热搜",
           "ranks": [
-            13,
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时37分 ~ 15时18分]"
-        },
-        {
-          "title": "机器人将进入宝马德国工厂打工",
-          "url": "https://www.toutiao.com/trending/7611525084908535854/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时37分 ~ 14时01分]"
-        },
-        {
-          "title": "深圳：支持汽车置换更新，购买新能源乘用车补贴车价的8%",
-          "url": "https://wallstreetcn.com/livenews/3060583",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时37分 ~ 14时01分]"
-        },
-        {
-          "title": "德国联邦机动车运输管理局（KBA）：宝马召回行动可能涉及全球337,374辆汽车，其中德国境内29,441辆。",
-          "url": "https://flash.jin10.com/detail/20260228004137520800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
-        },
-        {
-          "title": "德国联邦机动车运输管理局（KBA）：宝马召回涉及2022年至2025年生产的i7、i5、5系、7系及M5车型。",
-          "url": "https://flash.jin10.com/detail/20260228004100000800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
-        },
-        {
-          "title": "宝马宣布在德国工厂引入人形机器人 试点接管装配线最累工序",
-          "url": "https://www.cls.cn/detail/2297869",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时37分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收跌1.7%，2月份累计下跌约5.8%。 热门中概股里，蔚来初步收跌4%，阿里跌2.6%，新东方、理想、京东、文远知行、拼多多、小鹏、小米等跌超1%，大全新能源涨0.6%，金山云涨7%。",
-          "url": "https://wallstreetcn.com/livenews/3060505",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时56分"
-        },
-        {
-          "title": "新能源汽车靠什么破冰越冬",
-          "url": "https://www.toutiao.com/trending/7611759583937183750/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时04分"
-        },
-        {
-          "title": "新一代奥迪A6L实车到店",
-          "url": "https://www.toutiao.com/trending/7611860010972286515/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时42分"
-        },
-        {
-          "title": "据印度NDTV电视台：印度国防研究与发展组织（DRDO）在奥迪沙邦昌迪普尔近海的综合试验场（ITR）成功进行了三次连续的超近程防空系统（VSHORADS）飞行试验。",
-          "url": "https://flash.jin10.com/detail/20260228022137011800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "央行 抖音 小红书",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "葛军来和抖音网友们算账了",
-          "url": "https://www.douyin.com/hot/2413287",
-          "source": "抖音",
-          "ranks": [
-            8,
-            6,
-            5,
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 12时37分]"
-        },
-        {
-          "title": "时隔近3年半再次出手，央行下调外汇风险准备金率至零，释放了什么信号",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32664337",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时01分 ~ 14时01分]"
-        },
-        {
-          "title": "央行再次使用这一工具 用意何在",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%E5%86%8D%E6%AC%A1%E4%BD%BF%E7%94%A8%E8%BF%99%E4%B8%80%E5%B7%A5%E5%85%B7+%E7%94%A8%E6%84%8F%E4%BD%95%E5%9C%A8",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时50分"
-        },
-        {
-          "title": "媒体点赞县委书记开抖音号",
-          "url": "https://www.douyin.com/hot/2412122",
-          "source": "抖音",
-          "ranks": [
-            22,
-            13,
-            18,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 07时50分]"
-        },
-        {
-          "title": "人民币汇率三日急涨600点 央行出手",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B1%87%E7%8E%87%E4%B8%89%E6%97%A5%E6%80%A5%E6%B6%A8600%E7%82%B9+%E5%A4%AE%E8%A1%8C%E5%87%BA%E6%89%8B",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            2,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时37分 ~ 15时18分]"
-        },
-        {
-          "title": "中国人民银行副行长宣昌能出席二十国集团财政和央行副手会",
-          "url": "https://wallstreetcn.com/livenews/3060592",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时37分 ~ 14时01分]"
-        },
-        {
-          "title": "2月人民币对美元即期汇率升值1.3%：央行出手，后续如何走",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32666912",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时37分 ~ 15时18分]"
-        },
-        {
-          "title": "抖音电商清退27万违规达人",
-          "url": "https://www.douyin.com/hot/2413112",
-          "source": "抖音",
-          "ranks": [
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时56分 ~ 06时56分]"
-        },
-        {
-          "title": "中国央行公开市场今日净投放1160亿元",
-          "url": "https://wallstreetcn.com/livenews/3060574",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时37分 ~ 14时01分]"
-        },
-        {
-          "title": "湖南蓝山县委书记抖音账号网友留言激增，当地发布公告",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32667667",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时37分 ~ 15时18分]"
-        },
-        {
-          "title": "央行出大招 人民币汇率有何影响",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%E5%87%BA%E5%A4%A7%E6%8B%9B+%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B1%87%E7%8E%87%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时37分 ~ 14时01分]"
-        },
-        {
-          "title": "人民币涨得太快央行踩刹车",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B6%A8%E5%BE%97%E5%A4%AA%E5%BF%AB%E5%A4%AE%E8%A1%8C%E8%B8%A9%E5%88%B9%E8%BD%A6%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时57分 ~ 16时58分]"
-        },
-        {
-          "title": "欧洲央行监督委员会主席布赫：更紧密的一体化和稳健的监管相辅相成，有助于打造一个具有竞争力、支持实体经济的银行业体系。深化单一市场仍然是释放欧洲增长潜力的关键。",
-          "url": "https://flash.jin10.com/detail/20260228004218244800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
+          "time_info": "00时53分"
         }
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            11,
-            12,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时18分 ~ 23时42分]"
-        },
-        {
-          "title": "伊朗局势如何影响金价 专家称未来48小时决定金价走势",
-          "url": "https://wallstreetcn.com/livenews/3060816",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时36分"
-        },
-        {
-          "title": "专家：金价极端情况下或到7000美元",
-          "url": "https://www.toutiao.com/trending/7611434469627330601/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            10,
-            16,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时50分 ~ 23时42分]"
-        },
-        {
-          "title": "“中东火药桶”炸了！美以对伊朗发起袭击，金价油价或继续飙涨",
-          "url": "https://finance.ifeng.com/c/8r7FgvfAN7q",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时36分 ~ 23时42分]"
-        },
-        {
-          "title": "以色列伊朗 金价",
-          "url": "https://s.weibo.com/weibo?q=%E4%BB%A5%E8%89%B2%E5%88%97%E4%BC%8A%E6%9C%97%20%E9%87%91%E4%BB%B7&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时57分 ~ 16时58分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "如何评价 DeepSeek 发布新论文，提出一个名为「DualPath」的创新推理系统？有哪些亮点？",
-          "url": "https://www.zhihu.com/question/2010670686461452529",
-          "source": "知乎",
-          "ranks": [
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时49分 ~ 22时49分]"
-        },
-        {
-          "title": "deepseek崩了",
-          "url": "https://s.weibo.com/weibo?q=deepseek%E5%B4%A9%E4%BA%86&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "三星之后是苹果！谷歌Gemini智能体API优先 AI手机入口之争将破局？",
-          "url": "https://www.cls.cn/detail/2297724",
-          "source": "财联社热门",
+          "title": "解读OpenAI获千亿美元投资背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
           "ranks": [
-            13,
-            12,
-            11
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时22分 ~ 14时01分]"
+          "appearance_count": 1,
+          "time_info": "00时53分"
         }
       ]
     }
