@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T01:44:00.663171+08:00",
-  "total_titles_processed": 375,
+  "generated_at": "2026-03-01T03:01:34.995478+08:00",
+  "total_titles_processed": 436,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 01时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时53分 ~ 03时01分]"
         },
         {
           "title": "PC、手机预期出货量跌至十年低点 业内坦言：“存储是今年最大的坎”",
           "url": "https://www.cls.cn/detail/2298079",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 01时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时53分 ~ 03时01分]"
         },
         {
           "title": "亲妈试探儿子买手机被拒",
@@ -37,8 +38,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 01时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时53分 ~ 03时01分]"
         },
         {
           "title": "你的下一部手机可能要贵1000块",
@@ -48,8 +49,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 01时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时53分 ~ 03时01分]"
         }
       ]
     },
@@ -63,11 +64,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            13
+            13,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 01时44分]"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 03时01分]"
         },
         {
           "title": "多地辟谣新能源汽车开征“里程税”",
@@ -77,8 +79,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 01时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时53分 ~ 03时01分]"
         },
         {
           "title": "多地辟谣新能源汽车开征里程税",
@@ -88,8 +90,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 01时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时53分 ~ 03时01分]"
         },
         {
           "title": "新一代奥迪A6L实车到店",
@@ -116,8 +118,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 01时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时53分 ~ 03时01分]"
         },
         {
           "title": "金价",
@@ -125,11 +127,12 @@
           "source": "微博",
           "ranks": [
             17,
-            24
+            24,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 01时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时53分 ~ 03时01分]"
         },
         {
           "title": "专家：金价极端情况下或到7000美元",
@@ -137,11 +140,12 @@
           "source": "今日头条",
           "ranks": [
             23,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 01时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时53分 ~ 03时01分]"
         }
       ]
     },
@@ -155,11 +159,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             17,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 01时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时53分 ~ 03时01分]"
         }
       ]
     }
