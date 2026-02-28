@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T00:53:34.451291+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-01T01:44:00.663171+08:00",
+  "total_titles_processed": 375,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 01时44分]"
         },
         {
           "title": "PC、手机预期出货量跌至十年低点 业内坦言：“存储是今年最大的坎”",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 01时44分]"
         },
         {
           "title": "亲妈试探儿子买手机被拒",
@@ -37,8 +37,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 01时44分]"
         },
         {
           "title": "你的下一部手机可能要贵1000块",
@@ -48,8 +48,59 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 01时44分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "人形机器人进入宝马工厂，合作方为瑞典公司Hexagon",
+          "url": "https://wallstreetcn.com/livenews/3060936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 01时44分]"
+        },
+        {
+          "title": "多地辟谣新能源汽车开征“里程税”",
+          "url": "https://www.toutiao.com/trending/7611466049162919955/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 01时44分]"
+        },
+        {
+          "title": "多地辟谣新能源汽车开征里程税",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E8%BE%9F%E8%B0%A3%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E5%BC%80%E5%BE%81%E9%87%8C%E7%A8%8B%E7%A8%8E",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 01时44分]"
+        },
+        {
+          "title": "新一代奥迪A6L实车到店",
+          "url": "https://www.toutiao.com/trending/7611860010972286515/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 01时44分]"
         }
       ]
     },
@@ -65,69 +116,32 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 01时44分]"
         },
         {
           "title": "金价",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=17&Refer=top",
           "source": "微博",
           "ranks": [
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 01时44分]"
         },
         {
           "title": "专家：金价极端情况下或到7000美元",
           "url": "https://www.toutiao.com/trending/7611434469627330601/",
           "source": "今日头条",
           "ranks": [
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "人形机器人进入宝马工厂，合作方为瑞典公司Hexagon",
-          "url": "https://wallstreetcn.com/livenews/3060936",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
-        },
-        {
-          "title": "多地辟谣新能源汽车开征“里程税”",
-          "url": "https://www.toutiao.com/trending/7611466049162919955/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
-        },
-        {
-          "title": "多地辟谣新能源汽车开征里程税",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E8%BE%9F%E8%B0%A3%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E5%BC%80%E5%BE%81%E9%87%8C%E7%A8%8B%E7%A8%8E",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 01时44分]"
         }
       ]
     },
@@ -140,11 +154,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
           "source": "bilibili 热搜",
           "ranks": [
-            17
+            17,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 01时44分]"
         }
       ]
     }
