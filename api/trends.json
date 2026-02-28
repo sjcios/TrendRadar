@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T15:18:33.309686+08:00",
-  "total_titles_processed": 1043,
+  "generated_at": "2026-02-28T16:58:02.952871+08:00",
+  "total_titles_processed": 1217,
   "failed_sources": [],
   "trends": [
     {
@@ -33,8 +33,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时56分 ~ 15时18分]"
+          "appearance_count": 9,
+          "time_info": "[05时56分 ~ 16时58分]"
         },
         {
           "title": "OpenAI获1100亿美元投资",
@@ -82,6 +82,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时22分 ~ 04时59分]"
+        },
+        {
+          "title": "解读OpenAI获千亿美元投资背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时18分 ~ 16时58分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：我们与美国国防部达成协议，将我们的模型部署到他们的机密网络中。",
@@ -162,17 +174,6 @@
           "time_info": "12时37分"
         },
         {
-          "title": "解读OpenAI获千亿美元投资背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
           "title": "OpenAI高管Nick Turley：ChatGPT日活用户已突破9亿，付费订阅用户达5000万。",
           "url": "https://flash.jin10.com/detail/20260228002339246800",
           "source": "金十数据",
@@ -187,7 +188,7 @@
     },
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "葛军来和抖音网友们算账了",
@@ -326,6 +327,17 @@
           "time_info": "[12时37分 ~ 14时01分]"
         },
         {
+          "title": "人民币涨得太快央行踩刹车",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B6%A8%E5%BE%97%E5%A4%AA%E5%BF%AB%E5%A4%AE%E8%A1%8C%E8%B8%A9%E5%88%B9%E8%BD%A6%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 16时58分]"
+        },
+        {
           "title": "欧洲央行监督委员会主席布赫：更紧密的一体化和稳健的监管相辅相成，有助于打造一个具有竞争力、支持实体经济的银行业体系。深化单一市场仍然是释放欧洲增长潜力的关键。",
           "url": "https://flash.jin10.com/detail/20260228004218244800",
           "source": "金十数据",
@@ -340,7 +352,7 @@
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "中国手机行业将迎来全面涨价，将是 5 年最显著涨幅，存储芯片成本较去年同期上涨超 80%，将产生哪些影响？",
@@ -373,6 +385,30 @@
           "time_info": "[01时01分 ~ 07时50分]"
         },
         {
+          "title": "亲妈试探儿子买手机被拒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351120&amp;topic_name=%E4%BA%B2%E5%A6%88%E8%AF%95%E6%8E%A2%E5%84%BF%E5%AD%90%E4%B9%B0%E6%89%8B%E6%9C%BA%E8%A2%AB%E6%8B%92",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 16时58分]"
+        },
+        {
+          "title": "PC、手机预期出货量跌至十年低点 业内坦言：“存储是今年最大的坎”",
+          "url": "https://www.cls.cn/detail/2298079",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时01分 ~ 16时58分]"
+        },
+        {
           "title": "手机集体涨价后 汽车会是下一个吗",
           "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E9%9B%86%E4%BD%93%E6%B6%A8%E4%BB%B7%E5%90%8E+%E6%B1%BD%E8%BD%A6%E4%BC%9A%E6%98%AF%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%90%97",
           "source": "百度热搜",
@@ -386,16 +422,15 @@
           "time_info": "[12时37分 ~ 15时18分]"
         },
         {
-          "title": "PC、手机预期出货量跌至十年低点 业内坦言：“存储是今年最大的坎”",
-          "url": "https://www.cls.cn/detail/2298079",
-          "source": "财联社热门",
+          "title": "德黑兰部分地区手机通信中断",
+          "url": "https://www.toutiao.com/trending/7611804419419865124/",
+          "source": "今日头条",
           "ranks": [
-            13,
-            6
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时01分 ~ 15时18分]"
+          "time_info": "[16时57分 ~ 16时58分]"
         },
         {
           "title": "德黑兰部分地区手机通信中断 德黑兰证券交易所停止交易",
@@ -404,7 +439,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -426,7 +461,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -593,6 +628,35 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时18分 ~ 16时58分]"
+        },
+        {
+          "title": "以色列伊朗 金价",
+          "url": "https://s.weibo.com/weibo?q=%E4%BB%A5%E8%89%B2%E5%88%97%E4%BC%8A%E6%9C%97%20%E9%87%91%E4%BB%B7&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 16时58分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -603,7 +667,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         }
@@ -625,23 +689,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[03时22分 ~ 14时01分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时18分"
         }
       ]
     }
