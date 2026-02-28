@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T06:50:52.254431+08:00",
-  "total_titles_processed": 623,
+  "generated_at": "2026-03-01T07:42:41.714568+08:00",
+  "total_titles_processed": 663,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 06时50分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 07时42分]"
+        },
+        {
+          "title": "Claude 遭特朗普封杀，亚马逊、英伟达等联手助 OpenAI 完成 1100 亿美元融资，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2011023228328510169",
+          "source": "知乎",
+          "ranks": [
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时50分 ~ 07时42分]"
         },
         {
           "title": "OpenAI就与美国国防部的协议表示，与任何合同一样，若政府违反条款，我们有权终止协议，但我们并不预期会出现这种情况。",
@@ -44,17 +56,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
-        },
-        {
-          "title": "Claude 遭特朗普封杀，亚马逊、英伟达等联手助 OpenAI 完成 1100 亿美元融资，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2011023228328510169",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时50分"
         },
         {
           "title": "OpenAI 就与美国国防部的协议表态：在法律、法规或部门政策要求人类控制的情况下，人工智能系统不会被用于独立指挥自主武器。",
@@ -137,18 +138,19 @@
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "手机集体涨价 谁最受伤",
           "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E9%9B%86%E4%BD%93%E6%B6%A8%E4%BB%B7+%E8%B0%81%E6%9C%80%E5%8F%97%E4%BC%A4",
           "source": "百度热搜",
           "ranks": [
-            5
+            5,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 06时50分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 07时42分]"
         },
         {
           "title": "PC、手机预期出货量跌至十年低点 业内坦言：“存储是今年最大的坎”",
@@ -157,11 +159,12 @@
           "ranks": [
             5,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 06时50分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 07时42分]"
         },
         {
           "title": "你的下一部手机可能要贵1000块",
@@ -170,11 +173,12 @@
           "ranks": [
             20,
             17,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 06时50分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 07时42分]"
         },
         {
           "title": "亲妈试探儿子买手机被拒",
@@ -184,8 +188,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 06时50分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 07时42分]"
         },
         {
           "title": "以色列国防军：不久前，以色列国防军发现从伊朗发射的导弹朝以色列领土飞来。防御系统正在运作以拦截威胁。在过去几分钟内，国内前线指挥部已向相关地区的手机发送了预防性指令。",
@@ -197,6 +201,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
+        },
+        {
+          "title": "伊朗女子学校惨遭轰炸，民众手机被黑弹出“援军已至！”",
+          "url": "https://news.ifeng.com/c/8r881Z9Ep2t",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时42分"
+        },
+        {
+          "title": "娃被卡到半空 爸爸先掏手机拍照",
+          "url": "https://www.baidu.com/s?wd=%E5%A8%83%E8%A2%AB%E5%8D%A1%E5%88%B0%E5%8D%8A%E7%A9%BA+%E7%88%B8%E7%88%B8%E5%85%88%E6%8E%8F%E6%89%8B%E6%9C%BA%E6%8B%8D%E7%85%A7",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时42分"
         }
       ]
     },
@@ -212,8 +238,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 06时50分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 07时42分]"
         },
         {
           "title": "多地辟谣新能源汽车开征里程税",
@@ -223,8 +249,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 06时50分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 07时42分]"
         },
         {
           "title": "人形机器人进入宝马工厂，合作方为瑞典公司Hexagon",
@@ -244,11 +270,12 @@
           "url": "https://www.toutiao.com/trending/7611860010972286515/",
           "source": "今日头条",
           "ranks": [
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时43分 ~ 01时44分]"
+          "appearance_count": 3,
+          "time_info": "[01时43分 ~ 07时42分]"
         }
       ]
     },
@@ -256,17 +283,6 @@
       "keyword_group": "金价",
       "match_count": 3,
       "titles": [
-        {
-          "title": "“中东火药桶”炸了！美以对伊朗发起袭击，金价油价或继续飙涨",
-          "url": "https://finance.ifeng.com/c/8r7FgvfAN7q",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 06时50分]"
-        },
         {
           "title": "金价",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=17&Refer=top",
@@ -276,6 +292,17 @@
             24,
             12,
             14
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 07时42分]"
+        },
+        {
+          "title": "“中东火药桶”炸了！美以对伊朗发起袭击，金价油价或继续飙涨",
+          "url": "https://finance.ifeng.com/c/8r7FgvfAN7q",
+          "source": "凤凰网",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 11,
@@ -295,8 +322,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 06时50分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 07时42分]"
         }
       ]
     }
