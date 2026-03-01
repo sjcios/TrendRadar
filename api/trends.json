@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T01:49:58.567449+08:00",
-  "total_titles_processed": 352,
+  "generated_at": "2026-03-02T03:02:08.184223+08:00",
+  "total_titles_processed": 407,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时49分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时02分]"
         },
         {
           "title": "伊朗女子学校惨遭轰炸，民众手机被黑弹出“援军已至！”",
@@ -26,8 +26,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时49分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时02分]"
         },
         {
           "title": "亲妈试探儿子买手机被拒",
@@ -38,8 +38,36 @@
             29
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "央行 抖音 小红书",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何看待「反诈老陈」因刻意煽动网友情绪、营造对立，160 万粉丝账号被抖音封禁？",
+          "url": "https://www.zhihu.com/question/2010871893935285065",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时49分]"
+          "time_info": "[03时01分 ~ 03时02分]"
+        },
+        {
+          "title": "欧洲央行管委内格尔：对美元避险地位的质疑有所增加",
+          "url": "https://flash.jin10.com/detail/20260302021857884800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
         }
       ]
     },
@@ -55,8 +83,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时49分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时02分]"
         }
       ]
     },
@@ -73,8 +101,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时49分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时02分]"
         }
       ]
     },
@@ -87,11 +115,12 @@
           "url": "https://www.zhihu.com/question/2011543329251279945",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时49分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时49分 ~ 03时02分]"
         }
       ]
     }
