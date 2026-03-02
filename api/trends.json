@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T06:58:48.723114+08:00",
-  "total_titles_processed": 532,
+  "generated_at": "2026-03-03T07:55:52.320576+08:00",
+  "total_titles_processed": 602,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "中国有了量子手机",
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时33分 ~ 06时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时33分 ~ 07时55分]"
         },
         {
           "title": "苹果3月新品第一弹",
@@ -28,8 +28,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时33分 ~ 06时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时33分 ~ 07时55分]"
         },
         {
           "title": "苹果2026春季发布会前瞻",
@@ -42,8 +42,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时33分 ~ 06时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时33分 ~ 07时55分]"
         },
         {
           "title": "iPhone17e浅粉色",
@@ -52,11 +52,12 @@
           "ranks": [
             11,
             16,
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时33分 ~ 06时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时33分 ~ 07时55分]"
         },
         {
           "title": "荣耀机器人手机上手体验",
@@ -65,11 +66,12 @@
           "ranks": [
             29,
             21,
-            25
+            25,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时33分 ~ 06时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时33分 ~ 07时55分]"
         },
         {
           "title": "尾号77777手机号10.3万元成交",
@@ -81,6 +83,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时53分 ~ 03时54分]"
+        },
+        {
+          "title": "苹果发布iPhone 17e与新款iPad Air，定价不变主打中端市场",
+          "url": "https://wallstreetcn.com/articles/3766555",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "苹果或变成最有“性价比”的手机",
+          "url": "https://www.toutiao.com/trending/7612550416043085348/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
         }
       ]
     },
