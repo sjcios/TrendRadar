@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T13:10:02.140028+08:00",
-  "total_titles_processed": 861,
+  "generated_at": "2026-03-02T16:02:29.951215+08:00",
+  "total_titles_processed": 1029,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "环球下周看点：中东战火走向何处 美国非农数据、苹果新品亮相",
@@ -76,12 +76,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时09分 ~ 13时10分]"
+        },
+        {
+          "title": "机器人手机趋势到来了吗",
+          "url": "https://www.toutiao.com/trending/7612544939070590470/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         }
       ]
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "如何看待比亚迪 2 月销量 19 万，同比下跌 41%？",
@@ -94,19 +105,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时49分 ~ 13时10分]"
-        },
-        {
-          "title": "百年奔驰正遭遇最艰难凛冬",
-          "url": "https://www.toutiao.com/trending/7612481524943818282/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时09分 ~ 13时10分]"
+          "appearance_count": 12,
+          "time_info": "[01时49分 ~ 16时02分]"
         },
         {
           "title": "比亚迪3月2日在互动平台表示，公司即将于2026年3月5日召开颠覆性技术发布会。",
@@ -115,9 +115,32 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
+        },
+        {
+          "title": "比亚迪：将召开颠覆性技术发布会",
+          "url": "https://www.toutiao.com/trending/7611797117036920873/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
+          "title": "百年奔驰正遭遇最艰难凛冬",
+          "url": "https://www.toutiao.com/trending/7612481524943818282/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时09分 ~ 16时02分]"
         },
         {
           "title": "比亚迪在互动平台表示，公司即将于2026年3月5日召开颠覆性技术发布会。",
@@ -126,7 +149,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
         },
@@ -137,7 +160,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
         },
@@ -156,7 +179,7 @@
     },
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "如何看待「反诈老陈」因刻意煽动网友情绪、营造对立，160 万粉丝账号被抖音封禁？",
@@ -183,13 +206,24 @@
           "time_info": "[04时54分 ~ 06时54分]"
         },
         {
+          "title": "瑞士央行：鉴于国际形势，我们更加做好了干预汇市的准备，以抑制瑞郎的快速和过度升值。",
+          "url": "https://flash.jin10.com/detail/20260302154459208800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
           "title": "日本央行副行长冰见野良三暗示3月加息无望",
           "url": "https://flash.jin10.com/detail/20260302122924379800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
         },
@@ -203,6 +237,36 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美以袭击伊朗金价为何下跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97%E9%87%91%E4%BB%B7%E4%B8%BA%E4%BD%95%E4%B8%8B%E8%B7%8C%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 07时49分]"
+        },
+        {
+          "title": "中东战火“燃爆”避险情绪，国际金价有望再创新高？一文读懂",
+          "url": "https://www.cls.cn/detail/2299381",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         }
       ]
     },
@@ -236,25 +300,6 @@
             16,
             15,
             17
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时56分 ~ 07时49分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美以袭击伊朗金价为何下跌",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97%E9%87%91%E4%BB%B7%E4%B8%BA%E4%BD%95%E4%B8%8B%E8%B7%8C%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17,
-            15,
-            14
           ],
           "is_new": false,
           "appearance_count": 10,
