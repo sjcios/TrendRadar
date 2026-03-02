@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T19:12:05.677287+08:00",
-  "total_titles_processed": 1217,
+  "generated_at": "2026-03-02T22:32:47.083616+08:00",
+  "total_titles_processed": 1403,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 9,
+      "match_count": 19,
       "titles": [
         {
           "title": "环球下周看点：中东战火走向何处 美国非农数据、苹果新品亮相",
@@ -32,17 +32,6 @@
           "time_info": "[00时56分 ~ 07时49分]"
         },
         {
-          "title": "苹果2026春季发布会前瞻",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C2026%E6%98%A5%E5%AD%A3%E5%8F%91%E5%B8%83%E4%BC%9A%E5%89%8D%E7%9E%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时11分 ~ 19时12分]"
-        },
-        {
           "title": "伊朗女子学校惨遭轰炸，民众手机被黑弹出“援军已至！”",
           "url": "https://news.ifeng.com/c/8r881Z9Ep2t",
           "source": "凤凰网",
@@ -52,6 +41,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时56分 ~ 04时54分]"
+        },
+        {
+          "title": "苹果2026春季发布会前瞻",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C2026%E6%98%A5%E5%AD%A3%E5%8F%91%E5%B8%83%E4%BC%9A%E5%89%8D%E7%9E%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时11分 ~ 22时32分]"
         },
         {
           "title": "荣耀机器人手机亮相",
@@ -110,6 +111,289 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时11分 ~ 19时12分]"
+        },
+        {
+          "title": "苹果公司发布新款iPad Air，配置M4处理器；起售价599美元。 推出iPhone 17E，将于3月11日开始发售。",
+          "url": "https://wallstreetcn.com/livenews/3061982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
+          "title": "如何评价荣耀 MWC 发布的机器人手机 Robot Phone，它为手机行业带来了哪些实质性革新？",
+          "url": "https://www.zhihu.com/question/2011572653631223263",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
+          "title": "苹果推出iPhone 17e 起售价公布",
+          "url": "https://www.toutiao.com/trending/7612660405399506483/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
+          "title": "iPhone17e发布",
+          "url": "https://s.weibo.com/weibo?q=iPhone17e%E5%8F%91%E5%B8%83&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
+          "title": "苹果(AAPL.O)：新款iPad Air 11英寸版起售价599美元，13英寸版起售价799美元。",
+          "url": "https://flash.jin10.com/detail/20260302220319409800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
+          "title": "苹果(AAPL.O)：iPhone 17e起售价为599美元，存储容量从256 GB起。",
+          "url": "https://flash.jin10.com/detail/20260302220247611800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
+          "title": "市场消息：苹果推出iPhone 17e。苹果推出新款iPad Air，搭载M4芯片。",
+          "url": "https://flash.jin10.com/detail/20260302220153252800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
+          "title": "荣耀机器人手机上手体验",
+          "url": "https://www.douyin.com/hot/2416394",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
+          "title": "尾号77777手机号10.3万元成交",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%BE%E5%8F%B777777%E6%89%8B%E6%9C%BA%E5%8F%B710.3%E4%B8%87%E5%85%83%E6%88%90%E4%BA%A4",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
+          "title": "四部手机没送达跑腿骑手拒接电话",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%9B%E9%83%A8%E6%89%8B%E6%9C%BA%E6%B2%A1%E9%80%81%E8%BE%BE%E8%B7%91%E8%85%BF%E9%AA%91%E6%89%8B%E6%8B%92%E6%8E%A5%E7%94%B5%E8%AF%9D%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "央行 抖音 小红书",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "欧洲央行行长拉加德：央行密切留意奇怪的全球局势。",
+          "url": "https://wallstreetcn.com/livenews/3061988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
+          "title": "如何看待「反诈老陈」因刻意煽动网友情绪、营造对立，160 万粉丝账号被抖音封禁？",
+          "url": "https://www.zhihu.com/question/2010871893935285065",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时01分 ~ 07时49分]"
+        },
+        {
+          "title": "土耳其央行宣布：暂停一周期回购拍卖。",
+          "url": "https://wallstreetcn.com/livenews/3061281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时54分 ~ 06时54分]"
+        },
+        {
+          "title": "欧洲央行行长拉加德：欧洲央行正密切关注异常的全球形势。",
+          "url": "https://flash.jin10.com/detail/20260302220951042800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
+          "title": "加拿大央行：如果供应冲击对CPI造成重大影响，货币政策需要具有限制性。",
+          "url": "https://wallstreetcn.com/livenews/3061978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
+          "title": "瑞士央行：鉴于国际形势，我们更加做好了干预汇市的准备，以抑制瑞郎的快速和过度升值。",
+          "url": "https://flash.jin10.com/detail/20260302154459208800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
+          "title": "瑞典央行提议出台新的准备金规则以保障支付安全。",
+          "url": "https://flash.jin10.com/detail/20260302220617837800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
+          "title": "日本央行副行长冰见野良三暗示3月加息无望",
+          "url": "https://flash.jin10.com/detail/20260302122924379800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时10分"
+        },
+        {
+          "title": "加拿大央行副行长科齐基：若供应冲击对CPI影响巨大，则需实施政策约束。",
+          "url": "https://flash.jin10.com/detail/20260302220433370800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
+          "title": "欧洲央行管委内格尔：对美元避险地位的质疑有所增加",
+          "url": "https://flash.jin10.com/detail/20260302021857884800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "加拿大央行副行长科齐基：供给冲击已成为推动通胀上升的主要因素。",
+          "url": "https://flash.jin10.com/detail/20260302220419794800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
+          "title": "加拿大央行副行长科齐基：在供给冲击下，利率上调与下调均存在权衡取舍。",
+          "url": "https://flash.jin10.com/detail/20260302220403175800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
+          "title": "加拿大央行副行长科齐基：供应端的发展在抗击通胀中变得更加重要。",
+          "url": "https://flash.jin10.com/detail/20260302220350549800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
+          "title": "油价飙升重燃通胀忧虑 全球央行降息预期全线降温",
+          "url": "https://flash.jin10.com/detail/20260302185220442800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
+          "title": "英国利率期货显示，投资者认为英国央行在3月降息的可能性不足50%。",
+          "url": "https://flash.jin10.com/detail/20260302215810961800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         }
       ]
     },
@@ -132,24 +416,13 @@
           "time_info": "[01时49分 ~ 16时02分]"
         },
         {
-          "title": "2月车市“众生相”：比亚迪销量首现“海外超国内” 华为小米新动作不断",
-          "url": "https://www.cls.cn/detail/2299535",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时11分 ~ 19时12分]"
-        },
-        {
           "title": "赛力斯：2月新能源汽车产量11028辆，同比下降35.06%",
           "url": "https://wallstreetcn.com/livenews/3061855",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -163,6 +436,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
+        },
+        {
+          "title": "2月车市“众生相”：比亚迪销量首现“海外超国内” 华为小米新动作不断",
+          "url": "https://www.cls.cn/detail/2299535",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时11分 ~ 22时32分]"
         },
         {
           "title": "比亚迪：将召开颠覆性技术发布会",
@@ -224,80 +509,6 @@
       ]
     },
     {
-      "keyword_group": "央行 抖音 小红书",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "如何看待「反诈老陈」因刻意煽动网友情绪、营造对立，160 万粉丝账号被抖音封禁？",
-          "url": "https://www.zhihu.com/question/2010871893935285065",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时01分 ~ 07时49分]"
-        },
-        {
-          "title": "土耳其央行宣布：暂停一周期回购拍卖。",
-          "url": "https://wallstreetcn.com/livenews/3061281",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时54分 ~ 06时54分]"
-        },
-        {
-          "title": "瑞士央行：鉴于国际形势，我们更加做好了干预汇市的准备，以抑制瑞郎的快速和过度升值。",
-          "url": "https://flash.jin10.com/detail/20260302154459208800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "日本央行副行长冰见野良三暗示3月加息无望",
-          "url": "https://flash.jin10.com/detail/20260302122924379800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时10分"
-        },
-        {
-          "title": "欧洲央行管委内格尔：对美元避险地位的质疑有所增加",
-          "url": "https://flash.jin10.com/detail/20260302021857884800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "油价飙升重燃通胀忧虑 全球央行降息预期全线降温",
-          "url": "https://flash.jin10.com/detail/20260302185220442800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时12分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
@@ -342,6 +553,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时09分 ~ 13时10分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "苹果公司讨论由谷歌托管新版Siri，进一步加深对云计算的依赖。",
+          "url": "https://flash.jin10.com/detail/20260302220223583800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         }
       ]
     },
