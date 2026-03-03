@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T19:59:36.808363+08:00",
-  "total_titles_processed": 1297,
+  "generated_at": "2026-03-03T22:34:56.849529+08:00",
+  "total_titles_processed": 1460,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 18,
+      "match_count": 29,
       "titles": [
         {
           "title": "中国有了量子手机",
@@ -30,6 +30,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时33分 ~ 13时08分]"
+        },
+        {
+          "title": "苹果发布iPhone 17e与新款iPad Air，定价不变主打中端市场",
+          "url": "https://wallstreetcn.com/articles/3766555",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时55分 ~ 22时34分]"
         },
         {
           "title": "苹果2026春季发布会前瞻",
@@ -74,19 +88,6 @@
           "time_info": "[01时33分 ~ 07时55分]"
         },
         {
-          "title": "苹果发布iPhone 17e与新款iPad Air，定价不变主打中端市场",
-          "url": "https://wallstreetcn.com/articles/3766555",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时55分 ~ 19时59分]"
-        },
-        {
           "title": "iPhone 17e浅粉色",
           "url": "https://www.douyin.com/hot/2417229",
           "source": "抖音",
@@ -94,11 +95,12 @@
             17,
             18,
             15,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时08分 ~ 19时59分]"
+          "appearance_count": 6,
+          "time_info": "[13时08分 ~ 22时34分]"
         },
         {
           "title": "iPhone17e正式发布",
@@ -107,11 +109,12 @@
           "ranks": [
             22,
             23,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时08分 ~ 18时08分]"
+          "appearance_count": 5,
+          "time_info": "[13时08分 ~ 22时34分]"
         },
         {
           "title": "iPhone17只用一个月橙色变粉色",
@@ -196,6 +199,28 @@
           "time_info": "13时08分"
         },
         {
+          "title": "苹果推出升级版MacBook Pro、Air、以及新款Studio显示器",
+          "url": "https://wallstreetcn.com/livenews/3062834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "苹果新品哪些值得买",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%96%B0%E5%93%81%E5%93%AA%E4%BA%9B%E5%80%BC%E5%BE%97%E4%B9%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "如何评价 Apple 在 3 月 2 日 晚更新的 iPad Air M4，有哪些细节值得关注？",
           "url": "https://www.zhihu.com/question/2011932852577650327",
           "source": "知乎",
@@ -205,6 +230,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时58分"
+        },
+        {
+          "title": "苹果M5系列芯片重磅登场 新款MacBook Pro算力实现跨代飞跃",
+          "url": "https://flash.jin10.com/detail/20260303221046108800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "MWC首日国产手机卷疯了",
@@ -218,6 +254,39 @@
           "time_info": "15时58分"
         },
         {
+          "title": "苹果(AAPL.O)：Studio Display和XDR显示器将于3月4日开启预购。",
+          "url": "https://flash.jin10.com/detail/20260303220817001800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "苹果(AAPL.O)：配备可倾斜及高度可调支架的Studio Display XDR，起售价为3,299美元。",
+          "url": "https://flash.jin10.com/detail/20260303220806965800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "苹果(AAPL.O)：新款配备可调倾斜度支架的Studio Display起售价为1,599美元。",
+          "url": "https://flash.jin10.com/detail/20260303220746891800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "苹果或变成最有“性价比”的手机",
           "url": "https://www.toutiao.com/trending/7612550416043085348/",
           "source": "今日头条",
@@ -227,12 +296,67 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
+        },
+        {
+          "title": "苹果(AAPL.O)：搭载M5的13英寸MacBook Air起售价为1099美元，15英寸MacBook Air起售价为1299美元。",
+          "url": "https://flash.jin10.com/detail/20260303220448413800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "苹果(AAPL.O)：新款MacBook Pro将于明日，即3月4日开始接受预订。",
+          "url": "https://flash.jin10.com/detail/20260303220331716800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "苹果(AAPL.O)：配备M5 Max芯片的16英寸MacBook Pro起售价为3,899美元，教育优惠价为3,599美元。",
+          "url": "https://flash.jin10.com/detail/20260303220321097800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "苹果(AAPL.O)：配备M5 Max芯片的14英寸MacBook Pro起售价为3,599美元，教育优惠价为3,299美元。",
+          "url": "https://flash.jin10.com/detail/20260303220312136800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "苹果(AAPL.O)推出搭载全新M5 Pro和M5 Max芯片的MacBook Pro，带来突破性的专业性能与进阶的端侧人工智能体验。",
+          "url": "https://flash.jin10.com/detail/20260303220254056800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         }
       ]
     },
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "交易员预计，欧洲央行今年加息25个基点的概率为25%。",
@@ -252,7 +376,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -277,6 +401,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时58分"
+        },
+        {
+          "title": "中国军号抖音粉丝突破5000万",
+          "url": "https://www.douyin.com/hot/2418009",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "日本央行行长植田和男在东京举行的金融科技大会上发表讲话时，没有提及货币政策。 植田和男表示，将继续与相关机构合作协调，致力于打造适合下一个时代的金融生态系统。",
@@ -411,11 +546,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时08分 ~ 19时59分]"
+          "appearance_count": 6,
+          "time_info": "[13时08分 ~ 22时34分]"
         },
         {
           "title": "港股新能源汽车股午后持续走低，零跑汽车、小鹏汽车跌超5%，蔚来跌4.7%。",
@@ -522,7 +658,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "标普下调软银展望至负面 OpenAI 押注加剧流动性风险",
@@ -536,6 +672,29 @@
           "time_info": "18时08分"
         },
         {
+          "title": "OpenAI与美国五角大楼在AI协议中新增监控保护条款。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3062845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
+          "url": "https://www.cls.cn/detail/2300871",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时07分 ~ 22时34分]"
+        },
+        {
           "title": "内部备忘录显示，美国国务院将内部聊天机器人所用模型从Anthropic切换至OpenAI。",
           "url": "https://flash.jin10.com/detail/20260303052851593800",
           "source": "金十数据",
@@ -546,17 +705,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时52分 ~ 06时58分]"
-        },
-        {
-          "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
-          "url": "https://www.cls.cn/detail/2300871",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时07分 ~ 19时59分]"
         },
         {
           "title": "大批OpenAI用户转投Anthropic，后者登顶美国APP下载榜",
@@ -616,7 +764,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         }
