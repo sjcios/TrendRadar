@@ -1,772 +1,106 @@
 {
-  "generated_at": "2026-03-03T22:34:56.849529+08:00",
-  "total_titles_processed": 1460,
+  "generated_at": "2026-03-04T01:32:30.478607+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 29,
+      "match_count": 3,
       "titles": [
         {
-          "title": "中国有了量子手机",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%9C%89%E4%BA%86%E9%87%8F%E5%AD%90%E6%89%8B%E6%9C%BA%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时33分 ~ 07时55分]"
-        },
-        {
-          "title": "苹果3月新品第一弹",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C3%E6%9C%88%E6%96%B0%E5%93%81%E7%AC%AC%E4%B8%80%E5%BC%B9",
+          "title": "苹果新品哪些值得买",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%96%B0%E5%93%81%E5%93%AA%E4%BA%9B%E5%80%BC%E5%BE%97%E4%B9%B0",
           "source": "bilibili 热搜",
           "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时33分 ~ 13时08分]"
-        },
-        {
-          "title": "苹果发布iPhone 17e与新款iPad Air，定价不变主打中端市场",
-          "url": "https://wallstreetcn.com/articles/3766555",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时55分 ~ 22时34分]"
-        },
-        {
-          "title": "苹果2026春季发布会前瞻",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C2026%E6%98%A5%E5%AD%A3%E5%8F%91%E5%B8%83%E4%BC%9A%E5%89%8D%E7%9E%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            17,
-            20,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时33分 ~ 07时55分]"
-        },
-        {
-          "title": "iPhone17e浅粉色",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone17e%E6%B5%85%E7%B2%89%E8%89%B2%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            16,
-            18,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时33分 ~ 07时55分]"
-        },
-        {
-          "title": "荣耀机器人手机上手体验",
-          "url": "https://www.douyin.com/hot/2416394",
-          "source": "抖音",
-          "ranks": [
-            29,
-            21,
-            25,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时33分 ~ 07时55分]"
+          "appearance_count": 1,
+          "time_info": "01时32分"
         },
         {
           "title": "iPhone 17e浅粉色",
           "url": "https://www.douyin.com/hot/2417229",
           "source": "抖音",
           "ranks": [
-            17,
-            18,
-            15,
-            14,
-            19
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时08分 ~ 22时34分]"
+          "appearance_count": 1,
+          "time_info": "01时32分"
         },
         {
           "title": "iPhone17e正式发布",
           "url": "https://search.bilibili.com/all?keyword=iPhone17e%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
           "ranks": [
-            22,
-            23,
-            20,
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时08分 ~ 22时34分]"
-        },
-        {
-          "title": "iPhone17只用一个月橙色变粉色",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone17%E5%8F%AA%E7%94%A8%E4%B8%80%E4%B8%AA%E6%9C%88%E6%A9%99%E8%89%B2%E5%8F%98%E7%B2%89%E8%89%B2%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时58分 ~ 18时08分]"
-        },
-        {
-          "title": "智元稚晖君谈人形机器人产业规模：手机数量乘以汽车价格的级别",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32685523",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时07分 ~ 19时59分]"
-        },
-        {
-          "title": "曝张元英签售一直玩手机",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%BC%A0%E5%85%83%E8%8B%B1%E7%AD%BE%E5%94%AE%E4%B8%80%E7%9B%B4%E7%8E%A9%E6%89%8B%E6%9C%BA%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时58分 ~ 18时08分]"
-        },
-        {
-          "title": "2026 年苹果推出高性价比 iPhone 17e，定价 4499 元起售，你看好其市场前景吗？",
-          "url": "https://www.zhihu.com/question/1996006356193411086",
-          "source": "知乎",
-          "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时08分 ~ 15时58分]"
-        },
-        {
-          "title": "中国有了量子手机",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%89%E4%BA%86%E9%87%8F%E5%AD%90%E6%89%8B%E6%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时08分 ~ 15时58分]"
-        },
-        {
-          "title": "尾号77777手机号10.3万元成交",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%BE%E5%8F%B777777%E6%89%8B%E6%9C%BA%E5%8F%B710.3%E4%B8%87%E5%85%83%E6%88%90%E4%BA%A4",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时53分 ~ 03时54分]"
-        },
-        {
-          "title": "苹果发布iPhone 17e：4499元起售 较16e“加量不加价”",
-          "url": "https://www.cls.cn/detail/2300445",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时08分"
-        },
-        {
-          "title": "苹果推出升级版MacBook Pro、Air、以及新款Studio显示器",
-          "url": "https://wallstreetcn.com/livenews/3062834",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        },
-        {
-          "title": "苹果新品哪些值得买",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%96%B0%E5%93%81%E5%93%AA%E4%BA%9B%E5%80%BC%E5%BE%97%E4%B9%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        },
-        {
-          "title": "如何评价 Apple 在 3 月 2 日 晚更新的 iPad Air M4，有哪些细节值得关注？",
-          "url": "https://www.zhihu.com/question/2011932852577650327",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时58分"
-        },
-        {
-          "title": "苹果M5系列芯片重磅登场 新款MacBook Pro算力实现跨代飞跃",
-          "url": "https://flash.jin10.com/detail/20260303221046108800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        },
-        {
-          "title": "MWC首日国产手机卷疯了",
-          "url": "https://www.toutiao.com/trending/7612866644720750086/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时58分"
-        },
-        {
-          "title": "苹果(AAPL.O)：Studio Display和XDR显示器将于3月4日开启预购。",
-          "url": "https://flash.jin10.com/detail/20260303220817001800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        },
-        {
-          "title": "苹果(AAPL.O)：配备可倾斜及高度可调支架的Studio Display XDR，起售价为3,299美元。",
-          "url": "https://flash.jin10.com/detail/20260303220806965800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        },
-        {
-          "title": "苹果(AAPL.O)：新款配备可调倾斜度支架的Studio Display起售价为1,599美元。",
-          "url": "https://flash.jin10.com/detail/20260303220746891800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        },
-        {
-          "title": "苹果或变成最有“性价比”的手机",
-          "url": "https://www.toutiao.com/trending/7612550416043085348/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时55分"
-        },
-        {
-          "title": "苹果(AAPL.O)：搭载M5的13英寸MacBook Air起售价为1099美元，15英寸MacBook Air起售价为1299美元。",
-          "url": "https://flash.jin10.com/detail/20260303220448413800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        },
-        {
-          "title": "苹果(AAPL.O)：新款MacBook Pro将于明日，即3月4日开始接受预订。",
-          "url": "https://flash.jin10.com/detail/20260303220331716800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        },
-        {
-          "title": "苹果(AAPL.O)：配备M5 Max芯片的16英寸MacBook Pro起售价为3,899美元，教育优惠价为3,599美元。",
-          "url": "https://flash.jin10.com/detail/20260303220321097800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        },
-        {
-          "title": "苹果(AAPL.O)：配备M5 Max芯片的14英寸MacBook Pro起售价为3,599美元，教育优惠价为3,299美元。",
-          "url": "https://flash.jin10.com/detail/20260303220312136800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        },
-        {
-          "title": "苹果(AAPL.O)推出搭载全新M5 Pro和M5 Max芯片的MacBook Pro，带来突破性的专业性能与进阶的端侧人工智能体验。",
-          "url": "https://flash.jin10.com/detail/20260303220254056800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时34分"
+          "time_info": "01时32分"
         }
       ]
     },
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 16,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "交易员预计，欧洲央行今年加息25个基点的概率为25%。",
-          "url": "https://wallstreetcn.com/livenews/3062565",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时58分"
-        },
-        {
-          "title": "降息预期断崖式回落 英美央行3月按兵不动几成定局",
-          "url": "https://flash.jin10.com/detail/20260303193542984800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时59分"
-        },
-        {
-          "title": "欧洲央行管委兼法国央行行长Villeroy：法国经济受到中东紧张局势的影响有限。",
-          "url": "https://wallstreetcn.com/livenews/3062562",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时58分"
-        },
-        {
-          "title": "交易员认为今年欧洲央行加息25个基点的概率为25%。",
-          "url": "https://wallstreetcn.com/livenews/3062561",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时58分"
-        },
         {
           "title": "中国军号抖音粉丝突破5000万",
           "url": "https://www.douyin.com/hot/2418009",
           "source": "抖音",
           "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        },
-        {
-          "title": "日本央行行长植田和男在东京举行的金融科技大会上发表讲话时，没有提及货币政策。 植田和男表示，将继续与相关机构合作协调，致力于打造适合下一个时代的金融生态系统。",
-          "url": "https://wallstreetcn.com/livenews/3062414",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时08分"
-        },
-        {
-          "title": "交易员们削减了对英央行加息的押注，现在更倾向于今年降息25个基点。",
-          "url": "https://flash.jin10.com/detail/20260303153352331800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时58分"
-        },
-        {
-          "title": "日本央行行长植田和男：日本央行将在基于区块链的系统上，开展以活期存款形式的央行货币进行结算的技术试验。",
-          "url": "https://flash.jin10.com/detail/20260303120845960800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时08分"
-        },
-        {
-          "title": "日本央行行长植田和男：为了使新时代的金融生态系统（特点是通过AI和区块链的融合产生新的金融服务）得以发展，有必要建立一种机制，以确保交易的透明度和真实性，特别是支付的安全性和稳健性。",
-          "url": "https://flash.jin10.com/detail/20260303120834177800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时08分"
-        },
-        {
-          "title": "交易员加大对欧洲央行加息的押注，预计到6月加息概率为20%。",
-          "url": "https://wallstreetcn.com/livenews/3062640",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时08分"
-        },
-        {
-          "title": "日本央行行长植田和男：展望未来，区块链技术有可能发展成为涉及各种资产和服务（包括货银对付）的交易和结算的基础设施。",
-          "url": "https://flash.jin10.com/detail/20260303120735275800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时08分"
-        },
-        {
-          "title": "交易员：在土耳其央行采取流动性措施后，周二市场上的土耳其里拉隔夜利率将接近40%，高于上周五的37%。",
-          "url": "https://flash.jin10.com/detail/20260303152341274800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时58分"
-        },
-        {
-          "title": "俄央行要求欧盟法院宣告欧盟理事会冻结俄资产条例无效",
-          "url": "https://wallstreetcn.com/livenews/3062530",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时58分"
-        },
-        {
-          "title": "欧洲央行管委斯图纳拉斯：对通胀和产出的影响取决于伊朗冲突的持续时间和激烈程度。",
-          "url": "https://flash.jin10.com/detail/20260303173539817800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时08分"
-        },
-        {
-          "title": "欧洲央行管委斯图纳拉斯：由于我们无法预见未来，不应急于调整利率。",
-          "url": "https://flash.jin10.com/detail/20260303173537099800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时08分"
-        },
-        {
-          "title": "中国央行：2月公开市场国债买卖净投放500亿元",
-          "url": "https://wallstreetcn.com/livenews/3062629",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "比亚迪宣布将召开颠覆性技术发布会，可能涉及哪些方面的技术？是否会重塑行业竞争门槛？",
-          "url": "https://www.zhihu.com/question/2011788981294081499",
-          "source": "知乎",
-          "ranks": [
-            3,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时08分 ~ 22时34分]"
-        },
-        {
-          "title": "港股新能源汽车股午后持续走低，零跑汽车、小鹏汽车跌超5%，蔚来跌4.7%。",
-          "url": "https://wallstreetcn.com/livenews/3062421",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时08分"
+          "time_info": "01时32分"
         },
         {
-          "title": "纳斯达克金龙中国指数收跌1.08%，报7198.52点。 热门中概股里，金山云初步收跌4.9%，再鼎医药、小米跌4.1%，文远知行、美团、唯品会、万国数据至多跌3.6%，晶科能源涨2.1%，贝壳涨2.2%，比亚迪涨5%，奇富科技涨5.8%，斗鱼涨7.2%。 ETF中，中国科技指数ETF（CQQQ）收跌1.92%，中概互联网指数ETF（KWEB）收跌1.32%。 XtrackersHarvest中证50（ASHS）收跌0.76%，德银嘉实沪深300指数ETF（ASHR）收涨0.03%。",
-          "url": "https://wallstreetcn.com/livenews/3062148",
+          "title": "欧洲央行管委Kazaks：更长长期周期的能源价格偏高，通胀面临更多风险。 稍晚可能会需要采取政策行动，但目前不需要。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3062936",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时52分 ~ 06时58分]"
-        },
-        {
-          "title": "比亚迪大唐官图公布",
-          "url": "https://www.toutiao.com/trending/7611790194932695094/",
-          "source": "今日头条",
-          "ranks": [
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时08分 ~ 15时58分]"
-        },
-        {
-          "title": "奥迪E5开年抢先优惠20.59万",
-          "url": "https://www.toutiao.com/trending/7612202051032514566/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时07分 ~ 18时08分]"
-        },
-        {
-          "title": "比亚迪海豹08轿车预告图公布",
-          "url": "https://www.toutiao.com/trending/7612204228850942006/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时07分 ~ 18时08分]"
-        },
-        {
-          "title": "比亚迪即将发布的重磅技术改变了什么",
-          "url": "https://www.toutiao.com/trending/7612910418641554998/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时07分 ~ 18时08分]"
-        },
-        {
-          "title": "特斯拉为什么要坚持纯视觉路线?",
-          "url": "https://www.zhihu.com/question/662049831",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时08分"
-        },
-        {
-          "title": "意大利交通部：2月份特斯拉在意大利的新车注册量同比下降6.9%。",
-          "url": "https://flash.jin10.com/detail/20260303010145393800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时34分"
-        },
-        {
-          "title": "特斯拉为什么销量比国产电车好？",
-          "url": "https://www.zhihu.com/question/13039955778",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "标普下调软银展望至负面 OpenAI 押注加剧流动性风险",
-          "url": "https://flash.jin10.com/detail/20260303175117671800",
-          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时08分"
-        },
+          "time_info": "01时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "OpenAI与美国五角大楼在AI协议中新增监控保护条款。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3062845",
+          "title": "谷歌公司推出Gemini 3.1 Flash-LITE模型。",
+          "url": "https://wallstreetcn.com/livenews/3062902",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时34分"
-        },
-        {
-          "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
-          "url": "https://www.cls.cn/detail/2300871",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时07分 ~ 22时34分]"
-        },
-        {
-          "title": "内部备忘录显示，美国国务院将内部聊天机器人所用模型从Anthropic切换至OpenAI。",
-          "url": "https://flash.jin10.com/detail/20260303052851593800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时52分 ~ 06时58分]"
-        },
-        {
-          "title": "大批OpenAI用户转投Anthropic，后者登顶美国APP下载榜",
-          "url": "https://wallstreetcn.com/livenews/3062140",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时52分 ~ 06时58分]"
+          "time_info": "01时32分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
-          "title": "分析师：金价突破5300美元或开启风险定价新阶段",
-          "url": "https://flash.jin10.com/detail/20260303154301019800",
-          "source": "金十数据",
+          "title": "金价银价断崖式跳水",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%96%AD%E5%B4%96%E5%BC%8F%E8%B7%B3%E6%B0%B4%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
           "ranks": [
-            1
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时58分"
-        },
-        {
-          "title": "特朗普“不惜一切”誓言加剧股市抛售，油价三连涨，日韩股市狂泻，三星跌10%，金价回落至5300美元下方",
-          "url": "https://wallstreetcn.com/articles/3766590",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时58分"
-        },
-        {
-          "title": "金十图示：2026年03月03日（周二）上海金午盘价为1180.89元/克，较国际金价(1178.48元/克)，高2.41元/克",
-          "url": "https://flash.jin10.com/detail/20260303153334553800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时58分"
-        },
-        {
-          "title": "避险情绪转向利空 金价随降息预期降温而回落",
-          "url": "https://flash.jin10.com/detail/20260303192047395800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时59分"
+          "time_info": "01时32分"
         }
       ]
     },
@@ -779,13 +113,28 @@
           "url": "https://search.bilibili.com/all?keyword=LOL%E9%BE%99%E5%A5%B3%E9%87%8D%E5%81%9A%E6%8A%80%E8%83%BD%E4%BB%8B%E7%BB%8D",
           "source": "bilibili 热搜",
           "ranks": [
-            14,
-            26,
-            24
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时58分 ~ 19时59分]"
+          "appearance_count": 1,
+          "time_info": "01时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "比亚迪宣布将召开颠覆性技术发布会，可能涉及哪些方面的技术？是否会重塑行业竞争门槛？",
+          "url": "https://www.zhihu.com/question/2011788981294081499",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时32分"
         }
       ]
     }
