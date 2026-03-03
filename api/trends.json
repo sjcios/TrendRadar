@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T18:08:11.039514+08:00",
-  "total_titles_processed": 1162,
+  "generated_at": "2026-03-03T19:59:36.808363+08:00",
+  "total_titles_processed": 1297,
   "failed_sources": [],
   "trends": [
     {
@@ -83,8 +83,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时55分 ~ 18时08分]"
+          "appearance_count": 6,
+          "time_info": "[07时55分 ~ 19时59分]"
         },
         {
           "title": "iPhone 17e浅粉色",
@@ -93,11 +93,12 @@
           "ranks": [
             17,
             18,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时08分 ~ 18时08分]"
+          "appearance_count": 5,
+          "time_info": "[13时08分 ~ 19时59分]"
         },
         {
           "title": "iPhone17e正式发布",
@@ -125,6 +126,18 @@
           "time_info": "[15时58分 ~ 18时08分]"
         },
         {
+          "title": "智元稚晖君谈人形机器人产业规模：手机数量乘以汽车价格的级别",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32685523",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时07分 ~ 19时59分]"
+        },
+        {
           "title": "曝张元英签售一直玩手机",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%BC%A0%E5%85%83%E8%8B%B1%E7%AD%BE%E5%94%AE%E4%B8%80%E7%9B%B4%E7%8E%A9%E6%89%8B%E6%9C%BA%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -147,17 +160,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时08分 ~ 15时58分]"
-        },
-        {
-          "title": "智元稚晖君谈人形机器人产业规模：手机数量乘以汽车价格的级别",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32685523",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时07分 ~ 18时08分]"
         },
         {
           "title": "中国有了量子手机",
@@ -230,7 +232,7 @@
     },
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "交易员预计，欧洲央行今年加息25个基点的概率为25%。",
@@ -242,6 +244,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时58分"
+        },
+        {
+          "title": "降息预期断崖式回落 英美央行3月按兵不动几成定局",
+          "url": "https://flash.jin10.com/detail/20260303193542984800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
         },
         {
           "title": "欧洲央行管委兼法国央行行长Villeroy：法国经济受到中东紧张局势的影响有限。",
@@ -316,7 +329,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
         },
@@ -360,7 +373,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
         },
@@ -371,7 +384,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
         },
@@ -382,7 +395,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
         }
@@ -401,8 +414,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时08分 ~ 18时08分]"
+          "appearance_count": 5,
+          "time_info": "[13时08分 ~ 19时59分]"
         },
         {
           "title": "港股新能源汽车股午后持续走低，零跑汽车、小鹏汽车跌超5%，蔚来跌4.7%。",
@@ -518,7 +531,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
         },
@@ -542,8 +555,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时07分 ~ 18时08分]"
+          "appearance_count": 3,
+          "time_info": "[18时07分 ~ 19时59分]"
         },
         {
           "title": "大批OpenAI用户转投Anthropic，后者登顶美国APP下载榜",
@@ -561,7 +574,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "分析师：金价突破5300美元或开启风险定价新阶段",
@@ -595,6 +608,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时58分"
+        },
+        {
+          "title": "避险情绪转向利空 金价随降息预期降温而回落",
+          "url": "https://flash.jin10.com/detail/20260303192047395800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
         }
       ]
     },
@@ -608,11 +632,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             14,
-            26
+            26,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时58分 ~ 18时08分]"
+          "appearance_count": 4,
+          "time_info": "[15时58分 ~ 19时59分]"
         }
       ]
     }
