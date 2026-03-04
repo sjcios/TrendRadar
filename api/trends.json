@@ -1,8 +1,181 @@
 {
-  "generated_at": "2026-03-04T07:55:52.591077+08:00",
-  "total_titles_processed": 632,
+  "generated_at": "2026-03-04T12:59:28.144566+08:00",
+  "total_titles_processed": 870,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "央行 抖音 小红书",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "中国军号抖音粉丝突破5000万",
+          "url": "https://www.douyin.com/hot/2418009",
+          "source": "抖音",
+          "ranks": [
+            1,
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时32分 ~ 12时59分]"
+        },
+        {
+          "title": "日本财务大臣片山皋月：当前关于具体货币工具由日本央行决定的原则不变。",
+          "url": "https://flash.jin10.com/detail/20260304125223787800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
+          "title": "欧洲央行管委Kazaks：更长长期周期的能源价格偏高，通胀面临更多风险。 稍晚可能会需要采取政策行动，但目前不需要。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3062936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时32分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：目前不具备修订2013年政府与日本央行协议的条件。",
+          "url": "https://flash.jin10.com/detail/20260304125011728800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
+          "title": "日本央行行长植田和男：将继续致力于实现与工资增长相协调的稳定、可持续的2%通胀目标。",
+          "url": "https://flash.jin10.com/detail/20260304124952797800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
+          "title": "日本央行行长植田和男：日本央行与政府保持密切沟通。",
+          "url": "https://wallstreetcn.com/livenews/3063313",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
+          "title": "日本央行行长植田和男：难以将实际工资增长设定为货币政策目标。",
+          "url": "https://flash.jin10.com/detail/20260304124819831800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
+          "title": "乌拉圭央行降息75个基点，至5.75%；之前为6.50%。",
+          "url": "https://wallstreetcn.com/livenews/3062990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时03分"
+        },
+        {
+          "title": "韩国总统府政策室长周三将与财政部、央行等部门官员召开会议",
+          "url": "https://wallstreetcn.com/livenews/3063304",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
+          "title": "日本央行行长植田和男：货币政策难以直接影响实际工资。",
+          "url": "https://flash.jin10.com/detail/20260304124437311800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
+          "title": "日本央行行长植田和男：提高实际工资最重要的因素是提升中长期劳动生产率。",
+          "url": "https://flash.jin10.com/detail/20260304124413136800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
+          "title": "日本央行行长植田和男：日本要可持续、稳定地实现日本央行的通胀目标，工资需大幅上涨。",
+          "url": "https://flash.jin10.com/detail/20260304124214970800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
+          "title": "日本央行行长植田和男：工资与物价同步上涨的机制正日益嵌入日本经济之中。",
+          "url": "https://flash.jin10.com/detail/20260304124037317800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
+          "title": "日本央行行长植田和男：日本央行与政府保持密切沟通。",
+          "url": "https://flash.jin10.com/detail/20260304123811821800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
+          "title": "日本央行行长植田和男定于当地时间下午1点半在国会出席。",
+          "url": "https://wallstreetcn.com/livenews/3063287",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        }
+      ]
+    },
     {
       "keyword_group": "chatgpt openai",
       "match_count": 5,
@@ -50,7 +223,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -69,7 +242,7 @@
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "苹果新品哪些值得买",
@@ -123,46 +296,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "央行 抖音 小红书",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "中国军号抖音粉丝突破5000万",
-          "url": "https://www.douyin.com/hot/2418009",
-          "source": "抖音",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时32分 ~ 07时55分]"
         },
         {
-          "title": "欧洲央行管委Kazaks：更长长期周期的能源价格偏高，通胀面临更多风险。 稍晚可能会需要采取政策行动，但目前不需要。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3062936",
-          "source": "华尔街见闻-快讯",
+          "title": "如何评价 Apple 在 3 月 3 日更新的 Macbook Air M5，有哪些细节值得关注？",
+          "url": "https://www.zhihu.com/question/2012296941925581663",
+          "source": "知乎",
           "ranks": [
-            2
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时32分"
-        },
-        {
-          "title": "乌拉圭央行降息75个基点，至5.75%；之前为6.50%。",
-          "url": "https://wallstreetcn.com/livenews/3062990",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时03分"
+          "time_info": "12时59分"
         }
       ]
     },
