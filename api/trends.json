@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T03:54:02.474173+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2026-03-05T05:03:59.378513+08:00",
+  "total_titles_processed": 455,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,12 @@
           "url": "https://www.douyin.com/hot/2419299",
           "source": "抖音",
           "ranks": [
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 03时54分]"
-        },
-        {
-          "title": "MacBook Neo上手体验",
-          "url": "https://search.bilibili.com/all?keyword=MacBook%20Neo%E4%B8%8A%E6%89%8B%E4%BD%93%E9%AA%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 03时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时12分 ~ 05时03分]"
         },
         {
           "title": "【数据看盘】北向资金联手机构扫货通鼎互联，游资与机构激烈博弈航天彩虹",
@@ -38,8 +28,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 03时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时12分 ~ 05时03分]"
+        },
+        {
+          "title": "MacBook Neo上手体验",
+          "url": "https://search.bilibili.com/all?keyword=MacBook%20Neo%E4%B8%8A%E6%89%8B%E4%BD%93%E9%AA%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时12分 ~ 05时03分]"
         },
         {
           "title": "苹果发布会",
@@ -49,8 +51,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 03时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时12分 ~ 05时03分]"
         },
         {
           "title": "苹果推出MacBook Neo 4599元起售",
@@ -60,8 +62,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 03时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时12分 ~ 05时03分]"
         }
       ]
     },
@@ -78,8 +80,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 03时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时12分 ~ 05时03分]"
         },
         {
           "title": "硬接导弹无碍,比亚迪这波赢麻",
@@ -89,8 +91,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 03时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时12分 ~ 05时03分]"
         },
         {
           "title": "利润腰斩 奔驰宝马奥迪集体换帅",
@@ -101,8 +103,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 03时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时12分 ~ 05时03分]"
         },
         {
           "title": "比亚迪将发布第二代刀片电池",
@@ -118,6 +120,45 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美国总统特朗普：谷歌是一家好公司。",
+          "url": "https://wallstreetcn.com/livenews/3063847",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时03分"
+        },
+        {
+          "title": "美国总统特朗普：谷歌是一家好公司。",
+          "url": "https://flash.jin10.com/detail/20260305042824208800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时03分"
+        },
+        {
+          "title": "谷歌公司与Epic达成和解协议之后，将在全区范围内下调APP开发者费用。",
+          "url": "https://wallstreetcn.com/livenews/3063812",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        }
+      ]
+    },
+    {
       "keyword_group": "央行 抖音 小红书",
       "match_count": 3,
       "titles": [
@@ -129,19 +170,20 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时53分 ~ 03时54分]"
+          "appearance_count": 3,
+          "time_info": "[03时53分 ~ 05时03分]"
         },
         {
           "title": "抖音作者组团探访核电站实拍",
           "url": "https://www.douyin.com/hot/2419111",
           "source": "抖音",
           "ranks": [
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
+          "appearance_count": 2,
+          "time_info": "[01时12分 ~ 05时03分]"
         },
         {
           "title": "波兰央行行长格拉平斯基：将建议将央行利润用于国防支出。",
@@ -157,6 +199,35 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "黄仁勋排除英伟达向OpenAI投资1000亿美元的可能性",
+          "url": "https://wallstreetcn.com/livenews/3063822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时54分 ~ 05时03分]"
+        },
+        {
+          "title": "据CNBC：OpenAI创始人奥尔特曼预计将于周四在摩根士丹利会议上发言。",
+          "url": "https://flash.jin10.com/detail/20260305041842177800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时03分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -168,42 +239,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 03时54分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌公司与Epic达成和解协议之后，将在全区范围内下调APP开发者费用。",
-          "url": "https://wallstreetcn.com/livenews/3063812",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "黄仁勋排除英伟达向OpenAI投资1000亿美元的可能性",
-          "url": "https://wallstreetcn.com/livenews/3063822",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时54分"
+          "appearance_count": 4,
+          "time_info": "[01时12分 ~ 05时03分]"
         }
       ]
     },
@@ -219,8 +256,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 03时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时12分 ~ 05时03分]"
         }
       ]
     }
