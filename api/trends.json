@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T18:09:29.975618+08:00",
-  "total_titles_processed": 1088,
+  "generated_at": "2026-03-05T20:02:12.553387+08:00",
+  "total_titles_processed": 1216,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "据英国央行调查，英国企业预计未来一年工资增长3.6%。",
@@ -14,9 +14,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
+        },
+        {
+          "title": "央行：明日开展8000亿元买断式逆回购",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%EF%BC%9A%E6%98%8E%E6%97%A5%E5%BC%80%E5%B1%958000%E4%BA%BF%E5%85%83%E4%B9%B0%E6%96%AD%E5%BC%8F%E9%80%86%E5%9B%9E%E8%B4%AD",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时09分 ~ 20时02分]"
         },
         {
           "title": "抖音直播盛典阵容官宣",
@@ -70,7 +82,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
@@ -81,7 +93,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
@@ -103,7 +115,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
@@ -114,7 +126,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
@@ -125,7 +137,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
@@ -136,20 +148,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
         {
-          "title": "央行：明日开展8000亿元买断式逆回购",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%EF%BC%9A%E6%98%8E%E6%97%A5%E5%BC%80%E5%B1%958000%E4%BA%BF%E5%85%83%E4%B9%B0%E6%96%AD%E5%BC%8F%E9%80%86%E5%9B%9E%E8%B4%AD",
-          "source": "百度热搜",
+          "title": "欧洲央行管委Nagel：不会猜测伊朗冲突可能对利率产生的影响。",
+          "url": "https://wallstreetcn.com/livenews/3064443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
+          "title": "能源冲击重燃英国通胀忧虑 市场剧烈修正英国央行降息预期",
+          "url": "https://flash.jin10.com/detail/20260305192600295800",
+          "source": "金十数据",
           "ranks": [
             19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时09分"
+          "time_info": "20时02分"
         },
         {
           "title": "因担心AI冲击就业和经济，英国央行拟开展情景评估并纳入银行压力测试",
@@ -169,7 +192,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
@@ -191,9 +214,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
+        },
+        {
+          "title": "欧洲央行管委Rehn：根据最新数据做出利率决策是合理的。 未对利率走向作出承诺。 切勿贸然对当前局势下结论下判断。 从长期来看，欧元的变动并不那么剧烈。",
+          "url": "https://wallstreetcn.com/livenews/3064428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "波兰央行行长格拉平斯基：将建议将央行利润用于国防支出。",
@@ -247,8 +281,44 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时12分 ~ 18时09分]"
+          "appearance_count": 11,
+          "time_info": "[01时12分 ~ 20时02分]"
+        },
+        {
+          "title": "iPhone17e上手体验",
+          "url": "https://search.bilibili.com/all?keyword=iPhone17e%E4%B8%8A%E6%89%8B%E4%BD%93%E9%AA%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时05分 ~ 20时02分]"
+        },
+        {
+          "title": "店员称vivo手机将涨10%-15%",
+          "url": "https://www.toutiao.com/trending/7613319822642970667/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时05分 ~ 20时02分]"
+        },
+        {
+          "title": "如何评价 Apple 新发布的 Macbook Neo，4599 元起，有哪些亮点，值得入手吗？",
+          "url": "https://www.zhihu.com/question/2012656426984699325",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时05分 ~ 20时02分]"
         },
         {
           "title": "【数据看盘】北向资金联手机构扫货通鼎互联，游资与机构激烈博弈航天彩虹",
@@ -297,39 +367,43 @@
           "time_info": "[01时12分 ~ 07时03分]"
         },
         {
-          "title": "店员称vivo手机将涨10%-15%",
-          "url": "https://www.toutiao.com/trending/7613319822642970667/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时05分 ~ 18时09分]"
-        },
-        {
-          "title": "如何评价 Apple 新发布的 Macbook Neo，4599 元起，有哪些亮点，值得入手吗？",
-          "url": "https://www.zhihu.com/question/2012656426984699325",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时05分 ~ 18时09分]"
-        },
-        {
-          "title": "iPhone17e上手体验",
-          "url": "https://search.bilibili.com/all?keyword=iPhone17e%E4%B8%8A%E6%89%8B%E4%BD%93%E9%AA%8C",
+          "title": "苹果新品发布会全复盘",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A%E5%85%A8%E5%A4%8D%E7%9B%98",
           "source": "bilibili 热搜",
           "ranks": [
-            15,
-            17
+            20,
+            18,
+            13
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时05分 ~ 18时09分]"
+          "time_info": "[15时58分 ~ 20时02分]"
+        },
+        {
+          "title": "雷军回应手机内存芯片价格上涨",
+          "url": "https://www.douyin.com/hot/2419523",
+          "source": "抖音",
+          "ranks": [
+            16,
+            20,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时58分 ~ 20时02分]"
+        },
+        {
+          "title": "高中生现场直击苹果发布会",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E4%B8%AD%E7%94%9F%E7%8E%B0%E5%9C%BA%E7%9B%B4%E5%87%BB%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时58分 ~ 20时02分]"
         },
         {
           "title": "iPhone 17e上手体验",
@@ -343,42 +417,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时05分 ~ 18时09分]"
-        },
-        {
-          "title": "雷军回应手机内存芯片价格上涨",
-          "url": "https://www.douyin.com/hot/2419523",
-          "source": "抖音",
-          "ranks": [
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时58分 ~ 18时09分]"
-        },
-        {
-          "title": "苹果新品发布会全复盘",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A%E5%85%A8%E5%A4%8D%E7%9B%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时58分 ~ 18时09分]"
-        },
-        {
-          "title": "高中生现场直击苹果发布会",
-          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E4%B8%AD%E7%94%9F%E7%8E%B0%E5%9C%BA%E7%9B%B4%E5%87%BB%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时58分 ~ 18时09分]"
         },
         {
           "title": "雷军回应小米手机是否涨价",
@@ -428,7 +466,7 @@
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "开年即迎“颠覆性”技术！华为896线激光雷达上车 比亚迪将发第二代刀片电池",
@@ -480,6 +518,17 @@
           "time_info": "[13时05分 ~ 15时58分]"
         },
         {
+          "title": "比亚迪王传福：第二代刀片电池9分钟“充饱”",
+          "url": "https://wallstreetcn.com/livenews/3064459",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
           "title": "研究机构New Automotive公布的数据显示，特斯拉(TSLA.O)2月在英国售出2208辆汽车，同比下降45.2%。",
           "url": "https://flash.jin10.com/detail/20260305124211423800",
           "source": "金十数据",
@@ -489,6 +538,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
+        },
+        {
+          "title": "全国人大代表周燕芳：构建国家级智驾数据共享标准，推动新能源车险高质量发展",
+          "url": "https://wallstreetcn.com/livenews/3064447",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "比亚迪将发布第二代刀片电池",
