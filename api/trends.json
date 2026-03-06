@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T05:01:45.351546+08:00",
-  "total_titles_processed": 530,
+  "generated_at": "2026-03-07T07:01:45.322909+08:00",
+  "total_titles_processed": 571,
   "failed_sources": [],
   "trends": [
     {
@@ -38,8 +38,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时59分 ~ 05时01分]"
+          "appearance_count": 3,
+          "time_info": "[03时59分 ~ 07时01分]"
         },
         {
           "title": "据英国金融时报：英国央行就贷款机构对MFS的敞口提出质疑。",
@@ -113,8 +113,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 07时01分]"
         },
         {
           "title": "苹果新品发布会全复盘",
@@ -127,8 +127,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 07时01分]"
         },
         {
           "title": "美联储Hammack：这份（美国非农）就业报告确实令人失望。 我们可能需要在相当长一段时期内按兵不动。 我们应该讨论缩表。",
@@ -137,7 +137,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -148,7 +148,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         }
@@ -166,8 +166,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 07时01分]"
         },
         {
           "title": "充电焦虑可能要被比亚迪彻底解决了",
@@ -228,7 +228,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
