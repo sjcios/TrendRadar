@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T19:18:58.564000+08:00",
-  "total_titles_processed": 1166,
+  "generated_at": "2026-03-06T22:07:07.744447+08:00",
+  "total_titles_processed": 1326,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "【早报】经济主题记者会今日将举行；央行将开展8000亿元买断式逆回购操作",
@@ -30,6 +30,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时59分 ~ 19时18分]"
+        },
+        {
+          "title": "央行开展8000亿元买断式逆回购",
+          "url": "https://www.douyin.com/hot/2420348",
+          "source": "抖音",
+          "ranks": [
+            14,
+            8,
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时14分 ~ 22时07分]"
         },
         {
           "title": "央行今年将降准降息",
@@ -94,22 +108,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
-        },
-        {
-          "title": "央行开展8000亿元买断式逆回购",
-          "url": "https://www.douyin.com/hot/2420348",
-          "source": "抖音",
-          "ranks": [
-            14,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时14分 ~ 19时18分]"
         },
         {
           "title": "央行明日开展8000亿元买断式逆回购操作 3月流动性将保持充裕",
@@ -141,11 +142,23 @@
           "url": "https://www.douyin.com/hot/2421163",
           "source": "抖音",
           "ranks": [
-            23
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时59分 ~ 22时07分]"
+        },
+        {
+          "title": "央行开展买断式逆回购操作8000亿元",
+          "url": "https://www.toutiao.com/trending/7613241096664088586/",
+          "source": "今日头条",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时59分 ~ 19时18分]"
+          "time_info": "[22时06分 ~ 22时07分]"
         },
         {
           "title": "交易员们完全消化欧洲央行今年将加息25个基点的预期。",
@@ -165,7 +178,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -176,7 +189,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -239,7 +252,7 @@
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "比亚迪发布第二代刀片电池，宣称让充电和加油一样快，-30°C 只多 3 分钟，这会对燃油车造成冲击吗？",
@@ -250,8 +263,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时14分 ~ 19时18分]"
+          "appearance_count": 7,
+          "time_info": "[13时14分 ~ 22时07分]"
         },
         {
           "title": "比亚迪：第二代刀片电池9分钟充饱",
@@ -263,6 +276,21 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时47分 ~ 08时02分]"
+        },
+        {
+          "title": "燃油时代落幕?比亚迪闪充炸场",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351451&amp;topic_name=%E7%87%83%E6%B2%B9%E6%97%B6%E4%BB%A3%E8%90%BD%E5%B9%95%3F%E6%AF%94%E4%BA%9A%E8%BF%AA%E9%97%AA%E5%85%85%E7%82%B8%E5%9C%BA",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            18,
+            21,
+            26,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时14分 ~ 22时07分]"
         },
         {
           "title": "比亚迪发布第二代刀片电池及闪充技术，5 分钟充好，9 分钟充饱，这在业内是什么水平？哪些信息值得关注？",
@@ -295,20 +323,6 @@
           "ranks": [
             8,
             7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时14分 ~ 19时18分]"
-        },
-        {
-          "title": "燃油时代落幕?比亚迪闪充炸场",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351451&amp;topic_name=%E7%87%83%E6%B2%B9%E6%97%B6%E4%BB%A3%E8%90%BD%E5%B9%95%3F%E6%AF%94%E4%BA%9A%E8%BF%AA%E9%97%AA%E5%85%85%E7%82%B8%E5%9C%BA",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            18,
-            21,
-            26
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -351,6 +365,39 @@
           "time_info": "[13时14分 ~ 15时55分]"
         },
         {
+          "title": "比亚迪新一代充电桩闪现全国",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%96%B0%E4%B8%80%E4%BB%A3%E5%85%85%E7%94%B5%E6%A1%A9%E9%97%AA%E7%8E%B0%E5%85%A8%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时06分 ~ 22时07分]"
+        },
+        {
+          "title": "比亚迪兆瓦闪充2.0体验",
+          "url": "https://www.toutiao.com/trending/7613674115765174313/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时06分 ~ 22时07分]"
+        },
+        {
+          "title": "充电焦虑可能要被比亚迪彻底解决了",
+          "url": "https://www.toutiao.com/trending/7614075570460036649/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时06分 ~ 22时07分]"
+        },
+        {
           "title": "比亚迪零下20℃极寒环境下充电测试",
           "url": "https://www.toutiao.com/trending/7614032881773448714/",
           "source": "今日头条",
@@ -368,7 +415,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -420,11 +467,12 @@
             19,
             24,
             22,
-            30
+            30,
+            29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时47分 ~ 19时18分]"
+          "appearance_count": 10,
+          "time_info": "[03时47分 ~ 22时07分]"
         },
         {
           "title": "不想女儿玩手机宝爸手搓了个游乐场",
@@ -545,8 +593,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时14分 ~ 19时18分]"
+          "appearance_count": 7,
+          "time_info": "[13时14分 ~ 22时07分]"
         },
         {
           "title": "软银寻求创纪录的400亿美元贷款投资OpenAI",
