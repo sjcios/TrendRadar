@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T03:01:36.934399+08:00",
-  "total_titles_processed": 427,
+  "generated_at": "2026-03-08T03:43:29.907521+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 03时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 03时43分]"
         },
         {
           "title": "央行连续16个月增持黄金",
@@ -67,8 +67,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 03时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 03时43分]"
         },
         {
           "title": "如何评价 Apple 全新推出的 Studio Display XDR，有哪些细节值得关注？",
@@ -121,11 +121,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             24,
-            28
+            28,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 03时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 03时43分]"
         }
       ]
     }
