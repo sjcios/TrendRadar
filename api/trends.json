@@ -1,23 +1,151 @@
 {
-  "generated_at": "2026-03-07T12:48:00.284565+08:00",
-  "total_titles_processed": 821,
+  "generated_at": "2026-03-07T14:04:34.806680+08:00",
+  "total_titles_processed": 902,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "苹果 Apple Mac iPhone 手机",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "面对手机集体涨价，普通消费者和手机厂商中谁将受最大冲击？",
+          "url": "https://www.zhihu.com/question/2011191797058148248",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时54分 ~ 14时04分]"
+        },
+        {
+          "title": "苹果春季新品快速体验",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%98%A5%E5%AD%A3%E6%96%B0%E5%93%81%E5%BF%AB%E9%80%9F%E4%BD%93%E9%AA%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            9,
+            13,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 07时55分]"
+        },
+        {
+          "title": "苹果新品发布会全复盘",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A%E5%85%A8%E5%A4%8D%E7%9B%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            25,
+            22,
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 07时55分]"
+        },
+        {
+          "title": "苹果为什么不出低于一公斤的电脑？",
+          "url": "https://www.zhihu.com/question/2013008792070169856",
+          "source": "知乎",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时47分 ~ 14时04分]"
+        },
+        {
+          "title": "手机支付一定要打开这三道锁",
+          "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E6%94%AF%E4%BB%98%E4%B8%80%E5%AE%9A%E8%A6%81%E6%89%93%E5%BC%80%E8%BF%99%E4%B8%89%E9%81%93%E9%94%81",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时47分 ~ 14时04分]"
+        },
+        {
+          "title": "苹果新品短的发布会",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%96%B0%E5%93%81%E7%9F%AD%E7%9A%84%E5%8F%91%E5%B8%83%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时47分 ~ 14时04分]"
+        },
+        {
+          "title": "50岁女子深夜摸黑刷手机突发失明",
+          "url": "https://www.baidu.com/s?wd=50%E5%B2%81%E5%A5%B3%E5%AD%90%E6%B7%B1%E5%A4%9C%E6%91%B8%E9%BB%91%E5%88%B7%E6%89%8B%E6%9C%BA%E7%AA%81%E5%8F%91%E5%A4%B1%E6%98%8E",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时47分 ~ 12时48分]"
+        },
+        {
+          "title": "美联储Hammack：这份（美国非农）就业报告确实令人失望。 我们可能需要在相当长一段时期内按兵不动。 我们应该讨论缩表。",
+          "url": "https://wallstreetcn.com/livenews/3065455",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "美联储Hammack：黄金不会成为美元的竞争对手。",
+          "url": "https://wallstreetcn.com/livenews/3065454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "下面用的已经是苹果二十几了",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%8B%E9%9D%A2%E7%94%A8%E7%9A%84%E5%B7%B2%E7%BB%8F%E6%98%AF%E8%8B%B9%E6%9E%9C%E4%BA%8C%E5%8D%81%E5%87%A0%E4%BA%86&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时04分"
+        },
+        {
+          "title": "如何看待苹果发布的 Macbook Neo，将会对 win 阵营轻薄本产生什么影响？",
+          "url": "https://www.zhihu.com/question/2012667003220017786",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时04分"
+        }
+      ]
+    },
     {
       "keyword_group": "央行 抖音 小红书",
       "match_count": 10,
       "titles": [
-        {
-          "title": "据安塔拉通讯社报道，印度尼西亚可能再从央行向银行划拨100万亿印尼盾的政府资金，以提振信贷。",
-          "url": "https://flash.jin10.com/detail/20260307120638639800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时48分"
-        },
         {
           "title": "英国央行质询银行业在MFS暴雷问题上的风险敞口。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3065363",
@@ -39,6 +167,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
+        },
+        {
+          "title": "据安塔拉通讯社报道，印度尼西亚可能再从央行向银行划拨100万亿印尼盾的政府资金，以提振信贷。",
+          "url": "https://flash.jin10.com/detail/20260307120638639800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 14时04分]"
         },
         {
           "title": "南非央行行长：央行将为下一次货币政策会议重新制定风险情景。",
@@ -121,122 +261,8 @@
       ]
     },
     {
-      "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "面对手机集体涨价，普通消费者和手机厂商中谁将受最大冲击？",
-          "url": "https://www.zhihu.com/question/2011191797058148248",
-          "source": "知乎",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时54分 ~ 12时48分]"
-        },
-        {
-          "title": "苹果春季新品快速体验",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%98%A5%E5%AD%A3%E6%96%B0%E5%93%81%E5%BF%AB%E9%80%9F%E4%BD%93%E9%AA%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            9,
-            13,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 07时55分]"
-        },
-        {
-          "title": "苹果新品发布会全复盘",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A%E5%85%A8%E5%A4%8D%E7%9B%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            25,
-            22,
-            20,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 07时55分]"
-        },
-        {
-          "title": "苹果为什么不出低于一公斤的电脑？",
-          "url": "https://www.zhihu.com/question/2013008792070169856",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时47分 ~ 12时48分]"
-        },
-        {
-          "title": "手机支付一定要打开这三道锁",
-          "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E6%94%AF%E4%BB%98%E4%B8%80%E5%AE%9A%E8%A6%81%E6%89%93%E5%BC%80%E8%BF%99%E4%B8%89%E9%81%93%E9%94%81",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时47分 ~ 12时48分]"
-        },
-        {
-          "title": "苹果新品短的发布会",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%96%B0%E5%93%81%E7%9F%AD%E7%9A%84%E5%8F%91%E5%B8%83%E4%BC%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时47分 ~ 12时48分]"
-        },
-        {
-          "title": "50岁女子深夜摸黑刷手机突发失明",
-          "url": "https://www.baidu.com/s?wd=50%E5%B2%81%E5%A5%B3%E5%AD%90%E6%B7%B1%E5%A4%9C%E6%91%B8%E9%BB%91%E5%88%B7%E6%89%8B%E6%9C%BA%E7%AA%81%E5%8F%91%E5%A4%B1%E6%98%8E",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时47分 ~ 12时48分]"
-        },
-        {
-          "title": "美联储Hammack：这份（美国非农）就业报告确实令人失望。 我们可能需要在相当长一段时期内按兵不动。 我们应该讨论缩表。",
-          "url": "https://wallstreetcn.com/livenews/3065455",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "美联储Hammack：黄金不会成为美元的竞争对手。",
-          "url": "https://wallstreetcn.com/livenews/3065454",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        }
-      ]
-    },
-    {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "比亚迪发布第二代刀片电池，宣称让充电和加油一样快，-30°C 只多 3 分钟，这会对燃油车造成冲击吗？",
@@ -250,6 +276,28 @@
           "time_info": "[00时07分 ~ 07时55分]"
         },
         {
+          "title": "从比亚迪电动化技术收官之作看到什么",
+          "url": "https://www.toutiao.com/trending/7613363924054671401/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时04分"
+        },
+        {
+          "title": "比亚迪5分钟闪充冲击蔚来换电护城河",
+          "url": "https://www.toutiao.com/trending/7613798835642744878/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时47分 ~ 14时04分]"
+        },
+        {
           "title": "充电焦虑可能要被比亚迪彻底解决了",
           "url": "https://www.toutiao.com/trending/7614075570460036649/",
           "source": "今日头条",
@@ -260,17 +308,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时07分 ~ 05时01分]"
-        },
-        {
-          "title": "比亚迪5分钟闪充冲击蔚来换电护城河",
-          "url": "https://www.toutiao.com/trending/7613798835642744878/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时47分 ~ 12时48分]"
         },
         {
           "title": "比亚迪兆瓦闪充2.0体验",
