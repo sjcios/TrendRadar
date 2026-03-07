@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T04:52:32.760179+08:00",
-  "total_titles_processed": 507,
+  "generated_at": "2026-03-08T05:41:37.691273+08:00",
+  "total_titles_processed": 525,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 01时47分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 05时41分]"
         },
         {
           "title": "抖音逐玉剧粉开始发力了",
@@ -67,8 +67,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 04时52分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 05时41分]"
         },
         {
           "title": "如何评价 Apple 全新推出的 Studio Display XDR，有哪些细节值得关注？",
@@ -107,8 +107,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时47分 ~ 04时52分]"
+          "appearance_count": 3,
+          "time_info": "[01时47分 ~ 05时41分]"
         }
       ]
     },
@@ -124,11 +124,12 @@
             24,
             28,
             14,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 04时52分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 05时41分]"
         }
       ]
     }
