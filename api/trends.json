@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T05:41:37.691273+08:00",
-  "total_titles_processed": 525,
+  "generated_at": "2026-03-08T06:53:04.223700+08:00",
+  "total_titles_processed": 541,
   "failed_sources": [],
   "trends": [
     {
@@ -67,8 +67,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 05时41分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 06时53分]"
         },
         {
           "title": "如何评价 Apple 全新推出的 Studio Display XDR，有哪些细节值得关注？",
@@ -95,6 +95,23 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "融资问题难解！OpenAI与甲骨文放弃“旗舰数据中心扩建计划”，芯片股应声下挫",
+          "url": "https://wallstreetcn.com/articles/3766935",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时52分 ~ 06时53分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 1,
       "titles": [
@@ -104,11 +121,12 @@
           "source": "微博",
           "ranks": [
             30,
-            28
+            28,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时47分 ~ 05时41分]"
+          "appearance_count": 5,
+          "time_info": "[01时47分 ~ 06时53分]"
         }
       ]
     },
@@ -125,11 +143,12 @@
             28,
             14,
             29,
-            30
+            30,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 05时41分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 06时53分]"
         }
       ]
     }
