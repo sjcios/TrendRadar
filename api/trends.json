@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T17:01:51.078823+08:00",
-  "total_titles_processed": 1005,
+  "generated_at": "2026-03-08T17:56:14.284075+08:00",
+  "total_titles_processed": 1049,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,38 @@
           "source": "抖音",
           "ranks": [
             29,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时54分 ~ 17时01分]"
+          "appearance_count": 12,
+          "time_info": "[00时54分 ~ 17时56分]"
+        },
+        {
+          "title": "抖音精选为每一种选择喝彩",
+          "url": "https://www.douyin.com/hot/2422892",
+          "source": "抖音",
+          "ranks": [
+            14,
+            15,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时02分 ~ 17时56分]"
+        },
+        {
+          "title": "【早报】事关货币政策，潘功胜发声；央行连续第16个月增持黄金",
+          "url": "https://www.cls.cn/detail/2306201",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时02分 ~ 17时56分]"
         },
         {
           "title": "抖音逐玉剧粉开始发力了",
@@ -31,31 +58,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时54分 ~ 15时45分]"
-        },
-        {
-          "title": "抖音精选为每一种选择喝彩",
-          "url": "https://www.douyin.com/hot/2422892",
-          "source": "抖音",
-          "ranks": [
-            14,
-            15,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时02分 ~ 17时01分]"
-        },
-        {
-          "title": "【早报】事关货币政策，潘功胜发声；央行连续第16个月增持黄金",
-          "url": "https://www.cls.cn/detail/2306201",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时02分 ~ 17时01分]"
         },
         {
           "title": "央行连续16个月增持黄金",
@@ -145,6 +147,50 @@
       ]
     },
     {
+      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "奔驰有可能统治F1新赛季吗",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A5%94%E9%A9%B0%E6%9C%89%E5%8F%AF%E8%83%BD%E7%BB%9F%E6%B2%BBF1%E6%96%B0%E8%B5%9B%E5%AD%A3%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            28,
+            14,
+            29,
+            30,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 06时53分]"
+        },
+        {
+          "title": "比亚迪再谈闪充是否会影响电池寿命",
+          "url": "https://www.toutiao.com/trending/7614701339133771795/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 17时56分]"
+        },
+        {
+          "title": "比亚迪李云飞谈“换电和闪充之争”",
+          "url": "https://www.toutiao.com/trending/7614711393291357747/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
@@ -173,39 +219,6 @@
       ]
     },
     {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "奔驰有可能统治F1新赛季吗",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A5%94%E9%A9%B0%E6%9C%89%E5%8F%AF%E8%83%BD%E7%BB%9F%E6%B2%BBF1%E6%96%B0%E8%B5%9B%E5%AD%A3%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            28,
-            14,
-            29,
-            30,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 06时53分]"
-        },
-        {
-          "title": "比亚迪李云飞谈“换电和闪充之争”",
-          "url": "https://www.toutiao.com/trending/7614711393291357747/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -216,7 +229,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时01分"
         }
