@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-09T04:54:53.413300+08:00",
-  "total_titles_processed": 446,
+  "generated_at": "2026-03-09T05:47:41.079945+08:00",
+  "total_titles_processed": 473,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 04时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 05时47分]"
         },
         {
           "title": "老人每天刷手机到凌晨近视2300度",
@@ -25,11 +25,12 @@
           "ranks": [
             25,
             15,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 04时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 05时47分]"
         },
         {
           "title": "中电信量子集团：与所谓“量子通信手机样品”无任何关联",
@@ -40,19 +41,20 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 04时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 05时47分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)即将推出更高端的AirPods、MacBook和iPhone系列。",
           "url": "https://flash.jin10.com/detail/20260309033901550800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时54分 ~ 05时47分]"
         },
         {
           "title": "大山中 手机欠费的他打通了119",
@@ -80,8 +82,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 04时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 05时47分]"
         },
         {
           "title": "抖音直播盛典红毯好养眼",
@@ -90,7 +92,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
         },
@@ -118,11 +120,12 @@
           "ranks": [
             16,
             17,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 04时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 05时47分]"
         }
       ]
     }
