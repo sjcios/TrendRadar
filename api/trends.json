@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-03-08T07:45:02.443285+08:00",
-  "total_titles_processed": 594,
+  "generated_at": "2026-03-08T13:02:50.057102+08:00",
+  "total_titles_processed": 801,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "抖音直播盛典晚会",
           "url": "https://www.douyin.com/hot/2422613",
           "source": "抖音",
           "ranks": [
-            29
+            29,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 04时52分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 13时02分]"
         },
         {
           "title": "央行连续16个月增持黄金",
@@ -35,11 +36,12 @@
           "url": "https://www.douyin.com/hot/2422419",
           "source": "抖音",
           "ranks": [
-            27
+            27,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 01时47分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 13时02分]"
         },
         {
           "title": "潘功胜：央行将实施好适度宽松的货币政策 保持社会融资条件相对宽松",
@@ -51,12 +53,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时55分 ~ 01时47分]"
+        },
+        {
+          "title": "【早报】事关货币政策，潘功胜发声；央行连续第16个月增持黄金",
+          "url": "https://www.cls.cn/detail/2306201",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "抖音精选为每一种选择喝彩",
+          "url": "https://www.douyin.com/hot/2422892",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         }
       ]
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "手机放大身份证竟藏微缩字母",
@@ -91,6 +115,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时54分 ~ 00时55分]"
+        },
+        {
+          "title": "去动物园竟被猴子投喂苹果",
+          "url": "https://www.toutiao.com/trending/7613316388979474473/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         }
       ]
     },
@@ -105,7 +140,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -119,6 +154,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时52分 ~ 06时53分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "奔驰有可能统治F1新赛季吗",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A5%94%E9%A9%B0%E6%9C%89%E5%8F%AF%E8%83%BD%E7%BB%9F%E6%B2%BBF1%E6%96%B0%E8%B5%9B%E5%AD%A3%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            28,
+            14,
+            29,
+            30,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 06时53分]"
+        },
+        {
+          "title": "比亚迪李云飞谈“换电和闪充之争”",
+          "url": "https://www.toutiao.com/trending/7614711393291357747/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         }
       ]
     },
@@ -139,28 +207,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时47分 ~ 07时45分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "奔驰有可能统治F1新赛季吗",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A5%94%E9%A9%B0%E6%9C%89%E5%8F%AF%E8%83%BD%E7%BB%9F%E6%B2%BBF1%E6%96%B0%E8%B5%9B%E5%AD%A3%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            28,
-            14,
-            29,
-            30,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 06时53分]"
         }
       ]
     }
