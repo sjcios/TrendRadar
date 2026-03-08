@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-09T01:51:33.699018+08:00",
-  "total_titles_processed": 356,
+  "generated_at": "2026-03-09T03:03:21.559110+08:00",
+  "total_titles_processed": 389,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 03时03分]"
         },
         {
           "title": "老人每天刷手机到凌晨近视2300度",
@@ -24,11 +24,12 @@
           "source": "百度热搜",
           "ranks": [
             25,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 03时03分]"
         },
         {
           "title": "中电信量子集团：与所谓“量子通信手机样品”无任何关联",
@@ -38,8 +39,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 03时03分]"
         },
         {
           "title": "大山中 手机欠费的他打通了119",
@@ -48,7 +49,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         }
@@ -66,8 +67,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 03时03分]"
         },
         {
           "title": "抖音直播盛典晚会",
@@ -92,11 +93,12 @@
           "source": "知乎",
           "ranks": [
             16,
-            17
+            17,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 03时03分]"
         }
       ]
     }
