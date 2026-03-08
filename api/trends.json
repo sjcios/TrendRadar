@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-09T05:47:41.079945+08:00",
-  "total_titles_processed": 473,
+  "generated_at": "2026-03-09T06:54:03.995221+08:00",
+  "total_titles_processed": 517,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 05时47分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 06时54分]"
         },
         {
           "title": "老人每天刷手机到凌晨近视2300度",
@@ -26,11 +26,12 @@
             25,
             15,
             16,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 05时47分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 06时54分]"
         },
         {
           "title": "中电信量子集团：与所谓“量子通信手机样品”无任何关联",
@@ -38,11 +39,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 05时47分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 06时54分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)即将推出更高端的AirPods、MacBook和iPhone系列。",
@@ -82,8 +84,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 05时47分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 06时54分]"
         },
         {
           "title": "抖音直播盛典红毯好养眼",
@@ -124,8 +126,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 05时47分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 06时54分]"
         }
       ]
     }
