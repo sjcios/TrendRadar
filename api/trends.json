@@ -1,288 +1,33 @@
 {
-  "generated_at": "2026-03-09T22:41:25.365133+08:00",
-  "total_titles_processed": 1319,
+  "generated_at": "2026-03-10T01:38:53.402754+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 10,
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
       "titles": [
         {
-          "title": "中国电信展示量子通信手机系谣言",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B5%E4%BF%A1%E5%B1%95%E7%A4%BA%E9%87%8F%E5%AD%90%E9%80%9A%E4%BF%A1%E6%89%8B%E6%9C%BA%E7%B3%BB%E8%B0%A3%E8%A8%80",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 07时50分]"
-        },
-        {
-          "title": "老人每天刷手机到凌晨近视2300度",
-          "url": "https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E6%AF%8F%E5%A4%A9%E5%88%B7%E6%89%8B%E6%9C%BA%E5%88%B0%E5%87%8C%E6%99%A8%E8%BF%91%E8%A7%862300%E5%BA%A6",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            15,
-            16,
-            20,
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 07时50分]"
-        },
-        {
-          "title": "中电信量子集团：与所谓“量子通信手机样品”无任何关联",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32726613",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 07时50分]"
-        },
-        {
-          "title": "苹果回应Macmini断货",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%9B%9E%E5%BA%94Macmini%E6%96%AD%E8%B4%A7%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时02分 ~ 16时03分]"
-        },
-        {
-          "title": "市场消息：苹果(AAPL.O)即将推出更高端的AirPods、MacBook和iPhone系列。",
-          "url": "https://flash.jin10.com/detail/20260309033901550800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时54分 ~ 05时47分]"
-        },
-        {
-          "title": "何小鹏：应该向华为、苹果等企业学习",
-          "url": "https://www.toutiao.com/trending/7615177625836736026/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时12分"
-        },
-        {
-          "title": "建议整治手机App侵犯个人隐私",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%95%B4%E6%B2%BB%E6%89%8B%E6%9C%BAApp%E4%BE%B5%E7%8A%AF%E4%B8%AA%E4%BA%BA%E9%9A%90%E7%A7%81%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时41分"
-        },
-        {
-          "title": "何小鹏：应该向华为苹果等企业学习",
-          "url": "https://www.baidu.com/s?wd=%E4%BD%95%E5%B0%8F%E9%B9%8F%EF%BC%9A%E5%BA%94%E8%AF%A5%E5%90%91%E5%8D%8E%E4%B8%BA%E8%8B%B9%E6%9E%9C%E7%AD%89%E4%BC%81%E4%B8%9A%E5%AD%A6%E4%B9%A0",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时12分"
-        },
-        {
-          "title": "大山中 手机欠费的他打通了119",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%B1%B1%E4%B8%AD+%E6%89%8B%E6%9C%BA%E6%AC%A0%E8%B4%B9%E7%9A%84%E4%BB%96%E6%89%93%E9%80%9A%E4%BA%86119",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
-          "title": "苹果首款折叠机要来了",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E9%A6%96%E6%AC%BE%E6%8A%98%E5%8F%A0%E6%9C%BA%E8%A6%81%E6%9D%A5%E4%BA%86%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "央行 抖音 小红书",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "抖音精选为每一种选择喝彩",
-          "url": "https://www.douyin.com/hot/2422892",
-          "source": "抖音",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 07时50分]"
-        },
-        {
-          "title": "AG成员赛后齐发抖音",
-          "url": "https://www.douyin.com/hot/2423994",
-          "source": "抖音",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时02分 ~ 16时03分]"
-        },
-        {
-          "title": "交易员预期英国央行今年加息的可能性超过50%。",
-          "url": "https://wallstreetcn.com/livenews/3066328",
+          "title": "OpenAI同意收购AI安全初创公司PromptFoo。",
+          "url": "https://wallstreetcn.com/livenews/3066654",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时03分"
+          "time_info": "01时38分"
         },
         {
-          "title": "交易员预计今年英国央行加息的概率为50%。",
-          "url": "https://flash.jin10.com/detail/20260309153541273800",
+          "title": "OpenAI：同意收购AI安全初创公司PromptFoo。",
+          "url": "https://flash.jin10.com/detail/20260310010121184800",
           "source": "金十数据",
           "ranks": [
-            7
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时03分"
-        },
-        {
-          "title": "IMF总裁格奥尔基耶娃：在日本，我们目睹央行通过一系列政策决策，灵活应对摆脱长期低于目标通胀的局面。",
-          "url": "https://flash.jin10.com/detail/20260309123057323800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时14分"
-        },
-        {
-          "title": "丹斯克银行：短期通胀预期上升，但各大央行不应加息应对",
-          "url": "https://flash.jin10.com/detail/20260309152728039800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时03分"
-        },
-        {
-          "title": "能源价格飙涨推升鹰派预期，交易员押注欧洲央行年内加息两次",
-          "url": "https://flash.jin10.com/detail/20260309152514067800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时03分"
-        },
-        {
-          "title": "抖音直播盛典红毯好养眼",
-          "url": "https://www.douyin.com/hot/2423113",
-          "source": "抖音",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时54分"
-        },
-        {
-          "title": "抖音电商：累计处置侵权仿冒达人账号1.1万个，处置仿冒带货商品超6700个",
-          "url": "https://wallstreetcn.com/livenews/3066432",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时12分"
-        },
-        {
-          "title": "抖音直播盛典晚会",
-          "url": "https://www.douyin.com/hot/2422613",
-          "source": "抖音",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "政府工作报告提到，2025 年新能源汽车年产量超过 1600 万辆，如何解读这一数据？",
-          "url": "https://www.zhihu.com/question/2012820068103378470",
-          "source": "知乎",
-          "ranks": [
-            16,
-            17,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 07时50分]"
-        },
-        {
-          "title": "比亚迪闪充会是车市新竞争的起点吗",
-          "url": "https://www.toutiao.com/trending/7615092109908921875/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时02分 ~ 16时03分]"
-        },
-        {
-          "title": "奔驰新车平台首落中国，要用吉利架构",
-          "url": "https://wallstreetcn.com/livenews/3066452",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时12分"
+          "time_info": "01时38分"
         }
       ]
     },
@@ -291,15 +36,49 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "LOL",
-          "url": "https://s.weibo.com/weibo?q=LOL&t=31&band_rank=19&Refer=top",
-          "source": "微博",
+          "title": "LOL绝活王者能战胜职业选手吗",
+          "url": "https://search.bilibili.com/all?keyword=LOL%E7%BB%9D%E6%B4%BB%E7%8E%8B%E8%80%85%E8%83%BD%E6%88%98%E8%83%9C%E8%81%8C%E4%B8%9A%E9%80%89%E6%89%8B%E5%90%97",
+          "source": "bilibili 热搜",
           "ranks": [
-            19
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时02分 ~ 16时03分]"
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 Apple Mac iPhone 手机",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "苹果首款折叠机要来了",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E9%A6%96%E6%AC%BE%E6%8A%98%E5%8F%A0%E6%9C%BA%E8%A6%81%E6%9D%A5%E4%BA%86%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "央行 抖音 小红书",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "英国央行面临通胀回升至5%上方的风险，交易员提高加息押注",
+          "url": "https://wallstreetcn.com/livenews/3066645",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时38分"
         }
       ]
     }
