@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-09T07:50:05.123192+08:00",
-  "total_titles_processed": 586,
+  "generated_at": "2026-03-09T13:14:12.856878+08:00",
+  "total_titles_processed": 821,
   "failed_sources": [],
   "trends": [
     {
@@ -74,7 +74,7 @@
     },
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "抖音精选为每一种选择喝彩",
@@ -87,6 +87,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时57分 ~ 07时50分]"
+        },
+        {
+          "title": "IMF总裁格奥尔基耶娃：在日本，我们目睹央行通过一系列政策决策，灵活应对摆脱长期低于目标通胀的局面。",
+          "url": "https://flash.jin10.com/detail/20260309123057323800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
         },
         {
           "title": "抖音直播盛典红毯好养眼",
