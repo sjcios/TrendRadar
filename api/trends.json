@@ -1,148 +1,11 @@
 {
-  "generated_at": "2026-03-11T03:55:17.380578+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-03-11T05:04:16.578092+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "新能源汽车涨价潮来临",
-          "url": "https://www.toutiao.com/trending/7615098898055462954/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时36分 ~ 03时55分]"
-        },
-        {
-          "title": "新能源汽车“涨价潮”来了",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E2%80%9C%E6%B6%A8%E4%BB%B7%E6%BD%AE%E2%80%9D%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时36分 ~ 03时55分]"
-        },
-        {
-          "title": "宝马销售疑贬小米：180天造的车不敢开",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%9D%E9%A9%AC%E9%94%80%E5%94%AE%E7%96%91%E8%B4%AC%E5%B0%8F%E7%B1%B3%EF%BC%9A180%E5%A4%A9%E9%80%A0%E7%9A%84%E8%BD%A6%E4%B8%8D%E6%95%A2%E5%BC%80",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时36分 ~ 03时55分]"
-        },
-        {
-          "title": "比亚迪李云飞回应闪充伤电池",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%9D%8E%E4%BA%91%E9%A3%9E%E5%9B%9E%E5%BA%94%E9%97%AA%E5%85%85%E4%BC%A4%E7%94%B5%E6%B1%A0",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时54分 ~ 03时55分]"
-        },
-        {
-          "title": "宝马销售贬低小米汽车 小米高管回应",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%9D%E9%A9%AC%E9%94%80%E5%94%AE%E8%B4%AC%E4%BD%8E%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6+%E5%B0%8F%E7%B1%B3%E9%AB%98%E7%AE%A1%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时54分 ~ 03时55分]"
-        },
-        {
-          "title": "闪充站怎么帮比亚迪守住销冠地位",
-          "url": "https://www.toutiao.com/trending/7615618411669753407/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "影视飓风上手Macbook Neo",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8E%E4%B8%8A%E6%89%8BMacbook%20Neo",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时36分 ~ 03时55分]"
-        },
-        {
-          "title": "学生党要冲MacBook Neo吗",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AD%A6%E7%94%9F%E5%85%9A%E8%A6%81%E5%86%B2MacBook%20Neo%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时36分 ~ 03时55分]"
-        },
-        {
-          "title": "MacBook Pro顶配开箱",
-          "url": "https://search.bilibili.com/all?keyword=MacBook%20Pro%E9%A1%B6%E9%85%8D%E5%BC%80%E7%AE%B1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时36分 ~ 03时55分]"
-        },
-        {
-          "title": "开箱苹果新品显示器",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BC%80%E7%AE%B1%E8%8B%B9%E6%9E%9C%E6%96%B0%E5%93%81%E6%98%BE%E7%A4%BA%E5%99%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时36分 ~ 03时55分]"
-        },
-        {
-          "title": "存储暴涨倒逼国产手机调价",
-          "url": "https://www.toutiao.com/trending/7614698682335903750/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时36分"
-        }
-      ]
-    },
-    {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 5,
+      "match_count": 13,
       "titles": [
         {
           "title": "抖音十二生肖创意大赛",
@@ -153,8 +16,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时36分 ~ 03时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时36分 ~ 05时04分]"
         },
         {
           "title": "保罗乔治空降抖音球风挑战赛",
@@ -175,9 +38,75 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时55分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：当前形势非常不同于2022年。 （相比2022年，当前的欧元区）通胀、能源、经济都更容易受控制。 我们消化各种冲击的能力提高了。 不确定性、波动性的程度让人非常惊讶。 波动性的程度让人难以掌控局势。 将采取必要措施来控制（欧元区的）通胀。 还无法确切表明我们会对利率作何决定。 我们不会匆忙做决定，而会分析一切因素（之后再做决定）。 不允许欧洲重演2022-23年那样的通胀。",
+          "url": "https://wallstreetcn.com/livenews/3067557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：目前存在如此大的不确定性，我无法说明我们将如何调整利率。",
+          "url": "https://flash.jin10.com/detail/20260311043147683800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：我们将采取必要措施，将通胀控制在可控范围内。",
+          "url": "https://flash.jin10.com/detail/20260311042927058800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：我们完全没有处于滞胀局面。",
+          "url": "https://flash.jin10.com/detail/20260311042841843800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：我不会让欧洲再次感受到2022/2023年的通胀。",
+          "url": "https://flash.jin10.com/detail/20260311042725837800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：不确定性和波动性程度令人非常惊讶。",
+          "url": "https://flash.jin10.com/detail/20260311042105131800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
         },
         {
           "title": "欧洲机构巨头逆势扫货，押注市场对央行加息的定价“反应过度”",
@@ -186,9 +115,31 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时55分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：我们有更强的能力来应对冲击。",
+          "url": "https://flash.jin10.com/detail/20260311042033505800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：我们与2022年的情况截然不同。",
+          "url": "https://flash.jin10.com/detail/20260311042026906800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
         },
         {
           "title": "巴克莱：预计墨西哥年底通胀率为4.1%，预计该国央行今年将降息三次、每次25个基点。",
@@ -196,6 +147,158 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "新能源汽车涨价潮来临",
+          "url": "https://www.toutiao.com/trending/7615098898055462954/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时36分 ~ 05时04分]"
+        },
+        {
+          "title": "新能源汽车“涨价潮”来了",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E2%80%9C%E6%B6%A8%E4%BB%B7%E6%BD%AE%E2%80%9D%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时36分 ~ 05时04分]"
+        },
+        {
+          "title": "宝马销售疑贬小米：180天造的车不敢开",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%9D%E9%A9%AC%E9%94%80%E5%94%AE%E7%96%91%E8%B4%AC%E5%B0%8F%E7%B1%B3%EF%BC%9A180%E5%A4%A9%E9%80%A0%E7%9A%84%E8%BD%A6%E4%B8%8D%E6%95%A2%E5%BC%80",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时36分 ~ 05时04分]"
+        },
+        {
+          "title": "宝马销售贬低小米汽车 小米高管回应",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%9D%E9%A9%AC%E9%94%80%E5%94%AE%E8%B4%AC%E4%BD%8E%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6+%E5%B0%8F%E7%B1%B3%E9%AB%98%E7%AE%A1%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时54分 ~ 05时04分]"
+        },
+        {
+          "title": "比亚迪李云飞回应闪充伤电池",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%9D%8E%E4%BA%91%E9%A3%9E%E5%9B%9E%E5%BA%94%E9%97%AA%E5%85%85%E4%BC%A4%E7%94%B5%E6%B1%A0",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时54分 ~ 03时55分]"
+        },
+        {
+          "title": "闪充站怎么帮比亚迪守住销冠地位",
+          "url": "https://www.toutiao.com/trending/7615618411669753407/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时36分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨1.96%，报7222.96点。 热门中概股里，蔚来初步收涨15%，世纪互联涨13.5%，文远知行涨7.2%，腾讯涨10%，阿里涨3.1%，百度涨2.4%，小鹏涨2.2%，美团跌1.5%，比亚迪跌1.5%。 ETF中，中概互联网指数ETF（KWEB）收涨1.47%，中国科技指数ETF（CQQQ）收涨1.37%。 XtrackersHarvest中证50（ASHS）收涨1.16%，德银嘉实沪深300指数ETF（ASHR）收涨0.51%。",
+          "url": "https://wallstreetcn.com/livenews/3067547",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 Apple Mac iPhone 手机",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "影视飓风上手Macbook Neo",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8E%E4%B8%8A%E6%89%8BMacbook%20Neo",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时36分 ~ 05时04分]"
+        },
+        {
+          "title": "学生党要冲MacBook Neo吗",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AD%A6%E7%94%9F%E5%85%9A%E8%A6%81%E5%86%B2MacBook%20Neo%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时36分 ~ 05时04分]"
+        },
+        {
+          "title": "MacBook Pro顶配开箱",
+          "url": "https://search.bilibili.com/all?keyword=MacBook%20Pro%E9%A1%B6%E9%85%8D%E5%BC%80%E7%AE%B1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时36分 ~ 05时04分]"
+        },
+        {
+          "title": "开箱苹果新品显示器",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BC%80%E7%AE%B1%E8%8B%B9%E6%9E%9C%E6%96%B0%E5%93%81%E6%98%BE%E7%A4%BA%E5%99%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时36分 ~ 05时04分]"
+        },
+        {
+          "title": "存储暴涨倒逼国产手机调价",
+          "url": "https://www.toutiao.com/trending/7614698682335903750/",
+          "source": "今日头条",
+          "ranks": [
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -215,8 +318,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时36分 ~ 03时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时36分 ~ 05时04分]"
         }
       ]
     }
