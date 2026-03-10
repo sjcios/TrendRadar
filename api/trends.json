@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-10T18:07:47.868323+08:00",
-  "total_titles_processed": 1190,
+  "generated_at": "2026-03-10T20:02:12.641293+08:00",
+  "total_titles_processed": 1326,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "抖音十二生肖创意大赛",
+          "url": "https://www.douyin.com/hot/2424401",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 20时02分]"
+        },
         {
           "title": "货币市场目前预计欧洲央行在12月前加息的概率为85%，低于周一晚些时候的100%。",
           "url": "https://flash.jin10.com/detail/20260310153910091800",
@@ -91,7 +102,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
         },
@@ -113,15 +124,37 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
+        },
+        {
+          "title": "小红书：将封禁主页所有公开笔记均为AI托管代发的账号",
+          "url": "https://wallstreetcn.com/livenews/3067229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
+          "title": "保罗乔治空降抖音球风挑战赛",
+          "url": "https://www.douyin.com/hot/2425707",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时01分"
         }
       ]
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "苹果首款折叠机要来了",
@@ -138,17 +171,6 @@
           "time_info": "[01时38分 ~ 07时55分]"
         },
         {
-          "title": "手机涨价潮来袭 多个老机型调价",
-          "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E6%B6%A8%E4%BB%B7%E6%BD%AE%E6%9D%A5%E8%A2%AD+%E5%A4%9A%E4%B8%AA%E8%80%81%E6%9C%BA%E5%9E%8B%E8%B0%83%E4%BB%B7",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时07分"
-        },
-        {
           "title": "机构：存储价格飙升，2026年智能手机终端零售价格上涨似乎不可避免",
           "url": "https://wallstreetcn.com/livenews/3067127",
           "source": "华尔街见闻-快讯",
@@ -158,6 +180,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时58分"
+        },
+        {
+          "title": "手机涨价潮来袭 多个老机型调价",
+          "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E6%B6%A8%E4%BB%B7%E6%BD%AE%E6%9D%A5%E8%A2%AD+%E5%A4%9A%E4%B8%AA%E8%80%81%E6%9C%BA%E5%9E%8B%E8%B0%83%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时07分 ~ 20时02分]"
         },
         {
           "title": "苹果折叠屏渲染图曝光：不对称设计",
@@ -195,6 +229,28 @@
           "time_info": "[13时01分 ~ 13时02分]"
         },
         {
+          "title": "手机涨价潮下老款机型遭疯抢",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E6%B6%A8%E4%BB%B7%E6%BD%AE%E4%B8%8B%E8%80%81%E6%AC%BE%E6%9C%BA%E5%9E%8B%E9%81%AD%E7%96%AF%E6%8A%A2%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 20时02分]"
+        },
+        {
+          "title": "罗永浩说手机行业好久没创新了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%B0%B8%E6%B5%A9%E8%AF%B4%E6%89%8B%E6%9C%BA%E8%A1%8C%E4%B8%9A%E5%A5%BD%E4%B9%85%E6%B2%A1%E5%88%9B%E6%96%B0%E4%BA%86%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 20时02分]"
+        },
+        {
           "title": "报道：苹果因等待新一代AI完工，推迟智能家居显示屏发布",
           "url": "https://wallstreetcn.com/livenews/3066691",
           "source": "华尔街见闻-快讯",
@@ -212,7 +268,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
         }
@@ -220,8 +276,30 @@
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 3,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "新能源汽车“涨价潮”来了",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E2%80%9C%E6%B6%A8%E4%BB%B7%E6%BD%AE%E2%80%9D%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 20时02分]"
+        },
+        {
+          "title": "比亚迪李云飞回应闪充伤电池",
+          "url": "https://www.toutiao.com/trending/7614743267980230675/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 20时02分]"
+        },
         {
           "title": "比亚迪蔚来回应闪充换电之争",
           "url": "https://www.toutiao.com/trending/7615414850428079666/",
@@ -234,6 +312,17 @@
           "time_info": "[13时01分 ~ 13时02分]"
         },
         {
+          "title": "小米高管回应宝马女销售言论",
+          "url": "https://www.douyin.com/hot/2425591",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 20时02分]"
+        },
+        {
           "title": "领汇e7将搭载比亚迪闪充技术",
           "url": "https://www.toutiao.com/trending/7615267871435440191/",
           "source": "今日头条",
@@ -243,6 +332,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时01分 ~ 13时02分]"
+        },
+        {
+          "title": "大众汽车：Scout车型目前的预订量已超过15万辆。计划在美国的Scout工厂生产一款大型奥迪SUV。",
+          "url": "https://flash.jin10.com/detail/20260310192955910800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "全新一代奥迪A6L开启预售",
