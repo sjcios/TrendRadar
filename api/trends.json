@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T05:04:16.578092+08:00",
-  "total_titles_processed": 470,
+  "generated_at": "2026-03-11T06:59:20.754028+08:00",
+  "total_titles_processed": 548,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "source": "抖音",
           "ranks": [
             23,
-            24
+            24,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时36分 ~ 03时55分]"
+          "appearance_count": 4,
+          "time_info": "[01时36分 ~ 06时59分]"
         },
         {
           "title": "法国央行：维持一季度GDP预期在增长0.2%-0.3%不变。 伊朗战争造成央行不确定性指标上升。",
@@ -49,7 +50,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -60,7 +61,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -71,7 +72,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -82,7 +83,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -93,7 +94,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -104,7 +105,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -126,7 +127,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -137,7 +138,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -166,8 +167,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时36分 ~ 05时04分]"
+          "appearance_count": 6,
+          "time_info": "[01时36分 ~ 06时59分]"
+        },
+        {
+          "title": "宝马销售疑贬小米：180天造的车不敢开",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%9D%E9%A9%AC%E9%94%80%E5%94%AE%E7%96%91%E8%B4%AC%E5%B0%8F%E7%B1%B3%EF%BC%9A180%E5%A4%A9%E9%80%A0%E7%9A%84%E8%BD%A6%E4%B8%8D%E6%95%A2%E5%BC%80",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时36分 ~ 06时59分]"
         },
         {
           "title": "新能源汽车“涨价潮”来了",
@@ -183,17 +195,6 @@
           "time_info": "[01时36分 ~ 05时04分]"
         },
         {
-          "title": "宝马销售疑贬小米：180天造的车不敢开",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%9D%E9%A9%AC%E9%94%80%E5%94%AE%E7%96%91%E8%B4%AC%E5%B0%8F%E7%B1%B3%EF%BC%9A180%E5%A4%A9%E9%80%A0%E7%9A%84%E8%BD%A6%E4%B8%8D%E6%95%A2%E5%BC%80",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时36分 ~ 05时04分]"
-        },
-        {
           "title": "宝马销售贬低小米汽车 小米高管回应",
           "url": "https://www.baidu.com/s?wd=%E5%AE%9D%E9%A9%AC%E9%94%80%E5%94%AE%E8%B4%AC%E4%BD%8E%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6+%E5%B0%8F%E7%B1%B3%E9%AB%98%E7%AE%A1%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
@@ -202,8 +203,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时54分 ~ 05时04分]"
+          "appearance_count": 5,
+          "time_info": "[03时54分 ~ 06时59分]"
         },
         {
           "title": "比亚迪李云飞回应闪充伤电池",
@@ -234,7 +235,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         }
@@ -252,8 +253,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时36分 ~ 05时04分]"
+          "appearance_count": 6,
+          "time_info": "[01时36分 ~ 06时59分]"
         },
         {
           "title": "学生党要冲MacBook Neo吗",
@@ -265,8 +266,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时36分 ~ 05时04分]"
+          "appearance_count": 6,
+          "time_info": "[01时36分 ~ 06时59分]"
         },
         {
           "title": "MacBook Pro顶配开箱",
@@ -275,11 +276,12 @@
           "ranks": [
             28,
             19,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时36分 ~ 05时04分]"
+          "appearance_count": 6,
+          "time_info": "[01时36分 ~ 06时59分]"
         },
         {
           "title": "开箱苹果新品显示器",
@@ -287,11 +289,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             21,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时36分 ~ 05时04分]"
+          "appearance_count": 6,
+          "time_info": "[01时36分 ~ 06时59分]"
         },
         {
           "title": "存储暴涨倒逼国产手机调价",
@@ -318,8 +321,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时36分 ~ 05时04分]"
+          "appearance_count": 6,
+          "time_info": "[01时36分 ~ 06时59分]"
         }
       ]
     }
