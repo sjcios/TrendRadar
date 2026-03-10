@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T07:55:11.535995+08:00",
-  "total_titles_processed": 658,
+  "generated_at": "2026-03-10T13:02:16.610740+08:00",
+  "total_titles_processed": 880,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "城堡证券预测市场误判美欧利率路径，欧洲央行料不会坚持升息",
@@ -39,6 +39,59 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
+        },
+        {
+          "title": "渣打银行：我们将英国央行3月降息的预期推迟至第二季度，并将今年后续的降息时间各推迟一个季度。",
+          "url": "https://flash.jin10.com/detail/20260310120613321800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 Apple Mac iPhone 手机",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "苹果首款折叠机要来了",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E9%A6%96%E6%AC%BE%E6%8A%98%E5%8F%A0%E6%9C%BA%E8%A6%81%E6%9D%A5%E4%BA%86%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            25,
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时38分 ~ 07时55分]"
+        },
+        {
+          "title": "手机市场将迎来全面涨价",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E5%B8%82%E5%9C%BA%E5%B0%86%E8%BF%8E%E6%9D%A5%E5%85%A8%E9%9D%A2%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
+        },
+        {
+          "title": "报道：苹果因等待新一代AI完工，推迟智能家居显示屏发布",
+          "url": "https://wallstreetcn.com/livenews/3066691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时55分"
         }
       ]
     },
@@ -71,33 +124,30 @@
       ]
     },
     {
-      "keyword_group": "苹果 Apple Mac iPhone 手机",
+      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
       "match_count": 2,
       "titles": [
         {
-          "title": "苹果首款折叠机要来了",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E9%A6%96%E6%AC%BE%E6%8A%98%E5%8F%A0%E6%9C%BA%E8%A6%81%E6%9D%A5%E4%BA%86%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
+          "title": "比亚迪蔚来回应闪充换电之争",
+          "url": "https://www.toutiao.com/trending/7615414850428079666/",
+          "source": "今日头条",
           "ranks": [
-            24,
-            25,
-            27,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
+        },
+        {
+          "title": "领汇e7将搭载比亚迪闪充技术",
+          "url": "https://www.toutiao.com/trending/7615267871435440191/",
+          "source": "今日头条",
+          "ranks": [
             29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时38分 ~ 07时55分]"
-        },
-        {
-          "title": "报道：苹果因等待新一代AI完工，推迟智能家居显示屏发布",
-          "url": "https://wallstreetcn.com/livenews/3066691",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时55分"
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
         }
       ]
     },
