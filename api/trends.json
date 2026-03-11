@@ -1,777 +1,106 @@
 {
-  "generated_at": "2026-03-11T22:39:30.122805+08:00",
-  "total_titles_processed": 1444,
+  "generated_at": "2026-03-12T01:40:05.306221+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "央行 抖音 小红书",
-      "match_count": 31,
-      "titles": [
-        {
-          "title": "保罗乔治空降抖音球风挑战赛",
-          "url": "https://www.douyin.com/hot/2425707",
-          "source": "抖音",
-          "ranks": [
-            23,
-            24,
-            21,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时36分 ~ 13时04分]"
-        },
-        {
-          "title": "韩国财长：如有必要，韩国将采取额外的市场行动。 若有需要，韩国财政部和央行将就回购及国债购买进行协调。 韩国将动用包括追加预算在内的所有可用政策工具。",
-          "url": "https://wallstreetcn.com/livenews/3067619",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时55分"
-        },
-        {
-          "title": "央行：深化业技融合 积极稳妥、安全有序推进金融领域人工智能应用",
-          "url": "https://www.cls.cn/detail/2309924",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时01分 ~ 22时39分]"
-        },
-        {
-          "title": "野村证券：预计英国央行将在4月和7月各降息25个基点，而此前的预测为3月和6月降息。",
-          "url": "https://flash.jin10.com/detail/20260311175029156800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时09分"
-        },
-        {
-          "title": "波兰央行行长格拉平斯基：波兰拥有570吨黄金储备。",
-          "url": "https://flash.jin10.com/detail/20260311221048457800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时39分"
-        },
-        {
-          "title": "俄罗斯央行：受油价下跌影响，2月份俄罗斯出口商外汇销售额环比下降31%。",
-          "url": "https://flash.jin10.com/detail/20260311221021619800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时39分"
-        },
-        {
-          "title": "抖音再战社交，“小火人”打头阵：上线世界广场，内测AI精灵聊天",
-          "url": "https://wallstreetcn.com/livenews/3068063",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时02分"
-        },
-        {
-          "title": "抖音十二生肖创意大赛",
-          "url": "https://www.douyin.com/hot/2424401",
-          "source": "抖音",
-          "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时36分 ~ 05时04分]"
-        },
-        {
-          "title": "路透调查：受访的58%的经济学家认为，两名鸽派学者加入日本央行不会使加息更加困难。",
-          "url": "https://flash.jin10.com/detail/20260311120618830800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时04分"
-        },
-        {
-          "title": "法国央行：维持一季度GDP预期在增长0.2%-0.3%不变。 伊朗战争造成央行不确定性指标上升。",
-          "url": "https://wallstreetcn.com/livenews/3067533",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时55分"
-        },
-        {
-          "title": "路透调查：预测中值显示，日本央行将于2027年第一季度加息至1.25%，2028年第一季度加息至1.50%。",
-          "url": "https://flash.jin10.com/detail/20260311120603547800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时04分"
-        },
-        {
-          "title": "路透调查：64位经济学家均表示，日本央行将于3月19日将基准利率维持在0.75%。",
-          "url": "https://flash.jin10.com/detail/20260311120547264800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时04分"
-        },
-        {
-          "title": "路透调查：受访的60%的经济学家预计日本央行将在6月底前将基准利率上调至1.00%（2月调查为58%）。",
-          "url": "https://flash.jin10.com/detail/20260311120535170800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时04分"
-        },
-        {
-          "title": "欧洲央行行长拉加德：当前形势非常不同于2022年。 （相比2022年，当前的欧元区）通胀、能源、经济都更容易受控制。 我们消化各种冲击的能力提高了。 不确定性、波动性的程度让人非常惊讶。 波动性的程度让人难以掌控局势。 将采取必要措施来控制（欧元区的）通胀。 还无法确切表明我们会对利率作何决定。 我们不会匆忙做决定，而会分析一切因素（之后再做决定）。 不允许欧洲重演2022-23年那样的通胀。",
-          "url": "https://wallstreetcn.com/livenews/3067557",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "交易员加大对欧洲央行到6月的加息押注，预计概率在60%。",
-          "url": "https://wallstreetcn.com/livenews/3067907",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时59分"
-        },
-        {
-          "title": "欧洲央行行长拉加德：目前存在如此大的不确定性，我无法说明我们将如何调整利率。",
-          "url": "https://flash.jin10.com/detail/20260311043147683800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "欧洲央行行长拉加德：我们将采取必要措施，将通胀控制在可控范围内。",
-          "url": "https://flash.jin10.com/detail/20260311042927058800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "交易者提高了对欧洲央行在6月加息的押注，预计有60%的概率加息。",
-          "url": "https://flash.jin10.com/detail/20260311154132296800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时59分"
-        },
-        {
-          "title": "欧洲央行行长拉加德：我们完全没有处于滞胀局面。",
-          "url": "https://flash.jin10.com/detail/20260311042841843800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "欧洲央行行长拉加德：我不会让欧洲再次感受到2022/2023年的通胀。",
-          "url": "https://flash.jin10.com/detail/20260311042725837800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "荷兰国际：欧洲央行加息预期变化未必会削弱欧元 油价仍是主要驱动因素",
-          "url": "https://flash.jin10.com/detail/20260311173608675800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时09分"
-        },
-        {
-          "title": "交易员加码欧洲央行加息押注，预计年底前将加息30个基点。",
-          "url": "https://wallstreetcn.com/livenews/3067892",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时59分"
-        },
-        {
-          "title": "欧洲央行行长拉加德：不确定性和波动性程度令人非常惊讶。",
-          "url": "https://flash.jin10.com/detail/20260311042105131800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "法国巴黎银行预计英国央行将在3月份维持利率不变，而此前的预期为降息。",
-          "url": "https://flash.jin10.com/detail/20260311114330064800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时04分"
-        },
-        {
-          "title": "欧洲机构巨头逆势扫货，押注市场对央行加息的定价“反应过度”",
-          "url": "https://wallstreetcn.com/livenews/3067507",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时55分"
-        },
-        {
-          "title": "欧洲央行行长拉加德：我们有更强的能力来应对冲击。",
-          "url": "https://flash.jin10.com/detail/20260311042033505800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "欧洲央行行长拉加德：我们与2022年的情况截然不同。",
-          "url": "https://flash.jin10.com/detail/20260311042026906800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "中国央行：积极稳妥、安全有序推进金融领域人工智能应用，释放数字化、智能化发展动能",
-          "url": "https://wallstreetcn.com/livenews/3068039",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时02分"
-        },
-        {
-          "title": "欧洲央行管委Kazimir：受伊朗局势影响，加息可能比此前预期更近。 如果冲突推高通胀预期，欧洲央行或采取行动。 欧洲央行的利率仍处于适宜水平。 欧洲央行目前仍处于“良好状态”。 如果有必要，欧洲央行将做好采取行动的准备。 通胀上行风险显然占据主导地位。 对滞胀并不太担心，对经济增长持乐观态度。 若无新预测，我对加息无保留意见。",
-          "url": "https://wallstreetcn.com/livenews/3067880",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时59分"
-        },
-        {
-          "title": "巴克莱：预计墨西哥年底通胀率为4.1%，预计该国央行今年将降息三次、每次25个基点。",
-          "url": "https://wallstreetcn.com/livenews/3067464",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时36分"
-        },
-        {
-          "title": "诈骗、恶意引流，抖音警示“龙虾”相关安全问题",
-          "url": "https://wallstreetcn.com/livenews/3068028",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 16,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "OPPO打响今年手机涨价“第一枪”，其他品牌会跟进吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32740576",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时03分 ~ 22时39分]"
-        },
-        {
-          "title": "存储芯片成本暴涨 80%，OPPO 官宣涨价，雷军称尽量降低消费者接受难度，这将如何重塑手机市场竞争格局？",
-          "url": "https://www.zhihu.com/question/2014710084022846319",
-          "source": "知乎",
-          "ranks": [
-            1,
-            3,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时03分 ~ 20时02分]"
-        },
-        {
-          "title": "开箱苹果新品显示器",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BC%80%E7%AE%B1%E8%8B%B9%E6%9E%9C%E6%96%B0%E5%93%81%E6%98%BE%E7%A4%BA%E5%99%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            20,
-            19,
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时36分 ~ 18时09分]"
-        },
-        {
-          "title": "影视飓风上手Macbook Neo",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8E%E4%B8%8A%E6%89%8BMacbook%20Neo",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时36分 ~ 07时55分]"
-        },
-        {
-          "title": "学生党要冲MacBook Neo吗",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AD%A6%E7%94%9F%E5%85%9A%E8%A6%81%E5%86%B2MacBook%20Neo%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23,
-            13,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时36分 ~ 06时59分]"
-        },
-        {
-          "title": "MacBook Pro顶配开箱",
-          "url": "https://search.bilibili.com/all?keyword=MacBook%20Pro%E9%A1%B6%E9%85%8D%E5%BC%80%E7%AE%B1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28,
-            19,
-            17,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时36分 ~ 06时59分]"
-        },
-        {
-          "title": "存储暴涨倒逼国产手机调价",
-          "url": "https://www.toutiao.com/trending/7614698682335903750/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时36分 ~ 07时55分]"
-        },
-        {
-          "title": "苹果最便宜手机来了",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%9C%80%E4%BE%BF%E5%AE%9C%E6%89%8B%E6%9C%BA%E6%9D%A5%E4%BA%86%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时54分 ~ 13时04分]"
-        },
-        {
-          "title": "MacBook Neo 还没开卖就从 4599 跌到 3599 元，还没上市就「破发」一千块是为什么？",
-          "url": "https://www.zhihu.com/question/2014625718974247455",
-          "source": "知乎",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时01分 ~ 22时39分]"
-        },
-        {
-          "title": "苹果最便宜手机来了",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%9C%80%E4%BE%BF%E5%AE%9C%E6%89%8B%E6%9C%BA%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时03分 ~ 15时59分]"
-        },
-        {
-          "title": "苹果春季新品上手评测",
-          "url": "https://www.douyin.com/hot/2426227",
-          "source": "抖音",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时03分 ~ 13时04分]"
-        },
         {
           "title": "手机也能“养龙虾”了：华为推出鸿蒙版，小米、荣耀均已入局",
           "url": "https://www.cls.cn/detail/2309968",
           "source": "财联社热门",
           "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时39分"
-        },
-        {
-          "title": "丘钛科技：2月手机摄像头模组销售数量同比增长40.2％。 2月摄像头模组销售数量同比增长40.3％。",
-          "url": "https://wallstreetcn.com/livenews/3067977",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时09分"
-        },
-        {
-          "title": "郑商所：调整苹果期货部分合约交易保证金标准和涨跌停板幅度",
-          "url": "https://wallstreetcn.com/livenews/3068051",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时02分"
+          "appearance_count": 2,
+          "time_info": "[01时39分 ~ 01时40分]"
         },
         {
           "title": "深度解读苹果新芯片",
           "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB%E8%8B%B9%E6%9E%9C%E6%96%B0%E8%8A%AF%E7%89%87",
           "source": "bilibili 热搜",
           "ranks": [
-            23
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时59分"
-        },
-        {
-          "title": "iPhone18Pro或无屏下FaceID",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E6%88%96%E6%97%A0%E5%B1%8F%E4%B8%8BFaceID%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时59分"
+          "appearance_count": 2,
+          "time_info": "[01时39分 ~ 01时40分]"
         }
       ]
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 12,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "新能源汽车涨价潮来临",
-          "url": "https://www.toutiao.com/trending/7615098898055462954/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时36分 ~ 06时59分]"
-        },
-        {
-          "title": "比亚迪李云飞回应闪充伤电池",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%9D%8E%E4%BA%91%E9%A3%9E%E5%9B%9E%E5%BA%94%E9%97%AA%E5%85%85%E4%BC%A4%E7%94%B5%E6%B1%A0",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            7,
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时54分 ~ 15时59分]"
-        },
-        {
-          "title": "新能源汽车“涨价潮”来了",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E2%80%9C%E6%B6%A8%E4%BB%B7%E6%BD%AE%E2%80%9D%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            29,
-            30,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时36分 ~ 07时55分]"
-        },
-        {
-          "title": "宝马销售贬低小米汽车 小米高管回应",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%9D%E9%A9%AC%E9%94%80%E5%94%AE%E8%B4%AC%E4%BD%8E%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6+%E5%B0%8F%E7%B1%B3%E9%AB%98%E7%AE%A1%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            26,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时54分 ~ 07时55分]"
-        },
-        {
-          "title": "宝马销售疑贬小米：180天造的车不敢开",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%9D%E9%A9%AC%E9%94%80%E5%94%AE%E7%96%91%E8%B4%AC%E5%B0%8F%E7%B1%B3%EF%BC%9A180%E5%A4%A9%E9%80%A0%E7%9A%84%E8%BD%A6%E4%B8%8D%E6%95%A2%E5%BC%80",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时36分 ~ 06时59分]"
-        },
         {
           "title": "历史新高仅差5%！“宁王”盘中重返400元，新能源赛道热度持续，融资客加仓这些股",
           "url": "https://www.cls.cn/detail/2309752",
           "source": "财联社热门",
           "ranks": [
-            11,
-            10
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时01分 ~ 22时39分]"
+          "appearance_count": 2,
+          "time_info": "[01时39分 ~ 01时40分]"
         },
         {
           "title": "奔驰宝马奥迪卖不动了",
           "url": "https://www.baidu.com/s?wd=%E5%A5%94%E9%A9%B0%E5%AE%9D%E9%A9%AC%E5%A5%A5%E8%BF%AA%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            17,
-            7
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时02分 ~ 22时39分]"
-        },
-        {
-          "title": "闪充站怎么帮比亚迪守住销冠地位",
-          "url": "https://www.toutiao.com/trending/7615618411669753407/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时36分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨1.96%，报7222.96点。 热门中概股里，蔚来初步收涨15%，世纪互联涨13.5%，文远知行涨7.2%，腾讯涨10%，阿里涨3.1%，百度涨2.4%，小鹏涨2.2%，美团跌1.5%，比亚迪跌1.5%。 ETF中，中概互联网指数ETF（KWEB）收涨1.47%，中国科技指数ETF（CQQQ）收涨1.37%。 XtrackersHarvest中证50（ASHS）收涨1.16%，德银嘉实沪深300指数ETF（ASHR）收涨0.51%。",
-          "url": "https://wallstreetcn.com/livenews/3067547",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "特斯拉美股股价创两周新高，现涨2.6%；特斯拉上海超级工厂2月交付5.86万台，同比增长91%。",
-          "url": "https://wallstreetcn.com/livenews/3068150",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时39分"
-        },
-        {
-          "title": "比亚迪闪充能终结蔚来的换电模式吗",
-          "url": "https://www.toutiao.com/trending/7615467320462593590/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时59分"
-        },
-        {
-          "title": "美股盘初，中概股阿特斯太阳能涨超4.9%，理想涨4.6%，小鹏涨2.8%，大全新能源涨2.3%，文远知行涨1.9%，比亚迪、贝壳、晶科能源涨超1%，蔚来涨0.8%。 小米、美团、拼多多、Boss直聘、奇富科技、唯品会、B站至多跌1.9%，华住、小马智行、腾讯音乐至多跌2.7%，世纪互联跌3%，万国数据跌4.1%，金山云跌4.5%，腾讯跌4.6%。",
-          "url": "https://wallstreetcn.com/livenews/3068149",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时39分"
+          "time_info": "[01时39分 ~ 01时40分]"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "央行 抖音 小红书",
       "match_count": 2,
       "titles": [
         {
-          "title": "OpenAI计划将视频生成AI Sora接入ChatGPT。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3067769",
-          "source": "华尔街见闻-快讯",
+          "title": "央行：深化业技融合 积极稳妥、安全有序推进金融领域人工智能应用",
+          "url": "https://www.cls.cn/detail/2309924",
+          "source": "财联社热门",
           "ranks": [
-            11
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时04分"
+          "appearance_count": 2,
+          "time_info": "[01时39分 ~ 01时40分]"
         },
         {
-          "title": "据The Information：OpenAI计划在战略调整中将Sora视频AI引入ChatGPT。",
-          "url": "https://flash.jin10.com/detail/20260311115744060800",
-          "source": "金十数据",
+          "title": "逐玉抖音追剧团现场直播",
+          "url": "https://www.douyin.com/hot/2426697",
+          "source": "抖音",
           "ranks": [
-            13
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时04分"
+          "appearance_count": 2,
+          "time_info": "[01时39分 ~ 01时40分]"
         }
       ]
     },
     {
       "keyword_group": "英雄联盟 LOL",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "LOL全球战队实力排行榜更新",
-          "url": "https://search.bilibili.com/all?keyword=LOL%E5%85%A8%E7%90%83%E6%88%98%E9%98%9F%E5%AE%9E%E5%8A%9B%E6%8E%92%E8%A1%8C%E6%A6%9C%E6%9B%B4%E6%96%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时36分 ~ 07时55分]"
-        },
         {
           "title": "英雄联盟16.6版本有何改动",
           "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F16.6%E7%89%88%E6%9C%AC%E6%9C%89%E4%BD%95%E6%94%B9%E5%8A%A8",
           "source": "bilibili 热搜",
           "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2026年03月11日（周三）上海金午盘价为1149.92元/克，较国际金价(1146.83元/克)，高3.09元/克",
-          "url": "https://flash.jin10.com/detail/20260311153126480800",
-          "source": "金十数据",
-          "ranks": [
-            26
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时59分"
+          "appearance_count": 2,
+          "time_info": "[01时39分 ~ 01时40分]"
         }
       ]
     }
