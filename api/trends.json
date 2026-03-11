@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T18:09:44.605881+08:00",
-  "total_titles_processed": 1150,
+  "generated_at": "2026-03-11T20:02:24.706405+08:00",
+  "total_titles_processed": 1290,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
         {
           "title": "保罗乔治空降抖音球风挑战赛",
@@ -39,9 +39,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
+        },
+        {
+          "title": "抖音再战社交，“小火人”打头阵：上线世界广场，内测AI精灵聊天",
+          "url": "https://wallstreetcn.com/livenews/3068063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "抖音十二生肖创意大赛",
@@ -54,6 +65,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时36分 ~ 05时04分]"
+        },
+        {
+          "title": "央行：深化业技融合 积极稳妥、安全有序推进金融领域人工智能应用",
+          "url": "https://www.cls.cn/detail/2309924",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 20时02分]"
         },
         {
           "title": "路透调查：受访的58%的经济学家认为，两名鸽派学者加入日本央行不会使加息更加困难。",
@@ -194,7 +216,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
@@ -265,6 +287,17 @@
           "time_info": "05时04分"
         },
         {
+          "title": "中国央行：积极稳妥、安全有序推进金融领域人工智能应用，释放数字化、智能化发展动能",
+          "url": "https://wallstreetcn.com/livenews/3068039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
           "title": "欧洲央行管委Kazimir：受伊朗局势影响，加息可能比此前预期更近。 如果冲突推高通胀预期，欧洲央行或采取行动。 欧洲央行的利率仍处于适宜水平。 欧洲央行目前仍处于“良好状态”。 如果有必要，欧洲央行将做好采取行动的准备。 通胀上行风险显然占据主导地位。 对滞胀并不太担心，对经济增长持乐观态度。 若无新预测，我对加息无保留意见。",
           "url": "https://wallstreetcn.com/livenews/3067880",
           "source": "华尔街见闻-快讯",
@@ -285,13 +318,49 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时36分"
+        },
+        {
+          "title": "诈骗、恶意引流，抖音警示“龙虾”相关安全问题",
+          "url": "https://wallstreetcn.com/livenews/3068028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         }
       ]
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "OPPO打响今年手机涨价“第一枪”，其他品牌会跟进吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32740576",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时03分 ~ 20时02分]"
+        },
+        {
+          "title": "存储芯片成本暴涨 80%，OPPO 官宣涨价，雷军称尽量降低消费者接受难度，这将如何重塑手机市场竞争格局？",
+          "url": "https://www.zhihu.com/question/2014710084022846319",
+          "source": "知乎",
+          "ranks": [
+            1,
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时03分 ~ 20时02分]"
+        },
         {
           "title": "开箱苹果新品显示器",
           "url": "https://search.bilibili.com/all?keyword=%E5%BC%80%E7%AE%B1%E8%8B%B9%E6%9E%9C%E6%96%B0%E5%93%81%E6%98%BE%E7%A4%BA%E5%99%A8",
@@ -306,29 +375,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时36分 ~ 18时09分]"
-        },
-        {
-          "title": "存储芯片成本暴涨 80%，OPPO 官宣涨价，雷军称尽量降低消费者接受难度，这将如何重塑手机市场竞争格局？",
-          "url": "https://www.zhihu.com/question/2014710084022846319",
-          "source": "知乎",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时03分 ~ 18时09分]"
-        },
-        {
-          "title": "OPPO打响今年手机涨价“第一枪”，其他品牌会跟进吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32740576",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时03分 ~ 18时09分]"
         },
         {
           "title": "影视飓风上手Macbook Neo",
@@ -416,15 +462,37 @@
           "time_info": "[13时03分 ~ 13时04分]"
         },
         {
+          "title": "MacBook Neo 还没开卖就从 4599 跌到 3599 元，还没上市就「破发」一千块是为什么？",
+          "url": "https://www.zhihu.com/question/2014625718974247455",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 20时02分]"
+        },
+        {
           "title": "丘钛科技：2月手机摄像头模组销售数量同比增长40.2％。 2月摄像头模组销售数量同比增长40.3％。",
           "url": "https://wallstreetcn.com/livenews/3067977",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
+        },
+        {
+          "title": "郑商所：调整苹果期货部分合约交易保证金标准和涨跌停板幅度",
+          "url": "https://wallstreetcn.com/livenews/3068051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "深度解读苹果新芯片",
@@ -452,7 +520,7 @@
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "新能源汽车涨价潮来临",
@@ -518,6 +586,17 @@
           "time_info": "[01时36分 ~ 06时59分]"
         },
         {
+          "title": "历史新高仅差5%！“宁王”盘中重返400元，新能源赛道热度持续，融资客加仓这些股",
+          "url": "https://www.cls.cn/detail/2309752",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 20时02分]"
+        },
+        {
           "title": "闪充站怎么帮比亚迪守住销冠地位",
           "url": "https://www.toutiao.com/trending/7615618411669753407/",
           "source": "今日头条",
@@ -527,6 +606,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时36分"
+        },
+        {
+          "title": "奔驰宝马奥迪卖不动了",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%94%E9%A9%B0%E5%AE%9D%E9%A9%AC%E5%A5%A5%E8%BF%AA%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "纳斯达克金龙中国指数收涨1.96%，报7222.96点。 热门中概股里，蔚来初步收涨15%，世纪互联涨13.5%，文远知行涨7.2%，腾讯涨10%，阿里涨3.1%，百度涨2.4%，小鹏涨2.2%，美团跌1.5%，比亚迪跌1.5%。 ETF中，中概互联网指数ETF（KWEB）收涨1.47%，中国科技指数ETF（CQQQ）收涨1.37%。 XtrackersHarvest中证50（ASHS）收涨1.16%，德银嘉实沪深300指数ETF（ASHR）收涨0.51%。",
