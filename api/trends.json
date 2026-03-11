@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T15:59:17.893466+08:00",
-  "total_titles_processed": 999,
+  "generated_at": "2026-03-11T18:09:44.605881+08:00",
+  "total_titles_processed": 1150,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "保罗乔治空降抖音球风挑战赛",
@@ -31,6 +31,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
+        },
+        {
+          "title": "野村证券：预计英国央行将在4月和7月各降息25个基点，而此前的预测为3月和6月降息。",
+          "url": "https://flash.jin10.com/detail/20260311175029156800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
         },
         {
           "title": "抖音十二生肖创意大赛",
@@ -117,7 +128,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -150,7 +161,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -177,13 +188,24 @@
           "time_info": "05时04分"
         },
         {
+          "title": "荷兰国际：欧洲央行加息预期变化未必会削弱欧元 油价仍是主要驱动因素",
+          "url": "https://flash.jin10.com/detail/20260311173608675800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
           "title": "交易员加码欧洲央行加息押注，预计年底前将加息30个基点。",
           "url": "https://wallstreetcn.com/livenews/3067892",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -249,7 +271,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -268,19 +290,8 @@
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
-        {
-          "title": "影视飓风上手Macbook Neo",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8E%E4%B8%8A%E6%89%8BMacbook%20Neo",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时36分 ~ 07时55分]"
-        },
         {
           "title": "开箱苹果新品显示器",
           "url": "https://search.bilibili.com/all?keyword=%E5%BC%80%E7%AE%B1%E8%8B%B9%E6%9E%9C%E6%96%B0%E5%93%81%E6%98%BE%E7%A4%BA%E5%99%A8",
@@ -289,11 +300,12 @@
             21,
             20,
             19,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时36分 ~ 07时55分]"
+          "appearance_count": 9,
+          "time_info": "[01时36分 ~ 18时09分]"
         },
         {
           "title": "存储芯片成本暴涨 80%，OPPO 官宣涨价，雷军称尽量降低消费者接受难度，这将如何重塑手机市场竞争格局？",
@@ -304,8 +316,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时03分 ~ 15时59分]"
+          "appearance_count": 4,
+          "time_info": "[13时03分 ~ 18时09分]"
         },
         {
           "title": "OPPO打响今年手机涨价“第一枪”，其他品牌会跟进吗？",
@@ -315,8 +327,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时03分 ~ 15时59分]"
+          "appearance_count": 4,
+          "time_info": "[13时03分 ~ 18时09分]"
+        },
+        {
+          "title": "影视飓风上手Macbook Neo",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8E%E4%B8%8A%E6%89%8BMacbook%20Neo",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时36分 ~ 07时55分]"
         },
         {
           "title": "学生党要冲MacBook Neo吗",
@@ -393,13 +416,24 @@
           "time_info": "[13时03分 ~ 13时04分]"
         },
         {
+          "title": "丘钛科技：2月手机摄像头模组销售数量同比增长40.2％。 2月摄像头模组销售数量同比增长40.3％。",
+          "url": "https://wallstreetcn.com/livenews/3067977",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
           "title": "深度解读苹果新芯片",
           "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB%E8%8B%B9%E6%9E%9C%E6%96%B0%E8%8A%AF%E7%89%87",
           "source": "bilibili 热搜",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -410,7 +444,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         }
@@ -512,7 +546,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         }
@@ -557,7 +591,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         }
