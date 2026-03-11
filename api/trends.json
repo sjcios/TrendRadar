@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T20:02:24.706405+08:00",
-  "total_titles_processed": 1290,
+  "generated_at": "2026-03-11T22:39:30.122805+08:00",
+  "total_titles_processed": 1444,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "保罗乔治空降抖音球风挑战赛",
@@ -33,6 +33,18 @@
           "time_info": "07时55分"
         },
         {
+          "title": "央行：深化业技融合 积极稳妥、安全有序推进金融领域人工智能应用",
+          "url": "https://www.cls.cn/detail/2309924",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时01分 ~ 22时39分]"
+        },
+        {
           "title": "野村证券：预计英国央行将在4月和7月各降息25个基点，而此前的预测为3月和6月降息。",
           "url": "https://flash.jin10.com/detail/20260311175029156800",
           "source": "金十数据",
@@ -44,13 +56,35 @@
           "time_info": "18时09分"
         },
         {
+          "title": "波兰央行行长格拉平斯基：波兰拥有570吨黄金储备。",
+          "url": "https://flash.jin10.com/detail/20260311221048457800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
+          "title": "俄罗斯央行：受油价下跌影响，2月份俄罗斯出口商外汇销售额环比下降31%。",
+          "url": "https://flash.jin10.com/detail/20260311221021619800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
           "title": "抖音再战社交，“小火人”打头阵：上线世界广场，内测AI精灵聊天",
           "url": "https://wallstreetcn.com/livenews/3068063",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
         },
@@ -65,17 +99,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时36分 ~ 05时04分]"
-        },
-        {
-          "title": "央行：深化业技融合 积极稳妥、安全有序推进金融领域人工智能应用",
-          "url": "https://www.cls.cn/detail/2309924",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时01分 ~ 20时02分]"
         },
         {
           "title": "路透调查：受访的58%的经济学家认为，两名鸽派学者加入日本央行不会使加息更加困难。",
@@ -293,7 +316,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
         },
@@ -326,7 +349,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
         }
@@ -334,7 +357,7 @@
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "OPPO打响今年手机涨价“第一枪”，其他品牌会跟进吗？",
@@ -342,11 +365,12 @@
           "source": "澎湃新闻",
           "ranks": [
             4,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时03分 ~ 20时02分]"
+          "appearance_count": 7,
+          "time_info": "[13时03分 ~ 22时39分]"
         },
         {
           "title": "存储芯片成本暴涨 80%，OPPO 官宣涨价，雷军称尽量降低消费者接受难度，这将如何重塑手机市场竞争格局？",
@@ -439,6 +463,18 @@
           "time_info": "[07时54分 ~ 13时04分]"
         },
         {
+          "title": "MacBook Neo 还没开卖就从 4599 跌到 3599 元，还没上市就「破发」一千块是为什么？",
+          "url": "https://www.zhihu.com/question/2014625718974247455",
+          "source": "知乎",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时01分 ~ 22时39分]"
+        },
+        {
           "title": "苹果最便宜手机来了",
           "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%9C%80%E4%BE%BF%E5%AE%9C%E6%89%8B%E6%9C%BA%E6%9D%A5%E4%BA%86",
           "source": "百度热搜",
@@ -462,15 +498,15 @@
           "time_info": "[13时03分 ~ 13时04分]"
         },
         {
-          "title": "MacBook Neo 还没开卖就从 4599 跌到 3599 元，还没上市就「破发」一千块是为什么？",
-          "url": "https://www.zhihu.com/question/2014625718974247455",
-          "source": "知乎",
+          "title": "手机也能“养龙虾”了：华为推出鸿蒙版，小米、荣耀均已入局",
+          "url": "https://www.cls.cn/detail/2309968",
+          "source": "财联社热门",
           "ranks": [
-            18
+            9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时01分 ~ 20时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         },
         {
           "title": "丘钛科技：2月手机摄像头模组销售数量同比增长40.2％。 2月摄像头模组销售数量同比增长40.3％。",
@@ -490,7 +526,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
         },
@@ -520,7 +556,7 @@
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "新能源汽车涨价潮来临",
@@ -590,11 +626,24 @@
           "url": "https://www.cls.cn/detail/2309752",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时01分 ~ 22时39分]"
+        },
+        {
+          "title": "奔驰宝马奥迪卖不动了",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%94%E9%A9%B0%E5%AE%9D%E9%A9%AC%E5%A5%A5%E8%BF%AA%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时01分 ~ 20时02分]"
+          "time_info": "[20时02分 ~ 22时39分]"
         },
         {
           "title": "闪充站怎么帮比亚迪守住销冠地位",
@@ -608,17 +657,6 @@
           "time_info": "01时36分"
         },
         {
-          "title": "奔驰宝马奥迪卖不动了",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%94%E9%A9%B0%E5%AE%9D%E9%A9%AC%E5%A5%A5%E8%BF%AA%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时02分"
-        },
-        {
           "title": "纳斯达克金龙中国指数收涨1.96%，报7222.96点。 热门中概股里，蔚来初步收涨15%，世纪互联涨13.5%，文远知行涨7.2%，腾讯涨10%，阿里涨3.1%，百度涨2.4%，小鹏涨2.2%，美团跌1.5%，比亚迪跌1.5%。 ETF中，中概互联网指数ETF（KWEB）收涨1.47%，中国科技指数ETF（CQQQ）收涨1.37%。 XtrackersHarvest中证50（ASHS）收涨1.16%，德银嘉实沪深300指数ETF（ASHR）收涨0.51%。",
           "url": "https://wallstreetcn.com/livenews/3067547",
           "source": "华尔街见闻-快讯",
@@ -630,6 +668,17 @@
           "time_info": "05时04分"
         },
         {
+          "title": "特斯拉美股股价创两周新高，现涨2.6%；特斯拉上海超级工厂2月交付5.86万台，同比增长91%。",
+          "url": "https://wallstreetcn.com/livenews/3068150",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
           "title": "比亚迪闪充能终结蔚来的换电模式吗",
           "url": "https://www.toutiao.com/trending/7615467320462593590/",
           "source": "今日头条",
@@ -639,6 +688,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
+        },
+        {
+          "title": "美股盘初，中概股阿特斯太阳能涨超4.9%，理想涨4.6%，小鹏涨2.8%，大全新能源涨2.3%，文远知行涨1.9%，比亚迪、贝壳、晶科能源涨超1%，蔚来涨0.8%。 小米、美团、拼多多、Boss直聘、奇富科技、唯品会、B站至多跌1.9%，华住、小马智行、腾讯音乐至多跌2.7%，世纪互联跌3%，万国数据跌4.1%，金山云跌4.5%，腾讯跌4.6%。",
+          "url": "https://wallstreetcn.com/livenews/3068149",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         }
       ]
     },
@@ -671,6 +731,34 @@
       ]
     },
     {
+      "keyword_group": "英雄联盟 LOL",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "LOL全球战队实力排行榜更新",
+          "url": "https://search.bilibili.com/all?keyword=LOL%E5%85%A8%E7%90%83%E6%88%98%E9%98%9F%E5%AE%9E%E5%8A%9B%E6%8E%92%E8%A1%8C%E6%A6%9C%E6%9B%B4%E6%96%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时36分 ~ 07时55分]"
+        },
+        {
+          "title": "英雄联盟16.6版本有何改动",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F16.6%E7%89%88%E6%9C%AC%E6%9C%89%E4%BD%95%E6%94%B9%E5%8A%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 1,
       "titles": [
@@ -684,23 +772,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "英雄联盟 LOL",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "LOL全球战队实力排行榜更新",
-          "url": "https://search.bilibili.com/all?keyword=LOL%E5%85%A8%E7%90%83%E6%88%98%E9%98%9F%E5%AE%9E%E5%8A%9B%E6%8E%92%E8%A1%8C%E6%A6%9C%E6%9B%B4%E6%96%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时36分 ~ 07时55分]"
         }
       ]
     }
