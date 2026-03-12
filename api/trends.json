@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T13:09:06.680123+08:00",
-  "total_titles_processed": 859,
+  "generated_at": "2026-03-12T16:02:26.179098+08:00",
+  "total_titles_processed": 1001,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "深度解读苹果新芯片",
@@ -58,6 +58,18 @@
           "time_info": "[05时04分 ~ 06时55分]"
         },
         {
+          "title": "苹果最贵手机要来了",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%9C%80%E8%B4%B5%E6%89%8B%E6%9C%BA%E8%A6%81%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时08分 ~ 16时02分]"
+        },
+        {
           "title": "全球首款手机龙虾应用来了",
           "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BE%E6%89%8B%E6%9C%BA%E9%BE%99%E8%99%BE%E5%BA%94%E7%94%A8%E6%9D%A5%E4%BA%86",
           "source": "百度热搜",
@@ -80,6 +92,29 @@
           "time_info": "[13时08分 ~ 13时09分]"
         },
         {
+          "title": "熊 这辈子吃的最贵的苹果",
+          "url": "https://s.weibo.com/weibo?q=%E7%86%8A%20%E8%BF%99%E8%BE%88%E5%AD%90%E5%90%83%E7%9A%84%E6%9C%80%E8%B4%B5%E7%9A%84%E8%8B%B9%E6%9E%9C&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时01分 ~ 16时02分]"
+        },
+        {
+          "title": "苹果最贵手机也要来了",
+          "url": "https://www.douyin.com/hot/2427772",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时01分 ~ 16时02分]"
+        },
+        {
           "title": "苹果最贵手机要来了",
           "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%9C%80%E8%B4%B5%E6%89%8B%E6%9C%BA%E8%A6%81%E6%9D%A5%E4%BA%86%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -100,17 +135,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时54分 ~ 06时55分]"
-        },
-        {
-          "title": "苹果最贵手机要来了",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%9C%80%E8%B4%B5%E6%89%8B%E6%9C%BA%E8%A6%81%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时08分 ~ 13时09分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)的可折叠式iPhone计划于今年晚些时候上市。",
@@ -138,7 +162,7 @@
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "历史新高仅差5%！“宁王”盘中重返400元，新能源赛道热度持续，融资客加仓这些股",
@@ -166,6 +190,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时39分 ~ 07时55分]"
+        },
+        {
+          "title": "特斯拉能源部门获英国电力供应牌照",
+          "url": "https://wallstreetcn.com/livenews/3068719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         },
         {
           "title": "【焦点复盘】沪指放量反弹收复10日线，新能源出海概念全天强势，“宁王”盘中一度突破400元大关",
@@ -207,7 +242,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
         }
@@ -215,7 +250,7 @@
     },
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "央行：深化业技融合 积极稳妥、安全有序推进金融领域人工智能应用",
@@ -243,13 +278,35 @@
           "time_info": "[01时39分 ~ 07时55分]"
         },
         {
+          "title": "市场押注欧央行年中加息 中东战火引发德债抛售潮",
+          "url": "https://flash.jin10.com/detail/20260312154157243800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
+          "title": "利率期货显示，到2026年底英国央行加息25个基点的概率约为54%。",
+          "url": "https://flash.jin10.com/detail/20260312153914839800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
           "title": "交易员表示，鉴于油价飙升，印度央行很可能抛售美元以支撑卢比。",
           "url": "https://flash.jin10.com/detail/20260312120021167800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
         },
@@ -260,7 +317,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
         }
@@ -284,6 +341,23 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "澳新银行：金价近期下跌或为短期现象",
+          "url": "https://flash.jin10.com/detail/20260312153515850800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "英雄联盟 LOL",
       "match_count": 1,
       "titles": [
@@ -299,8 +373,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时39分 ~ 13时09分]"
+          "appearance_count": 13,
+          "time_info": "[01时39分 ~ 16时02分]"
         }
       ]
     }
