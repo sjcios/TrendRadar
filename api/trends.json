@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T16:02:26.179098+08:00",
-  "total_titles_processed": 1001,
+  "generated_at": "2026-03-12T18:10:55.598408+08:00",
+  "total_titles_processed": 1145,
   "failed_sources": [],
   "trends": [
     {
@@ -162,7 +162,7 @@
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "历史新高仅差5%！“宁王”盘中重返400元，新能源赛道热度持续，融资客加仓这些股",
@@ -198,7 +198,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -214,6 +214,28 @@
           "time_info": "[03时54分 ~ 05时04分]"
         },
         {
+          "title": "特斯拉正设计生产流水线，以每周生产数百辆没有踏板和方向盘的CyberCab。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3068805",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
+        },
+        {
+          "title": "特斯拉无方向盘新车Cybercab量产在即，但面临监管考验",
+          "url": "https://flash.jin10.com/detail/20260312174328179800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
+        },
+        {
           "title": "美股七巨头收盘播报｜特斯拉收涨超2.1%，亚马逊跌约0.8%",
           "url": "https://wallstreetcn.com/livenews/3068335",
           "source": "华尔街见闻-快讯",
@@ -223,6 +245,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        },
+        {
+          "title": "据华尔街日报：特斯拉正设计生产线，拟每周生产数百辆Cybercab。",
+          "url": "https://flash.jin10.com/detail/20260312173835935800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
+        },
+        {
+          "title": "据华尔街日报：特斯拉(TSLA.O)的Cybercab（没有方向盘和踏板）上个月已在其奥斯汀生产线下线。Cybercab将于4月开始量产。特斯拉正在设计生产线，以实现每周生产数百辆Cybercab。",
+          "url": "https://flash.jin10.com/detail/20260312173547293800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.77%，报7167.45点。 热门中概股里，腾讯初步收跌4%，蔚来跌3.6%，小马智行跌3%，美团跌2.4%，拼多多跌1.8%，比亚迪涨1.1%，京东涨1.4%，小鹏涨2.3%，理想涨3.1%。 ETF中，中概互联网指数ETF（KWEB）收跌1.61%，中国科技指数ETF（CQQQ）收跌1.35%。 XtrackersHarvest中证50（ASHS）收涨0.22%，德银嘉实沪深300指数ETF（ASHR）收涨0.83%。",
@@ -250,7 +294,7 @@
     },
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "央行：深化业技融合 积极稳妥、安全有序推进金融领域人工智能应用",
@@ -278,13 +322,24 @@
           "time_info": "[01时39分 ~ 07时55分]"
         },
         {
+          "title": "英国央行行长贝利：英国央行有改善支付系统的计划。",
+          "url": "https://wallstreetcn.com/livenews/3068807",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
+        },
+        {
           "title": "市场押注欧央行年中加息 中东战火引发德债抛售潮",
           "url": "https://flash.jin10.com/detail/20260312154157243800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -295,9 +350,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
+        },
+        {
+          "title": "马来西亚央行：仍高度关注冲突延长可能带来的风险。",
+          "url": "https://flash.jin10.com/detail/20260312174325091800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
+        },
+        {
+          "title": "马来西亚央行：国内金融市场在全球市场波动背景下仍保持相对韧性。",
+          "url": "https://flash.jin10.com/detail/20260312174142223800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
         },
         {
           "title": "交易员表示，鉴于油价飙升，印度央行很可能抛售美元以支撑卢比。",
@@ -351,7 +428,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         }
@@ -370,11 +447,12 @@
             24,
             21,
             26,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时39分 ~ 16时02分]"
+          "appearance_count": 14,
+          "time_info": "[01时39分 ~ 18时10分]"
         }
       ]
     }
