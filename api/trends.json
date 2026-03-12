@@ -1,513 +1,72 @@
 {
-  "generated_at": "2026-03-12T22:39:10.718244+08:00",
-  "total_titles_processed": 1429,
+  "generated_at": "2026-03-13T01:39:46.759210+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 15,
+      "match_count": 3,
       "titles": [
         {
-          "title": "深度解读苹果新芯片",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB%E8%8B%B9%E6%9E%9C%E6%96%B0%E8%8A%AF%E7%89%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            8,
-            4,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时39分 ~ 13时09分]"
-        },
-        {
-          "title": "手机也能“养龙虾”了：华为推出鸿蒙版，小米、荣耀均已入局",
-          "url": "https://www.cls.cn/detail/2309968",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时39分 ~ 07时55分]"
-        },
-        {
-          "title": "古尔曼：苹果即将推出折叠iPhone 采用类iPad布局",
-          "url": "https://flash.jin10.com/detail/20260312044548166800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "美国总统特朗普：苹果公司CEO库克做得不错。",
-          "url": "https://wallstreetcn.com/livenews/3068347",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时04分 ~ 06时55分]"
-        },
-        {
-          "title": "苹果最贵手机要来了",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%9C%80%E8%B4%B5%E6%89%8B%E6%9C%BA%E8%A6%81%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时08分 ~ 16时02分]"
-        },
-        {
-          "title": "全球首款手机龙虾应用来了",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BE%E6%89%8B%E6%9C%BA%E9%BE%99%E8%99%BE%E5%BA%94%E7%94%A8%E6%9D%A5%E4%BA%86",
+          "title": "手机价格普涨将是大势所趋吗",
+          "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E4%BB%B7%E6%A0%BC%E6%99%AE%E6%B6%A8%E5%B0%86%E6%98%AF%E5%A4%A7%E5%8A%BF%E6%89%80%E8%B6%8B%E5%90%97",
           "source": "百度热搜",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时08分 ~ 13时09分]"
-        },
-        {
-          "title": "OPPO 一加官宣老机型调价，手机全面进入涨价时代，这一策略背后有哪些考量？未来价格会回落吗？",
-          "url": "https://www.zhihu.com/question/2014722173789496566",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时08分 ~ 13时09分]"
-        },
-        {
-          "title": "熊 这辈子吃的最贵的苹果",
-          "url": "https://s.weibo.com/weibo?q=%E7%86%8A%20%E8%BF%99%E8%BE%88%E5%AD%90%E5%90%83%E7%9A%84%E6%9C%80%E8%B4%B5%E7%9A%84%E8%8B%B9%E6%9E%9C&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时01分 ~ 16时02分]"
+          "appearance_count": 1,
+          "time_info": "01时39分"
         },
         {
           "title": "追觅手机售价约6800元起",
           "url": "https://www.toutiao.com/trending/7616246099490553897/",
           "source": "今日头条",
           "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时38分 ~ 22时39分]"
-        },
-        {
-          "title": "苹果最贵手机也要来了",
-          "url": "https://www.douyin.com/hot/2427772",
-          "source": "抖音",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时01分 ~ 16时02分]"
-        },
-        {
-          "title": "苹果最贵手机要来了",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%9C%80%E8%B4%B5%E6%89%8B%E6%9C%BA%E8%A6%81%E6%9D%A5%E4%BA%86%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时08分 ~ 13时09分]"
-        },
-        {
-          "title": "开箱苹果新品显示器",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BC%80%E7%AE%B1%E8%8B%B9%E6%9E%9C%E6%96%B0%E5%93%81%E6%98%BE%E7%A4%BA%E5%99%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时54分 ~ 06时55分]"
-        },
-        {
-          "title": "追觅AURORA手机全球首秀",
-          "url": "https://wallstreetcn.com/livenews/3068997",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时39分"
-        },
-        {
-          "title": "市场消息：苹果(AAPL.O)的可折叠式iPhone计划于今年晚些时候上市。",
-          "url": "https://flash.jin10.com/detail/20260312040804124800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "报道：苹果折叠屏iPhone将于今年晚些时候发布，展开后将具备类似iPad的界面",
-          "url": "https://wallstreetcn.com/livenews/3068327",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "历史新高仅差5%！“宁王”盘中重返400元，新能源赛道热度持续，融资客加仓这些股",
-          "url": "https://www.cls.cn/detail/2309752",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时39分 ~ 07时55分]"
+          "appearance_count": 1,
+          "time_info": "01时39分"
         },
         {
-          "title": "奔驰宝马奥迪卖不动了",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%94%E9%A9%B0%E5%AE%9D%E9%A9%AC%E5%A5%A5%E8%BF%AA%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86",
+          "title": "追觅手机6800元起售 黄金版超10万元",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%BD%E8%A7%85%E6%89%8B%E6%9C%BA6800%E5%85%83%E8%B5%B7%E5%94%AE+%E9%BB%84%E9%87%91%E7%89%88%E8%B6%8510%E4%B8%87%E5%85%83",
           "source": "百度热搜",
-          "ranks": [
-            16,
-            14,
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时39分 ~ 07时55分]"
-        },
-        {
-          "title": "特斯拉能源部门获英国电力供应牌照",
-          "url": "https://wallstreetcn.com/livenews/3068719",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "【焦点复盘】沪指放量反弹收复10日线，新能源出海概念全天强势，“宁王”盘中一度突破400元大关",
-          "url": "https://www.cls.cn/detail/2309744",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时54分 ~ 05时04分]"
-        },
-        {
-          "title": "特斯拉正设计生产流水线，以每周生产数百辆没有踏板和方向盘的CyberCab。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3068805",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "特斯拉无方向盘新车Cybercab量产在即，但面临监管考验",
-          "url": "https://flash.jin10.com/detail/20260312174328179800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜特斯拉收涨超2.1%，亚马逊跌约0.8%",
-          "url": "https://wallstreetcn.com/livenews/3068335",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "据华尔街日报：特斯拉正设计生产线，拟每周生产数百辆Cybercab。",
-          "url": "https://flash.jin10.com/detail/20260312173835935800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "据华尔街日报：特斯拉(TSLA.O)的Cybercab（没有方向盘和踏板）上个月已在其奥斯汀生产线下线。Cybercab将于4月开始量产。特斯拉正在设计生产线，以实现每周生产数百辆Cybercab。",
-          "url": "https://flash.jin10.com/detail/20260312173547293800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.77%，报7167.45点。 热门中概股里，腾讯初步收跌4%，蔚来跌3.6%，小马智行跌3%，美团跌2.4%，拼多多跌1.8%，比亚迪涨1.1%，京东涨1.4%，小鹏涨2.3%，理想涨3.1%。 ETF中，中概互联网指数ETF（KWEB）收跌1.61%，中国科技指数ETF（CQQQ）收跌1.35%。 XtrackersHarvest中证50（ASHS）收涨0.22%，德银嘉实沪深300指数ETF（ASHR）收涨0.83%。",
-          "url": "https://wallstreetcn.com/livenews/3068324",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "比亚迪高管称一代和二代刀片电池产能切换仍在进行中",
-          "url": "https://wallstreetcn.com/livenews/3068543",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时09分"
-        },
-        {
-          "title": "新能源车家门口充电突然自燃",
-          "url": "https://www.toutiao.com/trending/7615987192988614699/",
-          "source": "今日头条",
           "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时54分"
+          "time_info": "01时39分"
         }
       ]
     },
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 11,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "央行：深化业技融合 积极稳妥、安全有序推进金融领域人工智能应用",
-          "url": "https://www.cls.cn/detail/2309924",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时39分 ~ 07时55分]"
-        },
-        {
-          "title": "逐玉抖音追剧团现场直播",
-          "url": "https://www.douyin.com/hot/2426697",
-          "source": "抖音",
-          "ranks": [
-            22,
-            23,
-            24,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时39分 ~ 07时55分]"
-        },
         {
           "title": "央行行长潘功胜：构建科学稳健的货币政策体系，继续实施好适度宽松的货币政策，加大逆周期和跨周期调节力度",
           "url": "https://www.cls.cn/detail/2311191",
           "source": "财联社热门",
           "ranks": [
-            5
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时38分 ~ 22时39分]"
+          "appearance_count": 1,
+          "time_info": "01时39分"
         },
         {
-          "title": "英国央行行长贝利：英国央行有改善支付系统的计划。",
-          "url": "https://wallstreetcn.com/livenews/3068807",
+          "title": "法国央行行长Villeroy：私人市场增长面临流动性和估值风险。",
+          "url": "https://wallstreetcn.com/livenews/3069068",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "市场押注欧央行年中加息 中东战火引发德债抛售潮",
-          "url": "https://flash.jin10.com/detail/20260312154157243800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "利率期货显示，到2026年底英国央行加息25个基点的概率约为54%。",
-          "url": "https://flash.jin10.com/detail/20260312153914839800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "马来西亚央行：仍高度关注冲突延长可能带来的风险。",
-          "url": "https://flash.jin10.com/detail/20260312174325091800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "马来西亚央行：国内金融市场在全球市场波动背景下仍保持相对韧性。",
-          "url": "https://flash.jin10.com/detail/20260312174142223800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "土耳其央行维持基准回购利率在37.00%不变，符合预期。",
-          "url": "https://wallstreetcn.com/livenews/3068859",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时54分"
-        },
-        {
-          "title": "交易员表示，鉴于油价飙升，印度央行很可能抛售美元以支撑卢比。",
-          "url": "https://flash.jin10.com/detail/20260312120021167800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时09分"
-        },
-        {
-          "title": "韩国央行副行长：需要更加谨慎地进行利率决策 伊朗战事高度不确定",
-          "url": "https://wallstreetcn.com/livenews/3068540",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌转让在光纤部门的股权",
-          "url": "https://wallstreetcn.com/livenews/3068391",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "澳新银行：金价近期下跌或为短期现象",
-          "url": "https://flash.jin10.com/detail/20260312153515850800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "英雄联盟 LOL",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "英雄联盟16.6版本有何改动",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F16.6%E7%89%88%E6%9C%AC%E6%9C%89%E4%BD%95%E6%94%B9%E5%8A%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            24,
-            21,
-            26,
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时39分 ~ 18时10分]"
+          "time_info": "01时39分"
         }
       ]
     }
