@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T03:56:53.240779+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2026-03-13T05:06:56.785096+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时39分 ~ 03时56分]"
+          "appearance_count": 3,
+          "time_info": "[01时39分 ~ 05时06分]"
+        },
+        {
+          "title": "追觅手机6800元起售 黄金版超10万元",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%BD%E8%A7%85%E6%89%8B%E6%9C%BA6800%E5%85%83%E8%B5%B7%E5%94%AE+%E9%BB%84%E9%87%91%E7%89%88%E8%B6%8510%E4%B8%87%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时39分 ~ 05时06分]"
         },
         {
           "title": "追觅手机售价约6800元起",
@@ -29,24 +41,12 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时39分 ~ 03时56分]"
-        },
-        {
-          "title": "追觅手机6800元起售 黄金版超10万元",
-          "url": "https://www.baidu.com/s?wd=%E8%BF%BD%E8%A7%85%E6%89%8B%E6%9C%BA6800%E5%85%83%E8%B5%B7%E5%94%AE+%E9%BB%84%E9%87%91%E7%89%88%E8%B6%8510%E4%B8%87%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时39分 ~ 03时56分]"
         }
       ]
     },
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "央行行长潘功胜：构建科学稳健的货币政策体系，继续实施好适度宽松的货币政策，加大逆周期和跨周期调节力度",
@@ -56,8 +56,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时39分 ~ 03时56分]"
+          "appearance_count": 3,
+          "time_info": "[01时39分 ~ 05时06分]"
+        },
+        {
+          "title": "美国至3月13日当周外国央行持有美国国债 -397.55亿美元，前值-93.33亿美元。",
+          "url": "https://flash.jin10.com/detail/20260313043224968800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时06分"
         },
         {
           "title": "法国央行行长Villeroy：私人市场增长面临流动性和估值风险。",
@@ -83,7 +94,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
         }
