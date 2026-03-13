@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-14T01:06:07.169270+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-14T03:50:11.428390+08:00",
+  "total_titles_processed": 402,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "别再用小拇指托手机了",
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 01时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 03时50分]"
         },
         {
           "title": "为什么每天下班回家明明很累，却就是不想洗漱睡觉，只想瘫着玩手机？",
@@ -26,30 +26,54 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 01时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 03时50分]"
         },
         {
           "title": "国产手机涨价500到2000元",
           "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7%E6%89%8B%E6%9C%BA%E6%B6%A8%E4%BB%B7500%E5%88%B02000%E5%85%83",
           "source": "百度热搜",
           "ranks": [
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 01时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 03时50分]"
         },
         {
           "title": "苹果公司宣布降低中国 AppStore 佣金率，由 30% 改为 25%，会带来哪些影响？",
           "url": "https://www.zhihu.com/question/2015716459670626412",
           "source": "知乎",
           "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 03时50分]"
+        },
+        {
+          "title": "丈夫去世后妻子求助解锁手机",
+          "url": "https://www.toutiao.com/trending/7616313508640604201/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时49分 ~ 03时50分]"
+        },
+        {
+          "title": "手机支付一定要设置3道锁",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E6%94%AF%E4%BB%98%E4%B8%80%E5%AE%9A%E8%A6%81%E8%AE%BE%E7%BD%AE3%E9%81%93%E9%94%81%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时05分 ~ 01时06分]"
+          "time_info": "[03时49分 ~ 03时50分]"
         }
       ]
     },
@@ -65,8 +89,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 01时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 03时50分]"
         }
       ]
     },
@@ -82,8 +106,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 01时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 03时50分]"
         }
       ]
     },
@@ -113,11 +137,12 @@
           "url": "https://www.douyin.com/hot/2429561",
           "source": "抖音",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 01时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 03时50分]"
         }
       ]
     }
