@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T05:53:39.351792+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2026-03-15T06:59:15.609626+08:00",
+  "total_titles_processed": 420,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 05时53分]"
+          "appearance_count": 8,
+          "time_info": "[01时02分 ~ 06时59分]"
         },
         {
           "title": "女子翻丈夫手机发现其出轨几十人",
@@ -28,8 +28,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 05时53分]"
+          "appearance_count": 8,
+          "time_info": "[01时02分 ~ 06时59分]"
         },
         {
           "title": "深度解析苹果税下调真相",
@@ -37,11 +37,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             28,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时57分 ~ 05时53分]"
+          "appearance_count": 5,
+          "time_info": "[04时57分 ~ 06时59分]"
         }
       ]
     },
@@ -57,8 +58,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 05时53分]"
+          "appearance_count": 8,
+          "time_info": "[01时02分 ~ 06时59分]"
         }
       ]
     }
