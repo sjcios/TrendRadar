@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T21:58:06.121674+08:00",
-  "total_titles_processed": 1307,
+  "generated_at": "2026-03-14T23:00:36.097487+08:00",
+  "total_titles_processed": 1360,
   "failed_sources": [],
   "trends": [
     {
@@ -87,11 +87,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%BF%BB%E4%B8%88%E5%A4%AB%E6%89%8B%E6%9C%BA%E5%8F%91%E7%8E%B0%E5%85%B6%E5%87%BA%E8%BD%A8%E5%87%A0%E5%8D%81%E4%BA%BA%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
           "ranks": [
-            11
+            11,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时57分 ~ 21时58分]"
+          "appearance_count": 4,
+          "time_info": "[21时57分 ~ 23时00分]"
         },
         {
           "title": "苹果下调中国应用商店佣金率",
@@ -141,8 +142,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时57分 ~ 21时58分]"
+          "appearance_count": 4,
+          "time_info": "[21时57分 ~ 23时00分]"
         },
         {
           "title": "比亚迪正在评估入局F1",
