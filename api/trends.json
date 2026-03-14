@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-15T03:18:06.712778+08:00",
-  "total_titles_processed": 361,
+  "generated_at": "2026-03-15T04:58:12.125310+08:00",
+  "total_titles_processed": 389,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "新华社评手机应用跳转乱象",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时58分]"
         },
         {
           "title": "女子翻丈夫手机发现其出轨几十人",
@@ -24,11 +24,23 @@
           "source": "微博",
           "ranks": [
             22,
-            26
+            26,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时58分]"
+        },
+        {
+          "title": "深度解析苹果税下调真相",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E8%8B%B9%E6%9E%9C%E7%A8%8E%E4%B8%8B%E8%B0%83%E7%9C%9F%E7%9B%B8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 04时58分]"
         }
       ]
     },
@@ -44,8 +56,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时58分]"
         }
       ]
     }
