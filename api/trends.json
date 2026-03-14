@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T06:59:15.609626+08:00",
-  "total_titles_processed": 420,
+  "generated_at": "2026-03-15T07:56:24.451984+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E7%A4%BE%E8%AF%84%E6%89%8B%E6%9C%BA%E5%BA%94%E7%94%A8%E8%B7%B3%E8%BD%AC%E4%B9%B1%E8%B1%A1",
           "source": "百度热搜",
           "ranks": [
-            2
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 06时59分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 07时56分]"
         },
         {
           "title": "女子翻丈夫手机发现其出轨几十人",
@@ -25,11 +26,12 @@
           "ranks": [
             22,
             26,
-            24
+            24,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 06时59分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 07时56分]"
         },
         {
           "title": "深度解析苹果税下调真相",
@@ -38,11 +40,12 @@
           "ranks": [
             28,
             19,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时57分 ~ 06时59分]"
+          "appearance_count": 6,
+          "time_info": "[04时57分 ~ 07时56分]"
         }
       ]
     },
@@ -58,8 +61,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 06时59分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 07时56分]"
         }
       ]
     }
