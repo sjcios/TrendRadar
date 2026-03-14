@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-14T19:50:41.463504+08:00",
-  "total_titles_processed": 1179,
+  "generated_at": "2026-03-14T21:58:06.121674+08:00",
+  "total_titles_processed": 1307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "别再用小拇指托手机了",
@@ -83,6 +83,17 @@
           "time_info": "[03时49分 ~ 07时57分]"
         },
         {
+          "title": "女子翻丈夫手机发现其出轨几十人",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%BF%BB%E4%B8%88%E5%A4%AB%E6%89%8B%E6%9C%BA%E5%8F%91%E7%8E%B0%E5%85%B6%E5%87%BA%E8%BD%A8%E5%87%A0%E5%8D%81%E4%BA%BA%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时57分 ~ 21时58分]"
+        },
+        {
           "title": "苹果下调中国应用商店佣金率",
           "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E4%B8%8B%E8%B0%83%E4%B8%AD%E5%9B%BD%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97%E4%BD%A3%E9%87%91%E7%8E%87",
           "source": "bilibili 热搜",
@@ -109,7 +120,7 @@
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "比亚迪宣布闪充站建设进度",
@@ -121,6 +132,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时05分 ~ 01时06分]"
+        },
+        {
+          "title": "宝马销售被指直播拉踩小米汽车，称「180 天造的车不敢开」，小米高管回怼问真实车主最有说服力，如何评价？",
+          "url": "https://www.zhihu.com/question/2014785530991236759",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时57分 ~ 21时58分]"
         },
         {
           "title": "比亚迪正在评估入局F1",
