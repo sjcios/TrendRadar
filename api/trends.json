@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-16T03:19:51.042137+08:00",
-  "total_titles_processed": 387,
+  "generated_at": "2026-03-16T04:59:11.644117+08:00",
+  "total_titles_processed": 431,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时59分]"
         },
         {
           "title": "真正的美版“台积电”？马斯克称特斯拉“AI芯片超级工厂”7天内启动",
@@ -28,6 +28,35 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时02分 ~ 01时03分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "央行 抖音 小红书",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "系好安全带！最重磅的中美会谈、美日欧央行决议、AI大会和巨头财报，都在这一周",
+          "url": "https://wallstreetcn.com/articles/3767535",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时59分]"
+        },
+        {
+          "title": "“超级央行周”来袭，伊朗战争阴影笼罩全球利率决策",
+          "url": "https://flash.jin10.com/detail/20260316033127451800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时59分"
         }
       ]
     },
@@ -44,26 +73,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 03时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "央行 抖音 小红书",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "系好安全带！最重磅的中美会谈、美日欧央行决议、AI大会和巨头财报，都在这一周",
-          "url": "https://wallstreetcn.com/articles/3767535",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时19分]"
+          "time_info": "[01时03分 ~ 04时59分]"
         }
       ]
     }
