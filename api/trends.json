@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T19:02:28.812356+08:00",
-  "total_titles_processed": 995,
+  "generated_at": "2026-03-15T22:02:32.001054+08:00",
+  "total_titles_processed": 1164,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,19 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时57分 ~ 22时02分]"
+        },
+        {
+          "title": "真正的美版“台积电”？马斯克称特斯拉“AI芯片超级工厂”7天内启动",
+          "url": "https://wallstreetcn.com/articles/3767539",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[15时57分 ~ 19时02分]"
+          "time_info": "[17时51分 ~ 22时02分]"
         },
         {
           "title": "奥迪车主称刹车油管有缺口致刹车失灵",
@@ -45,17 +56,6 @@
           "time_info": "[15时57分 ~ 17时52分]"
         },
         {
-          "title": "真正的美版“台积电”？马斯克称特斯拉“AI芯片超级工厂”7天内启动",
-          "url": "https://wallstreetcn.com/articles/3767539",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时51分 ~ 19时02分]"
-        },
-        {
           "title": "比亚迪到底有没有“背刺”客户",
           "url": "https://www.toutiao.com/trending/7616604330587045924/",
           "source": "今日头条",
@@ -65,6 +65,56 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时51分 ~ 17时52分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "央行 抖音 小红书",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "系好安全带！最重磅的中美会谈、美日欧央行决议、AI大会和巨头财报，都在这一周",
+          "url": "https://wallstreetcn.com/articles/3767535",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时01分 ~ 22时02分]"
+        },
+        {
+          "title": "KATSEYE入驻抖音",
+          "url": "https://www.douyin.com/hot/2431311",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时57分 ~ 15时58分]"
+        },
+        {
+          "title": "库里感谢抖音粉丝为自己庆生",
+          "url": "https://www.douyin.com/hot/2431239",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "高盛：预计即将公布的欧元区数据（截至伊朗冲突爆发前）与欧洲央行12月员工预测将大体一致。但冲突爆发后的能源价格飙升，给经济前景带来了重大风险。",
+          "url": "https://flash.jin10.com/detail/20260315103927567800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时45分"
         }
       ]
     },
@@ -115,45 +165,6 @@
       ]
     },
     {
-      "keyword_group": "央行 抖音 小红书",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "KATSEYE入驻抖音",
-          "url": "https://www.douyin.com/hot/2431311",
-          "source": "抖音",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时57分 ~ 15时58分]"
-        },
-        {
-          "title": "库里感谢抖音粉丝为自己庆生",
-          "url": "https://www.douyin.com/hot/2431239",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        },
-        {
-          "title": "高盛：预计即将公布的欧元区数据（截至伊朗冲突爆发前）与欧洲央行12月员工预测将大体一致。但冲突爆发后的能源价格飙升，给经济前景带来了重大风险。",
-          "url": "https://flash.jin10.com/detail/20260315103927567800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -167,6 +178,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时45分 ~ 15时58分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "澎湃新闻",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "直播丨3·15晚会曝光“增高”骗局，澎湃新闻实探青少年物理增高机构德脊瑞上海总部",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32771506",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时01分 ~ 22时02分]"
         }
       ]
     }
