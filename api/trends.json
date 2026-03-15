@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T13:45:59.111882+08:00",
-  "total_titles_processed": 666,
+  "generated_at": "2026-03-15T15:58:12.616846+08:00",
+  "total_titles_processed": 782,
   "failed_sources": [],
   "trends": [
     {
@@ -50,9 +50,60 @@
       ]
     },
     {
-      "keyword_group": "央行 抖音 小红书",
-      "match_count": 2,
+      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
+      "match_count": 3,
       "titles": [
+        {
+          "title": "宝马销售被指直播拉踩小米汽车，称「180 天造的车不敢开」，小米高管回怼问真实车主最有说服力，如何评价？",
+          "url": "https://www.zhihu.com/question/2014785530991236759",
+          "source": "知乎",
+          "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时02分 ~ 13时45分]"
+        },
+        {
+          "title": "特斯拉“造芯”真来了！马斯克官宣：Terafab项目7天后启动",
+          "url": "https://www.cls.cn/detail/2313116",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时57分 ~ 15时58分]"
+        },
+        {
+          "title": "奥迪车主称刹车油管有缺口致刹车失灵",
+          "url": "https://www.toutiao.com/trending/7616665649582686271/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时57分 ~ 15时58分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "央行 抖音 小红书",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "KATSEYE入驻抖音",
+          "url": "https://www.douyin.com/hot/2431311",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时57分 ~ 15时58分]"
+        },
         {
           "title": "库里感谢抖音粉丝为自己庆生",
           "url": "https://www.douyin.com/hot/2431239",
@@ -60,7 +111,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
         },
@@ -71,7 +122,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
         }
@@ -88,27 +139,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "宝马销售被指直播拉踩小米汽车，称「180 天造的车不敢开」，小米高管回怼问真实车主最有说服力，如何评价？",
-          "url": "https://www.zhihu.com/question/2014785530991236759",
-          "source": "知乎",
-          "ranks": [
-            8,
-            15
-          ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时02分 ~ 13时45分]"
+          "appearance_count": 3,
+          "time_info": "[13时45分 ~ 15时58分]"
         }
       ]
     }
