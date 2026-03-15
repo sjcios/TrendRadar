@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T17:52:00.515375+08:00",
-  "total_titles_processed": 897,
+  "generated_at": "2026-03-15T19:02:28.812356+08:00",
+  "total_titles_processed": 995,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时57分 ~ 17时52分]"
+          "appearance_count": 5,
+          "time_info": "[15时57分 ~ 19时02分]"
         },
         {
           "title": "奥迪车主称刹车油管有缺口致刹车失灵",
@@ -51,8 +52,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时51分 ~ 17时52分]"
+          "appearance_count": 3,
+          "time_info": "[17时51分 ~ 19时02分]"
         },
         {
           "title": "比亚迪到底有没有“背刺”客户",
