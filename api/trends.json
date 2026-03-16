@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-16T14:07:03.965931+08:00",
-  "total_titles_processed": 795,
+  "generated_at": "2026-03-16T18:38:33.274591+08:00",
+  "total_titles_processed": 987,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "系好安全带！最重磅的中美会谈、美日欧央行决议、AI大会和巨头财报，都在这一周",
@@ -14,11 +14,12 @@
           "ranks": [
             3,
             2,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时02分 ~ 14时07分]"
+          "appearance_count": 11,
+          "time_info": "[01时02分 ~ 18时38分]"
         },
         {
           "title": "小红书被曝有大量儿童软色情内容，给未成年用户推送色情擦边小说，纸尿裤推送也「擦边」，具体是怎么回事？",
@@ -28,8 +29,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时06分 ~ 14时07分]"
+          "appearance_count": 3,
+          "time_info": "[14时06分 ~ 18时38分]"
         },
         {
           "title": "“超级央行周”来袭，伊朗战争阴影笼罩全球利率决策",
@@ -61,7 +62,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
         },
@@ -72,9 +73,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
+        },
+        {
+          "title": "路透调查：15位经济学家中有14位表示，瑞士央行应加大外汇干预力度，以遏制瑞郎兑欧元进一步走强。",
+          "url": "https://flash.jin10.com/detail/20260316181437677800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
+          "title": "路透调查显示，29位经济学家中有28位认为瑞士央行在2026年把利率维持在0%。",
+          "url": "https://flash.jin10.com/detail/20260316181424928800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
         },
         {
           "title": "央行今日将开展买断式逆回购操作5000亿元",
@@ -86,6 +109,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 Apple Mac iPhone 手机",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "黄金首饰和手机“卖爆”了",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E9%A6%96%E9%A5%B0%E5%92%8C%E6%89%8B%E6%9C%BA%E2%80%9C%E5%8D%96%E7%88%86%E2%80%9D%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时06分 ~ 14时07分]"
+        },
+        {
+          "title": "国产手机涨价,等等党失算",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351909&amp;topic_name=%E5%9B%BD%E4%BA%A7%E6%89%8B%E6%9C%BA%E6%B6%A8%E4%BB%B7%2C%E7%AD%89%E7%AD%89%E5%85%9A%E5%A4%B1%E7%AE%97",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
+          "title": "又有2个手机品牌官宣涨价",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%88%E6%9C%892%E4%B8%AA%E6%89%8B%E6%9C%BA%E5%93%81%E7%89%8C%E5%AE%98%E5%AE%A3%E6%B6%A8%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
         }
       ]
     },
@@ -123,7 +185,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
         }
@@ -150,11 +212,12 @@
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=13&Refer=top",
           "source": "微博",
           "ranks": [
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时06分 ~ 14时07分]"
+          "appearance_count": 3,
+          "time_info": "[14时06分 ~ 18时38分]"
         }
       ]
     },
@@ -173,23 +236,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时03分 ~ 05时55分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "黄金首饰和手机“卖爆”了",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E9%A6%96%E9%A5%B0%E5%92%8C%E6%89%8B%E6%9C%BA%E2%80%9C%E5%8D%96%E7%88%86%E2%80%9D%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时06分 ~ 14时07分]"
         }
       ]
     }
