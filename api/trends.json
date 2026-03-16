@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-16T18:38:33.274591+08:00",
-  "total_titles_processed": 987,
+  "generated_at": "2026-03-16T22:49:27.204826+08:00",
+  "total_titles_processed": 1190,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时06分 ~ 18时38分]"
+          "appearance_count": 4,
+          "time_info": "[14时06分 ~ 22时49分]"
         },
         {
           "title": "“超级央行周”来袭，伊朗战争阴影笼罩全球利率决策",
@@ -84,7 +84,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         },
@@ -95,7 +95,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         },
@@ -114,8 +114,32 @@
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "国产手机涨价,等等党失算",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351909&amp;topic_name=%E5%9B%BD%E4%BA%A7%E6%89%8B%E6%9C%BA%E6%B6%A8%E4%BB%B7%2C%E7%AD%89%E7%AD%89%E5%85%9A%E5%A4%B1%E7%AE%97",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时38分 ~ 22时49分]"
+        },
+        {
+          "title": "又有2个手机品牌官宣涨价",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%88%E6%9C%892%E4%B8%AA%E6%89%8B%E6%9C%BA%E5%93%81%E7%89%8C%E5%AE%98%E5%AE%A3%E6%B6%A8%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时38分 ~ 22时49分]"
+        },
         {
           "title": "黄金首饰和手机“卖爆”了",
           "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E9%A6%96%E9%A5%B0%E5%92%8C%E6%89%8B%E6%9C%BA%E2%80%9C%E5%8D%96%E7%88%86%E2%80%9D%E4%BA%86",
@@ -128,32 +152,21 @@
           "time_info": "[14时06分 ~ 14时07分]"
         },
         {
-          "title": "国产手机涨价,等等党失算",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351909&amp;topic_name=%E5%9B%BD%E4%BA%A7%E6%89%8B%E6%9C%BA%E6%B6%A8%E4%BB%B7%2C%E7%AD%89%E7%AD%89%E5%85%9A%E5%A4%B1%E7%AE%97",
-          "source": "贴吧",
+          "title": "手机电脑迎来涨价潮",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E7%94%B5%E8%84%91%E8%BF%8E%E6%9D%A5%E6%B6%A8%E4%BB%B7%E6%BD%AE%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
           "ranks": [
-            6
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时38分"
-        },
-        {
-          "title": "又有2个手机品牌官宣涨价",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%88%E6%9C%892%E4%B8%AA%E6%89%8B%E6%9C%BA%E5%93%81%E7%89%8C%E5%AE%98%E5%AE%A3%E6%B6%A8%E4%BB%B7",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时38分"
+          "time_info": "22时49分"
         }
       ]
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "特斯拉“造芯”真来了！马斯克官宣：Terafab项目7天后启动",
@@ -177,6 +190,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时02分 ~ 01时03分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数涨幅第三次扩大至超过2%，刷新日高至7300点上方。 热门中概股腾讯音乐涨超5%，理想涨4.5%，再鼎医药、大全新能源、华住、百胜中国涨超3%，蔚来涨2.9%，网易涨2.5%，阿里巴巴涨2.2%。 ETF中，KWEB涨2.5%，CQQQ也涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3070990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "恒生科技指数涨超2%，恒指涨超1%。比亚迪股份涨超6%，蔚来涨超5%，京东健康、小米集团、华虹半导体等涨超4%。",
@@ -236,6 +260,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时03分 ~ 05时55分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "英伟达GTC大会前瞻：整合Groq技术大举进攻推理芯片，三星首度代工生产，OpenAI或成首批客户",
+          "url": "https://wallstreetcn.com/articles/3767569",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         }
       ]
     }
