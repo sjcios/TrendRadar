@@ -1,8 +1,125 @@
 {
-  "generated_at": "2026-03-19T05:52:18.955089+08:00",
-  "total_titles_processed": 402,
+  "generated_at": "2026-03-19T07:03:58.441607+08:00",
+  "total_titles_processed": 479,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "央行 抖音 小红书",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "巴西央行宣布降息，在伊朗战争波及前景之际谨慎行动",
+          "url": "https://wallstreetcn.com/livenews/3072703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时52分 ~ 07时03分]"
+        },
+        {
+          "title": "淮南邮政抖音号被指假冒名牌销售产品，实际运营方：上错链接，退一赔二",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32789352",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时33分 ~ 07时03分]"
+        },
+        {
+          "title": "美联储主席鲍威尔：央行独立性在国会得到广泛支持。",
+          "url": "https://flash.jin10.com/detail/20260319031340281800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时33分"
+        },
+        {
+          "title": "巴西央行：由于冲突持续时间缺乏明确性，通胀预测的不确定性已显著上升。委员会认为适宜启动货币政策校准周期。",
+          "url": "https://flash.jin10.com/detail/20260319053759726800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
+          "title": "巴西央行：未来利率调整举措将纳入有关中东地区冲突的深度和持续时间的新信息。",
+          "url": "https://flash.jin10.com/detail/20260319053702069800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 Apple Mac iPhone 手机",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "手机厂“扛得肉疼”！存储涨价低端机“多卖多亏”，供应链产能已战略调整|传真",
+          "url": "https://www.cls.cn/detail/2317053",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时33分 ~ 07时03分]"
+        },
+        {
+          "title": "库克：不希望过度使用苹果产品",
+          "url": "https://www.douyin.com/hot/2434457",
+          "source": "抖音",
+          "ranks": [
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时33分 ~ 07时03分]"
+        },
+        {
+          "title": "据巴西媒体《Folha》：巴西反垄断监管机构CADE已就苹果(AAPL.O)在iOS系统上的非接触式支付功能展开调查。",
+          "url": "https://flash.jin10.com/detail/20260319061012586800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
+          "title": "美光科技(MU.O)CEO：受内存供应限制影响，个人电脑和智能手机出货量可能下滑。",
+          "url": "https://flash.jin10.com/detail/20260319044848751800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时52分"
+        }
+      ]
+    },
     {
       "keyword_group": "金价",
       "match_count": 3,
@@ -15,8 +132,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时33分 ~ 05时52分]"
+          "appearance_count": 3,
+          "time_info": "[03时33分 ~ 07时03分]"
         },
         {
           "title": "黄金价格下跌 普通人能入手吗",
@@ -27,8 +144,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时33分 ~ 05时52分]"
+          "appearance_count": 3,
+          "time_info": "[03时33分 ~ 07时03分]"
         },
         {
           "title": "金价大跌失守4900美元关口 通胀担忧强化美联储鹰派预期",
@@ -37,89 +154,9 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "手机厂“扛得肉疼”！存储涨价低端机“多卖多亏”，供应链产能已战略调整|传真",
-          "url": "https://www.cls.cn/detail/2317053",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时33分 ~ 05时52分]"
-        },
-        {
-          "title": "库克：不希望过度使用苹果产品",
-          "url": "https://www.douyin.com/hot/2434457",
-          "source": "抖音",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时33分 ~ 05时52分]"
-        },
-        {
-          "title": "美光科技(MU.O)CEO：受内存供应限制影响，个人电脑和智能手机出货量可能下滑。",
-          "url": "https://flash.jin10.com/detail/20260319044848751800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "央行 抖音 小红书",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "巴西央行宣布降息，在伊朗战争波及前景之际谨慎行动",
-          "url": "https://wallstreetcn.com/livenews/3072703",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时52分"
-        },
-        {
-          "title": "淮南邮政抖音号被指假冒名牌销售产品，实际运营方：上错链接，退一赔二",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32789352",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时33分 ~ 05时52分]"
-        },
-        {
-          "title": "美联储主席鲍威尔：央行独立性在国会得到广泛支持。",
-          "url": "https://flash.jin10.com/detail/20260319031340281800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时33分"
+          "time_info": "[05时52分 ~ 07时03分]"
         }
       ]
     },
@@ -135,8 +172,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时33分 ~ 05时52分]"
+          "appearance_count": 3,
+          "time_info": "[03时33分 ~ 07时03分]"
         }
       ]
     },
@@ -169,7 +206,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
         }
