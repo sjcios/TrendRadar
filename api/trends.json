@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T07:01:41.045550+08:00",
-  "total_titles_processed": 503,
+  "generated_at": "2026-03-21T07:57:13.029806+08:00",
+  "total_titles_processed": 553,
   "failed_sources": [],
   "trends": [
     {
@@ -89,7 +89,7 @@
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "实探涨价后手机市场：价格敏感型消费者犹豫，店员建议“早点入手”",
@@ -101,8 +101,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 07时01分]"
+          "appearance_count": 8,
+          "time_info": "[01时12分 ~ 07时57分]"
         },
         {
           "title": "涨价后手机市场：店员建议早点入手",
@@ -115,8 +115,19 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 07时01分]"
+          "appearance_count": 8,
+          "time_info": "[01时12分 ~ 07时57分]"
+        },
+        {
+          "title": "粉丝用国产手机和库克合影",
+          "url": "https://www.toutiao.com/trending/7618405882792132659/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时56分 ~ 07时57分]"
         },
         {
           "title": "全球“芯荒”推升消费电子价格 行业专家：电脑、手机或涨20%以上",
@@ -125,7 +136,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         }
@@ -143,8 +154,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 07时01分]"
+          "appearance_count": 8,
+          "time_info": "[01时12分 ~ 07时57分]"
         },
         {
           "title": "标普500指数跌幅扩大至2%，公用事业板块跌3.96%，房地产板块跌3.13%，科技板块跌2.6%跌幅第三大，能源板块涨0.3%。 纳斯达克100指数跌2.4%，成分股核电公司Constellation Energy跌11.78%，西部数据、美光科技、希捷科技至多跌7.62%，英特尔、阿斯麦ADR、拉姆研究、特斯拉至少跌3.97%，英伟达跌3.61%，Meta跌2.95%，Paychex、Diamondback Energy、Workday、Arm控股至少涨超1%。 纳斯达克综合指数较10月29日收盘位回撤超10%。",
@@ -185,8 +196,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 07时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时12分 ~ 07时57分]"
         },
         {
           "title": "OpenAI：我们为美国和加拿大的大学生提供100美元的Codex额度。",
@@ -212,11 +223,12 @@
           "ranks": [
             10,
             29,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时51分 ~ 07时01分]"
+          "appearance_count": 7,
+          "time_info": "[03时51分 ~ 07时57分]"
         }
       ]
     },
@@ -232,8 +244,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 07时01分]"
+          "appearance_count": 8,
+          "time_info": "[01时12分 ~ 07时57分]"
         }
       ]
     }
