@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T22:57:24.080318+08:00",
-  "total_titles_processed": 1320,
+  "generated_at": "2026-03-21T23:51:42.560660+08:00",
+  "total_titles_processed": 1354,
   "failed_sources": [],
   "trends": [
     {
@@ -79,8 +79,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时47分 ~ 22时57分]"
+          "appearance_count": 4,
+          "time_info": "[19时47分 ~ 23时51分]"
         },
         {
           "title": "你会每年都换新款手机吗",
@@ -88,11 +88,12 @@
           "source": "今日头条",
           "ranks": [
             14,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时47分 ~ 22时57分]"
+          "appearance_count": 4,
+          "time_info": "[19时47分 ~ 23时51分]"
         },
         {
           "title": "手机突然黑屏千万别以为是手机坏了",
@@ -107,6 +108,17 @@
           "time_info": "[15时11分 ~ 17时04分]"
         },
         {
+          "title": "手机行业遭遇“存储劫”",
+          "url": "https://www.douyin.com/hot/2438381",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时57分 ~ 23时51分]"
+        },
+        {
           "title": "库克回应OpenClaw带动Mac Mini大卖",
           "url": "https://flash.jin10.com/detail/20260321130856200800",
           "source": "金十数据",
@@ -116,17 +128,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时11分"
-        },
-        {
-          "title": "手机行业遭遇“存储劫”",
-          "url": "https://www.douyin.com/hot/2438381",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时57分"
         },
         {
           "title": "全球“芯荒”推升消费电子价格 行业专家：电脑、手机或涨20%以上",
@@ -154,7 +155,7 @@
     },
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -213,6 +214,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "这一次不一样！股市反应迟钝，央行迟早QE，而黄金难以对冲",
+          "url": "https://wallstreetcn.com/articles/3768062",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
         },
         {
           "title": "英国央行：将倾向于在第二季度出售短期国债。",
@@ -280,6 +292,18 @@
           "time_info": "[17时03分 ~ 21时55分]"
         },
         {
+          "title": "金价大跌原因找到了",
+          "url": "https://flash.jin10.com/detail/20260321221312750800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时57分 ~ 23时51分]"
+        },
+        {
           "title": "“你好通胀，再见降息”，值金价10%的跌幅？｜大师复盘",
           "url": "https://flash.jin10.com/detail/20260321113654707800",
           "source": "金十数据",
@@ -313,17 +337,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时55分 ~ 15时11分]"
-        },
-        {
-          "title": "金价大跌原因找到了",
-          "url": "https://flash.jin10.com/detail/20260321221312750800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时57分"
         },
         {
           "title": "金价大跌 情侣火速买五金",
@@ -426,11 +439,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时55分 ~ 22时57分]"
+          "appearance_count": 3,
+          "time_info": "[21时55分 ~ 23时51分]"
         },
         {
           "title": "OpenAI：我们为美国和加拿大的大学生提供100美元的Codex额度。",
@@ -474,8 +488,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时12分 ~ 22时57分]"
+          "appearance_count": 17,
+          "time_info": "[01时12分 ~ 23时51分]"
         }
       ]
     }
