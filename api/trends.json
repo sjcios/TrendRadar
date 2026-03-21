@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T04:55:37.546668+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2026-03-22T05:51:29.215875+08:00",
+  "total_titles_processed": 419,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             10,
             11,
             13,
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 05时51分]"
         },
         {
           "title": "为什么 Mac 总感觉和 iPhone 不是一个时代的产物？",
@@ -31,8 +32,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 05时51分]"
         },
         {
           "title": "你会每年都换新款手机吗",
@@ -60,8 +61,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时00分 ~ 04时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时00分 ~ 05时51分]"
         },
         {
           "title": "据The Information：ChatGPT将于未来几周向所有免费用户展示广告。",
@@ -89,8 +90,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 05时51分]"
         }
       ]
     },
@@ -107,8 +108,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 05时51分]"
         }
       ]
     }
