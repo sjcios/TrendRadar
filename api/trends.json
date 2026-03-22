@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T22:59:07.320788+08:00",
-  "total_titles_processed": 1287,
+  "generated_at": "2026-03-22T23:53:28.703845+08:00",
+  "total_titles_processed": 1335,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时13分 ~ 22时59分]"
+          "appearance_count": 12,
+          "time_info": "[13时13分 ~ 23时53分]"
         },
         {
           "title": "这一次不一样！股市反应迟钝，央行迟早QE，而黄金难以对冲",
@@ -536,8 +536,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时59分 ~ 22时59分]"
+          "appearance_count": 20,
+          "time_info": "[00时59分 ~ 23时53分]"
         }
       ]
     }
