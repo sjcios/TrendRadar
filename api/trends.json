@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-22T15:53:07.138279+08:00",
-  "total_titles_processed": 796,
+  "generated_at": "2026-03-22T17:05:00.094011+08:00",
+  "total_titles_processed": 883,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "手机行业遭遇“存储劫”",
@@ -56,11 +56,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            17
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时13分 ~ 17时05分]"
+        },
+        {
+          "title": "实探手机涨价潮：荣耀OPPO领涨300起",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%9E%E6%8E%A2%E6%89%8B%E6%9C%BA%E6%B6%A8%E4%BB%B7%E6%BD%AE%EF%BC%9A%E8%8D%A3%E8%80%80OPPO%E9%A2%86%E6%B6%A8300%E8%B5%B7",
+          "source": "百度热搜",
+          "ranks": [
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时13分 ~ 15时53分]"
+          "time_info": "[17时04分 ~ 17时05分]"
         },
         {
           "title": "苹果CEO点赞中国创新：中国开发者和制造商正成为新质生产力的典范",
@@ -91,7 +103,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         }
@@ -122,11 +134,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时13分 ~ 15时53分]"
+          "appearance_count": 5,
+          "time_info": "[13时13分 ~ 17时05分]"
         },
         {
           "title": "央行行长潘功胜：运用多种工具保持流动性充裕",
@@ -134,22 +147,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时13分 ~ 15时53分]"
+          "appearance_count": 3,
+          "time_info": "[13时13分 ~ 17时05分]"
         },
         {
           "title": "这届年轻人都在抖音colorwalk",
           "url": "https://www.douyin.com/hot/2439424",
           "source": "抖音",
           "ranks": [
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时52分 ~ 15时53分]"
+          "appearance_count": 4,
+          "time_info": "[15时52分 ~ 17时05分]"
         },
         {
           "title": "央行行长潘功胜：运用多种工具保持流动性充裕",
@@ -169,7 +184,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         }
@@ -177,8 +192,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "金价还能涨回来吗？",
+          "url": "https://flash.jin10.com/detail/20260322163613272800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时05分"
+        },
         {
           "title": "粤开证券：长期看支撑黄金价格的有利因素仍在",
           "url": "https://flash.jin10.com/detail/20260322152315932800",
@@ -186,7 +212,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         },
@@ -278,7 +304,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         }
@@ -312,11 +338,12 @@
           "ranks": [
             19,
             23,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时59分 ~ 15时53分]"
+          "appearance_count": 13,
+          "time_info": "[00时59分 ~ 17时05分]"
         }
       ]
     }
