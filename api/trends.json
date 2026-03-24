@@ -1,186 +1,44 @@
 {
-  "generated_at": "2026-03-24T23:47:30.422723+08:00",
-  "total_titles_processed": 1322,
+  "generated_at": "2026-03-25T03:38:47.794022+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 24,
+      "match_count": 8,
       "titles": [
-        {
-          "title": "实探“涨价潮”下的手机市场",
-          "url": "https://www.douyin.com/hot/2440928",
-          "source": "抖音",
-          "ranks": [
-            4,
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时59分 ~ 19时36分]"
-        },
-        {
-          "title": "华为手机全面回归",
-          "url": "https://www.toutiao.com/trending/7620252152506155044/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            8,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时35分 ~ 08时00分]"
-        },
-        {
-          "title": "内存价格暴涨 旧手机成“香饽饽”",
-          "url": "https://www.baidu.com/s?wd=%E5%86%85%E5%AD%98%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8+%E6%97%A7%E6%89%8B%E6%9C%BA%E6%88%90%E2%80%9C%E9%A6%99%E9%A5%BD%E9%A5%BD%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时08分 ~ 23时47分]"
-        },
-        {
-          "title": "伍德麦肯兹（Wood Mackenzie）高级研究分析师Swati Singh：出口价格上涨表明，各主要出口市场对美国聚烯烃（Polyolefins）的需求依然强劲。 人们越来越担心，如果价格继续上涨，可能会导致潜在的需求破坏（Demand destruction）。",
-          "url": "https://wallstreetcn.com/livenews/3075433",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "旧手机回收一天一个价",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A7%E6%89%8B%E6%9C%BA%E5%9B%9E%E6%94%B6%E4%B8%80%E5%A4%A9%E4%B8%80%E4%B8%AA%E4%BB%B7",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时35分 ~ 23时47分]"
-        },
-        {
-          "title": "废旧手机回收价暴涨",
-          "url": "https://www.douyin.com/hot/2441963",
-          "source": "抖音",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时35分 ~ 23时47分]"
-        },
-        {
-          "title": "你后悔去年没换手机吗",
-          "url": "https://www.toutiao.com/trending/7620452935768981513/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时35分 ~ 23时47分]"
-        },
-        {
-          "title": "旧手机回收一天一个价",
-          "url": "https://www.toutiao.com/trending/7620310882920808511/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时35分 ~ 19时36分]"
-        },
-        {
-          "title": "苹果为何要出8G内存电脑",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E4%B8%BA%E4%BD%95%E8%A6%81%E5%87%BA8G%E5%86%85%E5%AD%98%E7%94%B5%E8%84%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时35分 ~ 19时36分]"
-        },
-        {
-          "title": "iPhone史上最大规模产品革新来了",
-          "url": "https://www.baidu.com/s?wd=iPhone%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E8%A7%84%E6%A8%A1%E4%BA%A7%E5%93%81%E9%9D%A9%E6%96%B0%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 16时08分]"
-        },
-        {
-          "title": "苹果公司推出Apple Business，其中整合了设备管理、电子邮件、以及日历。 Apple Business将于4月14日上线。",
-          "url": "https://wallstreetcn.com/livenews/3076059",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时47分"
-        },
         {
           "title": "少刷手机就是在保养气血",
           "url": "https://www.baidu.com/s?wd=%E5%B0%91%E5%88%B7%E6%89%8B%E6%9C%BA%E5%B0%B1%E6%98%AF%E5%9C%A8%E4%BF%9D%E5%85%BB%E6%B0%94%E8%A1%80",
           "source": "百度热搜",
           "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时47分"
-        },
-        {
-          "title": "苹果WWDC26官宣",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9CWWDC26%E5%AE%98%E5%AE%A3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时17分"
+          "time_info": "03时38分"
         },
         {
-          "title": "苹果推出苹果企业服务（Apple Business），整合了设备管理、邮件与日历功能。苹果企业服务包括免费连接、基础功能、管理员用户等功能。",
-          "url": "https://flash.jin10.com/detail/20260324230617897800",
-          "source": "金十数据",
+          "title": "苹果计划通过Siri应用、全新外观及“提问”按钮重启AI战略",
+          "url": "https://wallstreetcn.com/livenews/3076153",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时47分"
+          "time_info": "03时38分"
         },
         {
-          "title": "市场消息：苹果(AAPL.O)将推出Apple Business服务，该服务将整合设备管理、电子邮件和日历功能。Apple Business将于4月14日上线。",
-          "url": "https://flash.jin10.com/detail/20260324230210510800",
+          "title": "苹果计划通过Siri应用、全新界面以及iOS 27中的“问Siri”按钮，重启其人工智能战略。",
+          "url": "https://flash.jin10.com/detail/20260325025306673800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时47分"
+          "time_info": "03时38分"
         },
         {
           "title": "吃苹果籽会导致氰化物中毒吗",
@@ -189,548 +47,109 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时47分"
+          "time_info": "03时38分"
         },
         {
-          "title": "iPhone史上最大规模产品革新来了",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E8%A7%84%E6%A8%A1%E4%BA%A7%E5%93%81%E9%9D%A9%E6%96%B0%E6%9D%A5%E4%BA%86%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
+          "title": "你后悔去年没换手机吗",
+          "url": "https://www.toutiao.com/trending/7620452935768981513/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时38分"
+        },
+        {
+          "title": "旧手机回收一天一个价",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A7%E6%89%8B%E6%9C%BA%E5%9B%9E%E6%94%B6%E4%B8%80%E5%A4%A9%E4%B8%80%E4%B8%AA%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时38分"
+        },
+        {
+          "title": "市场消息：苹果计划通过全新外观和聊天功能来升级Siri，预计将在6月8日的开发者大会上发布新Siri。",
+          "url": "https://flash.jin10.com/detail/20260325025055186800",
+          "source": "金十数据",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时17分"
+          "time_info": "03时38分"
         },
         {
           "title": "废旧手机市场迎来“火热期”",
           "url": "https://www.toutiao.com/trending/7620490483148521510/",
           "source": "今日头条",
           "ranks": [
-            19
+            21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时47分"
-        },
+          "time_info": "03时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
         {
-          "title": "卢伟冰：Xiaomi miclaw未来会拓展到电脑、手表端，反对将“AI手机”概念化",
-          "url": "https://wallstreetcn.com/livenews/3075911",
+          "title": "OpenAI料将从MGX、Coatue、Thrive募集大约100亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3076139",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时36分"
+          "time_info": "03时38分"
         },
         {
-          "title": "涨价潮下适合买手机吗",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B6%A8%E4%BB%B7%E6%BD%AE%E4%B8%8B%E9%80%82%E5%90%88%E4%B9%B0%E6%89%8B%E6%9C%BA%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时08分"
-        },
-        {
-          "title": "苹果：将于6月8-12日举办2026年WWDC",
-          "url": "https://wallstreetcn.com/livenews/3075345",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时35分"
-        },
-        {
-          "title": "大摩调查显示：iPhone购买意向创新高，受中国市场推动",
-          "url": "https://wallstreetcn.com/livenews/3075456",
+          "title": "OpenAI发布基于推广的安全政策。 政策将帮助开发面向青少年的保护措施。 政策精准定位青少年面临的常规风险。",
+          "url": "https://wallstreetcn.com/livenews/3076134",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时00分"
-        },
-        {
-          "title": "骑车玩手机摔成植物人索赔300多万",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%AA%91%E8%BD%A6%E7%8E%A9%E6%89%8B%E6%9C%BA%E6%91%94%E6%88%90%E6%A4%8D%E7%89%A9%E4%BA%BA%E7%B4%A2%E8%B5%94300%E5%A4%9A%E4%B8%87%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时08分"
-        },
-        {
-          "title": "苹果公司料将在推动服务的尝试中增添搜索广告至地图应用Maps APP。 该公司最快料将在3月份宣布广告计划。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3075335",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "新能源车渗透率都过 50% 了，为什么我就没见过专修新能源车的修理厂？",
-          "url": "https://www.zhihu.com/question/654140946",
-          "source": "知乎",
-          "ranks": [
-            3,
-            5,
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时35分 ~ 08时00分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜特斯拉收涨3.5%，亚马逊涨超2.3%",
-          "url": "https://wallstreetcn.com/livenews/3075432",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "国内首个！新型储能AI分析平台投用 新能源消纳电量提升30%",
-          "url": "https://www.cls.cn/detail/2322334",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 16时08分]"
-        },
-        {
-          "title": "油价上涨 上海新能源汽车销售火爆",
-          "url": "https://www.toutiao.com/trending/7620319648046776326/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时58分 ~ 06时02分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨0.86%，报6800.66点。 热门中概股里，文远知行初步收涨9.2%，小鹏、蔚来涨7.1%，比亚迪、阿里巴巴涨超3%，理想涨2.5%，腾讯、小米、京东至多涨1.7%，阿特斯则跌7.7%。 ETF中，MSCI新兴市场ex中国ETF（EMXC）收涨3.69%，中概互联网指数ETF（KWEB）收涨0.74%，中国科技指数ETF（CQQQ）收涨0.09%。 德银嘉实沪深300指数ETF（ASHR）收跌0.65%，XtrackersHarvest中证50（ASHS）收跌1.87%。",
-          "url": "https://wallstreetcn.com/livenews/3075405",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时59分 ~ 06时02分]"
-        },
-        {
-          "title": "欧洲汽车制造商协会：欧洲汽车销量2月份增长1.7%至979,321辆。 2月电动车在欧盟新车注册中占比达66.7%。 特斯拉2月在欧盟、英国及EFTA市场份额升至1.8%，与比亚迪持平。 特斯拉纯电动车市场份额为9.3%。",
-          "url": "https://wallstreetcn.com/livenews/3075661",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "既然小米都能把电机释放到 1500 匹，那些老电车厂能做到吗，比如比亚迪和特斯拉，能做到为什么不做？",
-          "url": "https://www.zhihu.com/question/14563180731",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "欧洲汽车制造商协会：大众集团2月欧盟新车注册量增长2.6%。梅赛德斯-奔驰2月欧盟新车注册量下降5.7%。宝马2月欧盟新车注册量下降4.2%。雷诺集团2月欧盟新车注册量下降15.5%。",
-          "url": "https://flash.jin10.com/detail/20260324130217908800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "月内近350家上市公司获机构调研，半导体、新能源等赛道受青睐",
-          "url": "https://wallstreetcn.com/livenews/3075470",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时00分"
-        },
-        {
-          "title": "欧洲汽车制造商协会：比亚迪2月欧盟新车注册量增长185%。",
-          "url": "https://flash.jin10.com/detail/20260324130121759800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "国际原油价格大涨，油价近期波动会加速燃油车「退场」进程吗？新能源车电池技术不断迭代，燃油车优势剩多少？",
-          "url": "https://www.zhihu.com/question/2019423574964794716",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "欧洲汽车制造商协会：特斯拉2月欧盟新车注册量增长29%。",
-          "url": "https://flash.jin10.com/detail/20260324130028115800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "比亚迪二代刀片电池离爆发还有多远",
-          "url": "https://www.toutiao.com/trending/7619947906985017363/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时47分"
+          "time_info": "03时38分"
         }
       ]
     },
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 9,
+      "match_count": 2,
       "titles": [
         {
-          "title": "携程、京东、抖音等十二家企业被约谈，集中通报平台「内卷式」竞争问题，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2019473608989172095",
-          "source": "知乎",
+          "title": "瑞士央行高层：已提高对外汇干预的准备就绪程度",
+          "url": "https://wallstreetcn.com/livenews/3076154",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            7,
-            5,
-            3,
-            2
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时35分 ~ 13时17分]"
+          "appearance_count": 1,
+          "time_info": "03时38分"
         },
         {
-          "title": "隐身的名字抖音追剧团",
-          "url": "https://www.douyin.com/hot/2440892",
+          "title": "央行开展5000亿元MLF操作",
+          "url": "https://www.douyin.com/hot/2442122",
           "source": "抖音",
           "ranks": [
-            15,
-            17,
-            21,
-            11,
-            30,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时35分 ~ 16时08分]"
-        },
-        {
-          "title": "瑞士央行管委会成员Tschudin：短期内，我们预计通胀将小幅上升。",
-          "url": "https://flash.jin10.com/detail/20260324232338601800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时47分"
-        },
-        {
-          "title": "欧洲央行官员Buch：地缘政治风险明显上升。 需要付出更多努力打造一体化的单一市场。 银行需对不良贷款保持警惕。",
-          "url": "https://wallstreetcn.com/livenews/3075662",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "巴西央行：需更长时间实施更严格的货币紧缩政策。",
-          "url": "https://flash.jin10.com/detail/20260324191248703800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时36分"
-        },
-        {
-          "title": "巴西央行：伊朗战争爆发后，通胀风险加剧。",
-          "url": "https://flash.jin10.com/detail/20260324190840229800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时36分"
-        },
-        {
-          "title": "巴西央行：国内经济活动正在放缓。",
-          "url": "https://flash.jin10.com/detail/20260324190828991800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时36分"
-        },
-        {
-          "title": "加拿大央行官员Kozicki与Mendes将退出央行管委会。",
-          "url": "https://wallstreetcn.com/livenews/3075348",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时35分"
-        },
-        {
-          "title": "巴西央行：经济在放缓步伐上呈现喜忧参半的信号。",
-          "url": "https://flash.jin10.com/detail/20260324190439191800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "金价为何跌？避险光环失灵了？黄金曾有六次大跳水",
-          "url": "https://www.cls.cn/detail/2321752",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时35分 ~ 08时00分]"
-        },
-        {
-          "title": "金价急跌原因",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%80%A5%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时35分 ~ 08时00分]"
-        },
-        {
-          "title": "金价接连失守4500、4400、4300、4200、4100美元，避险功能为何“失灵”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32814959",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时35分 ~ 08时00分]"
-        },
-        {
-          "title": "中东战火持续点燃通胀担忧，金价能否摆脱“十连跌”？",
-          "url": "https://flash.jin10.com/detail/20260324155020488800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时08分"
-        },
-        {
-          "title": "金价大跌后还会回升吗",
-          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E5%90%8E%E8%BF%98%E4%BC%9A%E5%9B%9E%E5%8D%87%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时35分 ~ 06时02分]"
-        },
-        {
-          "title": "金价大跌没人扫货了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E6%B2%A1%E4%BA%BA%E6%89%AB%E8%B4%A7%E4%BA%86%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时59分 ~ 08时00分]"
-        },
-        {
-          "title": "金价震荡下的金店骗局",
-          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E9%9C%87%E8%8D%A1%E4%B8%8B%E7%9A%84%E9%87%91%E5%BA%97%E9%AA%97%E5%B1%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "金价震荡致交易量激增，多家银行积存金系统出现崩溃，暴露银行准备不足问题",
-          "url": "https://wallstreetcn.com/livenews/3075459",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时00分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "微软将租用美国得州被甲骨文和OpenAI抛弃的数据中心。 微软和英伟达宣布，就核能展开AI合作。",
-          "url": "https://wallstreetcn.com/livenews/3076067",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时47分"
-        },
-        {
-          "title": "OpenAI的CEO Altman确认：退出Helion董事会。",
-          "url": "https://wallstreetcn.com/livenews/3075367",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时35分"
-        },
-        {
-          "title": "市场消息：微软将租用甲骨文和OpenAI放弃的得州数据中心。微软、英伟达宣布在核能领域开展人工智能合作。微软与英伟达将共同开发用于核能许可申请及设计的AI工具。",
-          "url": "https://flash.jin10.com/detail/20260324231739296800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时47分"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：（谈退出美国核聚变初创公司Helion董事会）随着Helion和OpenAI开始探索合作，我很难同时兼任两家公司的董事。",
-          "url": "https://flash.jin10.com/detail/20260324015156382800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时35分"
-        },
-        {
-          "title": "OpenAI发言人：微软(MSFT.O)现在是且将继续是至关重要的长期合作伙伴。",
-          "url": "https://flash.jin10.com/detail/20260324073527731800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时00分"
-        },
-        {
-          "title": "OpenAI在投资者文件中指出：对微软的依赖是一大风险",
-          "url": "https://wallstreetcn.com/livenews/3075468",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时00分"
-        },
-        {
-          "title": "据CNBC：OpenAI在投资者文件中将依赖微软(MSFT.O)列为一项风险因素。",
-          "url": "https://flash.jin10.com/detail/20260324070937024800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时00分"
+          "time_info": "03时38分"
         }
       ]
     },
@@ -743,15 +162,28 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E9%83%AD%E8%BE%BE%E9%9B%85%E8%A2%AB%E6%9B%9D%E7%A6%BB%E8%81%8C",
           "source": "bilibili 热搜",
           "ranks": [
-            11,
-            12,
-            15,
-            18,
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时35分 ~ 23时47分]"
+          "appearance_count": 1,
+          "time_info": "03时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "比亚迪5分钟极速充电震惊美媒",
+          "url": "https://www.toutiao.com/trending/7620407071956729898/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时38分"
         }
       ]
     }
