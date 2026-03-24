@@ -1,33 +1,35 @@
 {
-  "generated_at": "2026-03-24T06:02:00.882179+08:00",
-  "total_titles_processed": 441,
+  "generated_at": "2026-03-24T08:00:04.448199+08:00",
+  "total_titles_processed": 571,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "金价为何跌？避险光环失灵了？黄金曾有六次大跳水",
           "url": "https://www.cls.cn/detail/2321752",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时35分 ~ 06时02分]"
+          "appearance_count": 7,
+          "time_info": "[02时35分 ~ 08时00分]"
         },
         {
           "title": "金价急跌原因",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%80%A5%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时35分 ~ 06时02分]"
+          "appearance_count": 7,
+          "time_info": "[02时35分 ~ 08时00分]"
         },
         {
           "title": "金价接连失守4500、4400、4300、4200、4100美元，避险功能为何“失灵”？",
@@ -35,11 +37,12 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时35分 ~ 06时02分]"
+          "appearance_count": 7,
+          "time_info": "[02时35分 ~ 08时00分]"
         },
         {
           "title": "金价大跌后还会回升吗",
@@ -52,13 +55,59 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时35分 ~ 06时02分]"
+        },
+        {
+          "title": "金价大跌没人扫货了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E6%B2%A1%E4%BA%BA%E6%89%AB%E8%B4%A7%E4%BA%86%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时59分 ~ 08时00分]"
+        },
+        {
+          "title": "金价震荡致交易量激增，多家银行积存金系统出现崩溃，暴露银行准备不足问题",
+          "url": "https://wallstreetcn.com/livenews/3075459",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时00分"
         }
       ]
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "华为手机全面回归",
+          "url": "https://www.toutiao.com/trending/7620252152506155044/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时35分 ~ 08时00分]"
+        },
+        {
+          "title": "实探“涨价潮”下的手机市场",
+          "url": "https://www.douyin.com/hot/2440928",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时59分 ~ 08时00分]"
+        },
         {
           "title": "伍德麦肯兹（Wood Mackenzie）高级研究分析师Swati Singh：出口价格上涨表明，各主要出口市场对美国聚烯烃（Polyolefins）的需求依然强劲。 人们越来越担心，如果价格继续上涨，可能会导致潜在的需求破坏（Demand destruction）。",
           "url": "https://wallstreetcn.com/livenews/3075433",
@@ -66,21 +115,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
-        },
-        {
-          "title": "华为手机全面回归",
-          "url": "https://www.toutiao.com/trending/7620252152506155044/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时35分 ~ 06时02分]"
         },
         {
           "title": "苹果：将于6月8-12日举办2026年WWDC",
@@ -92,6 +129,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
+        },
+        {
+          "title": "大摩调查显示：iPhone购买意向创新高，受中国市场推动",
+          "url": "https://wallstreetcn.com/livenews/3075456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时00分"
         },
         {
           "title": "苹果公司料将在推动服务的尝试中增添搜索广告至地图应用Maps APP。 该公司最快料将在3月份宣布广告计划。（彭博）",
@@ -107,8 +155,69 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "OpenAI的CEO Altman确认：退出Helion董事会。",
+          "url": "https://wallstreetcn.com/livenews/3075367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时35分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：（谈退出美国核聚变初创公司Helion董事会）随着Helion和OpenAI开始探索合作，我很难同时兼任两家公司的董事。",
+          "url": "https://flash.jin10.com/detail/20260324015156382800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时35分"
+        },
+        {
+          "title": "OpenAI发言人：微软(MSFT.O)现在是且将继续是至关重要的长期合作伙伴。",
+          "url": "https://flash.jin10.com/detail/20260324073527731800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时00分"
+        },
+        {
+          "title": "OpenAI在投资者文件中指出：对微软的依赖是一大风险",
+          "url": "https://wallstreetcn.com/livenews/3075468",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时00分"
+        },
+        {
+          "title": "据CNBC：OpenAI在投资者文件中将依赖微软(MSFT.O)列为一项风险因素。",
+          "url": "https://flash.jin10.com/detail/20260324070937024800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时00分"
+        }
+      ]
+    },
+    {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "新能源车渗透率都过 50% 了，为什么我就没见过专修新能源车的修理厂？",
@@ -117,11 +226,12 @@
           "ranks": [
             3,
             5,
-            8
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时35分 ~ 06时02分]"
+          "appearance_count": 7,
+          "time_info": "[02时35分 ~ 08时00分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收涨3.5%，亚马逊涨超2.3%",
@@ -130,7 +240,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -157,6 +267,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时59分 ~ 06时02分]"
+        },
+        {
+          "title": "月内近350家上市公司获机构调研，半导体、新能源等赛道受青睐",
+          "url": "https://wallstreetcn.com/livenews/3075470",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时00分"
         }
       ]
     },
@@ -171,11 +292,12 @@
           "ranks": [
             9,
             7,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时35分 ~ 06时02分]"
+          "appearance_count": 7,
+          "time_info": "[02时35分 ~ 08时00分]"
         },
         {
           "title": "隐身的名字抖音追剧团",
@@ -184,11 +306,12 @@
           "ranks": [
             15,
             17,
-            21
+            21,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时35分 ~ 06时02分]"
+          "appearance_count": 7,
+          "time_info": "[02时35分 ~ 08时00分]"
         },
         {
           "title": "加拿大央行官员Kozicki与Mendes将退出央行管委会。",
@@ -196,34 +319,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI的CEO Altman确认：退出Helion董事会。",
-          "url": "https://wallstreetcn.com/livenews/3075367",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时35分"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：（谈退出美国核聚变初创公司Helion董事会）随着Helion和OpenAI开始探索合作，我很难同时兼任两家公司的董事。",
-          "url": "https://flash.jin10.com/detail/20260324015156382800",
-          "source": "金十数据",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -243,8 +338,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时35分"
+          "appearance_count": 3,
+          "time_info": "[02时35分 ~ 08时00分]"
         }
       ]
     }
