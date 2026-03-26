@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T05:06:55.390117+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2026-03-27T07:01:42.613268+08:00",
+  "total_titles_processed": 474,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
         },
@@ -190,7 +190,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
         },
@@ -201,7 +201,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
         },
@@ -212,7 +212,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
         }
@@ -229,7 +229,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
         },
@@ -239,11 +239,12 @@
           "source": "百度热搜",
           "ranks": [
             14,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时42分 ~ 05时06分]"
+          "appearance_count": 3,
+          "time_info": "[03时42分 ~ 07时01分]"
         },
         {
           "title": "多方回应一吨旧手机能炼375克黄金",
@@ -251,11 +252,12 @@
           "source": "微博",
           "ranks": [
             18,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时42分 ~ 05时06分]"
+          "appearance_count": 3,
+          "time_info": "[03时42分 ~ 07时01分]"
         },
         {
           "title": "韩国女子怒抢中国游客手机",
@@ -266,8 +268,20 @@
             22
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时42分 ~ 07时01分]"
+        },
+        {
+          "title": "MacBook Neo全面评测",
+          "url": "https://search.bilibili.com/all?keyword=MacBook%20Neo%E5%85%A8%E9%9D%A2%E8%AF%84%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            15
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时42分 ~ 05时06分]"
+          "time_info": "[05时06分 ~ 07时01分]"
         },
         {
           "title": "手机集体涨价背后",
@@ -276,7 +290,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
         },
@@ -290,17 +304,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
         {
-          "title": "MacBook Neo全面评测",
-          "url": "https://search.bilibili.com/all?keyword=MacBook%20Neo%E5%85%A8%E9%9D%A2%E8%AF%84%E6%B5%8B",
-          "source": "bilibili 热搜",
+          "title": "TurboQuant“横空出世”，科技圈高呼“谷歌版DeepSeek”、“真实版Pied Piper”，华尔街“呵呵，抄底内存股”",
+          "url": "https://wallstreetcn.com/articles/3768419",
+          "source": "华尔街见闻",
           "ranks": [
-            29
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时06分"
+          "time_info": "07时01分"
+        },
+        {
+          "title": "网传 DeepSeekV4 要来了，这次是真的吗？目前有哪些信息？",
+          "url": "https://www.zhihu.com/question/2015379461017659100",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         }
       ]
     },
@@ -342,11 +373,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时42分 ~ 05时06分]"
+          "appearance_count": 3,
+          "time_info": "[03时42分 ~ 07时01分]"
         }
       ]
     },
@@ -361,7 +393,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
         }
@@ -378,7 +410,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
         }
