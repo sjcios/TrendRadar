@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T02:03:19.772735+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-03-28T04:06:27.095634+08:00",
+  "total_titles_processed": 394,
   "failed_sources": [],
   "trends": [
     {
@@ -23,44 +23,48 @@
           "url": "https://www.cls.cn/detail/2327153",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时03分"
+          "appearance_count": 2,
+          "time_info": "[02时03分 ~ 04时06分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8B%E8%B0%B7%E6%AD%8C%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95",
           "source": "bilibili 热搜",
           "ranks": [
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时03分"
+          "appearance_count": 2,
+          "time_info": "[02时03分 ~ 04时06分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CTurboQuant%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB",
           "source": "bilibili 热搜",
           "ranks": [
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时03分"
+          "appearance_count": 2,
+          "time_info": "[02时03分 ~ 04时06分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
           "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%AD%98%E8%82%A1%E5%A4%A7%E8%B7%8C%E4%B8%8E%E8%B0%B7%E6%AD%8C%E8%AE%BA%E6%96%87%E6%9C%89%E5%85%B3%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时03分"
+          "appearance_count": 2,
+          "time_info": "[02时03分 ~ 04时06分]"
         }
       ]
     },
@@ -76,8 +80,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时03分"
+          "appearance_count": 2,
+          "time_info": "[02时03分 ~ 04时06分]"
         },
         {
           "title": "央行：不断完善系统性金融风险防范化解体系 推动多渠道加大资本补充力度",
@@ -87,8 +91,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时03分"
+          "appearance_count": 2,
+          "time_info": "[02时03分 ~ 04时06分]"
         },
         {
           "title": "伊朗战争冲击金市，央行\"永久买家\"神话开始动摇！",
@@ -98,8 +102,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时03分"
+          "appearance_count": 2,
+          "time_info": "[02时03分 ~ 04时06分]"
         },
         {
           "title": "欧洲央行执委施纳贝尔：财政应对的规模将至关重要。",
@@ -126,47 +130,20 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金价为何反常下跌",
-          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E4%B8%BA%E4%BD%95%E5%8F%8D%E5%B8%B8%E4%B8%8B%E8%B7%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时03分"
-        },
-        {
-          "title": "现货黄金价格深夜再度跳水，一度跌逾3%！金价为何“上蹿下跳”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32841691",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时03分"
-        }
-      ]
-    },
-    {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "苹果正式停产下架 Mac Pro，确定无后继产品，如何评价该产品线 20 年的历史落幕？",
           "url": "https://www.zhihu.com/question/2020810589144884963",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时03分"
+          "appearance_count": 2,
+          "time_info": "[02时03分 ~ 04时06分]"
         },
         {
           "title": "1吨旧手机约能提炼200克黄金",
@@ -178,6 +155,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
+        },
+        {
+          "title": "雷军手机背屏壁纸是“逆天改命”",
+          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E6%89%8B%E6%9C%BA%E8%83%8C%E5%B1%8F%E5%A3%81%E7%BA%B8%E6%98%AF%E2%80%9C%E9%80%86%E5%A4%A9%E6%94%B9%E5%91%BD%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "现货黄金价格深夜再度跳水，一度跌逾3%！金价为何“上蹿下跳”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32841691",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时03分 ~ 04时06分]"
+        },
+        {
+          "title": "金价为何反常下跌",
+          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E4%B8%BA%E4%BD%95%E5%8F%8D%E5%B8%B8%E4%B8%8B%E8%B7%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时03分 ~ 04时06分]"
         }
       ]
     },
@@ -204,8 +222,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时03分"
+          "appearance_count": 2,
+          "time_info": "[02时03分 ~ 04时06分]"
         }
       ]
     }
