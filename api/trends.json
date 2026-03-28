@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T17:56:20.772504+08:00",
-  "total_titles_processed": 1008,
+  "generated_at": "2026-03-28T19:03:56.810549+08:00",
+  "total_titles_processed": 1087,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时15分 ~ 17时56分]"
+          "appearance_count": 4,
+          "time_info": "[13时15分 ~ 19时03分]"
         },
         {
           "title": "特斯拉辟谣Model 3标准版在华上市：暂无引入计划",
@@ -108,8 +108,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时03分 ~ 17时56分]"
+          "appearance_count": 9,
+          "time_info": "[02时03分 ~ 19时03分]"
         },
         {
           "title": "【早报】美国总统特使预计本周将与伊朗举行会谈；央行召开2026年金融稳定工作会议",
@@ -120,8 +120,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时57分 ~ 17时56分]"
+          "appearance_count": 5,
+          "time_info": "[07时57分 ~ 19时03分]"
         },
         {
           "title": "央行：不断完善系统性金融风险防范化解体系 推动多渠道加大资本补充力度",
@@ -196,8 +196,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时03分 ~ 17时56分]"
+          "appearance_count": 9,
+          "time_info": "[02时03分 ~ 19时03分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -211,8 +211,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时03分 ~ 17时56分]"
+          "appearance_count": 9,
+          "time_info": "[02时03分 ~ 19时03分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -222,11 +222,12 @@
             17,
             15,
             20,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时03分 ~ 17时56分]"
+          "appearance_count": 9,
+          "time_info": "[02时03分 ~ 19时03分]"
         },
         {
           "title": "全球内存股惨遭谷歌新算法冲击 瑞穗：恰恰是一个上车机会！",
@@ -258,74 +259,30 @@
           "url": "https://www.zhihu.com/question/2020455049218712383",
           "source": "知乎",
           "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "苹果正式停产下架 Mac Pro，确定无后继产品，如何评价该产品线 20 年的历史落幕？",
-          "url": "https://www.zhihu.com/question/2020810589144884963",
-          "source": "知乎",
-          "ranks": [
-            10,
-            9,
-            12
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时03分 ~ 13时15分]"
-        },
-        {
-          "title": "1吨旧手机约能提炼200克黄金",
-          "url": "https://www.baidu.com/s?wd=1%E5%90%A8%E6%97%A7%E6%89%8B%E6%9C%BA%E7%BA%A6%E8%83%BD%E6%8F%90%E7%82%BC200%E5%85%8B%E9%BB%84%E9%87%91",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时03分 ~ 07时57分]"
-        },
-        {
-          "title": "男子看手机踏空身亡 家属索赔百万",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%9C%8B%E6%89%8B%E6%9C%BA%E8%B8%8F%E7%A9%BA%E8%BA%AB%E4%BA%A1+%E5%AE%B6%E5%B1%9E%E7%B4%A2%E8%B5%94%E7%99%BE%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时15分 ~ 17时56分]"
-        },
-        {
-          "title": "雷军手机背屏壁纸是“逆天改命”",
-          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E6%89%8B%E6%9C%BA%E8%83%8C%E5%B1%8F%E5%A3%81%E7%BA%B8%E6%98%AF%E2%80%9C%E9%80%86%E5%A4%A9%E6%94%B9%E5%91%BD%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时06分 ~ 06时02分]"
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 19时03分]"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "金价大跌后迎抄底资金，分析师：结构性利好仍存",
+          "url": "https://flash.jin10.com/detail/20260328184122077800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        },
         {
           "title": "金价为何反常下跌",
           "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E4%B8%BA%E4%BD%95%E5%8F%8D%E5%B8%B8%E4%B8%8B%E8%B7%8C",
@@ -350,6 +307,74 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时03分 ~ 07时57分]"
+        },
+        {
+          "title": "金价急速飙涨",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%80%A5%E9%80%9F%E9%A3%99%E6%B6%A8%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 Apple Mac iPhone 手机",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "苹果正式停产下架 Mac Pro，确定无后继产品，如何评价该产品线 20 年的历史落幕？",
+          "url": "https://www.zhihu.com/question/2020810589144884963",
+          "source": "知乎",
+          "ranks": [
+            10,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时03分 ~ 13时15分]"
+        },
+        {
+          "title": "男子看手机踏空身亡 家属索赔百万",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%9C%8B%E6%89%8B%E6%9C%BA%E8%B8%8F%E7%A9%BA%E8%BA%AB%E4%BA%A1+%E5%AE%B6%E5%B1%9E%E7%B4%A2%E8%B5%94%E7%99%BE%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            10,
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时15分 ~ 19时03分]"
+        },
+        {
+          "title": "1吨旧手机约能提炼200克黄金",
+          "url": "https://www.baidu.com/s?wd=1%E5%90%A8%E6%97%A7%E6%89%8B%E6%9C%BA%E7%BA%A6%E8%83%BD%E6%8F%90%E7%82%BC200%E5%85%8B%E9%BB%84%E9%87%91",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时03分 ~ 07时57分]"
+        },
+        {
+          "title": "雷军手机背屏壁纸是“逆天改命”",
+          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E6%89%8B%E6%9C%BA%E8%83%8C%E5%B1%8F%E5%A3%81%E7%BA%B8%E6%98%AF%E2%80%9C%E9%80%86%E5%A4%A9%E6%94%B9%E5%91%BD%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时06分 ~ 06时02分]"
         }
       ]
     }
