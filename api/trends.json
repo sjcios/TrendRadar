@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T06:31:21.810779+08:00",
-  "total_titles_processed": 494,
+  "generated_at": "2026-03-30T07:32:10.143306+08:00",
+  "total_titles_processed": 550,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             18,
             8,
             6,
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 06时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 07时32分]"
         },
         {
           "title": "旧手机回收价格暴涨五六倍？真相来了",
@@ -31,11 +32,12 @@
             9,
             10,
             7,
-            16
+            16,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 06时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 07时32分]"
         },
         {
           "title": "手机发烫可能是正在被窃密",
@@ -46,11 +48,56 @@
             9,
             6,
             28,
-            27
+            27,
+            24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 06时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 07时32分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "央行 抖音 小红书",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "黄金大买家土耳其央行在伊朗战争期间抛售 80 亿美元黄金，这意味着什么？",
+          "url": "https://www.zhihu.com/question/2020858530614305581",
+          "source": "知乎",
+          "ranks": [
+            8,
+            7,
+            10,
+            17,
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 07时32分]"
+        },
+        {
+          "title": "欧洲央行管委VILLEROY：最近市场出现一些过度解读的情况。 欧洲央行准备在必要时采取行动应对通胀预期。 关于欧洲央行采取行动日期的讨论“为时尚早”。",
+          "url": "https://wallstreetcn.com/livenews/3078793",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "欧洲央行管委维勒鲁瓦：欧洲央行已做好行动准备，但讨论欧洲央行可能加息的日期还为时过早。",
+          "url": "https://flash.jin10.com/detail/20260330070114710800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时32分"
         }
       ]
     },
@@ -68,8 +115,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 06时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 07时32分]"
         },
         {
           "title": "DeepSeek“崩了”",
@@ -81,8 +128,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 06时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 07时32分]"
         }
       ]
     },
@@ -99,8 +146,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 06时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 07时32分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -113,30 +160,25 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 06时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 07时32分]"
         }
       ]
     },
     {
-      "keyword_group": "央行 抖音 小红书",
+      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
       "match_count": 1,
       "titles": [
         {
-          "title": "黄金大买家土耳其央行在伊朗战争期间抛售 80 亿美元黄金，这意味着什么？",
-          "url": "https://www.zhihu.com/question/2020858530614305581",
-          "source": "知乎",
+          "title": "新能源车充电涨价因用油发电系谣言",
+          "url": "https://www.toutiao.com/trending/7621733228176834569/",
+          "source": "今日头条",
           "ranks": [
-            8,
-            7,
-            10,
-            17,
-            20,
-            19
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 06时31分]"
+          "appearance_count": 2,
+          "time_info": "[07时31分 ~ 07时32分]"
         }
       ]
     },
