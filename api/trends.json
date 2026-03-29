@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T22:34:06.865777+08:00",
-  "total_titles_processed": 1146,
+  "generated_at": "2026-03-29T23:32:07.269961+08:00",
+  "total_titles_processed": 1202,
   "failed_sources": [],
   "trends": [
     {
@@ -190,19 +190,20 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时54分 ~ 22时34分]"
+          "appearance_count": 12,
+          "time_info": "[13时54分 ~ 23时32分]"
         },
         {
           "title": "新算法公布,谷歌干崩股市",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352482&amp;topic_name=%E6%96%B0%E7%AE%97%E6%B3%95%E5%85%AC%E5%B8%83%2C%E8%B0%B7%E6%AD%8C%E5%B9%B2%E5%B4%A9%E8%82%A1%E5%B8%82",
           "source": "贴吧",
           "ranks": [
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时28分 ~ 22时34分]"
+          "appearance_count": 8,
+          "time_info": "[19时28分 ~ 23时32分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -287,6 +288,18 @@
           "time_info": "[16时03分 ~ 21时54分]"
         },
         {
+          "title": "手机发烫可能是正在被窃密",
+          "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E5%8F%91%E7%83%AB%E5%8F%AF%E8%83%BD%E6%98%AF%E6%AD%A3%E5%9C%A8%E8%A2%AB%E7%AA%83%E5%AF%86",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时33分 ~ 23时32分]"
+        },
+        {
           "title": "回收商称1个月收了超千万元旧手机",
           "url": "https://www.toutiao.com/trending/7622115024709996038/",
           "source": "今日头条",
@@ -310,17 +323,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时45分 ~ 05时02分]"
-        },
-        {
-          "title": "手机发烫可能是正在被窃密",
-          "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E5%8F%91%E7%83%AB%E5%8F%AF%E8%83%BD%E6%98%AF%E6%AD%A3%E5%9C%A8%E8%A2%AB%E7%AA%83%E5%AF%86",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时33分 ~ 22时34分]"
         }
       ]
     },
@@ -349,11 +351,12 @@
             18,
             9,
             8,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时05分 ~ 22时34分]"
+          "appearance_count": 10,
+          "time_info": "[18时05分 ~ 23时32分]"
         },
         {
           "title": "知情人士：印度多家银行正敦促印度央行放松针对外汇交易的新规",
@@ -436,18 +439,30 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "DeepSeek崩了",
           "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
-            6
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时33分 ~ 23时32分]"
+        },
+        {
+          "title": "DeepSeek“崩了”",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E2%80%9C%E5%B4%A9%E4%BA%86%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时33分 ~ 22时34分]"
+          "time_info": "[23时31分 ~ 23时32分]"
         }
       ]
     },
@@ -463,8 +478,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时33分 ~ 22时34分]"
+          "appearance_count": 3,
+          "time_info": "[22时33分 ~ 23时32分]"
         }
       ]
     }
