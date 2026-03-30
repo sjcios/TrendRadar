@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T17:11:43.484272+08:00",
-  "total_titles_processed": 1195,
+  "generated_at": "2026-03-30T19:02:08.612589+08:00",
+  "total_titles_processed": 1327,
   "failed_sources": [],
   "trends": [
     {
@@ -34,6 +34,32 @@
           "time_info": "[00时34分 ~ 07时32分]"
         },
         {
+          "title": "DeepSeek“崩了”一夜，相关功能仍无法正常使用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32860242",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时24分 ~ 19时02分]"
+        },
+        {
+          "title": "DeepSeek宕机12小时后恢复服务",
+          "url": "https://www.toutiao.com/trending/7622849000173178419/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时24分 ~ 19时02分]"
+        },
+        {
           "title": "DeepSeek公告服务出现重大中断",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%85%AC%E5%91%8A%E6%9C%8D%E5%8A%A1%E5%87%BA%E7%8E%B0%E9%87%8D%E5%A4%A7%E4%B8%AD%E6%96%AD%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -45,36 +71,12 @@
           "time_info": "10时24分"
         },
         {
-          "title": "DeepSeek“崩了”一夜，相关功能仍无法正常使用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32860242",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时24分 ~ 17时11分]"
-        },
-        {
           "title": "3 月 29 日大量用户反映 DeepSeek 服务出现异常，在宕机 12 小时后恢复服务，怎么回事？",
           "url": "https://www.zhihu.com/question/2021724542909903612",
           "source": "知乎",
           "ranks": [
             12,
             17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时24分 ~ 17时11分]"
-        },
-        {
-          "title": "DeepSeek宕机12小时后恢复服务",
-          "url": "https://www.toutiao.com/trending/7622849000173178419/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            15
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -162,7 +164,7 @@
     },
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "黄金大买家土耳其央行在伊朗战争期间抛售 80 亿美元黄金，这意味着什么？",
@@ -203,6 +205,17 @@
           "time_info": "07时32分"
         },
         {
+          "title": "抖音荒野垂钓季",
+          "url": "https://www.douyin.com/hot/2448717",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时02分]"
+        },
+        {
           "title": "印度卢比兑美元大涨1.4%至93.4775，此前印度央行收紧外汇规则。",
           "url": "https://wallstreetcn.com/livenews/3078951",
           "source": "华尔街见闻-快讯",
@@ -214,13 +227,24 @@
           "time_info": "13时24分"
         },
         {
+          "title": "交易员：印度央行可能出售了美元以遏制卢比贬值。",
+          "url": "https://wallstreetcn.com/livenews/3079223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "英国2月央行消费信贷 19.35亿英镑，预期16亿英镑，前值由18.12亿英镑修正为18.28亿英镑。",
           "url": "https://flash.jin10.com/detail/20260330163009529800",
           "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
         },
@@ -242,7 +266,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
         },
@@ -253,7 +277,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
         }
@@ -261,7 +285,7 @@
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "旧手机回收价格暴涨五六倍？真相来了",
@@ -309,11 +333,12 @@
             27,
             24,
             23,
-            14
+            14,
+            30
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时34分 ~ 17时11分]"
+          "appearance_count": 18,
+          "time_info": "[00时34分 ~ 19时02分]"
         },
         {
           "title": "涨价后 年轻人的旧手机忽然不卡了",
@@ -321,11 +346,35 @@
           "source": "百度热搜",
           "ranks": [
             4,
-            1
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时26分 ~ 19时02分]"
+        },
+        {
+          "title": "眼睛燃在手机上",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9C%BC%E7%9D%9B%E7%87%83%E5%9C%A8%E6%89%8B%E6%9C%BA%E4%B8%8A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时02分]"
+        },
+        {
+          "title": "早晨不要一睁眼就看手机",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A9%E6%99%A8%E4%B8%8D%E8%A6%81%E4%B8%80%E7%9D%81%E7%9C%BC%E5%B0%B1%E7%9C%8B%E6%89%8B%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时26分 ~ 17时11分]"
+          "time_info": "[17时11分 ~ 19时02分]"
         },
         {
           "title": "旧手机回收价格暴涨五六倍是真的吗",
@@ -345,18 +394,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时11分"
-        },
-        {
-          "title": "早晨不要一睁眼就看手机",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A9%E6%99%A8%E4%B8%8D%E8%A6%81%E4%B8%80%E7%9D%81%E7%9C%BC%E5%B0%B1%E7%9C%8B%E6%89%8B%E6%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
         }
@@ -364,7 +402,7 @@
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "特斯拉：TERAFAB项目正式发布 预计将实现每年超1太瓦算力产出",
@@ -411,6 +449,17 @@
           "time_info": "[07时31分 ~ 13时24分]"
         },
         {
+          "title": "市场监管总局：着力防治平台经济、光伏、锂电池、新能源汽车等重点行业和领域“内卷式”竞争",
+          "url": "https://www.cls.cn/detail/2328703",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时02分]"
+        },
+        {
           "title": "港股比亚迪股份逆转早盘跌势，转为上涨1%。",
           "url": "https://wallstreetcn.com/livenews/3078879",
           "source": "华尔街见闻-快讯",
@@ -425,8 +474,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "金价下跌刚需客户下手了",
+          "url": "https://www.toutiao.com/trending/7621876876252217380/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时02分]"
+        },
         {
           "title": "金价",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=12&Refer=top",
@@ -445,7 +505,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
         },
@@ -456,7 +516,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
         },
@@ -475,7 +535,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "新算法公布,谷歌干崩股市",
@@ -506,8 +566,19 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时34分 ~ 17时11分]"
+          "appearance_count": 19,
+          "time_info": "[00时34分 ~ 19时02分]"
+        },
+        {
+          "title": "带崩全球存储股的谷歌论文陷学术争议，中国学者指其“严重失实”且“知错不改”：使用了我们的方法，但刻意回避相似性",
+          "url": "https://wallstreetcn.com/livenews/3079231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         }
       ]
     },
