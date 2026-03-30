@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T01:55:08.848835+08:00",
-  "total_titles_processed": 370,
+  "generated_at": "2026-03-31T03:12:44.050105+08:00",
+  "total_titles_processed": 428,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "抖音",
           "ranks": [
             18,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 03时12分]"
         },
         {
           "title": "欧洲央行管委斯图纳拉斯：如果中东地区的冲突持续下去，那么欧洲央行的“三月基准情景”将面临风险。",
@@ -48,7 +49,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
         },
@@ -59,7 +60,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
         },
@@ -70,7 +71,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
         },
@@ -81,7 +82,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
         }
@@ -99,8 +100,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 03时12分]"
         },
         {
           "title": "瓜帅在巴塞罗那喜提新车比亚迪",
@@ -164,11 +165,12 @@
           "url": "https://www.toutiao.com/trending/7622965821714730505/",
           "source": "今日头条",
           "ranks": [
-            26
+            26,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 01时55分]"
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 03时12分]"
         }
       ]
     },
@@ -182,11 +184,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             17,
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 03时12分]"
         }
       ]
     }
