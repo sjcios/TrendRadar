@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-30T10:24:54.617316+08:00",
-  "total_titles_processed": 740,
+  "generated_at": "2026-03-30T13:24:42.969944+08:00",
+  "total_titles_processed": 921,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 8,
+      "match_count": 13,
       "titles": [
         {
           "title": "DeepSeek崩了",
@@ -40,9 +40,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
+        },
+        {
+          "title": "豆包谈DeepSeek频繁崩溃",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E8%B0%88DeepSeek%E9%A2%91%E7%B9%81%E5%B4%A9%E6%BA%83%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "3 月 29 日大量用户反映 DeepSeek 服务出现异常，怎么回事？",
@@ -51,7 +62,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
         },
@@ -62,9 +73,42 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
+        },
+        {
+          "title": "DeepSeek“崩了”一夜，相关功能仍无法正常使用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32860242",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "3 月 29 日大量用户反映 DeepSeek 服务出现异常，在宕机 12 小时后恢复服务，怎么回事？",
+          "url": "https://www.zhihu.com/question/2021724542909903612",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "DeepSeek宕机12小时后恢复服务",
+          "url": "https://www.toutiao.com/trending/7622849000173178419/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "DeepSeek服务出现重大中断",
@@ -73,7 +117,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
         },
@@ -84,9 +128,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
+        },
+        {
+          "title": "DeepSeek升级模型",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%8D%87%E7%BA%A7%E6%A8%A1%E5%9E%8B%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "DeepSeek崩了，约12小时仍未完成修复",
@@ -95,7 +150,134 @@
           "ranks": [
             30
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "特斯拉：TERAFAB项目正式发布 预计将实现每年超1太瓦算力产出",
+          "url": "https://flash.jin10.com/detail/20260330095924126800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "市场监管总局：着力防治平台经济、光伏、锂电池、新能源汽车等重点行业和领域“内卷式”竞争",
+          "url": "https://flash.jin10.com/detail/20260330130759464800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "市场监管总局：着力防治平台经济、光伏、锂电池、新能源汽车等重点行业和领域“内卷式”竞争",
+          "url": "https://wallstreetcn.com/livenews/3078970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "新能源车充电涨价因用油发电系谣言",
+          "url": "https://www.toutiao.com/trending/7621733228176834569/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时31分 ~ 13时24分]"
+        },
+        {
+          "title": "港股比亚迪股份逆转早盘跌势，转为上涨1%。",
+          "url": "https://wallstreetcn.com/livenews/3078879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "央行 抖音 小红书",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "黄金大买家土耳其央行在伊朗战争期间抛售 80 亿美元黄金，这意味着什么？",
+          "url": "https://www.zhihu.com/question/2020858530614305581",
+          "source": "知乎",
+          "ranks": [
+            8,
+            7,
+            10,
+            17,
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 07时32分]"
+        },
+        {
+          "title": "欧洲央行管委VILLEROY：最近市场出现一些过度解读的情况。 欧洲央行准备在必要时采取行动应对通胀预期。 关于欧洲央行采取行动日期的讨论“为时尚早”。",
+          "url": "https://wallstreetcn.com/livenews/3078793",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "欧洲央行管委维勒鲁瓦：欧洲央行已做好行动准备，但讨论欧洲央行可能加息的日期还为时过早。",
+          "url": "https://flash.jin10.com/detail/20260330070114710800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "印度卢比兑美元大涨1.4%至93.4775，此前印度央行收紧外汇规则。",
+          "url": "https://wallstreetcn.com/livenews/3078951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "中国央行公开市场今日净投放2615亿元人民币",
+          "url": "https://wallstreetcn.com/livenews/3078857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
         }
@@ -152,8 +334,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时34分 ~ 10时24分]"
+          "appearance_count": 13,
+          "time_info": "[00时34分 ~ 13时24分]"
         },
         {
           "title": "旧手机回收价格暴涨五六倍是真的吗",
@@ -162,101 +344,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "央行 抖音 小红书",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "黄金大买家土耳其央行在伊朗战争期间抛售 80 亿美元黄金，这意味着什么？",
-          "url": "https://www.zhihu.com/question/2020858530614305581",
-          "source": "知乎",
-          "ranks": [
-            8,
-            7,
-            10,
-            17,
-            20,
-            19
-          ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时34分 ~ 07时32分]"
-        },
-        {
-          "title": "欧洲央行管委VILLEROY：最近市场出现一些过度解读的情况。 欧洲央行准备在必要时采取行动应对通胀预期。 关于欧洲央行采取行动日期的讨论“为时尚早”。",
-          "url": "https://wallstreetcn.com/livenews/3078793",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "欧洲央行管委维勒鲁瓦：欧洲央行已做好行动准备，但讨论欧洲央行可能加息的日期还为时过早。",
-          "url": "https://flash.jin10.com/detail/20260330070114710800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "中国央行公开市场今日净投放2615亿元人民币",
-          "url": "https://wallstreetcn.com/livenews/3078857",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "特斯拉：TERAFAB项目正式发布 预计将实现每年超1太瓦算力产出",
-          "url": "https://flash.jin10.com/detail/20260330095924126800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时24分"
-        },
-        {
-          "title": "新能源车充电涨价因用油发电系谣言",
-          "url": "https://www.toutiao.com/trending/7621733228176834569/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时31分 ~ 10时24分]"
-        },
-        {
-          "title": "港股比亚迪股份逆转早盘跌势，转为上涨1%。",
-          "url": "https://wallstreetcn.com/livenews/3078879",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "10时24分"
         }
@@ -273,11 +361,12 @@
           "ranks": [
             12,
             14,
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时34分 ~ 10时24分]"
+          "appearance_count": 14,
+          "time_info": "[00时34分 ~ 13时24分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -287,11 +376,12 @@
             29,
             24,
             22,
-            21
+            21,
+            16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时34分 ~ 10时24分]"
+          "appearance_count": 14,
+          "time_info": "[00时34分 ~ 13时24分]"
         }
       ]
     },
@@ -306,7 +396,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
         },
@@ -317,7 +407,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
         }
