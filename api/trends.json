@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T02:35:38.673993+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2026-04-01T03:04:58.542772+08:00",
+  "total_titles_processed": 419,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 6,
+      "match_count": 12,
       "titles": [
         {
           "title": "央行：建议发挥增量政策和存量政策集成效应 加强货币政策调控",
@@ -15,52 +15,89 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 02时35分]"
-        },
-        {
-          "title": "欧洲央行管委雷恩：仔细评估货币政策更为妥当。",
-          "url": "https://flash.jin10.com/detail/20260401022746023800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时35分"
-        },
-        {
-          "title": "欧洲央行管委雷恩：加息并非板上钉钉；最新的欧元区通胀数据在预期之中。",
-          "url": "https://flash.jin10.com/detail/20260401022740700800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时35分"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时04分]"
         },
         {
           "title": "欧洲央行管委Rehn：加息（预期）是没有保障的。",
           "url": "https://wallstreetcn.com/livenews/3080330",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时35分 ~ 03时04分]"
+        },
+        {
+          "title": "哥伦比亚央行加息100个基点，至11.25%。",
+          "url": "https://wallstreetcn.com/livenews/3080333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时35分"
+          "time_info": "03时04分"
         },
         {
-          "title": "欧洲央行管委雷恩：欧洲央行关注中期通胀前景。",
-          "url": "https://flash.jin10.com/detail/20260401022554348800",
+          "title": "哥伦比亚央行行长Villar：财政部长中途退出央行会议违背宪法规定。",
+          "url": "https://flash.jin10.com/detail/20260401024747669800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时04分"
+        },
+        {
+          "title": "哥伦比亚央行行长Leonardo Villar表示，他否认对委员会出于个人利益作出决策的指控。",
+          "url": "https://flash.jin10.com/detail/20260401024156924800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时35分"
+          "time_info": "03时04分"
+        },
+        {
+          "title": "欧洲央行管委雷恩：仔细评估货币政策更为妥当。",
+          "url": "https://flash.jin10.com/detail/20260401022746023800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时35分 ~ 03时04分]"
+        },
+        {
+          "title": "欧洲央行管委雷恩：加息并非板上钉钉；最新的欧元区通胀数据在预期之中。",
+          "url": "https://flash.jin10.com/detail/20260401022740700800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时35分 ~ 03时04分]"
+        },
+        {
+          "title": "欧洲央行管委雷恩：欧洲央行关注中期通胀前景。",
+          "url": "https://flash.jin10.com/detail/20260401022554348800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时35分 ~ 03时04分]"
         },
         {
           "title": "你是否在抖音上刷到过一只酱板鸭",
@@ -68,11 +105,45 @@
           "source": "抖音",
           "ranks": [
             24,
+            25,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时04分]"
+        },
+        {
+          "title": "抖音荒野垂钓季",
+          "url": "https://www.douyin.com/hot/2448717",
+          "source": "抖音",
+          "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时56分 ~ 02时35分]"
+          "time_info": "[03时03分 ~ 03时04分]"
+        },
+        {
+          "title": "哥伦比亚央行将基准利率上调100个基点至11.25%，决议获得七名成员的多数支持。",
+          "url": "https://flash.jin10.com/detail/20260401023642215800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时04分"
+        },
+        {
+          "title": "哥伦比亚财政部长在周二的央行会议上突然离席，并呼吁就央行的货币政策进行公开辩论，同时指责其偏袒投资者而非普通公民。",
+          "url": "https://flash.jin10.com/detail/20260401022916465800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时04分"
         }
       ]
     },
@@ -88,8 +159,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 02时35分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时04分]"
         },
         {
           "title": "巴菲特：在苹果上赚了1000亿，但卖早了；目前美股不便宜，不抄底",
@@ -100,8 +171,20 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时04分]"
+        },
+        {
+          "title": "苹果公司：APP Store扩容至支持11种新语言。",
+          "url": "https://wallstreetcn.com/livenews/3080317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时56分 ~ 02时35分]"
+          "time_info": "[02时35分 ~ 03时04分]"
         },
         {
           "title": "国行版苹果AI",
@@ -124,17 +207,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
-        },
-        {
-          "title": "苹果公司：APP Store扩容至支持11种新语言。",
-          "url": "https://wallstreetcn.com/livenews/3080317",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时35分"
         }
       ]
     },
@@ -147,11 +219,12 @@
           "url": "https://wallstreetcn.com/livenews/3080310",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            21,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时35分 ~ 03时04分]"
         }
       ]
     }
