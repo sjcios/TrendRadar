@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T10:12:31.776323+08:00",
-  "total_titles_processed": 857,
+  "generated_at": "2026-03-31T13:09:46.194360+08:00",
+  "total_titles_processed": 1036,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "抖音荒野垂钓季",
@@ -18,11 +18,12 @@
             12,
             13,
             14,
-            19
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 10时12分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 13时09分]"
         },
         {
           "title": "菲律宾央行：3月份年度通胀率预计将在3.1%-3.9%之间。",
@@ -31,7 +32,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -53,9 +54,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
+        },
+        {
+          "title": "你是否在抖音上刷到过一只酱板鸭",
+          "url": "https://www.douyin.com/hot/2449243",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 13时09分]"
         },
         {
           "title": "欧洲央行管委斯图纳拉斯：如果中东地区的冲突持续下去，那么欧洲央行的“三月基准情景”将面临风险。",
@@ -75,7 +87,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -86,7 +98,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -97,7 +109,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -108,7 +120,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -119,7 +131,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -130,7 +142,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -168,15 +180,15 @@
           "time_info": "01时55分"
         },
         {
-          "title": "你是否在抖音上刷到过一只酱板鸭",
-          "url": "https://www.douyin.com/hot/2449243",
-          "source": "抖音",
+          "title": "韩国央行准行长淡化韩元跌势 主张超脱“鹰鸽”之争的灵活政策",
+          "url": "https://flash.jin10.com/detail/20260331122032026800",
+          "source": "金十数据",
           "ranks": [
             21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时12分"
+          "time_info": "13时09分"
         },
         {
           "title": "印度央行：印度央行将资本市场敞口修订指令的实施日期推迟至2026年7月1日。",
@@ -206,8 +218,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 10时12分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 13时09分]"
         },
         {
           "title": "瓜帅在巴塞罗那喜提新车比亚迪",
@@ -220,6 +232,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时55分 ~ 01时55分]"
+        },
+        {
+          "title": "张雪机车 820RR 连续夺冠，中国摩托车技术到什么水平了，和新能源车一样实现对欧美日品牌的弯道超车了吗？",
+          "url": "https://www.zhihu.com/question/2021912194925818197",
+          "source": "知乎",
+          "ranks": [
+            19,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 13时09分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.36%，报6569.63点。 热门中概股里，小马智行初步收跌7%，世纪互联跌5.8%，阿特斯太阳能、晶科能源跌超3%，小米跌2.6%，腾讯跌1.7%，拼多多跌1.3%，阿里巴巴跌0.5%，文远知行涨2%，蔚来涨3.8%，比亚迪涨7%。 ETF中，中国科技指数ETF（CQQQ）收跌0.75%，中概互联网指数ETF（KWEB）收跌0.47%。 德银嘉实沪深300指数ETF（ASHR）收涨0.66%，XtrackersHarvest中证50（ASHS）收涨1.13%。",
@@ -243,17 +267,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
-        },
-        {
-          "title": "张雪机车 820RR 连续夺冠，中国摩托车技术到什么水平了，和新能源车一样实现对欧美日品牌的弯道超车了吗？",
-          "url": "https://www.zhihu.com/question/2021912194925818197",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
         },
         {
           "title": "监管部门密集发文剑指“内卷式”竞争，规范新能源车行业秩序",
@@ -281,8 +294,19 @@
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "苹果客服回应撤回国行AI",
+          "url": "https://www.douyin.com/hot/2449610",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
         {
           "title": "以前没有手机导航的时候，怎么开车啊？",
           "url": "https://www.zhihu.com/question/657904190",
@@ -301,11 +325,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%A1%8C%E7%89%88%E8%8B%B9%E6%9E%9CAI",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 13时09分]"
         },
         {
           "title": "国行版苹果AI",
@@ -314,7 +339,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
