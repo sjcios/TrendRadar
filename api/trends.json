@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-01T05:39:24.351561+08:00",
-  "total_titles_processed": 544,
+  "generated_at": "2026-04-01T06:35:10.713302+08:00",
+  "total_titles_processed": 603,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 05时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 06时35分]"
         },
         {
           "title": "你是否在抖音上刷到过一只酱板鸭",
@@ -78,6 +78,18 @@
           "time_info": "03时04分"
         },
         {
+          "title": "抖音荒野垂钓季",
+          "url": "https://www.douyin.com/hot/2448717",
+          "source": "抖音",
+          "ranks": [
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时03分 ~ 06时35分]"
+        },
+        {
           "title": "欧洲央行管委雷恩：仔细评估货币政策更为妥当。",
           "url": "https://flash.jin10.com/detail/20260401022746023800",
           "source": "金十数据",
@@ -114,17 +126,6 @@
           "time_info": "[02时35分 ~ 03时04分]"
         },
         {
-          "title": "抖音荒野垂钓季",
-          "url": "https://www.douyin.com/hot/2448717",
-          "source": "抖音",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时03分 ~ 05时39分]"
-        },
-        {
           "title": "哥伦比亚央行将基准利率上调100个基点至11.25%，决议获得七名成员的多数支持。",
           "url": "https://flash.jin10.com/detail/20260401023642215800",
           "source": "金十数据",
@@ -150,7 +151,7 @@
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "伊朗：将打击中东与苹果等有关的企业",
@@ -160,8 +161,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 05时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 06时35分]"
         },
         {
           "title": "巴菲特：在苹果上赚了1000亿，但卖早了；目前美股不便宜，不抄底",
@@ -174,6 +175,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时56分 ~ 05时39分]"
+        },
+        {
+          "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
+          "url": "https://wallstreetcn.com/articles/3768902",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时34分 ~ 06时35分]"
         },
         {
           "title": "苹果公司：APP Store扩容至支持11种新语言。",
@@ -205,7 +217,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
         },
