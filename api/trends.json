@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T04:27:40.285943+08:00",
-  "total_titles_processed": 488,
+  "generated_at": "2026-04-02T04:58:20.000030+08:00",
+  "total_titles_processed": 508,
   "failed_sources": [],
   "trends": [
     {
@@ -68,11 +68,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 04时27分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 04时58分]"
         },
         {
           "title": "白日提灯抖音追剧团",
@@ -80,11 +81,12 @@
           "source": "抖音",
           "ranks": [
             28,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 01时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 04时58分]"
         },
         {
           "title": "加拿大央行会议纪要：2022年通胀飙升后，公众对通胀的认知仍处于高位，且汽油价格对家庭通胀预期的评估具有重大影响。",
@@ -198,7 +200,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
         },
@@ -210,8 +212,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 04时27分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 04时58分]"
         },
         {
           "title": "葡萄牙3月份特斯拉新车注册量同比下降1.7%，1—3月累计同比增长27.1%。",
@@ -236,11 +238,12 @@
           "source": "华尔街见闻",
           "ranks": [
             2,
-            3
+            3,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 04时27分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 04时58分]"
         },
         {
           "title": "为何手机充电谣言不断",
@@ -253,8 +256,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 04时27分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 04时58分]"
         }
       ]
     },
@@ -287,11 +290,12 @@
           "ranks": [
             22,
             26,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时51分 ~ 04时27分]"
+          "appearance_count": 4,
+          "time_info": "[01时51分 ~ 04时58分]"
         }
       ]
     }
