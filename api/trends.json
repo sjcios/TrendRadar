@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T19:53:45.240841+08:00",
-  "total_titles_processed": 1582,
+  "generated_at": "2026-04-01T21:20:10.770088+08:00",
+  "total_titles_processed": 1706,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "央行：建议发挥增量政策和存量政策集成效应 加强货币政策调控",
@@ -59,6 +59,17 @@
           "time_info": "[02时35分 ~ 03时04分]"
         },
         {
+          "title": "央行等四部门联合召开科技金融工作交流推进会",
+          "url": "https://www.cls.cn/detail/2332377",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时19分 ~ 21时20分]"
+        },
+        {
           "title": "哥伦比亚央行加息100个基点，至11.25%。",
           "url": "https://wallstreetcn.com/livenews/3080333",
           "source": "华尔街见闻-快讯",
@@ -87,7 +98,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -211,7 +222,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -225,6 +236,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
+        },
+        {
+          "title": "英国央行行长贝利：市场对加息的定价过早了",
+          "url": "https://wallstreetcn.com/livenews/3080912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
         },
         {
           "title": "日本央行新任审议委员浅田统一郎：财政与货币政策的配合可支撑经济。",
@@ -255,7 +277,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -285,7 +307,7 @@
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
@@ -297,8 +319,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时34分 ~ 19时53分]"
+          "appearance_count": 12,
+          "time_info": "[06时34分 ~ 21时20分]"
         },
         {
           "title": "伊朗：将打击中东与苹果等有关的企业",
@@ -348,6 +370,17 @@
           "time_info": "10时29分"
         },
         {
+          "title": "AI清明短片《纸手机》爆火",
+          "url": "https://www.baidu.com/s?wd=AI%E6%B8%85%E6%98%8E%E7%9F%AD%E7%89%87%E3%80%8A%E7%BA%B8%E6%89%8B%E6%9C%BA%E3%80%8B%E7%88%86%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时55分 ~ 21时20分]"
+        },
+        {
           "title": "巴菲特感慨“苹果卖早了” 称当前市场跌幅不足以让他激动",
           "url": "https://www.cls.cn/detail/2331237",
           "source": "财联社热门",
@@ -372,15 +405,15 @@
           "time_info": "[02时35分 ~ 03时04分]"
         },
         {
-          "title": "AI清明短片《纸手机》爆火",
-          "url": "https://www.baidu.com/s?wd=AI%E6%B8%85%E6%98%8E%E7%9F%AD%E7%89%87%E3%80%8A%E7%BA%B8%E6%89%8B%E6%9C%BA%E3%80%8B%E7%88%86%E7%81%AB",
-          "source": "百度热搜",
+          "title": "瘫痪小孩为拿手机奇迹站立",
+          "url": "https://s.weibo.com/weibo?q=%E7%98%AB%E7%97%AA%E5%B0%8F%E5%AD%A9%E4%B8%BA%E6%8B%BF%E6%89%8B%E6%9C%BA%E5%A5%87%E8%BF%B9%E7%AB%99%E7%AB%8B&t=31&band_rank=29&Refer=top",
+          "source": "微博",
           "ranks": [
-            24
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时55分 ~ 19时53分]"
+          "time_info": "[21时19分 ~ 21时20分]"
         },
         {
           "title": "国行版苹果AI",
@@ -419,19 +452,31 @@
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "甘肃：“十五五”风光新增80GW 开展“新能源+”十大行动",
+          "url": "https://wallstreetcn.com/livenews/3080937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
+        },
         {
           "title": "基于乘客排泄生物质产沼气的新能源汽车「拉了吗」，大家觉得可行么？",
           "url": "https://www.zhihu.com/question/1996938316550014245",
           "source": "知乎",
           "ranks": [
             15,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时55分 ~ 19时53分]"
+          "appearance_count": 4,
+          "time_info": "[18时55分 ~ 21时20分]"
         },
         {
           "title": "赛力斯：3月新能源汽车销量22,706辆，同比增长20.74%；其中赛力斯汽车销量20,234辆，同比增长47.74%。",
@@ -496,7 +541,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
