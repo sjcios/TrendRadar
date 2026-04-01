@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-01T21:20:10.770088+08:00",
-  "total_titles_processed": 1706,
+  "generated_at": "2026-04-01T23:04:14.415639+08:00",
+  "total_titles_processed": 1824,
   "failed_sources": [],
   "trends": [
     {
@@ -63,11 +63,12 @@
           "url": "https://www.cls.cn/detail/2332377",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时19分 ~ 21时20分]"
+          "appearance_count": 4,
+          "time_info": "[21时19分 ~ 23时04分]"
         },
         {
           "title": "哥伦比亚央行加息100个基点，至11.25%。",
@@ -244,7 +245,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时20分"
         },
@@ -307,7 +308,7 @@
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
@@ -316,11 +317,12 @@
           "ranks": [
             8,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时34分 ~ 21时20分]"
+          "appearance_count": 14,
+          "time_info": "[06时34分 ~ 23时04分]"
         },
         {
           "title": "伊朗：将打击中东与苹果等有关的企业",
@@ -344,6 +346,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时56分 ~ 05时39分]"
+        },
+        {
+          "title": "为何手机充电谣言不断",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E6%89%8B%E6%9C%BA%E5%85%85%E7%94%B5%E8%B0%A3%E8%A8%80%E4%B8%8D%E6%96%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时03分 ~ 23时04分]"
         },
         {
           "title": "张雪身价上亿还在用两千多块钱坏手机",
@@ -405,6 +418,17 @@
           "time_info": "[02时35分 ~ 03时04分]"
         },
         {
+          "title": "张雪还在用2000多块钱的坏手机",
+          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E8%BF%98%E5%9C%A8%E7%94%A82000%E5%A4%9A%E5%9D%97%E9%92%B1%E7%9A%84%E5%9D%8F%E6%89%8B%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时03分 ~ 23时04分]"
+        },
+        {
           "title": "瘫痪小孩为拿手机奇迹站立",
           "url": "https://s.weibo.com/weibo?q=%E7%98%AB%E7%97%AA%E5%B0%8F%E5%AD%A9%E4%B8%BA%E6%8B%BF%E6%89%8B%E6%9C%BA%E5%A5%87%E8%BF%B9%E7%AB%99%E7%AB%8B&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -455,17 +479,6 @@
       "match_count": 11,
       "titles": [
         {
-          "title": "甘肃：“十五五”风光新增80GW 开展“新能源+”十大行动",
-          "url": "https://wallstreetcn.com/livenews/3080937",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时20分"
-        },
-        {
           "title": "基于乘客排泄生物质产沼气的新能源汽车「拉了吗」，大家觉得可行么？",
           "url": "https://www.zhihu.com/question/1996938316550014245",
           "source": "知乎",
@@ -475,8 +488,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时55分 ~ 21时20分]"
+          "appearance_count": 6,
+          "time_info": "[18时55分 ~ 23时04分]"
+        },
+        {
+          "title": "甘肃：“十五五”风光新增80GW 开展“新能源+”十大行动",
+          "url": "https://wallstreetcn.com/livenews/3080937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时20分"
         },
         {
           "title": "赛力斯：3月新能源汽车销量22,706辆，同比增长20.74%；其中赛力斯汽车销量20,234辆，同比增长47.74%。",
