@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T18:55:19.975765+08:00",
-  "total_titles_processed": 1468,
+  "generated_at": "2026-04-01T19:53:45.240841+08:00",
+  "total_titles_processed": 1582,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "央行：建议发挥增量政策和存量政策集成效应 加强货币政策调控",
@@ -81,6 +81,17 @@
           "time_info": "03时04分"
         },
         {
+          "title": "中国央行等多部门：增强科技金融服务专业能力，丰富适应高新技术领域特点的金融产品",
+          "url": "https://wallstreetcn.com/livenews/3080882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
           "title": "哥伦比亚央行行长Leonardo Villar表示，他否认对委员会出于个人利益作出决策的指控。",
           "url": "https://flash.jin10.com/detail/20260401024156924800",
           "source": "金十数据",
@@ -98,7 +109,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -156,7 +167,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -194,13 +205,24 @@
           "time_info": "03时04分"
         },
         {
+          "title": "英国央行称AI应用或构成金融稳定威胁 伊朗冲突带来重大负面供给冲击",
+          "url": "https://wallstreetcn.com/livenews/3080859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
           "title": "欧洲央行马赫鲁夫：若中东战争持续，欧元区将走向不利情景",
           "url": "https://flash.jin10.com/detail/20260401182410538800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -225,6 +247,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
+        },
+        {
+          "title": "白日提灯抖音追剧团",
+          "url": "https://www.douyin.com/hot/2451567",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
         },
         {
           "title": "日本央行新任审议委员浅田统一郎：外汇汇率变动系货币及财政政策决策所致。",
@@ -264,8 +297,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时34分 ~ 18时55分]"
+          "appearance_count": 10,
+          "time_info": "[06时34分 ~ 19时53分]"
         },
         {
           "title": "伊朗：将打击中东与苹果等有关的企业",
@@ -339,6 +372,17 @@
           "time_info": "[02时35分 ~ 03时04分]"
         },
         {
+          "title": "AI清明短片《纸手机》爆火",
+          "url": "https://www.baidu.com/s?wd=AI%E6%B8%85%E6%98%8E%E7%9F%AD%E7%89%87%E3%80%8A%E7%BA%B8%E6%89%8B%E6%9C%BA%E3%80%8B%E7%88%86%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 19时53分]"
+        },
+        {
           "title": "国行版苹果AI",
           "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%A1%8C%E7%89%88%E8%8B%B9%E6%9E%9CAI",
           "source": "bilibili 热搜",
@@ -370,24 +414,37 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
-        },
-        {
-          "title": "AI清明短片《纸手机》爆火",
-          "url": "https://www.baidu.com/s?wd=AI%E6%B8%85%E6%98%8E%E7%9F%AD%E7%89%87%E3%80%8A%E7%BA%B8%E6%89%8B%E6%9C%BA%E3%80%8B%E7%88%86%E7%81%AB",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
         }
       ]
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "基于乘客排泄生物质产沼气的新能源汽车「拉了吗」，大家觉得可行么？",
+          "url": "https://www.zhihu.com/question/1996938316550014245",
+          "source": "知乎",
+          "ranks": [
+            15,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 19时53分]"
+        },
+        {
+          "title": "赛力斯：3月新能源汽车销量22,706辆，同比增长20.74%；其中赛力斯汽车销量20,234辆，同比增长47.74%。",
+          "url": "https://wallstreetcn.com/livenews/3080837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 19时53分]"
+        },
         {
           "title": "马斯克：FSD 14.3版本现已进入特斯拉员工测试阶段。",
           "url": "https://wallstreetcn.com/livenews/3080701",
@@ -411,17 +468,6 @@
           "time_info": "13时24分"
         },
         {
-          "title": "赛力斯：3月新能源汽车销量22,706辆，同比增长20.74%；其中赛力斯汽车销量20,234辆，同比增长47.74%。",
-          "url": "https://wallstreetcn.com/livenews/3080837",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
-        },
-        {
           "title": "拉普拉斯回应“中标特斯拉光伏项目第二期”传闻：截至目前公司并未取得相关订单",
           "url": "https://wallstreetcn.com/livenews/3080615",
           "source": "华尔街见闻-快讯",
@@ -433,17 +479,6 @@
           "time_info": "13时24分"
         },
         {
-          "title": "基于乘客排泄生物质产沼气的新能源汽车「拉了吗」，大家觉得可行么？",
-          "url": "https://www.zhihu.com/question/1996938316550014245",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
-        },
-        {
           "title": "拉普拉斯午后打开涨停板，现涨幅缩窄至8%。消息面上，公司澄清“中标特斯拉光伏项目第二期百亿订单”传闻。",
           "url": "https://flash.jin10.com/detail/20260401130051092800",
           "source": "金十数据",
@@ -453,6 +488,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
+        },
+        {
+          "title": "海南新能源汽车充电量一季度同比增长近四成",
+          "url": "https://wallstreetcn.com/livenews/3080858",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
         },
         {
           "title": "原特斯拉中国区总经理孔艳双已入职小米，将接替原小米汽车总监李晓锐负责汽车销售方面工作。（界面）",
@@ -472,7 +518,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -483,7 +529,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         }
@@ -529,6 +575,17 @@
           "time_info": "[10时29分 ~ 13时24分]"
         },
         {
+          "title": "如何解读 OpenAI 完成 1220 亿美元融资，投后估值 8520 亿美元，此轮融资有哪些意义？",
+          "url": "https://www.zhihu.com/question/2022593285970027591",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时03分 ~ 19时53分]"
+        },
+        {
           "title": "OpenAI按8520亿美元估值完成本轮1220亿美元规模的融资",
           "url": "https://wallstreetcn.com/livenews/3080357",
           "source": "华尔街见闻-快讯",
@@ -539,17 +596,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时42分 ~ 05时39分]"
-        },
-        {
-          "title": "如何解读 OpenAI 完成 1220 亿美元融资，投后估值 8520 亿美元，此轮融资有哪些意义？",
-          "url": "https://www.zhihu.com/question/2022593285970027591",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时03分 ~ 18时55分]"
         },
         {
           "title": "据Axios：OpenAI在最近的一次私募融资中向个人投资者出售了约30亿美元的股份。",
@@ -657,8 +703,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时29分 ~ 18时55分]"
+          "appearance_count": 7,
+          "time_info": "[10时29分 ~ 19时53分]"
         }
       ]
     },
