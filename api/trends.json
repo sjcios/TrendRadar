@@ -1,797 +1,106 @@
 {
-  "generated_at": "2026-04-01T23:04:14.415639+08:00",
-  "total_titles_processed": 1824,
+  "generated_at": "2026-04-02T00:54:19.708833+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "央行 抖音 小红书",
-      "match_count": 26,
-      "titles": [
-        {
-          "title": "央行：建议发挥增量政策和存量政策集成效应 加强货币政策调控",
-          "url": "https://www.cls.cn/detail/2330644",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时56分 ~ 07时33分]"
-        },
-        {
-          "title": "抖音荒野垂钓季",
-          "url": "https://www.douyin.com/hot/2448717",
-          "source": "抖音",
-          "ranks": [
-            25,
-            30,
-            29,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时03分 ~ 13时24分]"
-        },
-        {
-          "title": "你是否在抖音上刷到过一只酱板鸭",
-          "url": "https://www.douyin.com/hot/2449243",
-          "source": "抖音",
-          "ranks": [
-            24,
-            25,
-            22,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 05时39分]"
-        },
-        {
-          "title": "欧洲央行管委Rehn：加息（预期）是没有保障的。",
-          "url": "https://wallstreetcn.com/livenews/3080330",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时35分 ~ 03时04分]"
-        },
-        {
-          "title": "央行等四部门联合召开科技金融工作交流推进会",
-          "url": "https://www.cls.cn/detail/2332377",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时19分 ~ 23时04分]"
-        },
-        {
-          "title": "哥伦比亚央行加息100个基点，至11.25%。",
-          "url": "https://wallstreetcn.com/livenews/3080333",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时04分"
-        },
-        {
-          "title": "哥伦比亚央行行长Villar：财政部长中途退出央行会议违背宪法规定。",
-          "url": "https://flash.jin10.com/detail/20260401024747669800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时04分"
-        },
-        {
-          "title": "中国央行等多部门：增强科技金融服务专业能力，丰富适应高新技术领域特点的金融产品",
-          "url": "https://wallstreetcn.com/livenews/3080882",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时53分"
-        },
-        {
-          "title": "哥伦比亚央行行长Leonardo Villar表示，他否认对委员会出于个人利益作出决策的指控。",
-          "url": "https://flash.jin10.com/detail/20260401024156924800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时04分"
-        },
-        {
-          "title": "哈萨克斯坦央行：为与黄金购买量相匹配，该行3月份出售了价值3500亿坚戈的外汇，并将在第二季度出售价值1.1万亿坚戈的外汇。",
-          "url": "https://flash.jin10.com/detail/20260401183153114800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时55分"
-        },
-        {
-          "title": "欧洲央行管委雷恩：仔细评估货币政策更为妥当。",
-          "url": "https://flash.jin10.com/detail/20260401022746023800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时35分 ~ 03时04分]"
-        },
-        {
-          "title": "欧洲央行管委雷恩：加息并非板上钉钉；最新的欧元区通胀数据在预期之中。",
-          "url": "https://flash.jin10.com/detail/20260401022740700800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时35分 ~ 03时04分]"
-        },
-        {
-          "title": "欧洲央行管委雷恩：欧洲央行关注中期通胀前景。",
-          "url": "https://flash.jin10.com/detail/20260401022554348800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时35分 ~ 03时04分]"
-        },
-        {
-          "title": "哥伦比亚央行将基准利率上调100个基点至11.25%，决议获得七名成员的多数支持。",
-          "url": "https://flash.jin10.com/detail/20260401023642215800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时04分"
-        },
-        {
-          "title": "哈萨克斯坦央行：计划于四月份从国家基金中出售3亿至4亿美元。3月份已在国内市场上出售了来自国家基金的4亿美元。",
-          "url": "https://flash.jin10.com/detail/20260401182936875800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时55分"
-        },
-        {
-          "title": "欧洲央行行长公开驳斥美财长：伊朗战争的经济破坏绝非短暂",
-          "url": "https://www.cls.cn/detail/2331432",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时03分"
-        },
-        {
-          "title": "市场削减了对英国央行加息的押注，定价显示今年预计将加息45个基点。",
-          "url": "https://flash.jin10.com/detail/20260401143416804800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
-          "title": "哥伦比亚财政部长在周二的央行会议上突然离席，并呼吁就央行的货币政策进行公开辩论，同时指责其偏袒投资者而非普通公民。",
-          "url": "https://flash.jin10.com/detail/20260401022916465800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时04分"
-        },
-        {
-          "title": "英国央行称AI应用或构成金融稳定威胁 伊朗冲突带来重大负面供给冲击",
-          "url": "https://wallstreetcn.com/livenews/3080859",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时53分"
-        },
-        {
-          "title": "欧洲央行马赫鲁夫：若中东战争持续，欧元区将走向不利情景",
-          "url": "https://flash.jin10.com/detail/20260401182410538800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时55分"
-        },
-        {
-          "title": "英国央行行长贝利：市场对加息的定价过早了",
-          "url": "https://wallstreetcn.com/livenews/3080912",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时20分"
-        },
-        {
-          "title": "日本央行新任审议委员浅田统一郎：财政与货币政策的配合可支撑经济。",
-          "url": "https://flash.jin10.com/detail/20260401162250285800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时03分"
-        },
-        {
-          "title": "日本央行新任审议委员浅田统一郎：希望避免就具体立场发表评论。 政策组合能够克服严峻的经济形势。 毫无疑问，高油价将推高通胀。 若出现滞胀将难以应对。 对日本央行结束通缩的政策予以积极评价。 希望避免对近期日本央行政策进行评估。 日本央行无意干预外汇市场。 不便表态日元疲软或走强哪个更好。 被称为“再通胀主义者”并不觉得奇怪。",
-          "url": "https://wallstreetcn.com/livenews/3080742",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时03分"
-        },
-        {
-          "title": "白日提灯抖音追剧团",
-          "url": "https://www.douyin.com/hot/2451567",
-          "source": "抖音",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时53分"
-        },
-        {
-          "title": "日本央行新任审议委员浅田统一郎：外汇汇率变动系货币及财政政策决策所致。",
-          "url": "https://flash.jin10.com/detail/20260401161818448800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时03分"
-        },
-        {
-          "title": "日本央行新任审议委员浅田统一郎：日本央行并不以汇率为目标，因此无法判断日元贬值或升值孰优。",
-          "url": "https://flash.jin10.com/detail/20260401161724416800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时03分"
-        }
-      ]
-    },
-    {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 14,
+      "match_count": 2,
       "titles": [
         {
           "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
           "url": "https://wallstreetcn.com/articles/3768902",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            5,
-            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[06时34分 ~ 23时04分]"
-        },
-        {
-          "title": "伊朗：将打击中东与苹果等有关的企业",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E5%B0%86%E6%89%93%E5%87%BB%E4%B8%AD%E4%B8%9C%E4%B8%8E%E8%8B%B9%E6%9E%9C%E7%AD%89%E6%9C%89%E5%85%B3%E7%9A%84%E4%BC%81%E4%B8%9A",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时56分 ~ 07时33分]"
-        },
-        {
-          "title": "巴菲特：在苹果上赚了1000亿，但卖早了；目前美股不便宜，不抄底",
-          "url": "https://wallstreetcn.com/articles/3768902",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 05时39分]"
+          "appearance_count": 1,
+          "time_info": "00时54分"
         },
         {
           "title": "为何手机充电谣言不断",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E6%89%8B%E6%9C%BA%E5%85%85%E7%94%B5%E8%B0%A3%E8%A8%80%E4%B8%8D%E6%96%AD",
           "source": "bilibili 热搜",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时03分 ~ 23时04分]"
-        },
-        {
-          "title": "张雪身价上亿还在用两千多块钱坏手机",
-          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E8%BA%AB%E4%BB%B7%E4%B8%8A%E4%BA%BF%E8%BF%98%E5%9C%A8%E7%94%A8%E4%B8%A4%E5%8D%83%E5%A4%9A%E5%9D%97%E9%92%B1%E5%9D%8F%E6%89%8B%E6%9C%BA&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            1,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时23分 ~ 17时03分]"
-        },
-        {
-          "title": "不存在的手机发布会",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%8D%E5%AD%98%E5%9C%A8%E7%9A%84%E6%89%8B%E6%9C%BA%E5%8F%91%E5%B8%83%E4%BC%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "AI清明短片《纸手机》爆火",
-          "url": "https://www.baidu.com/s?wd=AI%E6%B8%85%E6%98%8E%E7%9F%AD%E7%89%87%E3%80%8A%E7%BA%B8%E6%89%8B%E6%9C%BA%E3%80%8B%E7%88%86%E7%81%AB",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时55分 ~ 21时20分]"
-        },
-        {
-          "title": "巴菲特感慨“苹果卖早了” 称当前市场跌幅不足以让他激动",
-          "url": "https://www.cls.cn/detail/2331237",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时29分 ~ 13时24分]"
-        },
-        {
-          "title": "苹果公司：APP Store扩容至支持11种新语言。",
-          "url": "https://wallstreetcn.com/livenews/3080317",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时35分 ~ 03时04分]"
-        },
-        {
-          "title": "张雪还在用2000多块钱的坏手机",
-          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E8%BF%98%E5%9C%A8%E7%94%A82000%E5%A4%9A%E5%9D%97%E9%92%B1%E7%9A%84%E5%9D%8F%E6%89%8B%E6%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时03分 ~ 23时04分]"
-        },
-        {
-          "title": "瘫痪小孩为拿手机奇迹站立",
-          "url": "https://s.weibo.com/weibo?q=%E7%98%AB%E7%97%AA%E5%B0%8F%E5%AD%A9%E4%B8%BA%E6%8B%BF%E6%89%8B%E6%9C%BA%E5%A5%87%E8%BF%B9%E7%AB%99%E7%AB%8B&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时19分 ~ 21时20分]"
-        },
-        {
-          "title": "国行版苹果AI",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%A1%8C%E7%89%88%E8%8B%B9%E6%9E%9CAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        },
-        {
-          "title": "苹果客服回应撤回国行AI",
-          "url": "https://www.douyin.com/hot/2449610",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时39分"
-        },
-        {
-          "title": "据悉苹果正在测试Siri同时处理多项指令的功能",
-          "url": "https://flash.jin10.com/detail/20260401003317435800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "time_info": "00时54分"
         }
       ]
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 11,
+      "match_count": 2,
       "titles": [
         {
           "title": "基于乘客排泄生物质产沼气的新能源汽车「拉了吗」，大家觉得可行么？",
           "url": "https://www.zhihu.com/question/1996938316550014245",
           "source": "知乎",
           "ranks": [
-            15,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时55分 ~ 23时04分]"
-        },
-        {
-          "title": "甘肃：“十五五”风光新增80GW 开展“新能源+”十大行动",
-          "url": "https://wallstreetcn.com/livenews/3080937",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时20分"
-        },
-        {
-          "title": "赛力斯：3月新能源汽车销量22,706辆，同比增长20.74%；其中赛力斯汽车销量20,234辆，同比增长47.74%。",
-          "url": "https://wallstreetcn.com/livenews/3080837",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时55分 ~ 19时53分]"
-        },
-        {
-          "title": "马斯克：FSD 14.3版本现已进入特斯拉员工测试阶段。",
-          "url": "https://wallstreetcn.com/livenews/3080701",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
-          "title": "拉普拉斯午后涨幅缩窄至8%，此前回应“中标特斯拉光伏项目第二期”传闻：截至目前公司并未取得相关订单。",
-          "url": "https://wallstreetcn.com/livenews/3080623",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时24分"
+          "time_info": "00时54分"
         },
         {
-          "title": "拉普拉斯回应“中标特斯拉光伏项目第二期”传闻：截至目前公司并未取得相关订单",
-          "url": "https://wallstreetcn.com/livenews/3080615",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        },
-        {
-          "title": "拉普拉斯午后打开涨停板，现涨幅缩窄至8%。消息面上，公司澄清“中标特斯拉光伏项目第二期百亿订单”传闻。",
-          "url": "https://flash.jin10.com/detail/20260401130051092800",
+          "title": "葡萄牙3月份特斯拉新车注册量同比下降1.7%，1—3月累计同比增长27.1%。",
+          "url": "https://flash.jin10.com/detail/20260402000716958800",
           "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        },
-        {
-          "title": "海南新能源汽车充电量一季度同比增长近四成",
-          "url": "https://wallstreetcn.com/livenews/3080858",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时53分"
-        },
-        {
-          "title": "原特斯拉中国区总经理孔艳双已入职小米，将接替原小米汽车总监李晓锐负责汽车销售方面工作。（界面）",
-          "url": "https://wallstreetcn.com/livenews/3080607",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        },
-        {
-          "title": "赛力斯：2026年3月份新能源汽车销量达22706辆，同比增长20.74%。其中赛力斯汽车销量达20234辆，同比增长47.74%。",
-          "url": "https://flash.jin10.com/detail/20260401181335553800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时55分"
-        },
-        {
-          "title": "比亚迪：3月份销售300222辆，乘用车及皮卡海外销售119591辆，新能源汽车累计销售超1580万辆。",
-          "url": "https://wallstreetcn.com/livenews/3080813",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "OpenAI完成1220亿美元融资，估值达8520亿美元",
-          "url": "https://flash.jin10.com/detail/20260401041908272800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时42分 ~ 05时39分]"
-        },
-        {
-          "title": "创纪录！OpenAI完成1220亿美元融资 投后估值达8520亿美元",
-          "url": "https://www.cls.cn/detail/2331423",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时23分 ~ 15时19分]"
-        },
-        {
-          "title": "OpenAI完成1220亿美元融资 美法官叫停白宫宴会厅改造项目 | 环球市场",
-          "url": "https://www.cls.cn/detail/2331334",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时29分 ~ 13时24分]"
-        },
-        {
-          "title": "如何解读 OpenAI 完成 1220 亿美元融资，投后估值 8520 亿美元，此轮融资有哪些意义？",
-          "url": "https://www.zhihu.com/question/2022593285970027591",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时03分 ~ 19时53分]"
-        },
-        {
-          "title": "OpenAI按8520亿美元估值完成本轮1220亿美元规模的融资",
-          "url": "https://wallstreetcn.com/livenews/3080357",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时42分 ~ 05时39分]"
-        },
-        {
-          "title": "据Axios：OpenAI在最近的一次私募融资中向个人投资者出售了约30亿美元的股份。",
-          "url": "https://flash.jin10.com/detail/20260401041102848800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时42分"
-        },
-        {
-          "title": "市场消息：OpenAI完成1220亿美元融资，估值达8520亿美元。",
-          "url": "https://flash.jin10.com/detail/20260401041014408800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "分析师：金价日线现看涨信号 均线压制与多头动能展开博弈",
-          "url": "https://flash.jin10.com/detail/20260401144152555800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
-          "title": "佣金价格战逼近极限，券商打起“靓号”牌",
-          "url": "https://wallstreetcn.com/livenews/3080413",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时33分"
-        },
-        {
-          "title": "金价急跌急涨",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%80%A5%E8%B7%8C%E6%80%A5%E6%B6%A8%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时19分"
+          "time_info": "00时54分"
         }
       ]
     },
     {
-      "keyword_group": "英雄联盟 LOL",
+      "keyword_group": "央行 抖音 小红书",
       "match_count": 2,
       "titles": [
         {
-          "title": "LOL愚人节彩蛋",
-          "url": "https://search.bilibili.com/all?keyword=LOL%E6%84%9A%E4%BA%BA%E8%8A%82%E5%BD%A9%E8%9B%8B",
-          "source": "bilibili 热搜",
+          "title": "央行等四部门联合召开科技金融工作交流推进会",
+          "url": "https://www.cls.cn/detail/2332377",
+          "source": "财联社热门",
           "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 13时24分]"
-        },
-        {
-          "title": "如何看待英雄联盟选手 Milkyway 发布声明称警方查实其未参与假赛？他还有机会重返 LPL 吗？",
-          "url": "https://www.zhihu.com/question/2021953526327157102",
-          "source": "知乎",
-          "ranks": [
-            18
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
+          "time_info": "00时54分"
+        },
         {
-          "title": "3 月 31 日 DeepSeek 服务中断一小时后恢复，什么情况？最近的三天两「崩」可能是什么原因？",
-          "url": "https://www.zhihu.com/question/2022371409997947809",
-          "source": "知乎",
+          "title": "白日提灯抖音追剧团",
+          "url": "https://www.douyin.com/hot/2451567",
+          "source": "抖音",
           "ranks": [
-            8,
-            12,
-            16,
-            14
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时29分 ~ 19时53分]"
+          "appearance_count": 1,
+          "time_info": "00时54分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "谷歌发布论文，在2029年期限前就量子风险向加密行业发出警告",
-          "url": "https://wallstreetcn.com/livenews/3080310",
+          "title": "数亿美元OpenAI股份在二级市场无人接盘，20亿现金蓄势待投Anthropic",
+          "url": "https://wallstreetcn.com/livenews/3081032",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21,
-            22
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时35分 ~ 03时04分]"
+          "appearance_count": 1,
+          "time_info": "00时54分"
         }
       ]
     }
