@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T17:03:56.838850+08:00",
-  "total_titles_processed": 1312,
+  "generated_at": "2026-04-01T18:55:19.975765+08:00",
+  "total_titles_processed": 1468,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "央行：建议发挥增量政策和存量政策集成效应 加强货币政策调控",
@@ -92,6 +92,17 @@
           "time_info": "03时04分"
         },
         {
+          "title": "哈萨克斯坦央行：为与黄金购买量相匹配，该行3月份出售了价值3500亿坚戈的外汇，并将在第二季度出售价值1.1万亿坚戈的外汇。",
+          "url": "https://flash.jin10.com/detail/20260401183153114800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
           "title": "欧洲央行管委雷恩：仔细评估货币政策更为妥当。",
           "url": "https://flash.jin10.com/detail/20260401022746023800",
           "source": "金十数据",
@@ -139,13 +150,24 @@
           "time_info": "03时04分"
         },
         {
+          "title": "哈萨克斯坦央行：计划于四月份从国家基金中出售3亿至4亿美元。3月份已在国内市场上出售了来自国家基金的4亿美元。",
+          "url": "https://flash.jin10.com/detail/20260401182936875800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
           "title": "欧洲央行行长公开驳斥美财长：伊朗战争的经济破坏绝非短暂",
           "url": "https://www.cls.cn/detail/2331432",
           "source": "财联社热门",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
         },
@@ -172,13 +194,24 @@
           "time_info": "03时04分"
         },
         {
+          "title": "欧洲央行马赫鲁夫：若中东战争持续，欧元区将走向不利情景",
+          "url": "https://flash.jin10.com/detail/20260401182410538800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
           "title": "日本央行新任审议委员浅田统一郎：财政与货币政策的配合可支撑经济。",
           "url": "https://flash.jin10.com/detail/20260401162250285800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
         },
@@ -189,7 +222,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
         },
@@ -200,7 +233,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
         },
@@ -211,7 +244,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
         }
@@ -219,7 +252,7 @@
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
@@ -231,8 +264,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时34分 ~ 17时03分]"
+          "appearance_count": 9,
+          "time_info": "[06时34分 ~ 18时55分]"
         },
         {
           "title": "伊朗：将打击中东与苹果等有关的企业",
@@ -337,6 +370,122 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        },
+        {
+          "title": "AI清明短片《纸手机》爆火",
+          "url": "https://www.baidu.com/s?wd=AI%E6%B8%85%E6%98%8E%E7%9F%AD%E7%89%87%E3%80%8A%E7%BA%B8%E6%89%8B%E6%9C%BA%E3%80%8B%E7%88%86%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "马斯克：FSD 14.3版本现已进入特斯拉员工测试阶段。",
+          "url": "https://wallstreetcn.com/livenews/3080701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "拉普拉斯午后涨幅缩窄至8%，此前回应“中标特斯拉光伏项目第二期”传闻：截至目前公司并未取得相关订单。",
+          "url": "https://wallstreetcn.com/livenews/3080623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "赛力斯：3月新能源汽车销量22,706辆，同比增长20.74%；其中赛力斯汽车销量20,234辆，同比增长47.74%。",
+          "url": "https://wallstreetcn.com/livenews/3080837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
+          "title": "拉普拉斯回应“中标特斯拉光伏项目第二期”传闻：截至目前公司并未取得相关订单",
+          "url": "https://wallstreetcn.com/livenews/3080615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "基于乘客排泄生物质产沼气的新能源汽车「拉了吗」，大家觉得可行么？",
+          "url": "https://www.zhihu.com/question/1996938316550014245",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
+          "title": "拉普拉斯午后打开涨停板，现涨幅缩窄至8%。消息面上，公司澄清“中标特斯拉光伏项目第二期百亿订单”传闻。",
+          "url": "https://flash.jin10.com/detail/20260401130051092800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "原特斯拉中国区总经理孔艳双已入职小米，将接替原小米汽车总监李晓锐负责汽车销售方面工作。（界面）",
+          "url": "https://wallstreetcn.com/livenews/3080607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "赛力斯：2026年3月份新能源汽车销量达22706辆，同比增长20.74%。其中赛力斯汽车销量达20234辆，同比增长47.74%。",
+          "url": "https://flash.jin10.com/detail/20260401181335553800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
+          "title": "比亚迪：3月份销售300222辆，乘用车及皮卡海外销售119591辆，新能源汽车累计销售超1580万辆。",
+          "url": "https://wallstreetcn.com/livenews/3080813",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
         }
       ]
     },
@@ -392,6 +541,17 @@
           "time_info": "[04时42分 ~ 05时39分]"
         },
         {
+          "title": "如何解读 OpenAI 完成 1220 亿美元融资，投后估值 8520 亿美元，此轮融资有哪些意义？",
+          "url": "https://www.zhihu.com/question/2022593285970027591",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时03分 ~ 18时55分]"
+        },
+        {
           "title": "据Axios：OpenAI在最近的一次私募融资中向个人投资者出售了约30亿美元的股份。",
           "url": "https://flash.jin10.com/detail/20260401041102848800",
           "source": "金十数据",
@@ -412,78 +572,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
-        },
-        {
-          "title": "如何解读 OpenAI 完成 1220 亿美元融资，投后估值 8520 亿美元，此轮融资有哪些意义？",
-          "url": "https://www.zhihu.com/question/2022593285970027591",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "马斯克：FSD 14.3版本现已进入特斯拉员工测试阶段。",
-          "url": "https://wallstreetcn.com/livenews/3080701",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
-          "title": "拉普拉斯午后涨幅缩窄至8%，此前回应“中标特斯拉光伏项目第二期”传闻：截至目前公司并未取得相关订单。",
-          "url": "https://wallstreetcn.com/livenews/3080623",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        },
-        {
-          "title": "拉普拉斯回应“中标特斯拉光伏项目第二期”传闻：截至目前公司并未取得相关订单",
-          "url": "https://wallstreetcn.com/livenews/3080615",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        },
-        {
-          "title": "拉普拉斯午后打开涨停板，现涨幅缩窄至8%。消息面上，公司澄清“中标特斯拉光伏项目第二期百亿订单”传闻。",
-          "url": "https://flash.jin10.com/detail/20260401130051092800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        },
-        {
-          "title": "原特斯拉中国区总经理孔艳双已入职小米，将接替原小米汽车总监李晓锐负责汽车销售方面工作。（界面）",
-          "url": "https://wallstreetcn.com/livenews/3080607",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时24分"
         }
       ]
     },
@@ -569,8 +657,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时29分 ~ 17时03分]"
+          "appearance_count": 6,
+          "time_info": "[10时29分 ~ 18时55分]"
         }
       ]
     },
