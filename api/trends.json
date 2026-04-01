@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-04-02T04:58:20.000030+08:00",
-  "total_titles_processed": 508,
+  "generated_at": "2026-04-02T05:46:24.486637+08:00",
+  "total_titles_processed": 560,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
       "match_count": 16,
       "titles": [
+        {
+          "title": "央行等四部门联合召开科技金融工作交流推进会",
+          "url": "https://www.cls.cn/detail/2332377",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 05时46分]"
+        },
         {
           "title": "加拿大央行纪要：油价上涨将使通胀率在低迷经济中升至2%的目标以上。",
           "url": "https://flash.jin10.com/detail/20260402013220972800",
@@ -63,19 +76,6 @@
           "time_info": "01时51分"
         },
         {
-          "title": "央行等四部门联合召开科技金融工作交流推进会",
-          "url": "https://www.cls.cn/detail/2332377",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时58分]"
-        },
-        {
           "title": "白日提灯抖音追剧团",
           "url": "https://www.douyin.com/hot/2451567",
           "source": "抖音",
@@ -85,8 +85,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 04时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 05时46分]"
         },
         {
           "title": "加拿大央行会议纪要：2022年通胀飙升后，公众对通胀的认知仍处于高位，且汽油价格对家庭通胀预期的评估具有重大影响。",
@@ -256,8 +256,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时58分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 05时46分]"
         }
       ]
     },
@@ -294,8 +294,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时51分 ~ 04时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时51分 ~ 05时46分]"
         }
       ]
     }
