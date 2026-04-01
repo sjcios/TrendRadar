@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-01T07:33:42.364238+08:00",
-  "total_titles_processed": 679,
+  "generated_at": "2026-04-01T10:29:43.413468+08:00",
+  "total_titles_processed": 869,
   "failed_sources": [],
   "trends": [
     {
@@ -152,7 +152,7 @@
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "伊朗：将打击中东与苹果等有关的企业",
@@ -183,11 +183,23 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时34分 ~ 07时33分]"
+          "appearance_count": 4,
+          "time_info": "[06时34分 ~ 10时29分]"
+        },
+        {
+          "title": "不存在的手机发布会",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%8D%E5%AD%98%E5%9C%A8%E7%9A%84%E6%89%8B%E6%9C%BA%E5%8F%91%E5%B8%83%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
         },
         {
           "title": "苹果公司：APP Store扩容至支持11种新语言。",
@@ -211,6 +223,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        },
+        {
+          "title": "巴菲特感慨“苹果卖早了” 称当前市场跌幅不足以让他激动",
+          "url": "https://www.cls.cn/detail/2331237",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
         },
         {
           "title": "苹果客服回应撤回国行AI",
@@ -238,7 +261,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI完成1220亿美元融资，估值达8520亿美元",
@@ -285,6 +308,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
+        },
+        {
+          "title": "OpenAI完成1220亿美元融资 美法官叫停白宫宴会厅改造项目 | 环球市场",
+          "url": "https://www.cls.cn/detail/2331334",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "3 月 31 日 DeepSeek 服务中断一小时后恢复，什么情况？最近的三天两「崩」可能是什么原因？",
+          "url": "https://www.zhihu.com/question/2022371409997947809",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
         }
       ]
     },
@@ -317,9 +368,26 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英雄联盟 LOL",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待英雄联盟选手 Milkyway 发布声明称警方查实其未参与假赛？他还有机会重返 LPL 吗？",
+          "url": "https://www.zhihu.com/question/2021953526327157102",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
         }
       ]
     }
