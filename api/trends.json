@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T13:24:12.183470+08:00",
-  "total_titles_processed": 1039,
+  "generated_at": "2026-04-01T15:19:47.393089+08:00",
+  "total_titles_processed": 1176,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "央行：建议发挥增量政策和存量政策集成效应 加强货币政策调控",
@@ -139,6 +139,17 @@
           "time_info": "03时04分"
         },
         {
+          "title": "市场削减了对英国央行加息的押注，定价显示今年预计将加息45个基点。",
+          "url": "https://flash.jin10.com/detail/20260401143416804800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
           "title": "哥伦比亚财政部长在周二的央行会议上突然离席，并呼吁就央行的货币政策进行公开辩论，同时指责其偏袒投资者而非普通公民。",
           "url": "https://flash.jin10.com/detail/20260401022916465800",
           "source": "金十数据",
@@ -176,8 +187,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时34分 ~ 13时24分]"
+          "appearance_count": 7,
+          "time_info": "[06时34分 ~ 15时19分]"
         },
         {
           "title": "巴菲特：在苹果上赚了1000亿，但卖早了；目前美股不便宜，不抄底",
@@ -190,6 +201,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时56分 ~ 05时39分]"
+        },
+        {
+          "title": "张雪身价上亿还在用两千多块钱坏手机",
+          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E8%BA%AB%E4%BB%B7%E4%B8%8A%E4%BA%BF%E8%BF%98%E5%9C%A8%E7%94%A8%E4%B8%A4%E5%8D%83%E5%A4%9A%E5%9D%97%E9%92%B1%E5%9D%8F%E6%89%8B%E6%9C%BA&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时23分 ~ 15时19分]"
         },
         {
           "title": "不存在的手机发布会",
@@ -213,17 +236,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时29分 ~ 13时24分]"
-        },
-        {
-          "title": "张雪身价上亿还在用两千多块钱坏手机",
-          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E8%BA%AB%E4%BB%B7%E4%B8%8A%E4%BA%BF%E8%BF%98%E5%9C%A8%E7%94%A8%E4%B8%A4%E5%8D%83%E5%A4%9A%E5%9D%97%E9%92%B1%E5%9D%8F%E6%89%8B%E6%9C%BA&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 13时24分]"
         },
         {
           "title": "苹果公司：APP Store扩容至支持11种新语言。",
@@ -289,6 +301,18 @@
           "time_info": "[04时42分 ~ 05时39分]"
         },
         {
+          "title": "创纪录！OpenAI完成1220亿美元融资 投后估值达8520亿美元",
+          "url": "https://www.cls.cn/detail/2331423",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时23分 ~ 15时19分]"
+        },
+        {
           "title": "OpenAI完成1220亿美元融资 美法官叫停白宫宴会厅改造项目 | 环球市场",
           "url": "https://www.cls.cn/detail/2331334",
           "source": "财联社热门",
@@ -298,17 +322,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时29分 ~ 13时24分]"
-        },
-        {
-          "title": "创纪录！OpenAI完成1220亿美元融资 投后估值达8520亿美元",
-          "url": "https://www.cls.cn/detail/2331423",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 13时24分]"
         },
         {
           "title": "OpenAI按8520亿美元估值完成本轮1220亿美元规模的融资",
@@ -348,8 +361,19 @@
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "马斯克：FSD 14.3版本现已进入特斯拉员工测试阶段。",
+          "url": "https://wallstreetcn.com/livenews/3080701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
         {
           "title": "拉普拉斯午后涨幅缩窄至8%，此前回应“中标特斯拉光伏项目第二期”传闻：截至目前公司并未取得相关订单。",
           "url": "https://wallstreetcn.com/livenews/3080623",
@@ -357,7 +381,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -368,7 +392,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -379,7 +403,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -390,9 +414,48 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "分析师：金价日线现看涨信号 均线压制与多头动能展开博弈",
+          "url": "https://flash.jin10.com/detail/20260401144152555800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "佣金价格战逼近极限，券商打起“靓号”牌",
+          "url": "https://wallstreetcn.com/livenews/3080413",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "金价急跌急涨",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%80%A5%E8%B7%8C%E6%80%A5%E6%B6%A8%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         }
       ]
     },
@@ -434,11 +497,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时29分 ~ 13时24分]"
+          "appearance_count": 4,
+          "time_info": "[10时29分 ~ 15时19分]"
         }
       ]
     },
@@ -457,23 +521,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时35分 ~ 03时04分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "佣金价格战逼近极限，券商打起“靓号”牌",
-          "url": "https://wallstreetcn.com/livenews/3080413",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
         }
       ]
     }
