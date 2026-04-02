@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T04:35:25.513117+08:00",
-  "total_titles_processed": 546,
+  "generated_at": "2026-04-03T05:37:57.137892+08:00",
+  "total_titles_processed": 579,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 04时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 05时37分]"
         },
         {
           "title": "国务院食安办、市场监管总局、海关总署就「优思益」问题约谈抖音、淘天、小红书，暴露了平台的哪些问题？",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 04时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 05时37分]"
         },
         {
           "title": "三部门约谈抖音、淘天、小红书",
@@ -41,8 +41,37 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 05时37分]"
+        },
+        {
+          "title": "三部门约谈抖音淘天小红书",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E9%83%A8%E9%97%A8%E7%BA%A6%E8%B0%88%E6%8A%96%E9%9F%B3%E6%B7%98%E5%A4%A9%E5%B0%8F%E7%BA%A2%E4%B9%A6%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            10,
+            19,
+            16,
+            22
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[00时31分 ~ 04时35分]"
+          "time_info": "[00时31分 ~ 05时37分]"
+        },
+        {
+          "title": "多国央行大幅减持美债",
+          "url": "https://www.douyin.com/hot/2452076",
+          "source": "抖音",
+          "ranks": [
+            27,
+            30,
+            23,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时37分]"
         },
         {
           "title": "欧洲央行管委维勒鲁瓦：高油价使欧洲央行的不利情景更接近。",
@@ -56,44 +85,6 @@
           "time_info": "00时32分"
         },
         {
-          "title": "美国至4月6日当周外国央行持有美国国债 377.91亿美元，前值-231.77亿美元。",
-          "url": "https://flash.jin10.com/detail/20260403043033454800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时35分"
-        },
-        {
-          "title": "三部门约谈抖音淘天小红书",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E9%83%A8%E9%97%A8%E7%BA%A6%E8%B0%88%E6%8A%96%E9%9F%B3%E6%B7%98%E5%A4%A9%E5%B0%8F%E7%BA%A2%E4%B9%A6%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9,
-            10,
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时51分]"
-        },
-        {
-          "title": "多国央行大幅减持美债",
-          "url": "https://www.douyin.com/hot/2452076",
-          "source": "抖音",
-          "ranks": [
-            27,
-            30,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 04时35分]"
-        },
-        {
           "title": "欧洲央行管委维勒鲁瓦：现在的情况与2022年不一样，这次的开局更为有利。",
           "url": "https://flash.jin10.com/detail/20260402235054513800",
           "source": "金十数据",
@@ -103,6 +94,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "美国至4月6日当周外国央行持有美国国债 377.91亿美元，前值-231.77亿美元。",
+          "url": "https://flash.jin10.com/detail/20260403043033454800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时35分 ~ 05时37分]"
         },
         {
           "title": "欧洲央行管委兼法国央行行长Villeroy：某些金融条件趋紧已经显现出来。",
@@ -145,7 +148,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
         }
@@ -163,22 +166,36 @@
             27,
             23,
             22,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 04时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 05时37分]"
         },
         {
           "title": "SpaceX有望冲刺2万亿美元估值，将超Meta和特斯拉",
           "url": "https://flash.jin10.com/detail/20260403041548791800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时35分 ~ 05时37分]"
+        },
+        {
+          "title": "美股周四收盘，道指初步收跌0.13%，标普500指数涨0.1%，纳指涨0.18%。特斯拉(TSLA.O)收跌超5%。纳斯达克中国金龙指数收跌0.34%。",
+          "url": "https://flash.jin10.com/detail/20260403040200866800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时35分 ~ 05时37分]"
         },
         {
           "title": "特斯拉原“王牌厂长”将入职小米汽车",
@@ -192,26 +209,16 @@
           "time_info": "[00时31分 ~ 00时32分]"
         },
         {
-          "title": "美股周四收盘，道指初步收跌0.13%，标普500指数涨0.1%，纳指涨0.18%。特斯拉(TSLA.O)收跌超5%。纳斯达克中国金龙指数收跌0.34%。",
-          "url": "https://flash.jin10.com/detail/20260403040200866800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时35分"
-        },
-        {
           "title": "特斯拉收跌5.44%，创2025年11月以来最大单日跌幅。",
           "url": "https://wallstreetcn.com/livenews/3081782",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时35分 ~ 05时37分]"
         },
         {
           "title": "韦德布什：特斯拉Q1交付量不达预期并不意外",
@@ -278,8 +285,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 04时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 05时37分]"
         },
         {
           "title": "iPhone18Pro模具偷跑",
@@ -289,11 +296,12 @@
             20,
             23,
             16,
-            17
+            17,
+            29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 04时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 05时37分]"
         }
       ]
     },
