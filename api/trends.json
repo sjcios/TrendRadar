@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-02T10:09:06.286840+08:00",
-  "total_titles_processed": 855,
+  "generated_at": "2026-04-02T13:02:54.001329+08:00",
+  "total_titles_processed": 1026,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 19,
+      "match_count": 23,
       "titles": [
         {
           "title": "央行等四部门联合召开科技金融工作交流推进会",
@@ -113,6 +113,17 @@
           "time_info": "01时51分"
         },
         {
+          "title": "多国央行大幅减持美债",
+          "url": "https://www.douyin.com/hot/2452076",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
           "title": "加拿大央行会议纪要：鉴于通胀率接近目标水平，且核心指标显示通胀压力有限，管委会认为自身具备一定政策灵活性。",
           "url": "https://flash.jin10.com/detail/20260402013100399800",
           "source": "金十数据",
@@ -122,6 +133,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
+        },
+        {
+          "title": "中国金融时报：央行连续两日地量操作，不改资金面宽松态势",
+          "url": "https://wallstreetcn.com/livenews/3081308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "加拿大央行会议纪要：管委会认为，短期内经济增长面临下行风险，而油价冲击则构成了通胀的额外上行风险。",
@@ -179,6 +201,17 @@
           "time_info": "01时51分"
         },
         {
+          "title": "印度卢比兑美元上涨1.7%，之前印度央行采取措施抑制投机。",
+          "url": "https://wallstreetcn.com/livenews/3081291",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
           "title": "星展银行首席经济学家：日本、新加坡和澳大利亚似乎可能加息。韩国央行也可采取澳洲联储式的积极举措。",
           "url": "https://flash.jin10.com/detail/20260402060131102800",
           "source": "金十数据",
@@ -190,13 +223,24 @@
           "time_info": "06时37分"
         },
         {
+          "title": "J Cole入驻抖音",
+          "url": "https://www.douyin.com/hot/2452239",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
           "title": "日本央行前首席经济学家看好4月加息 植田和男面临任内大考",
           "url": "https://flash.jin10.com/detail/20260402094348073800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
         },
@@ -218,7 +262,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
         }
@@ -284,7 +328,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
         }
@@ -292,7 +336,7 @@
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "纳斯达克金龙中国指数初步收涨0.3%。 热门中概股里，理想初步收涨3.1%，蔚来涨2.7%，腾讯涨0.8%，阿里巴巴跌1.3%，比亚迪跌2.2%。",
@@ -315,6 +359,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时54分 ~ 04时58分]"
+        },
+        {
+          "title": "大华继显：将比亚迪H股目标价由81港元上调至130港元。",
+          "url": "https://flash.jin10.com/detail/20260402122746536800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "国产「张雪机车」夺得 WSBK 两连冠，如何评价它的技术实力？会成为摩托车界的「比亚迪」吗？",
@@ -342,7 +397,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "金价急速上涨",
@@ -370,6 +425,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时37分 ~ 07时35分]"
+        },
+        {
+          "title": "金价瀑布式下跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%80%91%E5%B8%83%E5%BC%8F%E4%B8%8B%E8%B7%8C%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "特朗普再“变脸”，金价反弹要中道崩阻？",
+          "url": "https://flash.jin10.com/detail/20260402120943938800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         }
       ]
     },
