@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T06:31:25.500392+08:00",
-  "total_titles_processed": 620,
+  "generated_at": "2026-04-03T07:34:26.833319+08:00",
+  "total_titles_processed": 669,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 07时34分]"
         },
         {
           "title": "国务院食安办、市场监管总局、海关总署就「优思益」问题约谈抖音、淘天、小红书，暴露了平台的哪些问题？",
@@ -27,11 +27,12 @@
             18,
             10,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 07时34分]"
         },
         {
           "title": "三部门约谈抖音、淘天、小红书",
@@ -42,8 +43,24 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 07时34分]"
+        },
+        {
+          "title": "多国央行大幅减持美债",
+          "url": "https://www.douyin.com/hot/2452076",
+          "source": "抖音",
+          "ranks": [
+            27,
+            30,
+            23,
+            21,
+            14,
+            18
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[00时31分 ~ 06时31分]"
+          "time_info": "[00时31分 ~ 07时34分]"
         },
         {
           "title": "三部门约谈抖音淘天小红书",
@@ -56,21 +73,6 @@
             16,
             22,
             20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 06时31分]"
-        },
-        {
-          "title": "多国央行大幅减持美债",
-          "url": "https://www.douyin.com/hot/2452076",
-          "source": "抖音",
-          "ranks": [
-            27,
-            30,
-            23,
-            21,
-            14
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -291,8 +293,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 07时34分]"
         },
         {
           "title": "iPhone18Pro模具偷跑",
