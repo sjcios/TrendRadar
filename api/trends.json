@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T19:38:03.644962+08:00",
-  "total_titles_processed": 1610,
+  "generated_at": "2026-04-03T21:02:20.026135+08:00",
+  "total_titles_processed": 1738,
   "failed_sources": [],
   "trends": [
     {
@@ -32,11 +32,12 @@
             2,
             15,
             16,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时31分 ~ 19时38分]"
+          "appearance_count": 20,
+          "time_info": "[00时31分 ~ 21时02分]"
         },
         {
           "title": "三部门约谈抖音、淘天、小红书",
@@ -267,7 +268,7 @@
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "女子赠侄子旧手机致出轨照外泄",
@@ -290,11 +291,12 @@
             14,
             15,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时04分 ~ 19时38分]"
+          "appearance_count": 9,
+          "time_info": "[13时04分 ~ 21时02分]"
         },
         {
           "title": "iPhone18Pro模具偷跑",
@@ -317,11 +319,34 @@
           "source": "微博",
           "ranks": [
             19,
-            2
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时42分 ~ 19时38分]"
+          "appearance_count": 4,
+          "time_info": "[18时42分 ~ 21时02分]"
+        },
+        {
+          "title": "苹果被曝高价扫荡全球手机内存，不惜牺牲利润锁死对手供应链，内存价格会再度暴涨吗？对安卓阵营冲击有多大？",
+          "url": "https://www.zhihu.com/question/2023407372723332647",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "工信部提醒苹果用户：做好风险排查",
+          "url": "https://www.baidu.com/s?wd=%E5%B7%A5%E4%BF%A1%E9%83%A8%E6%8F%90%E9%86%92%E8%8B%B9%E6%9E%9C%E7%94%A8%E6%88%B7%EF%BC%9A%E5%81%9A%E5%A5%BD%E9%A3%8E%E9%99%A9%E6%8E%92%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "iPhone18Pro深红配色",
@@ -565,11 +590,12 @@
           "ranks": [
             10,
             4,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时53分 ~ 19时38分]"
+          "appearance_count": 7,
+          "time_info": "[16时53分 ~ 21时02分]"
         },
         {
           "title": "如何评价 Google 发布的开源大模型 Gemma4？使用体验怎么样？",
