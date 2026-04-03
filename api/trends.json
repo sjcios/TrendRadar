@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T13:04:57.724433+08:00",
-  "total_titles_processed": 1025,
+  "generated_at": "2026-04-03T15:07:18.525146+08:00",
+  "total_titles_processed": 1155,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "抖音创作者关爱孤独症集结出动",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 13时04分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 15时07分]"
         },
         {
           "title": "国务院食安办、市场监管总局、海关总署就「优思益」问题约谈抖音、淘天、小红书，暴露了平台的哪些问题？",
@@ -128,6 +128,17 @@
           "time_info": "[00时32分 ~ 01时06分]"
         },
         {
+          "title": "欧洲央行官员Radev：能源危机可能蔓延至更广泛的经济领域。 应当利用有利的融资条件来进行准备工作。",
+          "url": "https://wallstreetcn.com/livenews/3082027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时07分"
+        },
+        {
           "title": "埃及央行维持基准利率在19%不变，符合预期。",
           "url": "https://wallstreetcn.com/livenews/3081715",
           "source": "华尔街见闻-快讯",
@@ -183,6 +194,28 @@
           "time_info": "04时35分"
         },
         {
+          "title": "中东冲突不确定性阻碍日本央行发出明确利率信号",
+          "url": "https://wallstreetcn.com/livenews/3082007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时07分"
+        },
+        {
+          "title": "日本央行的“4月悬念”：加息还是不动？市场已押注70%",
+          "url": "https://flash.jin10.com/detail/20260403140511270800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时07分"
+        },
+        {
           "title": "日本财务大臣片山皋月：特朗普的言论对市场的影响显著。 石油交易和外汇市场的投机行为正在增加。 我们一直以来都在谈论采取大胆的行动，立场是将从各个方面对市场采取行动。 市场波动性正在上升。 货币政策的具体细节由日本央行决定。",
           "url": "https://wallstreetcn.com/livenews/3081866",
           "source": "华尔街见闻-快讯",
@@ -227,6 +260,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时35分 ~ 06时31分]"
+        },
+        {
+          "title": "超越Meta和特斯拉！SpaceX据悉将IPO目标估值提升至逾2万亿美元",
+          "url": "https://www.cls.cn/detail/2334126",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时04分 ~ 15时07分]"
         },
         {
           "title": "美股周四收盘，道指初步收跌0.13%，标普500指数涨0.1%，纳指涨0.18%。特斯拉(TSLA.O)收跌超5%。纳斯达克中国金龙指数收跌0.34%。",
@@ -276,17 +320,6 @@
           "time_info": "[10时10分 ~ 13时04分]"
         },
         {
-          "title": "超越Meta和特斯拉！SpaceX据悉将IPO目标估值提升至逾2万亿美元",
-          "url": "https://www.cls.cn/detail/2334126",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时04分"
-        },
-        {
           "title": "韦德布什：特斯拉Q1交付量不达预期并不意外",
           "url": "https://flash.jin10.com/detail/20260402234148042800",
           "source": "金十数据",
@@ -304,7 +337,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时04分"
         }
@@ -312,7 +345,7 @@
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "女子赠侄子旧手机致出轨照外泄",
@@ -345,11 +378,24 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352734&amp;topic_name=%E5%86%85%E5%AD%98%E7%96%AF%E6%B6%A8%2C%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA%E4%B9%9F%E6%B6%A8%E4%BB%B7",
           "source": "贴吧",
           "ranks": [
-            8
+            8,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时04分 ~ 15时07分]"
+        },
+        {
+          "title": "小米宣布部分手机涨价",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%AE%A3%E5%B8%83%E9%83%A8%E5%88%86%E6%89%8B%E6%9C%BA%E6%B6%A8%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时04分 ~ 15时07分]"
         },
         {
           "title": "苹果第8号员工",
@@ -363,15 +409,26 @@
           "time_info": "10时10分"
         },
         {
-          "title": "小米宣布部分手机涨价",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%AE%A3%E5%B8%83%E9%83%A8%E5%88%86%E6%89%8B%E6%9C%BA%E6%B6%A8%E4%BB%B7",
-          "source": "百度热搜",
+          "title": "苹果被曝高价扫货移动DRAM",
+          "url": "https://flash.jin10.com/detail/20260403140538322800",
+          "source": "金十数据",
           "ranks": [
-            15
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时04分"
+          "time_info": "15时07分"
+        },
+        {
+          "title": "苹果高价囤积移动DRAM，联发科、三星已受影响",
+          "url": "https://wallstreetcn.com/livenews/3081994",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时07分"
         }
       ]
     },
@@ -380,24 +437,25 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "如何评价 Google 发布的开源大模型 Gemma4？使用体验怎么样？",
+          "url": "https://www.zhihu.com/question/2023204569811828949",
+          "source": "知乎",
+          "ranks": [
+            11,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时10分 ~ 15时07分]"
+        },
+        {
           "title": "谷歌最新模型Gemma4发布",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
           "ranks": [
             1,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 13时04分]"
-        },
-        {
-          "title": "如何评价 Google 发布的开源大模型 Gemma4？使用体验怎么样？",
-          "url": "https://www.zhihu.com/question/2023204569811828949",
-          "source": "知乎",
-          "ranks": [
-            11,
-            3
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -467,9 +525,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时04分 ~ 15时07分]"
         }
       ]
     }
