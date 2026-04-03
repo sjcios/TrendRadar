@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T03:38:36.320942+08:00",
-  "total_titles_processed": 442,
+  "generated_at": "2026-04-04T04:35:55.770498+08:00",
+  "total_titles_processed": 477,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 03时38分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 04时35分]"
         },
         {
           "title": "工信部紧急提醒苹果用户",
@@ -28,8 +28,42 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 03时38分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 04时35分]"
+        },
+        {
+          "title": "如何看待日本埼玉县拉面店贴出「用餐时禁止看手机，违者驱逐且不退款」？",
+          "url": "https://www.zhihu.com/question/2023060151108641565",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 04时35分]"
+        },
+        {
+          "title": "业内：苹果欲牺牲利润阻击对手",
+          "url": "https://www.douyin.com/hot/2453780",
+          "source": "抖音",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 04时35分]"
+        },
+        {
+          "title": "内存疯涨,小米手机也涨价",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352734&amp;topic_name=%E5%86%85%E5%AD%98%E7%96%AF%E6%B6%A8%2C%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA%E4%B9%9F%E6%B6%A8%E4%BB%B7",
+          "source": "贴吧",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 04时35分]"
         },
         {
           "title": "MacBook Neo拆解",
@@ -43,50 +77,17 @@
           "time_info": "00时39分"
         },
         {
-          "title": "如何看待日本埼玉县拉面店贴出「用餐时禁止看手机，违者驱逐且不退款」？",
-          "url": "https://www.zhihu.com/question/2023060151108641565",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 03时38分]"
-        },
-        {
-          "title": "业内：苹果欲牺牲利润阻击对手",
-          "url": "https://www.douyin.com/hot/2453780",
-          "source": "抖音",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 03时38分]"
-        },
-        {
-          "title": "内存疯涨,小米手机也涨价",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352734&amp;topic_name=%E5%86%85%E5%AD%98%E7%96%AF%E6%B6%A8%2C%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA%E4%B9%9F%E6%B6%A8%E4%BB%B7",
-          "source": "贴吧",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 03时38分]"
-        },
-        {
           "title": "苹果第8号员工至今还在职",
           "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E7%AC%AC8%E5%8F%B7%E5%91%98%E5%B7%A5%E8%87%B3%E4%BB%8A%E8%BF%98%E5%9C%A8%E8%81%8C",
           "source": "百度热搜",
           "ranks": [
             16,
-            17
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时34分 ~ 03时38分]"
+          "appearance_count": 5,
+          "time_info": "[01时34分 ~ 04时35分]"
         },
         {
           "title": "工信部提醒苹果用户：做好风险排查",
@@ -124,8 +125,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 03时38分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 04时35分]"
         },
         {
           "title": "意大利央行下调2026年GDP预期至增长0.5%，因为（美国和以色列发动）伊朗战争的缘故；之前料增0.6%。 下调2027年GDP预期至增长0.5%（之前料增0.8%），维持2028年预期在增长0.8%不变。",
@@ -177,11 +178,12 @@
           "ranks": [
             24,
             18,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 03时38分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 04时35分]"
         },
         {
           "title": "谷歌推出Veo 3.1 Lite版本，并在VertexAI平台新增Veo超分辨率升级功能。",
@@ -189,11 +191,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            12
+            12,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时45分 ~ 03时38分]"
+          "appearance_count": 3,
+          "time_info": "[02时45分 ~ 04时35分]"
         }
       ]
     },
