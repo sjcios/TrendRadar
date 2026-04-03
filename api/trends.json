@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T10:10:24.190838+08:00",
-  "total_titles_processed": 835,
+  "generated_at": "2026-04-03T13:04:57.724433+08:00",
+  "total_titles_processed": 1025,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.douyin.com/hot/2452504",
           "source": "抖音",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 10时10分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 13时04分]"
         },
         {
           "title": "国务院食安办、市场监管总局、海关总署就「优思益」问题约谈抖音、淘天、小红书，暴露了平台的哪些问题？",
@@ -144,7 +145,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         },
@@ -155,7 +156,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         },
@@ -188,7 +189,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         }
@@ -196,7 +197,7 @@
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "美股三大指数低开 特斯拉跌逾4%",
@@ -263,6 +264,29 @@
           "time_info": "[04时35分 ~ 05时37分]"
         },
         {
+          "title": "错过张雪机车的重庆国资们 站上大模型与新能源的牌桌",
+          "url": "https://www.cls.cn/detail/2333899",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时10分 ~ 13时04分]"
+        },
+        {
+          "title": "超越Meta和特斯拉！SpaceX据悉将IPO目标估值提升至逾2万亿美元",
+          "url": "https://www.cls.cn/detail/2334126",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
           "title": "韦德布什：特斯拉Q1交付量不达预期并不意外",
           "url": "https://flash.jin10.com/detail/20260402234148042800",
           "source": "金十数据",
@@ -274,15 +298,80 @@
           "time_info": "00时32分"
         },
         {
-          "title": "错过张雪机车的重庆国资们 站上大模型与新能源的牌桌",
-          "url": "https://www.cls.cn/detail/2333899",
-          "source": "财联社热门",
+          "title": "绿联与宁德新能源科技达成战略合作",
+          "url": "https://flash.jin10.com/detail/20260403120633908800",
+          "source": "金十数据",
           "ranks": [
-            13
+            26
           ],
           "is_new": true,
           "appearance_count": 1,
+          "time_info": "13时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 Apple Mac iPhone 手机",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "女子赠侄子旧手机致出轨照外泄",
+          "url": "https://www.toutiao.com/trending/7624084503744626742/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 07时34分]"
+        },
+        {
+          "title": "iPhone18Pro模具偷跑",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E6%A8%A1%E5%85%B7%E5%81%B7%E8%B7%91%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            23,
+            16,
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 05时37分]"
+        },
+        {
+          "title": "内存疯涨,小米手机也涨价",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352734&amp;topic_name=%E5%86%85%E5%AD%98%E7%96%AF%E6%B6%A8%2C%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA%E4%B9%9F%E6%B6%A8%E4%BB%B7",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
+          "title": "苹果第8号员工",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E7%AC%AC8%E5%8F%B7%E5%91%98%E5%B7%A5%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
           "time_info": "10时10分"
+        },
+        {
+          "title": "小米宣布部分手机涨价",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%AE%A3%E5%B8%83%E9%83%A8%E5%88%86%E6%89%8B%E6%9C%BA%E6%B6%A8%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
         }
       ]
     },
@@ -295,22 +384,24 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时10分 ~ 13时04分]"
         },
         {
           "title": "如何评价 Google 发布的开源大模型 Gemma4？使用体验怎么样？",
           "url": "https://www.zhihu.com/question/2023204569811828949",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时10分 ~ 13时04分]"
         },
         {
           "title": "谷歌公司推出Gemma 4开源模型，为高级推理打造Gemma 4。 英伟达与谷歌公司致力于为英伟达GPUs优化Gemma 4。 英伟达为本地智能体人工智能（Agentic AI）加速Gemma 4。",
@@ -366,45 +457,19 @@
       ]
     },
     {
-      "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 3,
+      "keyword_group": "英雄联盟 LOL",
+      "match_count": 1,
       "titles": [
         {
-          "title": "女子赠侄子旧手机致出轨照外泄",
-          "url": "https://www.toutiao.com/trending/7624084503744626742/",
-          "source": "今日头条",
+          "title": "XLG俱乐部创建LOL分部",
+          "url": "https://search.bilibili.com/all?keyword=XLG%E4%BF%B1%E4%B9%90%E9%83%A8%E5%88%9B%E5%BB%BALOL%E5%88%86%E9%83%A8",
+          "source": "bilibili 热搜",
           "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 07时34分]"
-        },
-        {
-          "title": "iPhone18Pro模具偷跑",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E6%A8%A1%E5%85%B7%E5%81%B7%E8%B7%91%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            23,
-            16,
-            17,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 05时37分]"
-        },
-        {
-          "title": "苹果第8号员工",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E7%AC%AC8%E5%8F%B7%E5%91%98%E5%B7%A5%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时10分"
+          "time_info": "13时04分"
         }
       ]
     }
