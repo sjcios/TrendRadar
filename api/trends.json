@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T07:34:26.833319+08:00",
-  "total_titles_processed": 669,
+  "generated_at": "2026-04-03T10:10:24.190838+08:00",
+  "total_titles_processed": 835,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "抖音创作者关爱孤独症集结出动",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 07时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 10时10分]"
         },
         {
           "title": "国务院食安办、市场监管总局、海关总署就「优思益」问题约谈抖音、淘天、小红书，暴露了平台的哪些问题？",
@@ -31,8 +31,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 07时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 10时10分]"
         },
         {
           "title": "三部门约谈抖音、淘天、小红书",
@@ -56,11 +56,12 @@
             23,
             21,
             14,
-            18
+            18,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 07时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 10时10分]"
         },
         {
           "title": "三部门约谈抖音淘天小红书",
@@ -137,6 +138,28 @@
           "time_info": "01时06分"
         },
         {
+          "title": "数字货币概念股开盘活跃，翠微股份、中油资本竞价涨停，华峰超纤、四方精创、拉卡拉、海联金汇等多股高开，消息上，中国人民银行新增中信银行等成为银行类数字人民币业务运营机构，并接入央行端数字人民币系统，此外据商务部官网消息，选择性通行系统下，多国获免通行费，人民币结算首现霍尔木兹海峡。",
+          "url": "https://wallstreetcn.com/livenews/3081885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时10分"
+        },
+        {
+          "title": "中国央行公开市场今日净回笼1452亿元人民币",
+          "url": "https://wallstreetcn.com/livenews/3081880",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时10分"
+        },
+        {
           "title": "欧洲央行管委维勒鲁瓦：欧洲央行下一步可能加息，但时机尚不明确",
           "url": "https://flash.jin10.com/detail/20260403015137743800",
           "source": "金十数据",
@@ -157,12 +180,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：特朗普的言论对市场的影响显著。 石油交易和外汇市场的投机行为正在增加。 我们一直以来都在谈论采取大胆的行动，立场是将从各个方面对市场采取行动。 市场波动性正在上升。 货币政策的具体细节由日本央行决定。",
+          "url": "https://wallstreetcn.com/livenews/3081866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时10分"
         }
       ]
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美股三大指数低开 特斯拉跌逾4%",
@@ -238,6 +272,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "错过张雪机车的重庆国资们 站上大模型与新能源的牌桌",
+          "url": "https://www.cls.cn/detail/2333899",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "谷歌最新模型Gemma4发布",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时10分"
+        },
+        {
+          "title": "如何评价 Google 发布的开源大模型 Gemma4？使用体验怎么样？",
+          "url": "https://www.zhihu.com/question/2023204569811828949",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时10分"
+        },
+        {
+          "title": "谷歌公司推出Gemma 4开源模型，为高级推理打造Gemma 4。 英伟达与谷歌公司致力于为英伟达GPUs优化Gemma 4。 英伟达为本地智能体人工智能（Agentic AI）加速Gemma 4。",
+          "url": "https://wallstreetcn.com/livenews/3081712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时06分"
         }
       ]
     },
@@ -283,7 +367,7 @@
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "女子赠侄子旧手机致出轨照外泄",
@@ -310,23 +394,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时31分 ~ 05时37分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
+        },
         {
-          "title": "谷歌公司推出Gemma 4开源模型，为高级推理打造Gemma 4。 英伟达与谷歌公司致力于为英伟达GPUs优化Gemma 4。 英伟达为本地智能体人工智能（Agentic AI）加速Gemma 4。",
-          "url": "https://wallstreetcn.com/livenews/3081712",
-          "source": "华尔街见闻-快讯",
+          "title": "苹果第8号员工",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E7%AC%AC8%E5%8F%B7%E5%91%98%E5%B7%A5%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
           "ranks": [
-            16
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时06分"
+          "time_info": "10时10分"
         }
       ]
     }
