@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T04:30:58.703891+08:00",
-  "total_titles_processed": 420,
+  "generated_at": "2026-04-05T05:31:09.173943+08:00",
+  "total_titles_processed": 435,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,25 @@
           "ranks": [
             5,
             15,
-            18
+            18,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时41分 ~ 05时31分]"
+        },
+        {
+          "title": "欧洲央行管委：欧洲央行将围绕加息和维持利率不变进行讨论",
+          "url": "https://flash.jin10.com/detail/20260405024739351800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            11,
+            14
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[02时41分 ~ 04时30分]"
+          "time_info": "[03时31分 ~ 05时31分]"
         },
         {
           "title": "外国央行正在抛售美国国债",
@@ -32,18 +46,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时35分 ~ 02时41分]"
-        },
-        {
-          "title": "欧洲央行管委：欧洲央行将围绕加息和维持利率不变进行讨论",
-          "url": "https://flash.jin10.com/detail/20260405024739351800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时31分 ~ 04时30分]"
         }
       ]
     },
@@ -56,11 +58,12 @@
           "url": "https://www.zhihu.com/question/2023674219897123334",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 04时30分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 05时31分]"
         },
         {
           "title": "苹果设备被曝存在高危漏洞",
@@ -71,8 +74,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 04时30分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 05时31分]"
         }
       ]
     },
@@ -90,8 +93,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时29分 ~ 04时30分]"
+          "appearance_count": 5,
+          "time_info": "[01时29分 ~ 05时31分]"
         }
       ]
     }
