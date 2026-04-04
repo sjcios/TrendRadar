@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T21:53:54.019834+08:00",
-  "total_titles_processed": 1481,
+  "generated_at": "2026-04-04T22:33:18.006147+08:00",
+  "total_titles_processed": 1540,
   "failed_sources": [],
   "trends": [
     {
@@ -81,8 +81,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时03分 ~ 21时53分]"
+          "appearance_count": 14,
+          "time_info": "[10时03分 ~ 22时33分]"
         },
         {
           "title": "内存疯涨,小米手机也涨价",
@@ -112,6 +112,18 @@
           "time_info": "[00时39分 ~ 07时33分]"
         },
         {
+          "title": "工信部紧急提醒苹果用户 iOS 13 至 17.2.1 有高危漏洞，或导致用户信息被窃取，该怎样应对？",
+          "url": "https://www.zhihu.com/question/2023674219897123334",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时53分 ~ 22时33分]"
+        },
+        {
           "title": "苹果第8号员工至今还在职",
           "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E7%AC%AC8%E5%8F%B7%E5%91%98%E5%B7%A5%E8%87%B3%E4%BB%8A%E8%BF%98%E5%9C%A8%E8%81%8C",
           "source": "百度热搜",
@@ -124,18 +136,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时34分 ~ 07时33分]"
-        },
-        {
-          "title": "工信部紧急提醒苹果用户 iOS 13 至 17.2.1 有高危漏洞，或导致用户信息被窃取，该怎样应对？",
-          "url": "https://www.zhihu.com/question/2023674219897123334",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时53分 ~ 21时53分]"
         },
         {
           "title": "MacBook Neo拆解",
@@ -186,7 +186,7 @@
     },
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "央行将开展8000亿元买断式逆回购",
@@ -200,6 +200,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时39分 ~ 10时03分]"
+        },
+        {
+          "title": "外国央行正在抛售美国国债",
+          "url": "https://www.toutiao.com/trending/7624113190545244179/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时32分 ~ 22时33分]"
         },
         {
           "title": "2026年4月2日，中国人民银行行长潘功胜会见埃塞俄比亚央行行长伊尤布·特卡里恩，就深化双边金融合作等议题交换了意见。",
@@ -379,11 +390,12 @@
           "source": "金十数据",
           "ranks": [
             10,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时53分 ~ 21时53分]"
+          "appearance_count": 3,
+          "time_info": "[20时53分 ~ 22时33分]"
         },
         {
           "title": "媒体人：金价在夹缝中求生存",
