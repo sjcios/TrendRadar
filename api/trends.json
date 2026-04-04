@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T12:49:53.742824+08:00",
-  "total_titles_processed": 841,
+  "generated_at": "2026-04-04T13:57:24.144170+08:00",
+  "total_titles_processed": 896,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             2,
             1,
             4,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时39分 ~ 12时49分]"
+          "appearance_count": 12,
+          "time_info": "[00时39分 ~ 13时57分]"
         },
         {
           "title": "工信部紧急提醒苹果用户",
@@ -39,11 +40,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时39分 ~ 12时49分]"
+          "appearance_count": 12,
+          "time_info": "[00时39分 ~ 13时57分]"
         },
         {
           "title": "内存疯涨,小米手机也涨价",
@@ -52,11 +54,12 @@
           "ranks": [
             20,
             22,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时39分 ~ 12时49分]"
+          "appearance_count": 12,
+          "time_info": "[00时39分 ~ 13时57分]"
         },
         {
           "title": "业内：苹果欲牺牲利润阻击对手",
@@ -98,28 +101,30 @@
           "time_info": "[00时39分 ~ 07时33分]"
         },
         {
-          "title": "苹果设备被曝存在高危漏洞",
-          "url": "https://www.douyin.com/hot/2454543",
-          "source": "抖音",
-          "ranks": [
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 12时49分]"
-        },
-        {
           "title": "内存一年涨四倍！国产手机厂商集体涨价：会持续多久？苹果会加入吗？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32891755",
           "source": "澎湃新闻",
           "ranks": [
             13,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 12时49分]"
+          "appearance_count": 3,
+          "time_info": "[10时03分 ~ 13时57分]"
+        },
+        {
+          "title": "苹果设备被曝存在高危漏洞",
+          "url": "https://www.douyin.com/hot/2454543",
+          "source": "抖音",
+          "ranks": [
+            8,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时03分 ~ 13时57分]"
         },
         {
           "title": "工信部提醒苹果用户：做好风险排查",
@@ -223,22 +228,24 @@
           "source": "今日头条",
           "ranks": [
             13,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 12时49分]"
+          "appearance_count": 3,
+          "time_info": "[10时03分 ~ 13时57分]"
         },
         {
           "title": "比亚迪再推两款12万级别新车",
           "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%86%8D%E6%8E%A8%E4%B8%A4%E6%AC%BE12%E4%B8%87%E7%BA%A7%E5%88%AB%E6%96%B0%E8%BD%A6",
           "source": "百度热搜",
           "ranks": [
-            10
+            10,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时49分 ~ 13时57分]"
         },
         {
           "title": "比亚迪推出限时优惠政策",
@@ -269,8 +276,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时39分 ~ 12时49分]"
+          "appearance_count": 12,
+          "time_info": "[00时39分 ~ 13时57分]"
         },
         {
           "title": "谷歌推出Veo 3.1 Lite版本，并在VertexAI平台新增Veo超分辨率升级功能。",
@@ -298,11 +305,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 12时49分]"
+          "appearance_count": 3,
+          "time_info": "[10时03分 ~ 13时57分]"
         },
         {
           "title": "中金：黄金投资需求和价格或均存向上修复空间",
