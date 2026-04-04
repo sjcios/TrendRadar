@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T15:03:15.036636+08:00",
-  "total_titles_processed": 962,
+  "generated_at": "2026-04-04T16:40:04.863984+08:00",
+  "total_titles_processed": 1078,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             4,
             15,
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时39分 ~ 15时03分]"
+          "appearance_count": 16,
+          "time_info": "[00时39分 ~ 16时40分]"
         },
         {
           "title": "工信部紧急提醒苹果用户",
@@ -77,6 +78,34 @@
           "time_info": "[00时39分 ~ 07时33分]"
         },
         {
+          "title": "内存一年涨四倍！国产手机厂商集体涨价：会持续多久？苹果会加入吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32891755",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时03分 ~ 16时40分]"
+        },
+        {
+          "title": "苹果设备被曝存在高危漏洞",
+          "url": "https://www.douyin.com/hot/2454543",
+          "source": "抖音",
+          "ranks": [
+            8,
+            13,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时03分 ~ 16时40分]"
+        },
+        {
           "title": "苹果第8号员工至今还在职",
           "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E7%AC%AC8%E5%8F%B7%E5%91%98%E5%B7%A5%E8%87%B3%E4%BB%8A%E8%BF%98%E5%9C%A8%E8%81%8C",
           "source": "百度热搜",
@@ -101,33 +130,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时39分 ~ 07时33分]"
-        },
-        {
-          "title": "内存一年涨四倍！国产手机厂商集体涨价：会持续多久？苹果会加入吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32891755",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时03分 ~ 15时03分]"
-        },
-        {
-          "title": "苹果设备被曝存在高危漏洞",
-          "url": "https://www.douyin.com/hot/2454543",
-          "source": "抖音",
-          "ranks": [
-            8,
-            13,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时03分 ~ 15时03分]"
         },
         {
           "title": "工信部提醒苹果用户：做好风险排查",
@@ -155,7 +157,7 @@
     },
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "央行将开展8000亿元买断式逆回购",
@@ -169,6 +171,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时39分 ~ 10时03分]"
+        },
+        {
+          "title": "2026年4月2日，中国人民银行行长潘功胜会见埃塞俄比亚央行行长伊尤布·特卡里恩，就深化双边金融合作等议题交换了意见。",
+          "url": "https://flash.jin10.com/detail/20260404160252832800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "意大利央行下调2026年GDP预期至增长0.5%，因为（美国和以色列发动）伊朗战争的缘故；之前料增0.6%。 下调2027年GDP预期至增长0.5%（之前料增0.8%），维持2028年预期在增长0.8%不变。",
@@ -218,13 +231,46 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时39分 ~ 01时34分]"
+        },
+        {
+          "title": "国际货币基金组织敦促日本央行继续加息",
+          "url": "https://flash.jin10.com/detail/20260404152514771800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
+          "title": "国际货币基金组织(IMF)：日本央行正在恰当地退出货币宽松政策。随着基础通胀率向日本央行目标靠拢，逐步加息直至利率达到中性水平的进程应该继续。",
+          "url": "https://wallstreetcn.com/livenews/3082399",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         }
       ]
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "特斯拉超级充电桩全球突破80000根",
+          "url": "https://wallstreetcn.com/livenews/3082412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
         {
           "title": "比亚迪再推两款12万级别新车",
           "url": "https://www.toutiao.com/trending/7623711798637740068/",
