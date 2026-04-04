@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T13:57:24.144170+08:00",
-  "total_titles_processed": 896,
+  "generated_at": "2026-04-04T15:03:15.036636+08:00",
+  "total_titles_processed": 962,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             1,
             4,
             15,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时39分 ~ 13时57分]"
+          "appearance_count": 14,
+          "time_info": "[00时39分 ~ 15时03分]"
         },
         {
           "title": "工信部紧急提醒苹果用户",
@@ -41,11 +42,12 @@
           "ranks": [
             8,
             17,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时39分 ~ 13时57分]"
+          "appearance_count": 14,
+          "time_info": "[00时39分 ~ 15时03分]"
         },
         {
           "title": "内存疯涨,小米手机也涨价",
@@ -58,8 +60,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时39分 ~ 13时57分]"
+          "appearance_count": 14,
+          "time_info": "[00时39分 ~ 15时03分]"
         },
         {
           "title": "业内：苹果欲牺牲利润阻击对手",
@@ -110,8 +112,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时03分 ~ 13时57分]"
+          "appearance_count": 5,
+          "time_info": "[10时03分 ~ 15时03分]"
         },
         {
           "title": "苹果设备被曝存在高危漏洞",
@@ -120,11 +122,12 @@
           "ranks": [
             8,
             13,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时03分 ~ 13时57分]"
+          "appearance_count": 5,
+          "time_info": "[10时03分 ~ 15时03分]"
         },
         {
           "title": "工信部提醒苹果用户：做好风险排查",
@@ -229,11 +232,12 @@
           "ranks": [
             13,
             17,
-            23
+            23,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时03分 ~ 13时57分]"
+          "appearance_count": 5,
+          "time_info": "[10时03分 ~ 15时03分]"
         },
         {
           "title": "比亚迪再推两款12万级别新车",
@@ -273,11 +277,12 @@
             18,
             15,
             19,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时39分 ~ 13时57分]"
+          "appearance_count": 14,
+          "time_info": "[00时39分 ~ 15时03分]"
         },
         {
           "title": "谷歌推出Veo 3.1 Lite版本，并在VertexAI平台新增Veo超分辨率升级功能。",
