@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T06:29:22.654399+08:00",
-  "total_titles_processed": 447,
+  "generated_at": "2026-04-05T07:31:11.572137+08:00",
+  "total_titles_processed": 473,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             15,
             18,
             21,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时41分 ~ 06时29分]"
+          "appearance_count": 6,
+          "time_info": "[02时41分 ~ 07时31分]"
         },
         {
           "title": "欧洲央行管委：欧洲央行将围绕加息和维持利率不变进行讨论",
@@ -30,11 +31,12 @@
             8,
             11,
             14,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时31分 ~ 06时29分]"
+          "appearance_count": 5,
+          "time_info": "[03时31分 ~ 07时31分]"
         },
         {
           "title": "外国央行正在抛售美国国债",
@@ -64,8 +66,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 06时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 07时31分]"
         },
         {
           "title": "苹果设备被曝存在高危漏洞",
@@ -76,8 +78,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 06时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 07时31分]"
         }
       ]
     },
@@ -93,11 +95,12 @@
             28,
             18,
             15,
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时29分 ~ 06时29分]"
+          "appearance_count": 8,
+          "time_info": "[01时29分 ~ 07时31分]"
         }
       ]
     }
