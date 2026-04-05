@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-04-05T21:55:29.743823+08:00",
-  "total_titles_processed": 1414,
+  "generated_at": "2026-04-05T22:35:49.686051+08:00",
+  "total_titles_processed": 1481,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
       "match_count": 5,
       "titles": [
+        {
+          "title": "苹果密码泄露在哪查看",
+          "url": "https://www.douyin.com/hot/2456081",
+          "source": "抖音",
+          "ranks": [
+            4,
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时41分 ~ 22时35分]"
+        },
         {
           "title": "工信部紧急提醒苹果用户 iOS 13 至 17.2.1 有高危漏洞，或导致用户信息被窃取，该怎样应对？",
           "url": "https://www.zhihu.com/question/2023674219897123334",
@@ -22,19 +35,6 @@
           "time_info": "[00时35分 ~ 13时11分]"
         },
         {
-          "title": "苹果密码泄露在哪查看",
-          "url": "https://www.douyin.com/hot/2456081",
-          "source": "抖音",
-          "ranks": [
-            4,
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时41分 ~ 21时55分]"
-        },
-        {
           "title": "国产手机厂商已集体涨价，会持续多久？苹果会加入吗？",
           "url": "https://www.zhihu.com/question/2023712386658443636",
           "source": "知乎",
@@ -43,11 +43,12 @@
             7,
             4,
             3,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时41分 ~ 21时55分]"
+          "appearance_count": 8,
+          "time_info": "[16时41分 ~ 22时35分]"
         },
         {
           "title": "苹果设备被曝存在高危漏洞",
@@ -141,11 +142,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时33分 ~ 21时55分]"
+          "appearance_count": 5,
+          "time_info": "[18时33分 ~ 22时35分]"
         },
         {
           "title": "比亚迪海豹06DM-i卖到8万级",
@@ -154,7 +156,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
         }
@@ -224,8 +226,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时38分 ~ 21时55分]"
+          "appearance_count": 6,
+          "time_info": "[17时38分 ~ 22时35分]"
         }
       ]
     },
