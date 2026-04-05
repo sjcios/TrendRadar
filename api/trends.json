@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T20:55:51.603960+08:00",
-  "total_titles_processed": 1344,
+  "generated_at": "2026-04-05T21:55:29.743823+08:00",
+  "total_titles_processed": 1414,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,27 @@
           "source": "抖音",
           "ranks": [
             4,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时41分 ~ 20时55分]"
+          "appearance_count": 7,
+          "time_info": "[16时41分 ~ 21时55分]"
+        },
+        {
+          "title": "国产手机厂商已集体涨价，会持续多久？苹果会加入吗？",
+          "url": "https://www.zhihu.com/question/2023712386658443636",
+          "source": "知乎",
+          "ranks": [
+            5,
+            7,
+            4,
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时41分 ~ 21时55分]"
         },
         {
           "title": "苹果设备被曝存在高危漏洞",
@@ -44,20 +60,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时35分 ~ 07时31分]"
-        },
-        {
-          "title": "国产手机厂商已集体涨价，会持续多久？苹果会加入吗？",
-          "url": "https://www.zhihu.com/question/2023712386658443636",
-          "source": "知乎",
-          "ranks": [
-            5,
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时41分 ~ 20时55分]"
         },
         {
           "title": "初二男生非要买手机 爸妈愁到深夜",
@@ -77,6 +79,18 @@
       "keyword_group": "金价",
       "match_count": 3,
       "titles": [
+        {
+          "title": "一周展望：战争第六周特朗普的剧本要崩、CPI将爆，金价又要出大戏？",
+          "url": "https://flash.jin10.com/detail/20260405200932018800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 21时55分]"
+        },
         {
           "title": "金价卷到老祖宗那边了吗",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%8D%B7%E5%88%B0%E8%80%81%E7%A5%96%E5%AE%97%E9%82%A3%E8%BE%B9%E4%BA%86%E5%90%97%23&t=31&band_rank=15&Refer=top",
@@ -99,17 +113,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时41分 ~ 16时42分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "比亚迪再推两款12万级别新车",
+          "url": "https://www.toutiao.com/trending/7623711798637740068/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            18,
+            15,
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时29分 ~ 07时31分]"
         },
         {
-          "title": "一周展望：战争第六周特朗普的剧本要崩、CPI将爆，金价又要出大戏？",
-          "url": "https://flash.jin10.com/detail/20260405200932018800",
-          "source": "金十数据",
+          "title": "最近好像有个新能源车电池「8 年斩杀线」的概念火了，这种状况真的存在吗？是不是在贩卖焦虑？",
+          "url": "https://www.zhihu.com/question/2023473110414878499",
+          "source": "知乎",
           "ranks": [
-            12
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时33分 ~ 21时55分]"
+        },
+        {
+          "title": "比亚迪海豹06DM-i卖到8万级",
+          "url": "https://www.toutiao.com/trending/7625148942854032923/",
+          "source": "今日头条",
+          "ranks": [
+            29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时55分"
+          "time_info": "21时55分"
         }
       ]
     },
@@ -164,39 +211,6 @@
       ]
     },
     {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "比亚迪再推两款12万级别新车",
-          "url": "https://www.toutiao.com/trending/7623711798637740068/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            18,
-            15,
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时29分 ~ 07时31分]"
-        },
-        {
-          "title": "最近好像有个新能源车电池「8 年斩杀线」的概念火了，这种状况真的存在吗？是不是在贩卖焦虑？",
-          "url": "https://www.zhihu.com/question/2023473110414878499",
-          "source": "知乎",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时33分 ~ 20时55分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -210,8 +224,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时38分 ~ 20时55分]"
+          "appearance_count": 5,
+          "time_info": "[17时38分 ~ 21时55分]"
         }
       ]
     },
