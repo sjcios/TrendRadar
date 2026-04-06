@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-06T07:33:35.990479+08:00",
-  "total_titles_processed": 502,
+  "generated_at": "2026-04-06T10:26:01.823757+08:00",
+  "total_titles_processed": 673,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "苹果密码泄露在哪查看",
@@ -36,6 +36,17 @@
           "time_info": "[00时36分 ~ 07时33分]"
         },
         {
+          "title": "北京警方提醒苹果手机用户",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E8%AD%A6%E6%96%B9%E6%8F%90%E9%86%92%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%94%A8%E6%88%B7%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 10时26分]"
+        },
+        {
           "title": "国产手机厂商已集体涨价，会持续多久？苹果会加入吗？",
           "url": "https://www.zhihu.com/question/2023712386658443636",
           "source": "知乎",
@@ -48,6 +59,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时36分 ~ 07时33分]"
+        },
+        {
+          "title": "北京警方紧急提醒苹果手机用户",
+          "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E8%AD%A6%E6%96%B9%E7%B4%A7%E6%80%A5%E6%8F%90%E9%86%92%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%94%A8%E6%88%B7",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 10时26分]"
         },
         {
           "title": "尾号8888888手机号260万起拍 已流拍",
@@ -104,11 +126,12 @@
             6,
             4,
             7,
-            10
+            10,
+            20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时36分 ~ 07时33分]"
+          "appearance_count": 11,
+          "time_info": "[00时36分 ~ 10时26分]"
         },
         {
           "title": "比亚迪海豹06DM-i卖到8万级",
@@ -140,6 +163,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时36分 ~ 04时32分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "微软谷歌争相与SK海力士洽谈DRAM“三年长约”，“打破惯例”引入底价保障及预付定金机制",
+          "url": "https://wallstreetcn.com/articles/3769294",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 10时26分]"
         }
       ]
     }
