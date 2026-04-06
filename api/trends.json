@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-06T17:08:28.700784+08:00",
-  "total_titles_processed": 1069,
+  "generated_at": "2026-04-06T18:56:21.405629+08:00",
+  "total_titles_processed": 1183,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "日本央行：部分地区担忧能源价格上涨和通胀加剧将引发更广泛的供应中断，并损害家庭和企业信心。",
@@ -69,7 +69,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         },
@@ -80,9 +80,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
+        },
+        {
+          "title": "央行抛售黄金影响几何？",
+          "url": "https://wallstreetcn.com/articles/3769303",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
         },
         {
           "title": "欧洲央行管委斯图纳拉斯：地缘政治不确定性下，希腊经济增速将于2026年放缓至1.9%。",
@@ -91,7 +102,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         },
@@ -157,7 +168,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         }
@@ -258,48 +269,8 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "金价再度回落下跌",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%86%8D%E5%BA%A6%E5%9B%9E%E8%90%BD%E4%B8%8B%E8%B7%8C",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时28分 ~ 17时08分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时08分"
-        },
-        {
-          "title": "机构观点：长期看涨金价逻辑未变",
-          "url": "https://www.toutiao.com/trending/7624522824048689206/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时28分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI首席执行官和首席财务官据称在IPO时机问题上意见分歧。（The Information）",
@@ -314,6 +285,17 @@
           "time_info": "[05时31分 ~ 07时33分]"
         },
         {
+          "title": "OpenAI发布文章 提出AI时代产业政策建议",
+          "url": "https://flash.jin10.com/detail/20260406183015530800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
+        },
+        {
           "title": "OpenAI首席执行官和首席财务官在上市时间上存在分歧。",
           "url": "https://flash.jin10.com/detail/20260406043433475800",
           "source": "金十数据",
@@ -324,6 +306,46 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 06时31分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金价再度回落下跌",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%86%8D%E5%BA%A6%E5%9B%9E%E8%90%BD%E4%B8%8B%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时28分 ~ 18时56分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时08分"
+        },
+        {
+          "title": "机构观点：长期看涨金价逻辑未变",
+          "url": "https://www.toutiao.com/trending/7624522824048689206/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         }
       ]
     },
@@ -393,8 +415,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时25分 ~ 17时08分]"
+          "appearance_count": 6,
+          "time_info": "[10时25分 ~ 18时56分]"
         }
       ]
     }
