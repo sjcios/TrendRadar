@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-07T22:05:15.180248+08:00",
-  "total_titles_processed": 1722,
+  "generated_at": "2026-04-07T23:07:29.823746+08:00",
+  "total_titles_processed": 1826,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时02分 ~ 22时05分]"
+          "appearance_count": 7,
+          "time_info": "[17时02分 ~ 23时07分]"
         },
         {
           "title": "法国央行卖出所有在美托管金条 黄金储备战略转移且实现三赢",
@@ -42,8 +42,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时02分 ~ 22时05分]"
+          "appearance_count": 7,
+          "time_info": "[17时02分 ~ 23时07分]"
         },
         {
           "title": "菲律宾央行：通胀前景面临日益加剧的风险，需保持持续警惕。",
@@ -57,28 +57,18 @@
           "time_info": "17时02分"
         },
         {
-          "title": "菲律宾央行：将在即将召开的货币政策会议上仔细考量所收到的数据，以评估是否需要采取行动来履行其维持物价稳定的职责。",
-          "url": "https://flash.jin10.com/detail/20260407165253485800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时02分"
-        },
-        {
           "title": "央行连续17个月增持黄金",
           "url": "https://www.douyin.com/hot/2458359",
           "source": "抖音",
           "ranks": [
             15,
             16,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时54分 ~ 22时05分]"
+          "appearance_count": 6,
+          "time_info": "[18时54分 ~ 23时07分]"
         },
         {
           "title": "多国央行开启战术性黄金抛售",
@@ -89,8 +79,19 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时54分 ~ 22时05分]"
+          "appearance_count": 6,
+          "time_info": "[18时54分 ~ 23时07分]"
+        },
+        {
+          "title": "菲律宾央行：将在即将召开的货币政策会议上仔细考量所收到的数据，以评估是否需要采取行动来履行其维持物价稳定的职责。",
+          "url": "https://flash.jin10.com/detail/20260407165253485800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
           "title": "一买一卖 法国央行在美国的黄金库存归零",
@@ -105,6 +106,18 @@
           "time_info": "[06时36分 ~ 07时35分]"
         },
         {
+          "title": "央行连续第 17 个月增持黄金，这背后有哪些考量？将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2024885012995093637",
+          "source": "知乎",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时04分 ~ 23时07分]"
+        },
+        {
           "title": "法国央行卖出所有在美托管金条",
           "url": "https://www.toutiao.com/trending/7625558557757456426/",
           "source": "今日头条",
@@ -115,17 +128,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时17分 ~ 17时02分]"
-        },
-        {
-          "title": "央行连续第 17 个月增持黄金，这背后有哪些考量？将带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2024885012995093637",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时04分 ~ 22时05分]"
         },
         {
           "title": "郭艾伦抖音独家直播辟谣",
@@ -167,7 +169,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -263,7 +265,7 @@
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "如何应对手机电脑涨价潮",
@@ -323,11 +325,24 @@
           "source": "抖音",
           "ranks": [
             10,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时54分 ~ 22时05分]"
+          "appearance_count": 6,
+          "time_info": "[18时54分 ~ 23时07分]"
+        },
+        {
+          "title": "男孩沉迷手机不吃饭 父亲拿棍管教",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E6%B2%89%E8%BF%B7%E6%89%8B%E6%9C%BA%E4%B8%8D%E5%90%83%E9%A5%AD+%E7%88%B6%E4%BA%B2%E6%8B%BF%E6%A3%8D%E7%AE%A1%E6%95%99",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时54分 ~ 23时07分]"
         },
         {
           "title": "男孩沉迷手机不吃饭 父亲拿棍管教",
@@ -342,26 +357,16 @@
           "time_info": "[15时17分 ~ 17时02分]"
         },
         {
-          "title": "男孩沉迷手机不吃饭 父亲拿棍管教",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E6%B2%89%E8%BF%B7%E6%89%8B%E6%9C%BA%E4%B8%8D%E5%90%83%E9%A5%AD+%E7%88%B6%E4%BA%B2%E6%8B%BF%E6%A3%8D%E7%AE%A1%E6%95%99",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时54分 ~ 22时05分]"
-        },
-        {
           "title": "iPhone三款新机机模出炉",
           "url": "https://s.weibo.com/weibo?q=%23iPhone%E4%B8%89%E6%AC%BE%E6%96%B0%E6%9C%BA%E6%9C%BA%E6%A8%A1%E5%87%BA%E7%82%89%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
           "ranks": [
-            14
+            14,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时04分 ~ 22时05分]"
+          "appearance_count": 3,
+          "time_info": "[22时04分 ~ 23时07分]"
         },
         {
           "title": "商品期货收盘，乙二醇主力合约涨停、涨幅10.99%，甲醇、塑料涨超8%，聚丙烯、塑料涨超7%，丙烯涨超6%，纯苯、BR橡胶涨超3%。多晶硅跌超4%，红枣、苹果跌超3%。",
@@ -417,6 +422,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
+        },
+        {
+          "title": "苹果(AAPL.O)跌4%，此前报道称苹果首款折叠屏iPhone工程测试受阻。",
+          "url": "https://flash.jin10.com/detail/20260407221544682800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
         },
         {
           "title": "卓兆点胶：公司今年已初步进入苹果的折叠屏产业链",
@@ -486,7 +502,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -519,7 +535,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -552,7 +568,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         }
@@ -628,7 +644,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         }
@@ -639,17 +655,6 @@
       "match_count": 5,
       "titles": [
         {
-          "title": "OpenAI：GPT5.4是处理复杂低级工程工作的最佳模型。在现有代码库中没有任何模型能与之媲美。",
-          "url": "https://flash.jin10.com/detail/20260407123739903800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时09分"
-        },
-        {
           "title": "曝ChatGPT6本月发布",
           "url": "https://search.bilibili.com/all?keyword=%E6%9B%9DGPT6%E6%9C%AC%E6%9C%88%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
@@ -659,8 +664,19 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时54分 ~ 22时05分]"
+          "appearance_count": 6,
+          "time_info": "[18时54分 ~ 23时07分]"
+        },
+        {
+          "title": "OpenAI：GPT5.4是处理复杂低级工程工作的最佳模型。在现有代码库中没有任何模型能与之媲美。",
+          "url": "https://flash.jin10.com/detail/20260407123739903800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时09分"
         },
         {
           "title": "报道：OpenAI计划最早今年四季度IPO",
@@ -711,8 +727,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时04分 ~ 22时05分]"
+          "appearance_count": 3,
+          "time_info": "[22时04分 ~ 23时07分]"
         },
         {
           "title": "金十图示：2026年04月07日（周二）上海金午盘价为1031.14元/克，较国际金价(1028.08元/克)，高3.06元/克",
