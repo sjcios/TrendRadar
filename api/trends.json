@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T17:02:19.459909+08:00",
-  "total_titles_processed": 1341,
+  "generated_at": "2026-04-07T18:54:47.333047+08:00",
+  "total_titles_processed": 1472,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "央行抛售黄金影响几何？",
@@ -26,18 +26,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时02分"
-        },
-        {
-          "title": "多国央行开始卖黄金了",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%9A%E5%9B%BD%E5%A4%AE%E8%A1%8C%E5%BC%80%E5%A7%8B%E5%8D%96%E9%BB%84%E9%87%91%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
@@ -48,9 +37,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
+        },
+        {
+          "title": "多国央行开始卖黄金了",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%9A%E5%9B%BD%E5%A4%AE%E8%A1%8C%E5%BC%80%E5%A7%8B%E5%8D%96%E9%BB%84%E9%87%91%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时02分 ~ 18时54分]"
         },
         {
           "title": "一买一卖 法国央行在美国的黄金库存归零",
@@ -81,11 +82,12 @@
           "url": "https://www.cls.cn/detail/2336273",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时02分 ~ 18时54分]"
         },
         {
           "title": "花旗：料印度央行或按兵不动 同时下调GDP预期",
@@ -105,9 +107,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
+        },
+        {
+          "title": "央行连续17个月增持黄金",
+          "url": "https://www.douyin.com/hot/2458359",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
+          "title": "多国央行开启战术性黄金抛售",
+          "url": "https://www.douyin.com/hot/2457701",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "博主：俄土两国央行抛售难定黄金涨跌",
@@ -160,7 +184,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         }
@@ -168,7 +192,7 @@
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "如何应对手机电脑涨价潮",
@@ -235,6 +259,17 @@
           "time_info": "[15时17分 ~ 17时02分]"
         },
         {
+          "title": "千禧年复古手机开箱",
+          "url": "https://www.douyin.com/hot/2458213",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
           "title": "商品期货收盘，乙二醇主力合约涨停、涨幅10.99%，甲醇、塑料涨超8%，聚丙烯、塑料涨超7%，丙烯涨超6%，纯苯、BR橡胶涨超3%。多晶硅跌超4%，红枣、苹果跌超3%。",
           "url": "https://wallstreetcn.com/livenews/3083216",
           "source": "华尔街见闻-快讯",
@@ -290,6 +325,17 @@
           "time_info": "10时13分"
         },
         {
+          "title": "男孩沉迷手机不吃饭 父亲拿棍管教",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E6%B2%89%E8%BF%B7%E6%89%8B%E6%9C%BA%E4%B8%8D%E5%90%83%E9%A5%AD+%E7%88%B6%E4%BA%B2%E6%8B%BF%E6%A3%8D%E7%AE%A1%E6%95%99",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
           "title": "卓兆点胶：公司今年已初步进入苹果的折叠屏产业链",
           "url": "https://flash.jin10.com/detail/20260407114622942800",
           "source": "金十数据",
@@ -321,6 +367,78 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "特斯拉(TSLA.O)股价下跌2.3%，此前摩根大通预计其2026年EPS（每股收益）前景疲软。",
+          "url": "https://flash.jin10.com/detail/20260407003113861800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时45分"
+        },
+        {
+          "title": "美股收盘：三大股指小幅收涨 特斯拉跌2%",
+          "url": "https://flash.jin10.com/detail/20260407040042993800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时37分"
+        },
+        {
+          "title": "奥迪登顶亚洲山脊赛道最速SUV",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%A5%E8%BF%AA%E7%99%BB%E9%A1%B6%E4%BA%9A%E6%B4%B2%E5%B1%B1%E8%84%8A%E8%B5%9B%E9%81%93%E6%9C%80%E9%80%9FSUV%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
+          "title": "马斯克：特斯拉(TSLA.O)的自动驾驶技术拯救了众多生命——相关数据无可争辩地证明了这一点。当然，这并不意味着它就是完美的。即使我们将安全性提升10倍，挽救了每年因车祸丧生的100万人中的90%，特斯拉仍会因那10%的遇难者而面临诉讼。而那90%幸存者中，大多数人甚至都不会知道是特斯拉救了他们。尽管如此，（自动驾驶技术）这是正确的事情。",
+          "url": "https://flash.jin10.com/detail/20260407024258088800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
+          "title": "云汉芯城：预计一季度净利润4,904.41万元–5,420.66万元，同比增长139.40%–164.60%；第一季度，人工智能算力、新能源汽车等领域需求旺盛，带动相关电子元器件需求持续增长。",
+          "url": "https://wallstreetcn.com/livenews/3083382",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
+          "title": "震安科技在互动平台表示，公司目前暂未与华为、比亚迪、大疆等企业开展深度合作。",
+          "url": "https://flash.jin10.com/detail/20260407115108801800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时09分"
         }
       ]
     },
@@ -391,7 +509,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI：GPT5.4是处理复杂低级工程工作的最佳模型。在现有代码库中没有任何模型能与之媲美。",
@@ -438,56 +556,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "特斯拉(TSLA.O)股价下跌2.3%，此前摩根大通预计其2026年EPS（每股收益）前景疲软。",
-          "url": "https://flash.jin10.com/detail/20260407003113861800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
         },
         {
-          "title": "美股收盘：三大股指小幅收涨 特斯拉跌2%",
-          "url": "https://flash.jin10.com/detail/20260407040042993800",
-          "source": "金十数据",
+          "title": "曝ChatGPT6本月发布",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9DGPT6%E6%9C%AC%E6%9C%88%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
           "ranks": [
-            13
+            19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时37分"
-        },
-        {
-          "title": "马斯克：特斯拉(TSLA.O)的自动驾驶技术拯救了众多生命——相关数据无可争辩地证明了这一点。当然，这并不意味着它就是完美的。即使我们将安全性提升10倍，挽救了每年因车祸丧生的100万人中的90%，特斯拉仍会因那10%的遇难者而面临诉讼。而那90%幸存者中，大多数人甚至都不会知道是特斯拉救了他们。尽管如此，（自动驾驶技术）这是正确的事情。",
-          "url": "https://flash.jin10.com/detail/20260407024258088800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时54分"
-        },
-        {
-          "title": "震安科技在互动平台表示，公司目前暂未与华为、比亚迪、大疆等企业开展深度合作。",
-          "url": "https://flash.jin10.com/detail/20260407115108801800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时09分"
+          "time_info": "18时54分"
         }
       ]
     },
@@ -505,6 +584,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "西部黄金：预计2026年第一季度净利润4.5亿元到5.6亿元，同比增加1161.38%到1469.71%；黄金产品销量较上年同期增加，销售价格较上年同期上升以及电解锰的销售价格较上年同期上升。",
+          "url": "https://wallstreetcn.com/livenews/3083414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         }
       ]
     }
