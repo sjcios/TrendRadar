@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T03:24:42.931680+08:00",
-  "total_titles_processed": 459,
+  "generated_at": "2026-04-08T04:46:17.952243+08:00",
+  "total_titles_processed": 538,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 03时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 04时46分]"
         },
         {
           "title": "手机自带系统杀毒功能，是不是摆设？",
@@ -75,7 +75,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
         }
@@ -92,11 +92,12 @@
           "ranks": [
             17,
             14,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 03时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 04时46分]"
         },
         {
           "title": "央行连续17个月增持黄金",
@@ -108,8 +109,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 03时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 04时46分]"
         },
         {
           "title": "多国央行开始卖黄金了",
@@ -119,8 +120,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 03时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 04时46分]"
         },
         {
           "title": "法国央行卖出所有在美托管金条 黄金储备战略转移且实现三赢",
@@ -149,8 +150,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 03时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 04时46分]"
         }
       ]
     },
@@ -167,8 +168,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 04时46分]"
         }
       ]
     }
