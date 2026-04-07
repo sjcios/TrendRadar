@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T18:54:47.333047+08:00",
-  "total_titles_processed": 1472,
+  "generated_at": "2026-04-07T19:54:18.862833+08:00",
+  "total_titles_processed": 1582,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "央行抛售黄金影响几何？",
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时45分 ~ 07时35分]"
+        },
+        {
+          "title": "多国央行开始卖黄金了",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%9A%E5%9B%BD%E5%A4%AE%E8%A1%8C%E5%BC%80%E5%A7%8B%E5%8D%96%E9%BB%84%E9%87%91%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时02分 ~ 19时54分]"
         },
         {
           "title": "菲律宾央行：通胀前景面临日益加剧的风险，需保持持续警惕。",
@@ -42,18 +54,6 @@
           "time_info": "17时02分"
         },
         {
-          "title": "多国央行开始卖黄金了",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%9A%E5%9B%BD%E5%A4%AE%E8%A1%8C%E5%BC%80%E5%A7%8B%E5%8D%96%E9%BB%84%E9%87%91%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时02分 ~ 18时54分]"
-        },
-        {
           "title": "一买一卖 法国央行在美国的黄金库存归零",
           "url": "https://flash.jin10.com/detail/20260407061117933800",
           "source": "金十数据",
@@ -66,6 +66,43 @@
           "time_info": "[06时36分 ~ 07时35分]"
         },
         {
+          "title": "法国央行卖出所有在美托管金条 黄金储备战略转移且实现三赢",
+          "url": "https://www.cls.cn/detail/2336273",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时02分 ~ 19时54分]"
+        },
+        {
+          "title": "央行连续17个月增持黄金",
+          "url": "https://www.douyin.com/hot/2458359",
+          "source": "抖音",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时54分 ~ 19时54分]"
+        },
+        {
+          "title": "多国央行开启战术性黄金抛售",
+          "url": "https://www.douyin.com/hot/2457701",
+          "source": "抖音",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时54分 ~ 19时54分]"
+        },
+        {
           "title": "法国央行卖出所有在美托管金条",
           "url": "https://www.toutiao.com/trending/7625558557757456426/",
           "source": "今日头条",
@@ -76,18 +113,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时17分 ~ 17时02分]"
-        },
-        {
-          "title": "法国央行卖出所有在美托管金条 黄金储备战略转移且实现三赢",
-          "url": "https://www.cls.cn/detail/2336273",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时02分 ~ 18时54分]"
         },
         {
           "title": "花旗：料印度央行或按兵不动 同时下调GDP预期",
@@ -112,26 +137,15 @@
           "time_info": "17时02分"
         },
         {
-          "title": "央行连续17个月增持黄金",
-          "url": "https://www.douyin.com/hot/2458359",
-          "source": "抖音",
+          "title": "英国央行副行长Lombardelli：需要更多关于家庭如何感受到通胀的信息。 所有行业都在提出使用动态定价的增长策略。",
+          "url": "https://wallstreetcn.com/livenews/3083434",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时54分"
-        },
-        {
-          "title": "多国央行开启战术性黄金抛售",
-          "url": "https://www.douyin.com/hot/2457701",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时54分"
+          "time_info": "19时54分"
         },
         {
           "title": "博主：俄土两国央行抛售难定黄金涨跌",
@@ -143,6 +157,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
+        },
+        {
+          "title": "菲律宾央行：通胀风险环境已显著转向上行。",
+          "url": "https://flash.jin10.com/detail/20260407192216620800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
+          "title": "菲律宾央行：剧烈且持续的油价冲击可能引发溢出效应，进而导致物价压力广泛加剧。",
+          "url": "https://flash.jin10.com/detail/20260407192213751800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
         },
         {
           "title": "中国央行公开市场今日净回笼3015亿元人民币",
@@ -263,11 +299,12 @@
           "url": "https://www.douyin.com/hot/2458213",
           "source": "抖音",
           "ranks": [
-            10
+            10,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时54分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时54分 ~ 19时54分]"
         },
         {
           "title": "商品期货收盘，乙二醇主力合约涨停、涨幅10.99%，甲醇、塑料涨超8%，聚丙烯、塑料涨超7%，丙烯涨超6%，纯苯、BR橡胶涨超3%。多晶硅跌超4%，红枣、苹果跌超3%。",
@@ -331,7 +368,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时54分"
         },
@@ -403,7 +440,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时54分"
         },
@@ -425,7 +462,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时54分"
         },
@@ -535,6 +572,18 @@
           "time_info": "[00时45分 ~ 01时44分]"
         },
         {
+          "title": "曝ChatGPT6本月发布",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9DGPT6%E6%9C%AC%E6%9C%88%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时54分 ~ 19时54分]"
+        },
+        {
           "title": "OpenAI敦促加州和特拉华州调查马斯克的“反竞争行为”。",
           "url": "https://flash.jin10.com/detail/20260407054852467800",
           "source": "金十数据",
@@ -556,17 +605,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "西部黄金：预计2026年第一季度净利润4.5亿元到5.6亿元，同比增加1161.38%到1469.71%；黄金产品销量较上年同期增加，销售价格较上年同期上升以及电解锰的销售价格较上年同期上升。",
+          "url": "https://wallstreetcn.com/livenews/3083414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时54分 ~ 19时54分]"
         },
         {
-          "title": "曝ChatGPT6本月发布",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9DGPT6%E6%9C%AC%E6%9C%88%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
+          "title": "山金国际：预计一季度净利润13.5亿元-14.4亿元，同比增长94.57%-107.54%，黄金和白银价格同比上涨。",
+          "url": "https://wallstreetcn.com/livenews/3083428",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时54分"
+          "time_info": "19时54分"
         }
       ]
     },
@@ -584,23 +651,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "西部黄金：预计2026年第一季度净利润4.5亿元到5.6亿元，同比增加1161.38%到1469.71%；黄金产品销量较上年同期增加，销售价格较上年同期上升以及电解锰的销售价格较上年同期上升。",
-          "url": "https://wallstreetcn.com/livenews/3083414",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时54分"
         }
       ]
     }
