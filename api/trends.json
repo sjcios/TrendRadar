@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T06:37:51.183659+08:00",
-  "total_titles_processed": 653,
+  "generated_at": "2026-04-08T07:37:07.270238+08:00",
+  "total_titles_processed": 746,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             9,
             10,
             7,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时58分 ~ 06时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 07时37分]"
         },
         {
           "title": "手机自带系统杀毒功能，是不是摆设？",
@@ -31,8 +32,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 05时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 07时37分]"
         },
         {
           "title": "iPhone三款新机机模出炉",
@@ -95,11 +96,12 @@
             14,
             15,
             13,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时58分 ~ 06时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 07时37分]"
         },
         {
           "title": "央行连续17个月增持黄金",
@@ -109,11 +111,12 @@
             15,
             16,
             17,
-            24
+            24,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时58分 ~ 06时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 07时37分]"
         },
         {
           "title": "多国央行开始卖黄金了",
@@ -150,11 +153,12 @@
           "ranks": [
             25,
             30,
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 06时37分]"
+          "appearance_count": 8,
+          "time_info": "[00时58分 ~ 07时37分]"
         },
         {
           "title": "金价短期承压下行，机构看好长期配置价值",
@@ -163,7 +167,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
         }
@@ -184,8 +188,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时58分 ~ 06时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 07时37分]"
         }
       ]
     },
@@ -200,7 +204,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
         }
