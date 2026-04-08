@@ -1,456 +1,33 @@
 {
-  "generated_at": "2026-04-08T23:10:14.687148+08:00",
-  "total_titles_processed": 1888,
+  "generated_at": "2026-04-09T01:01:57.417844+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "央行 抖音 小红书",
-      "match_count": 35,
-      "titles": [
-        {
-          "title": "多国央行开启战术性黄金抛售",
-          "url": "https://www.douyin.com/hot/2457701",
-          "source": "抖音",
-          "ranks": [
-            17,
-            14,
-            15,
-            13,
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时58分 ~ 07时37分]"
-        },
-        {
-          "title": "央行连续17个月增持黄金",
-          "url": "https://www.douyin.com/hot/2458359",
-          "source": "抖音",
-          "ranks": [
-            15,
-            16,
-            17,
-            24,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时58分 ~ 07时37分]"
-        },
-        {
-          "title": "多国央行开始卖黄金了",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%9A%E5%9B%BD%E5%A4%AE%E8%A1%8C%E5%BC%80%E5%A7%8B%E5%8D%96%E9%BB%84%E9%87%91%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时58分 ~ 06时37分]"
-        },
-        {
-          "title": "印度央行行长：预计今年CPI通胀率为4.6%。",
-          "url": "https://flash.jin10.com/detail/20260408130230110800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时11分"
-        },
-        {
-          "title": "冰湖重生抖音追剧团",
-          "url": "https://www.douyin.com/hot/2459785",
-          "source": "抖音",
-          "ranks": [
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时18分 ~ 23时10分]"
-        },
-        {
-          "title": "张雪IP爆红：三天抖音涨粉133万",
-          "url": "https://www.toutiao.com/trending/7626329090357726756/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时55分 ~ 21时19分]"
-        },
-        {
-          "title": "印度央行行长：汇率将继续由市场决定，不要设定汇率目标水平。将继续控制破坏性波动。",
-          "url": "https://flash.jin10.com/detail/20260408125048624800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时11分"
-        },
-        {
-          "title": "印度央行行长：尽管宏观基本面更强劲，但印度卢比在过去几年的贬值幅度高于平均水平。",
-          "url": "https://flash.jin10.com/detail/20260408124935284800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时11分"
-        },
-        {
-          "title": "印度央行行长：截至4月3日，印度外汇储备为6971亿美元。",
-          "url": "https://flash.jin10.com/detail/20260408124928011800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时11分"
-        },
-        {
-          "title": "法国央行卖出所有在美托管金条 黄金储备战略转移且实现三赢",
-          "url": "https://www.cls.cn/detail/2336273",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
-        },
-        {
-          "title": "印度央行行长：印度2027财年全年CPI通胀预期为4.6%，2027财年核心CPI预测值为4.4%。 2027财年第一季度CPI通胀预期维持在4%不变。 2027财年第二季度CPI通胀预期为4.4%，此前预期为4.2%。 2027财年第三季度CPI通胀预期为5.2%。 2027财年第四季度CPI通胀预期为4.7%。",
-          "url": "https://wallstreetcn.com/livenews/3083984",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时11分"
-        },
-        {
-          "title": "印度至4月8日央行存款准备金率 3%，预期3%，前值3%。",
-          "url": "https://flash.jin10.com/detail/20260408124649282800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时11分"
-        },
-        {
-          "title": "印度央行行长：印度2027财年全年实际GDP增速预期为6.9%。 2027财年第一季度实际GDP增速预期维持在6.8%不变。 2027财年第二季度实际GDP增速预期为6.7%，此前预期为7%。 2027财年第三季度实际GDP增速预期为7%。 2027财年第四季度实际GDP增速预期为7.2%。",
-          "url": "https://wallstreetcn.com/livenews/3083981",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时11分"
-        },
-        {
-          "title": "印度至4月8日央行逆回购利率 3.35%，前值3.35%。",
-          "url": "https://flash.jin10.com/detail/20260408124628415800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时11分"
-        },
-        {
-          "title": "欧洲央行管委SIMKUS：形势正朝欧洲央行较不利的情景发展。",
-          "url": "https://wallstreetcn.com/livenews/3084183",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时02分"
-        },
-        {
-          "title": "财政部副部长廖岷出席东盟与中日韩财政和央行副手视频会议",
-          "url": "https://wallstreetcn.com/livenews/3084208",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时15分"
-        },
-        {
-          "title": "印度央行行长：霍尔木兹海峡局势导致能源和大宗商品价格上涨，很可能影响今年的经济增长。",
-          "url": "https://flash.jin10.com/detail/20260408123930357800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时11分"
-        },
-        {
-          "title": "印度央行行长：将密切关注市场走势，并适时调整外汇管理措施。",
-          "url": "https://flash.jin10.com/detail/20260408150258285800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
-          "title": "印度央行行长：通胀前景的上行风险已有所增加，核心通胀压力依然温和。 中东冲突可能会阻碍经济增长。政府已采取多项措施保护出口和供应链，这应当会减轻冲突带来的不利影响。 印度经济的基本面更加稳固，具备抵御冲击的韧性。 央行保持警惕，正在评估风险的平衡。 高企的原油价格可能会推高通胀并扩大经常账户赤字。 不确定性加剧、避险情绪以及避险需求的增加可能会影响经济活动。 全球金融市场的负面溢出效应可能会推高借贷成本。 初步的供应冲击在中期内可能会转化为需求冲击。 受霍尔木兹海峡局势影响而高企的能源与大宗商品价格，可能会冲击今年的经济增长。",
-          "url": "https://wallstreetcn.com/livenews/3083977",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时11分"
-        },
-        {
-          "title": "印度央行行长：能源和大宗商品价格高企及供应冲击很可能影响2027财年的经济增长。",
-          "url": "https://flash.jin10.com/detail/20260408123926783800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时11分"
-        },
-        {
-          "title": "印度央行维持基准回购利率在5.25%不变，符合预期，投票比例为6-6。",
-          "url": "https://wallstreetcn.com/livenews/3083976",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时11分"
-        },
-        {
-          "title": "印度央行行长：原油价格走高可能推升通胀、扩大经常账户赤字。",
-          "url": "https://flash.jin10.com/detail/20260408123726090800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时11分"
-        },
-        {
-          "title": "印度央行回购利率 5.25%，预期 5.25%，前值 5.25%。",
-          "url": "https://wallstreetcn.com/livenews/3083975",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时11分"
-        },
-        {
-          "title": "印度央行行长：西亚冲突的激烈程度、持续时间和由此造成的能源基础设施破坏，增加了通胀和经济增长前景的风险。",
-          "url": "https://flash.jin10.com/detail/20260408123612290800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时11分"
-        },
-        {
-          "title": "印度央行行长：由于能源价格上涨和天气扰乱，通胀前景的上行风险加剧。",
-          "url": "https://flash.jin10.com/detail/20260408123432267800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时11分"
-        },
-        {
-          "title": "印度央行行长：货币政策委员会维持政策立场“中性”。",
-          "url": "https://flash.jin10.com/detail/20260408123338563800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时11分"
-        },
-        {
-          "title": "印度央行维持利率不变，符合市场预期，投票比例为6-6。",
-          "url": "https://flash.jin10.com/detail/20260408123330183800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时11分"
-        },
-        {
-          "title": "印度至4月8日央行利率决定 5.25%，预期5.25%，前值5.25%。",
-          "url": "https://flash.jin10.com/detail/20260408123308709800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时11分"
-        },
-        {
-          "title": "央行又成功抄底黄金？它比我们多知道什么",
-          "url": "https://flash.jin10.com/detail/20260408192132963800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时55分"
-        },
-        {
-          "title": "印度央行行长：近期对外汇市场的限制不会“永远”持续。",
-          "url": "https://wallstreetcn.com/livenews/3084078",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
-          "title": "越南议会任命职业银行家Pham Duc An为新央行行长。",
-          "url": "https://flash.jin10.com/detail/20260408123211670800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时11分"
-        },
-        {
-          "title": "中国央行公开市场开展5亿元7天期逆回购操作，操作利率持平于1.40%，今日5亿元逆回购到期。",
-          "url": "https://wallstreetcn.com/livenews/3083852",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        },
-        {
-          "title": "印度央行行长：全球经济增长面临下行风险。",
-          "url": "https://flash.jin10.com/detail/20260408123143814800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时11分"
-        },
-        {
-          "title": "印尼央行加大力度稳定印尼盾 外汇储备降至近两年低位",
-          "url": "https://flash.jin10.com/detail/20260408123128074800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时11分"
-        },
-        {
-          "title": "印度央行副行长：投机活动导致市场上的美元供应被人为抽干。",
-          "url": "https://flash.jin10.com/detail/20260408145929609800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        }
-      ]
-    },
-    {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 10,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "千禧年复古手机开箱",
-          "url": "https://www.douyin.com/hot/2458213",
-          "source": "抖音",
-          "ranks": [
-            9,
-            10,
-            7,
-            8,
-            12,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时58分 ~ 15时18分]"
-        },
         {
           "title": "禁用社交平台与不买智能手机，澳大利亚与爱尔兰的两种童年路径",
           "url": "https://m.thepaper.cn/newsDetail_forward_32916576",
           "source": "澎湃新闻",
           "ranks": [
-            13,
-            12,
-            10,
-            6
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时11分 ~ 23时10分]"
+          "appearance_count": 1,
+          "time_info": "01时01分"
         },
         {
           "title": "12岁男孩一招“修好”妈妈坏屏手机",
           "url": "https://www.toutiao.com/trending/7626027935748833322/",
           "source": "今日头条",
           "ranks": [
-            8,
-            7,
-            13
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时00分 ~ 23时10分]"
+          "appearance_count": 1,
+          "time_info": "01时01分"
         },
         {
           "title": "尴尬！万斯演讲现场给特朗普打电话，手机那头传来：对不起…",
@@ -460,161 +37,54 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时00分 ~ 23时10分]"
-        },
-        {
-          "title": "手机自带系统杀毒功能，是不是摆设？",
-          "url": "https://www.zhihu.com/question/660955841",
-          "source": "知乎",
-          "ranks": [
-            18,
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 07时37分]"
-        },
-        {
-          "title": "iPhone三款新机机模出炉",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone%E4%B8%89%E6%AC%BE%E6%96%B0%E6%9C%BA%E6%9C%BA%E6%A8%A1%E5%87%BA%E7%82%89%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30,
-            25,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 03时24分]"
-        },
-        {
-          "title": "女子吃两月前买的苹果后便血8次",
-          "url": "https://www.toutiao.com/trending/7626301625477726235/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时09分 ~ 23时10分]"
-        },
-        {
-          "title": "苹果公司折叠屏iPhone仍然处于9月首发的正轨上。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3083643",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时01分"
-        },
-        {
-          "title": "市场消息：苹果(AAPL.O)可折叠iPhone据悉仍将按计划于9月首次亮相。",
-          "url": "https://flash.jin10.com/detail/20260408010256637800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时01分"
-        },
-        {
-          "title": "Anthropic正创建一个名为Project Glasswing的倡议，允许苹果、亚马逊测试更加强大的AI模型Mythos。",
-          "url": "https://wallstreetcn.com/livenews/3083664",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
+          "time_info": "01时01分"
         }
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 6,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
       "titles": [
         {
-          "title": "报复性反弹！美伊“停火两周”，美股盘前存储芯片股普涨，金价重上4830关口，油价创近六年最大跌幅",
-          "url": "https://wallstreetcn.com/articles/3769443",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时00分 ~ 19时55分]"
-        },
-        {
-          "title": "央行抛售引发金价地震",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A1%8C%E6%8A%9B%E5%94%AE%E5%BC%95%E5%8F%91%E9%87%91%E4%BB%B7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25,
-            30,
-            22,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时58分 ~ 07时37分]"
-        },
-        {
-          "title": "油价暴跌 金价反弹",
-          "url": "https://www.baidu.com/s?wd=%E6%B2%B9%E4%BB%B7%E6%9A%B4%E8%B7%8C+%E9%87%91%E4%BB%B7%E5%8F%8D%E5%BC%B9",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时13分 ~ 10时14分]"
-        },
-        {
-          "title": "报复性反弹！美伊“停火两周”，全球股市急涨，金价重上4830关口，油价创近六年最大跌幅",
-          "url": "https://wallstreetcn.com/articles/3769443",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
-          "title": "金价短期承压下行，机构看好长期配置价值",
-          "url": "https://wallstreetcn.com/livenews/3083746",
+          "title": "Meta发布新AI模型，力图追赶谷歌和OpenAI",
+          "url": "https://wallstreetcn.com/livenews/3084479",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时37分"
+          "time_info": "01时01分"
         },
         {
-          "title": "报复性反弹！美伊“停火两周”，日股暴涨5%，韩股期货熔断，金价重上4800关口，油价重挫15%",
-          "url": "https://wallstreetcn.com/articles/3769443",
-          "source": "华尔街见闻",
+          "title": "谷歌云：推出GKE云存储FUSE配置文件，旨在自动化性能调优，加速AI/ML工作负载的数据访问。",
+          "url": "https://flash.jin10.com/detail/20260409004336024800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时11分"
+          "time_info": "01时01分"
         }
       ]
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "比亚迪拟在加拿大设20家经销网点，推进全球扩张",
+          "url": "https://wallstreetcn.com/livenews/3084486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
+        },
         {
           "title": "油价再调整,新能源车主赢麻",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352965&amp;topic_name=%E6%B2%B9%E4%BB%B7%E5%86%8D%E8%B0%83%E6%95%B4%2C%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E4%B8%BB%E8%B5%A2%E9%BA%BB",
@@ -623,124 +93,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时09分 ~ 23时10分]"
-        },
-        {
-          "title": "吉利销量连续两个月超越比亚迪",
-          "url": "https://www.toutiao.com/trending/7626325823544364586/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时09分 ~ 23时10分]"
-        },
-        {
-          "title": "思格新能源申请香港IPO。 寻求发行1360万股股票，发行价每股324.20港元。 预计股票将从4月16日开始交易。",
-          "url": "https://wallstreetcn.com/livenews/3083745",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时37分"
-        },
-        {
-          "title": "乘联分会：4月1-6日，全国乘用车市场新能源零售8.6万辆，同比去年4月同期下降24%",
-          "url": "https://flash.jin10.com/detail/20260408164238033800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时02分"
-        },
-        {
-          "title": "国家能源局：电网企业要加大电网投资、优化调度管理，持续提升新能源消纳能力",
-          "url": "https://flash.jin10.com/detail/20260408163725532800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "DeepSeek 更新「快速模式」和「专家模式」，二者有何区别？这是否意味着 V4 快来了？",
-          "url": "https://www.zhihu.com/question/2024876426596291384",
-          "source": "知乎",
-          "ranks": [
-            10,
-            7,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时13分 ~ 19时55分]"
-        },
-        {
-          "title": "DeepSeek更新专家模式",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%9B%B4%E6%96%B0%E4%B8%93%E5%AE%B6%E6%A8%A1%E5%BC%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时11分 ~ 15时18分]"
-        },
-        {
-          "title": "DeepSeek重要更新：上线专家模式",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E9%87%8D%E8%A6%81%E6%9B%B4%E6%96%B0%EF%BC%9A%E4%B8%8A%E7%BA%BF%E4%B8%93%E5%AE%B6%E6%A8%A1%E5%BC%8F",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时11分 ~ 15时18分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "英雄联盟 LOL",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "英雄联盟16.8有何改动",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F16.8%E6%9C%89%E4%BD%95%E6%94%B9%E5%8A%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时00分 ~ 19时55分]"
-        },
-        {
-          "title": "《英雄联盟》的唯 S 赛冠军论合理吗？",
-          "url": "https://www.zhihu.com/question/393390098",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时15分"
+          "time_info": "01时01分"
         }
       ]
     },
@@ -753,19 +107,28 @@
           "url": "https://search.bilibili.com/all?keyword=%E6%9B%9DGPT6%E6%9C%AC%E6%9C%88%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
           "ranks": [
-            18,
-            17,
-            15,
-            14,
-            19,
-            16,
-            26,
-            22,
-            20
+            22
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时58分 ~ 23时10分]"
+          "appearance_count": 1,
+          "time_info": "01时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "央行 抖音 小红书",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "冰湖重生抖音追剧团",
+          "url": "https://www.douyin.com/hot/2459785",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
         }
       ]
     }
