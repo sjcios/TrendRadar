@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-09T07:38:00.662197+08:00",
-  "total_titles_processed": 700,
+  "generated_at": "2026-04-09T10:07:25.769974+08:00",
+  "total_titles_processed": 882,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "冰湖重生抖音追剧团",
@@ -20,8 +20,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 07时38分]"
+          "appearance_count": 11,
+          "time_info": "[01时01分 ~ 10时07分]"
         },
         {
           "title": "美国考虑解除对委内瑞拉央行的制裁",
@@ -48,6 +48,17 @@
           "time_info": "[06时38分 ~ 07时38分]"
         },
         {
+          "title": "小红书电商：每天3900万用户有明确商品求购行为，产生1.4亿人次主动求购",
+          "url": "https://wallstreetcn.com/livenews/3084696",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
           "title": "市场消息：美国考虑取消针对委内瑞拉央行的制裁，从而释放石油供应。",
           "url": "https://flash.jin10.com/detail/20260409055813237800",
           "source": "金十数据",
@@ -57,6 +68,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时38分"
+        },
+        {
+          "title": "中国央行公开市场开展5亿元7天期逆回购操作，操作利率持平于1.40%，今日5亿元逆回购到期。",
+          "url": "https://wallstreetcn.com/livenews/3084679",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
         },
         {
           "title": "前日本央行官员：日本央行很可能在4月提高利率",
@@ -90,12 +112,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时38分"
+        },
+        {
+          "title": "中国央行逆回购操作当日实现零投放零回笼",
+          "url": "https://flash.jin10.com/detail/20260409092212971800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "中国央行：今日开展5亿元7天逆回购操作，投标量5亿元，中标量5亿元，操作利率为1.40%，与此前持平。",
+          "url": "https://flash.jin10.com/detail/20260409092153961800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
         }
       ]
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "禁用社交平台与不买智能手机，澳大利亚与爱尔兰的两种童年路径",
@@ -115,11 +159,12 @@
           "url": "https://www.toutiao.com/trending/7626027935748833322/",
           "source": "今日头条",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 07时38分]"
+          "appearance_count": 11,
+          "time_info": "[01时01分 ~ 10时07分]"
         },
         {
           "title": "尴尬！万斯演讲现场给特朗普打电话，手机那头传来：对不起…",
@@ -129,8 +174,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 07时38分]"
+          "appearance_count": 11,
+          "time_info": "[01时01分 ~ 10时07分]"
         },
         {
           "title": "女子吃两月前买的苹果后便血8次",
@@ -146,12 +191,23 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[02时14分 ~ 07时38分]"
+        },
+        {
+          "title": "中专生带手机入校被罚回家待到毕业",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%B8%93%E7%94%9F%E5%B8%A6%E6%89%8B%E6%9C%BA%E5%85%A5%E6%A0%A1%E8%A2%AB%E7%BD%9A%E5%9B%9E%E5%AE%B6%E5%BE%85%E5%88%B0%E6%AF%95%E4%B8%9A",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
         }
       ]
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "油价再调整,新能源车主赢麻",
@@ -161,8 +217,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 07时38分]"
+          "appearance_count": 11,
+          "time_info": "[01时01分 ~ 10时07分]"
         },
         {
           "title": "吉利销量连续两个月超越比亚迪",
@@ -200,6 +256,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时53分 ~ 05时41分]"
+        },
+        {
+          "title": "比亚迪与肯德基达成合作",
+          "url": "https://flash.jin10.com/detail/20260409092934860800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
         }
       ]
     },
