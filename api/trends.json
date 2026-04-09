@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T06:40:18.459871+08:00",
-  "total_titles_processed": 587,
+  "generated_at": "2026-04-10T07:37:46.128814+08:00",
+  "total_titles_processed": 656,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "OpenAI声称其算力比Anthropic更有优势",
@@ -53,6 +53,17 @@
           "time_info": "05时44分"
         },
         {
+          "title": "美国佛罗里达州总检察长对OpenAI发起调查。",
+          "url": "https://flash.jin10.com/detail/20260410061119660800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
+        },
+        {
           "title": "美国佛州总检察长就涉ChatGPT枪击事件调查OpenAI",
           "url": "https://wallstreetcn.com/livenews/3085328",
           "source": "华尔街见闻-快讯",
@@ -66,47 +77,8 @@
       ]
     },
     {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "燃油成本敏感地区需求提升，新能源汽车出海迎来新增量",
-          "url": "https://wallstreetcn.com/livenews/3085367",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时40分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收跌1.3%。 热门中概股里，蔚来初步收跌4.8%，百度跌4.6%，晶科能源跌3.9%，比亚迪跌3.4%，小马智行跌3.3%，拼多多跌3%，金山云涨1.5%，阿里巴巴涨1.8%。 ETF中，KWEB跌1.1%，CQQQ跌0.9%。",
-          "url": "https://wallstreetcn.com/livenews/3085315",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时51分"
-        },
-        {
-          "title": "梅赛德斯-奔驰美国公司报告2026年第一季度零售销量为78,500辆。",
-          "url": "https://flash.jin10.com/detail/20260410040101894800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时51分"
-        }
-      ]
-    },
-    {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "抖音第0届拼豆大赛",
@@ -117,8 +89,30 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 06时40分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 07时37分]"
+        },
+        {
+          "title": "秘鲁央行将参考利率维持在4.25%不变。",
+          "url": "https://wallstreetcn.com/livenews/3085381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
+        },
+        {
+          "title": "秘鲁央行维持参考利率在4.25%不变。",
+          "url": "https://flash.jin10.com/detail/20260410070406934800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
         },
         {
           "title": "美国至4月13日当周外国央行持有美国国债 -388.14亿美元，前值377.91亿美元。",
@@ -138,6 +132,46 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "燃油成本敏感地区需求提升，新能源汽车出海迎来新增量",
+          "url": "https://wallstreetcn.com/livenews/3085367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时40分 ~ 07时37分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收跌1.3%。 热门中概股里，蔚来初步收跌4.8%，百度跌4.6%，晶科能源跌3.9%，比亚迪跌3.4%，小马智行跌3.3%，拼多多跌3%，金山云涨1.5%，阿里巴巴涨1.8%。 ETF中，KWEB跌1.1%，CQQQ跌0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3085315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "梅赛德斯-奔驰美国公司报告2026年第一季度零售销量为78,500辆。",
+          "url": "https://flash.jin10.com/detail/20260410040101894800",
+          "source": "金十数据",
+          "ranks": [
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -175,11 +209,12 @@
             9,
             7,
             26,
-            6
+            6,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 06时40分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 07时37分]"
         }
       ]
     }
