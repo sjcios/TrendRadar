@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-09T15:21:23.070242+08:00",
-  "total_titles_processed": 1186,
+  "generated_at": "2026-04-09T17:06:51.010690+08:00",
+  "total_titles_processed": 1329,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "冰湖重生抖音追剧团",
@@ -18,11 +18,12 @@
             14,
             15,
             25,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时01分 ~ 15时21分]"
+          "appearance_count": 14,
+          "time_info": "[01时01分 ~ 17时06分]"
         },
         {
           "title": "日本央行行长植田和男：短期和中期利率明显为负。",
@@ -137,6 +138,17 @@
           "time_info": "06时38分"
         },
         {
+          "title": "英国央行：贷款机构预计第二季度抵押贷款需求将增加。",
+          "url": "https://flash.jin10.com/detail/20260409163046292800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        },
+        {
           "title": "日本央行前官员：日本央行可能在4月份加息",
           "url": "https://flash.jin10.com/detail/20260409053445582800",
           "source": "金十数据",
@@ -187,9 +199,110 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "油价再调整,新能源车主赢麻",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352965&amp;topic_name=%E6%B2%B9%E4%BB%B7%E5%86%8D%E8%B0%83%E6%95%B4%2C%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E4%B8%BB%E8%B5%A2%E9%BA%BB",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            14,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[01时01分 ~ 17时06分]"
+        },
+        {
+          "title": "吉利销量连续两个月超越比亚迪",
+          "url": "https://www.toutiao.com/trending/7626325823544364586/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            10,
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时58分 ~ 07时38分]"
+        },
+        {
+          "title": "比亚迪拟在加拿大设20家经销网点，推进全球扩张",
+          "url": "https://wallstreetcn.com/livenews/3084486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
+        },
+        {
+          "title": "周三（4月8日），彭博电动汽车价格回报指数涨3.79%，报3742.59点，亚太盘初以来持续走高，北京时间21:30美股开盘时跳空至3762.34点刷新日高，随后持续高位窄幅震荡。 成分股中，小马智行涨10.2%，MP材料涨9.4%，淡水河谷印尼公司收涨8.30%，地平线H股收涨8.30%，阿内卡矿业股份收涨7.78%，禾赛科技涨7.5%，沃尔沃汽车集团欧股收涨7.5%，四只成分股收跌，L&F有限公司韩国股价收跌0.49%，LG新能源收跌0.61%，特斯拉跌超1%，雅迪集团控股H股收跌4.52%。",
+          "url": "https://wallstreetcn.com/livenews/3084561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时41分]"
+        },
+        {
+          "title": "比亚迪与肯德基达成合作",
+          "url": "https://flash.jin10.com/detail/20260409092934860800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "乘联分会：3月新能源乘用车出口34.9万辆，同比增长139.9%",
+          "url": "https://wallstreetcn.com/livenews/3084930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        },
+        {
+          "title": "港股收盘：恒生指数收跌0.54%，恒生科技指数收跌2.06%。新能源汽车股下挫，小鹏跌超5%，比亚迪股份跌超4%。科网股走低，快手跌逾3%。",
+          "url": "https://wallstreetcn.com/livenews/3084924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        },
+        {
+          "title": "乘联分会：3月全国新能源乘用车零售销量同比下降14.4%",
+          "url": "https://wallstreetcn.com/livenews/3084919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
         }
       ]
     },
@@ -267,76 +380,9 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "油价再调整,新能源车主赢麻",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352965&amp;topic_name=%E6%B2%B9%E4%BB%B7%E5%86%8D%E8%B0%83%E6%95%B4%2C%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E4%B8%BB%E8%B5%A2%E9%BA%BB",
-          "source": "贴吧",
-          "ranks": [
-            12,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时01分 ~ 15时21分]"
-        },
-        {
-          "title": "吉利销量连续两个月超越比亚迪",
-          "url": "https://www.toutiao.com/trending/7626325823544364586/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            10,
-            19,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时58分 ~ 07时38分]"
-        },
-        {
-          "title": "比亚迪拟在加拿大设20家经销网点，推进全球扩张",
-          "url": "https://wallstreetcn.com/livenews/3084486",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
-        },
-        {
-          "title": "周三（4月8日），彭博电动汽车价格回报指数涨3.79%，报3742.59点，亚太盘初以来持续走高，北京时间21:30美股开盘时跳空至3762.34点刷新日高，随后持续高位窄幅震荡。 成分股中，小马智行涨10.2%，MP材料涨9.4%，淡水河谷印尼公司收涨8.30%，地平线H股收涨8.30%，阿内卡矿业股份收涨7.78%，禾赛科技涨7.5%，沃尔沃汽车集团欧股收涨7.5%，四只成分股收跌，L&F有限公司韩国股价收跌0.49%，LG新能源收跌0.61%，特斯拉跌超1%，雅迪集团控股H股收跌4.52%。",
-          "url": "https://wallstreetcn.com/livenews/3084561",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时53分 ~ 05时41分]"
-        },
-        {
-          "title": "比亚迪与肯德基达成合作",
-          "url": "https://flash.jin10.com/detail/20260409092934860800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
         }
       ]
     },
@@ -384,6 +430,45 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金十图示：2026年04月09日（周四）上海金午盘价为1038.52元/克，较国际金价(1035.1元/克)，高3.42元/克",
+          "url": "https://flash.jin10.com/detail/20260409150245696800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
+          "title": "土耳其财政部长：外汇储备减少的四分之一归因于金价下跌。",
+          "url": "https://flash.jin10.com/detail/20260409162959948800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        },
+        {
+          "title": "金价走势“先涨后疑”，市场又在重算什么？",
+          "url": "https://flash.jin10.com/detail/20260409115543509800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -408,34 +493,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金十图示：2026年04月09日（周四）上海金午盘价为1038.52元/克，较国际金价(1035.1元/克)，高3.42元/克",
-          "url": "https://flash.jin10.com/detail/20260409150245696800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时21分"
-        },
-        {
-          "title": "金价走势“先涨后疑”，市场又在重算什么？",
-          "url": "https://flash.jin10.com/detail/20260409115543509800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时09分"
         }
       ]
     }
