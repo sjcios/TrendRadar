@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-09T19:10:44.329032+08:00",
-  "total_titles_processed": 1478,
+  "generated_at": "2026-04-09T19:58:09.867737+08:00",
+  "total_titles_processed": 1579,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "冰湖重生抖音追剧团",
@@ -19,11 +19,12 @@
             15,
             25,
             19,
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时01分 ~ 17时06分]"
+          "appearance_count": 16,
+          "time_info": "[01时01分 ~ 19时58分]"
         },
         {
           "title": "日本央行行长植田和男：短期和中期利率明显为负。",
@@ -48,17 +49,6 @@
           "time_info": "13时09分"
         },
         {
-          "title": "中国人民银行副行长宣昌能出席东盟与中日韩财政和央行副手会",
-          "url": "https://wallstreetcn.com/livenews/3085031",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时10分"
-        },
-        {
           "title": "美国考虑解除对委内瑞拉央行的制裁",
           "url": "https://flash.jin10.com/detail/20260409060747676800",
           "source": "金十数据",
@@ -71,6 +61,29 @@
           "time_info": "[06时38分 ~ 07时38分]"
         },
         {
+          "title": "中国人民银行副行长宣昌能出席东盟与中日韩财政和央行副手会",
+          "url": "https://wallstreetcn.com/livenews/3085031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时10分 ~ 19时58分]"
+        },
+        {
+          "title": "抖音第0届拼豆大赛",
+          "url": "https://www.douyin.com/hot/2460553",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时57分 ~ 19时58分]"
+        },
+        {
           "title": "美国考虑取消针对委内瑞拉央行的制裁，从而解锁石油供应。",
           "url": "https://wallstreetcn.com/livenews/3084600",
           "source": "华尔街见闻-快讯",
@@ -81,6 +94,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时38分 ~ 07时38分]"
+        },
+        {
+          "title": "国际现货黄金的暴涨契机仍需等待，央行何时放弃鹰派立场？| Live分析更新中",
+          "url": "https://flash.jin10.com/detail/20260409193847413800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
         },
         {
           "title": "小红书电商：每天3900万用户有明确商品求购行为，产生1.4亿人次主动求购",
@@ -144,7 +168,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时10分"
         },
@@ -210,7 +234,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时10分"
         },
@@ -300,7 +324,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时10分"
         },
@@ -355,7 +379,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时10分"
         }
@@ -424,20 +448,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时10分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时10分 ~ 19时58分]"
         },
         {
           "title": "中专生带手机入校被罚回家待到毕业",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%B8%93%E7%94%9F%E5%B8%A6%E6%89%8B%E6%9C%BA%E5%85%A5%E6%A0%A1%E8%A2%AB%E7%BD%9A%E5%9B%9E%E5%AE%B6%E5%BE%85%E5%88%B0%E6%AF%95%E4%B8%9A",
           "source": "百度热搜",
           "ranks": [
-            10
+            10,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
+          "appearance_count": 3,
+          "time_info": "[10时07分 ~ 19时58分]"
         },
         {
           "title": "用了很久的苹果手机才发现的功能",
