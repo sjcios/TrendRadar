@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T00:04:53.491445+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-11T00:51:13.911990+08:00",
+  "total_titles_processed": 368,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32942514",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 00时51分]"
         },
         {
           "title": "辽阳弓长岭区通报“填埋奔驰S450L陪葬”事件：违法违规，严肃处理",
@@ -26,8 +27,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 00时51分]"
         }
       ]
     },
@@ -40,11 +41,12 @@
           "url": "https://www.baidu.com/s?wd=1%E5%90%A8%E6%97%A7%E6%89%8B%E6%9C%BA%E8%83%BD%E6%8F%90%E7%82%BC200%E5%85%8B%E9%BB%84%E9%87%91%EF%BC%9F%E4%B8%93%E5%AE%B6%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
           "ranks": [
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 00时51分]"
         }
       ]
     }
