@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T18:33:15.950585+08:00",
-  "total_titles_processed": 1273,
+  "generated_at": "2026-04-11T19:29:43.113972+08:00",
+  "total_titles_processed": 1336,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "一车牌号带8888的奔驰车疑被当陪葬品，辽宁辽阳官方通报",
@@ -26,6 +26,18 @@
           "time_info": "[00时04分 ~ 17时39分]"
         },
         {
+          "title": "比亚迪与肯德基达成战略合作，这种打通点餐取餐和充电的「人补能 + 车补能」的新模式对新能源车主意味着什么？",
+          "url": "https://www.zhihu.com/question/2025584159024838298",
+          "source": "知乎",
+          "ranks": [
+            14,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[10时06分 ~ 19时29分]"
+        },
+        {
           "title": "辽阳弓长岭区通报“填埋奔驰S450L陪葬”事件：违法违规，严肃处理",
           "url": "https://m.thepaper.cn/newsDetail_forward_32942540",
           "source": "澎湃新闻",
@@ -41,17 +53,6 @@
           "is_new": false,
           "appearance_count": 21,
           "time_info": "[00时04分 ~ 17时39分]"
-        },
-        {
-          "title": "比亚迪与肯德基达成战略合作，这种打通点餐取餐和充电的「人补能 + 车补能」的新模式对新能源车主意味着什么？",
-          "url": "https://www.zhihu.com/question/2025584159024838298",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时06分 ~ 18时33分]"
         },
         {
           "title": "美国游客在墨西哥坐比亚迪发出赞叹",
@@ -127,6 +128,18 @@
           "time_info": "[06时36分 ~ 10时07分]"
         },
         {
+          "title": "美国国家公路交通安全管理局：因传动轴万向节存在问题，梅赛德斯-奔驰美国召回24092辆美国市场车辆。",
+          "url": "https://flash.jin10.com/detail/20260411174009701800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时33分 ~ 19时29分]"
+        },
+        {
           "title": "荷兰率先批准特斯拉FSD自动驾驶软件上路 为欧盟首例",
           "url": "https://flash.jin10.com/detail/20260411093731360800",
           "source": "金十数据",
@@ -161,17 +174,6 @@
           "time_info": "15时14分"
         },
         {
-          "title": "美国国家公路交通安全管理局：因传动轴万向节存在问题，梅赛德斯-奔驰美国召回24092辆美国市场车辆。",
-          "url": "https://flash.jin10.com/detail/20260411174009701800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时33分"
-        },
-        {
           "title": "工信部原副部长苏波：2030年新能源汽车市场渗透率预计超过70%",
           "url": "https://flash.jin10.com/detail/20260411095530130800",
           "source": "金十数据",
@@ -192,6 +194,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
+        },
+        {
+          "title": "大树倒伏砸中宝马谁该担责",
+          "url": "https://www.toutiao.com/trending/7627287650761343018/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
         }
       ]
     },
@@ -210,8 +223,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时01分 ~ 18时33分]"
+          "appearance_count": 8,
+          "time_info": "[14时01分 ~ 19时29分]"
         },
         {
           "title": "OpenAI 创始人奥尔特曼住所遭燃烧瓶袭击，具体是怎么回事？",
@@ -221,8 +234,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时39分 ~ 18时33分]"
+          "appearance_count": 4,
+          "time_info": "[17时39分 ~ 19时29分]"
         },
         {
           "title": "据福克斯新闻：OpenAI的一位发言人证实，一名嫌疑人向OpenAI创始人奥尔特曼的住所投掷了一枚燃烧瓶，目前该嫌疑人已被警方拘留。",
@@ -325,7 +338,7 @@
     },
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "全抖音都在问广西三月三怎么玩",
@@ -336,8 +349,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时54分 ~ 18时33分]"
+          "appearance_count": 10,
+          "time_info": "[12时54分 ~ 19时29分]"
         },
         {
           "title": "水豚噜噜抖音小火人联动",
@@ -347,11 +360,23 @@
             8,
             9,
             13,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时01分 ~ 18时33分]"
+          "appearance_count": 8,
+          "time_info": "[14时01分 ~ 19时29分]"
+        },
+        {
+          "title": "英国央行拟与各大银行讨论Anthropic的Mythos模型",
+          "url": "https://flash.jin10.com/detail/20260411185948243800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
         },
         {
           "title": "加拿大央行与大型银行机构开会，讨论Anthropic AI所构成的网络风险。",
@@ -395,6 +420,17 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "废旧手机被热炒后价格回落",
+          "url": "https://www.baidu.com/s?wd=%E5%BA%9F%E6%97%A7%E6%89%8B%E6%9C%BA%E8%A2%AB%E7%83%AD%E7%82%92%E5%90%8E%E4%BB%B7%E6%A0%BC%E5%9B%9E%E8%90%BD",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时41分 ~ 19时29分]"
+        },
+        {
           "title": "1吨旧手机能提炼200克黄金？专家回应",
           "url": "https://www.baidu.com/s?wd=1%E5%90%A8%E6%97%A7%E6%89%8B%E6%9C%BA%E8%83%BD%E6%8F%90%E7%82%BC200%E5%85%8B%E9%BB%84%E9%87%91%EF%BC%9F%E4%B8%93%E5%AE%B6%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
@@ -406,17 +442,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时04分 ~ 01时47分]"
-        },
-        {
-          "title": "废旧手机被热炒后价格回落",
-          "url": "https://www.baidu.com/s?wd=%E5%BA%9F%E6%97%A7%E6%89%8B%E6%9C%BA%E8%A2%AB%E7%83%AD%E7%82%92%E5%90%8E%E4%BB%B7%E6%A0%BC%E5%9B%9E%E8%90%BD",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时41分 ~ 18时33分]"
         },
         {
           "title": "专家谈“1吨旧手机能提炼200克黄金”",
