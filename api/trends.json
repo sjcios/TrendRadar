@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T17:39:28.326348+08:00",
-  "total_titles_processed": 1219,
+  "generated_at": "2026-04-11T18:33:15.950585+08:00",
+  "total_titles_processed": 1273,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "一车牌号带8888的奔驰车疑被当陪葬品，辽宁辽阳官方通报",
@@ -50,8 +50,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时06分 ~ 17时39分]"
+          "appearance_count": 11,
+          "time_info": "[10时06分 ~ 18时33分]"
         },
         {
           "title": "美国游客在墨西哥坐比亚迪发出赞叹",
@@ -139,6 +139,17 @@
           "time_info": "[10时07分 ~ 12时55分]"
         },
         {
+          "title": "比亚迪廉玉波谈新能源汽车产业趋势",
+          "url": "https://www.toutiao.com/trending/7627394014204510262/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时32分 ~ 18时33分]"
+        },
+        {
           "title": "用奔驰陪葬当事人被批评教育",
           "url": "https://s.weibo.com/weibo?q=%23%E7%94%A8%E5%A5%94%E9%A9%B0%E9%99%AA%E8%91%AC%E5%BD%93%E4%BA%8B%E4%BA%BA%E8%A2%AB%E6%89%B9%E8%AF%84%E6%95%99%E8%82%B2%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -148,6 +159,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
+        },
+        {
+          "title": "美国国家公路交通安全管理局：因传动轴万向节存在问题，梅赛德斯-奔驰美国召回24092辆美国市场车辆。",
+          "url": "https://flash.jin10.com/detail/20260411174009701800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时33分"
         },
         {
           "title": "工信部原副部长苏波：2030年新能源汽车市场渗透率预计超过70%",
@@ -178,6 +200,31 @@
       "match_count": 10,
       "titles": [
         {
+          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
+          "url": "https://www.cls.cn/detail/2341199",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时01分 ~ 18时33分]"
+        },
+        {
+          "title": "OpenAI 创始人奥尔特曼住所遭燃烧瓶袭击，具体是怎么回事？",
+          "url": "https://www.zhihu.com/question/2026136705757902456",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时39分 ~ 18时33分]"
+        },
+        {
           "title": "据福克斯新闻：OpenAI的一位发言人证实，一名嫌疑人向OpenAI创始人奥尔特曼的住所投掷了一枚燃烧瓶，目前该嫌疑人已被警方拘留。",
           "url": "https://flash.jin10.com/detail/20260411023746377800",
           "source": "金十数据",
@@ -187,30 +234,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
-        },
-        {
-          "title": "OpenAI 创始人奥尔特曼住所遭燃烧瓶袭击，具体是怎么回事？",
-          "url": "https://www.zhihu.com/question/2026136705757902456",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时39分"
-        },
-        {
-          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
-          "url": "https://www.cls.cn/detail/2341199",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时01分 ~ 17时39分]"
         },
         {
           "title": "OpenAI：发现涉及Axios的安全问题。 没有证据表明OpenAI用户数据被访问。",
@@ -309,11 +332,12 @@
           "url": "https://www.douyin.com/hot/2461983",
           "source": "抖音",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时54分 ~ 17时39分]"
+          "appearance_count": 9,
+          "time_info": "[12时54分 ~ 18时33分]"
         },
         {
           "title": "水豚噜噜抖音小火人联动",
@@ -326,8 +350,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时01分 ~ 17时39分]"
+          "appearance_count": 7,
+          "time_info": "[14时01分 ~ 18时33分]"
         },
         {
           "title": "加拿大央行与大型银行机构开会，讨论Anthropic AI所构成的网络风险。",
@@ -391,8 +415,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时41分 ~ 17时39分]"
+          "appearance_count": 4,
+          "time_info": "[16时41分 ~ 18时33分]"
         },
         {
           "title": "专家谈“1吨旧手机能提炼200克黄金”",
