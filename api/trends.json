@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T06:32:11.859968+08:00",
-  "total_titles_processed": 494,
+  "generated_at": "2026-04-12T07:33:14.947506+08:00",
+  "total_titles_processed": 533,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 06时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 07时33分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -27,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 06时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 07时33分]"
         }
       ]
     },
@@ -41,11 +41,12 @@
           "url": "https://www.douyin.com/hot/2461983",
           "source": "抖音",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 06时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 07时33分]"
         },
         {
           "title": "水豚噜噜抖音小火人联动",
@@ -54,11 +55,12 @@
           "ranks": [
             16,
             15,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 06时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 07时33分]"
         }
       ]
     },
@@ -73,11 +75,12 @@
           "ranks": [
             15,
             17,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 06时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 07时33分]"
         }
       ]
     }
