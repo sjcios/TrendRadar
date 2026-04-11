@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T20:56:07.027491+08:00",
-  "total_titles_processed": 1449,
+  "generated_at": "2026-04-11T21:56:44.146951+08:00",
+  "total_titles_processed": 1530,
   "failed_sources": [],
   "trends": [
     {
@@ -220,22 +220,24 @@
             13,
             9,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时01分 ~ 20时56分]"
+          "appearance_count": 11,
+          "time_info": "[14时01分 ~ 21时56分]"
         },
         {
           "title": "OpenAI 创始人奥尔特曼住所遭燃烧瓶袭击，具体是怎么回事？",
           "url": "https://www.zhihu.com/question/2026136705757902456",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时39分 ~ 20时56分]"
+          "appearance_count": 7,
+          "time_info": "[17时39分 ~ 21时56分]"
         },
         {
           "title": "据福克斯新闻：OpenAI的一位发言人证实，一名嫌疑人向OpenAI创始人奥尔特曼的住所投掷了一枚燃烧瓶，目前该嫌疑人已被警方拘留。",
@@ -349,8 +351,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时54分 ~ 20时56分]"
+          "appearance_count": 13,
+          "time_info": "[12时54分 ~ 21时56分]"
         },
         {
           "title": "水豚噜噜抖音小火人联动",
@@ -362,11 +364,12 @@
             13,
             15,
             12,
-            27
+            27,
+            26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时01分 ~ 20时56分]"
+          "appearance_count": 11,
+          "time_info": "[14时01分 ~ 21时56分]"
         },
         {
           "title": "英国央行拟与各大银行讨论Anthropic的Mythos模型",
