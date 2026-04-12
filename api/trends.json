@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T07:33:14.947506+08:00",
-  "total_titles_processed": 533,
+  "generated_at": "2026-04-12T10:29:08.314370+08:00",
+  "total_titles_processed": 679,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2341199",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 07时33分]"
+          "appearance_count": 14,
+          "time_info": "[00时36分 ~ 10时29分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -24,49 +25,18 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 07时33分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "央行 抖音 小红书",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "全抖音都在问广西三月三怎么玩",
-          "url": "https://www.douyin.com/hot/2461983",
-          "source": "抖音",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 07时33分]"
-        },
-        {
-          "title": "水豚噜噜抖音小火人联动",
-          "url": "https://www.douyin.com/hot/2462628",
-          "source": "抖音",
-          "ranks": [
-            16,
-            15,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 07时33分]"
+          "appearance_count": 14,
+          "time_info": "[00时36分 ~ 10时29分]"
         }
       ]
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "奥迪车逃单632元 加油工4天白干",
@@ -81,6 +51,50 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时36分 ~ 07时33分]"
+        },
+        {
+          "title": "奥迪车加油632元后逃单",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%A5%E8%BF%AA%E8%BD%A6%E5%8A%A0%E6%B2%B9632%E5%85%83%E5%90%8E%E9%80%83%E5%8D%95%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 10时29分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "央行 抖音 小红书",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "全抖音都在问广西三月三怎么玩",
+          "url": "https://www.douyin.com/hot/2461983",
+          "source": "抖音",
+          "ranks": [
+            1,
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时36分 ~ 10时29分]"
+        },
+        {
+          "title": "水豚噜噜抖音小火人联动",
+          "url": "https://www.douyin.com/hot/2462628",
+          "source": "抖音",
+          "ranks": [
+            16,
+            15,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时36分 ~ 10时29分]"
         }
       ]
     }
