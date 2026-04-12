@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T18:38:13.288047+08:00",
-  "total_titles_processed": 1148,
+  "generated_at": "2026-04-12T19:34:23.424387+08:00",
+  "total_titles_processed": 1218,
   "failed_sources": [],
   "trends": [
     {
@@ -72,19 +72,6 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
-          "url": "https://www.cls.cn/detail/2341199",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时36分 ~ 18时38分]"
-        },
-        {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
           "url": "https://wallstreetcn.com/articles/3769740",
           "source": "华尔街见闻",
@@ -96,6 +83,20 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时36分 ~ 10时29分]"
+        },
+        {
+          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
+          "url": "https://www.cls.cn/detail/2341199",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 22,
+          "time_info": "[00时36分 ~ 19时34分]"
         },
         {
           "title": "OpenAI CEO住所遭袭",
@@ -119,11 +120,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B0%8F%E5%86%89%E5%94%90%E8%89%BA%E6%98%95%E5%90%8E%E5%8F%B0%E7%8E%A9%E6%89%8B%E6%9C%BA%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
-            4
+            4,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时37分 ~ 18时38分]"
+          "appearance_count": 3,
+          "time_info": "[18时37分 ~ 19时34分]"
         },
         {
           "title": "iPhone本地运行Gemma4实测",
@@ -188,11 +190,12 @@
           "ranks": [
             29,
             20,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时12分 ~ 18时38分]"
+          "appearance_count": 7,
+          "time_info": "[15时12分 ~ 19时34分]"
         }
       ]
     }
