@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-13T18:44:45.374867+08:00",
-  "total_titles_processed": 1257,
+  "generated_at": "2026-04-13T20:03:02.787098+08:00",
+  "total_titles_processed": 1382,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "日本内阁官房长官木原稔：货币政策细节由日本央行决定。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
+        },
+        {
+          "title": "欧洲央行副行长金多斯：伊朗战争的影响将取决于冲突持续时间，并将对通胀产生影响。",
+          "url": "https://flash.jin10.com/detail/20260413195020042800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
         },
         {
           "title": "韩国央行行长提名人申铉松：若韩元过度贬值需作出回应。政策当务之急是应对中东战争带来的通胀压力。",
@@ -105,9 +116,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
+        },
+        {
+          "title": "以色列央行会议纪要：上次利率决议是一致通过的。",
+          "url": "https://flash.jin10.com/detail/20260413194048071800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
         },
         {
           "title": "欧洲央行管委武伊契奇：能源价格仍然非常接近欧洲央行的基线情景。",
@@ -116,7 +138,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
         },
@@ -127,7 +149,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
         },
@@ -138,7 +160,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
         },
@@ -171,7 +193,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
         }
@@ -179,7 +201,7 @@
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "华为横向阔折叠手机曝光",
@@ -187,11 +209,23 @@
           "source": "百度热搜",
           "ranks": [
             12,
-            14
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时48分 ~ 20时03分]"
+        },
+        {
+          "title": "为什么有的大学老师能够容忍课上大部分学生低头玩手机而不听他（她）讲课?",
+          "url": "https://www.zhihu.com/question/1897338595989246886",
+          "source": "知乎",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时48分 ~ 18时44分]"
+          "time_info": "[18时44分 ~ 20时03分]"
         },
         {
           "title": "有为什么大学老师能够容忍在课上大部分学生低头玩手机而不听他（她）讲课?",
@@ -203,17 +237,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时48分 ~ 16时49分]"
-        },
-        {
-          "title": "为什么有的大学老师能够容忍课上大部分学生低头玩手机而不听他（她）讲课?",
-          "url": "https://www.zhihu.com/question/1897338595989246886",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时44分"
         },
         {
           "title": "据华为终端微博消息，华为阔折叠手机Pura X Max将于4月20日发布。",
@@ -233,7 +256,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
         },
@@ -258,6 +281,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
+        },
+        {
+          "title": "与字节跳动就“豆包手机”接洽合作？荣耀回应：不属实",
+          "url": "https://flash.jin10.com/detail/20260413193557421800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
         },
         {
           "title": "手机被植入木马 民警拉电闸保住10万",
@@ -287,6 +321,31 @@
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
       "match_count": 9,
       "titles": [
+        {
+          "title": "圆桌｜规模已不是产业竞争核心，全球新能源车竞争节奏由中国来定义",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32956360",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时41分 ~ 20时03分]"
+        },
+        {
+          "title": "中方回应巴西将比亚迪移出相关名单",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B7%B4%E8%A5%BF%E5%B0%86%E6%AF%94%E4%BA%9A%E8%BF%AA%E7%A7%BB%E5%87%BA%E7%9B%B8%E5%85%B3%E5%90%8D%E5%8D%95",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时44分 ~ 20时03分]"
+        },
         {
           "title": "比亚迪女高管年薪1013.5万打破天花板",
           "url": "https://www.toutiao.com/trending/7628046443974213641/",
@@ -326,28 +385,16 @@
           "time_info": "[10时33分 ~ 13时41分]"
         },
         {
-          "title": "圆桌｜规模已不是产业竞争核心，全球新能源车竞争节奏由中国来定义",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32956360",
-          "source": "澎湃新闻",
+          "title": "中方回应巴西将比亚迪移出相关名单",
+          "url": "https://www.toutiao.com/trending/7627501811481657380/",
+          "source": "今日头条",
           "ranks": [
-            16,
-            9,
-            6
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时41分 ~ 18时44分]"
-        },
-        {
-          "title": "中方回应巴西将比亚迪移出相关名单",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B7%B4%E8%A5%BF%E5%B0%86%E6%AF%94%E4%BA%9A%E8%BF%AA%E7%A7%BB%E5%87%BA%E7%9B%B8%E5%85%B3%E5%90%8D%E5%8D%95",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时44分"
+          "appearance_count": 3,
+          "time_info": "[18时44分 ~ 20时03分]"
         },
         {
           "title": "合肥警方：一辆奥迪车加油后逃单，涉案司机被行政拘留",
@@ -370,17 +417,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
-        },
-        {
-          "title": "中方回应巴西将比亚迪移出相关名单",
-          "url": "https://www.toutiao.com/trending/7627501811481657380/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时44分"
         },
         {
           "title": "港股收盘：恒生指数跌0.9%，恒生科技指数跌0.79%。新能源汽车股走强，蔚来涨超7%，比亚迪股份涨近5%。",
