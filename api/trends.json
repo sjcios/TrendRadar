@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-14T05:48:29.112863+08:00",
-  "total_titles_processed": 581,
+  "generated_at": "2026-04-14T06:42:45.425681+08:00",
+  "total_titles_processed": 626,
   "failed_sources": [],
   "trends": [
     {
@@ -177,8 +177,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时12分 ~ 05时48分]"
+          "appearance_count": 7,
+          "time_info": "[00时12分 ~ 06时42分]"
         },
         {
           "title": "新能源车牌绿色变白色？交管部门回应",
@@ -192,8 +192,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时12分 ~ 05时48分]"
+          "appearance_count": 7,
+          "time_info": "[00时12分 ~ 06时42分]"
         },
         {
           "title": "比亚迪财务总监年薪 1013 万元，多名高管薪酬迈入千万级，在业内是什么水平？车企薪资在市场上竞争力如何？",
@@ -203,8 +203,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时12分 ~ 05时48分]"
+          "appearance_count": 7,
+          "time_info": "[00时12分 ~ 06时42分]"
         },
         {
           "title": "【焦点复盘】三大指数延续缩量反弹，AI、新能源赛道双线共振，“宁王”A+H总市值一度突破2万亿",
@@ -212,11 +212,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时24分 ~ 05时48分]"
+          "appearance_count": 5,
+          "time_info": "[03时24分 ~ 06时42分]"
         },
         {
           "title": "中方回应巴西将比亚迪移出相关名单",
@@ -229,8 +230,21 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 05时48分]"
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 06时42分]"
+        },
+        {
+          "title": "中方回应巴西将比亚迪移出相关名单",
+          "url": "https://www.toutiao.com/trending/7627501811481657380/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            23,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时59分 ~ 06时42分]"
         },
         {
           "title": "巴西将比亚迪移出所谓涉“奴役劳动”名单，外交部回应",
@@ -242,18 +256,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时54分 ~ 05时48分]"
-        },
-        {
-          "title": "中方回应巴西将比亚迪移出相关名单",
-          "url": "https://www.toutiao.com/trending/7627501811481657380/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时59分 ~ 03时24分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨0.7%。 热门中概股里，金山云初步收涨6.4%，小马智行涨4.9%，晶科能源涨3.7%，比亚迪涨4.4%，拼多多涨0.6%，阿里巴巴涨0.5%。 ETF中，CQQQ涨1.2%，KWEB涨0.1%。",
@@ -273,7 +275,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
         }
