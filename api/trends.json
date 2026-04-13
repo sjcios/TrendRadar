@@ -1,8 +1,172 @@
 {
-  "generated_at": "2026-04-13T07:34:45.509202+08:00",
-  "total_titles_processed": 546,
+  "generated_at": "2026-04-13T10:34:07.883901+08:00",
+  "total_titles_processed": 739,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "央行 抖音 小红书",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "日本内阁官房长官木原稔：货币政策细节由日本央行决定。",
+          "url": "https://flash.jin10.com/detail/20260413100811356800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "韩国央行行长提名人申铉松：若韩元过度贬值需作出回应。政策当务之急是应对中东战争带来的通胀压力。",
+          "url": "https://wallstreetcn.com/livenews/3086609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "韩国央行行长提名人申铉松：鉴于中东战争局势仍充满不确定性，将密切关注外汇市场。",
+          "url": "https://flash.jin10.com/detail/20260413100218084800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "日本内阁官房长官木原稔：日本正关注霍尔木兹海峡周边的局势发展。 关于派遣自卫队一事未有任何决定。 货币政策的具体细节应交由日本央行决定。",
+          "url": "https://wallstreetcn.com/livenews/3086607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "抖音直播繁花盛典",
+          "url": "https://www.douyin.com/hot/2463637",
+          "source": "抖音",
+          "ranks": [
+            30,
+            28,
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时39分 ~ 07时34分]"
+        },
+        {
+          "title": "水豚噜噜抖音小火人联动",
+          "url": "https://www.douyin.com/hot/2462628",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
+        },
+        {
+          "title": "韩国央行行长提名人申铉松：若韩元过度贬值需作出回应。",
+          "url": "https://flash.jin10.com/detail/20260413100112067800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "巴克莱：在中东冲突持续之际，亚洲各国央行短期内或会维持政策不变",
+          "url": "https://flash.jin10.com/detail/20260413095517835800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "中国央行公开市场开展5亿元7天期逆回购操作，操作利率持平于1.40%，今日无逆回购到期。",
+          "url": "https://wallstreetcn.com/livenews/3086567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 Apple Mac iPhone 手机",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "据华为终端微博消息，华为阔折叠手机Pura X Max将于4月20日发布。",
+          "url": "https://wallstreetcn.com/livenews/3086600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "余承东官宣华为新款大阔折手机",
+          "url": "https://flash.jin10.com/detail/20260413094004091800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "券商晨会精华：AI供需缺口和出海新能源成为新“宁组合”概率正在增大",
+          "url": "https://www.cls.cn/detail/2341719",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
+        },
+        {
+          "title": "比亚迪副总裁周亚琳打破“天花板”",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%89%AF%E6%80%BB%E8%A3%81%E5%91%A8%E4%BA%9A%E7%90%B3%E6%89%93%E7%A0%B4%E2%80%9C%E5%A4%A9%E8%8A%B1%E6%9D%BF%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
+        }
+      ]
+    },
     {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
@@ -18,26 +182,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时38分 ~ 06时34分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "央行 抖音 小红书",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "抖音直播繁花盛典",
-          "url": "https://www.douyin.com/hot/2463637",
-          "source": "抖音",
-          "ranks": [
-            30,
-            28,
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时39分 ~ 07时34分]"
         }
       ]
     }
