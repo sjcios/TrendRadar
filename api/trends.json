@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-13T10:34:07.883901+08:00",
-  "total_titles_processed": 739,
+  "generated_at": "2026-04-13T13:41:25.914564+08:00",
+  "total_titles_processed": 921,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "日本内阁官房长官木原稔：货币政策细节由日本央行决定。",
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         },
@@ -25,7 +25,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         },
@@ -36,7 +36,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         },
@@ -47,7 +47,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         },
@@ -83,7 +83,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         },
@@ -94,7 +94,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         },
@@ -105,15 +105,100 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
+        },
+        {
+          "title": "印尼央行副行长：将以审慎、持续且及时的方式动用所有货币工具，以捍卫印尼盾汇率。",
+          "url": "https://wallstreetcn.com/livenews/3086644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "比亚迪女高管年薪1013.5万打破天花板",
+          "url": "https://www.toutiao.com/trending/7628046443974213641/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
+          "title": "比亚迪副总裁周亚琳打破“天花板”",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%89%AF%E6%80%BB%E8%A3%81%E5%91%A8%E4%BA%9A%E7%90%B3%E6%89%93%E7%A0%B4%E2%80%9C%E5%A4%A9%E8%8A%B1%E6%9D%BF%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时33分 ~ 13时41分]"
+        },
+        {
+          "title": "券商晨会精华：AI供需缺口和出海新能源成为新“宁组合”概率正在增大",
+          "url": "https://www.cls.cn/detail/2341719",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时33分 ~ 13时41分]"
+        },
+        {
+          "title": "圆桌｜规模已不是产业竞争核心，全球新能源车竞争节奏由中国来定义",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32956360",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
+          "title": "合肥警方：一辆奥迪车加油后逃单，涉案司机被行政拘留",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32954795",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
+          "title": "加拿大皇家银行（RBC）将特斯拉目标价从500美元下调至480美元。",
+          "url": "https://wallstreetcn.com/livenews/3086654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
         }
       ]
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "据华为终端微博消息，华为阔折叠手机Pura X Max将于4月20日发布。",
@@ -122,9 +207,42 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
+        },
+        {
+          "title": "字节与荣耀接洽“豆包手机”合作？ 知情人士：细节尚未达成一致",
+          "url": "https://wallstreetcn.com/livenews/3086660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
+          "title": "字节与荣耀接洽“豆包手机”合作？ 知情人士：细节尚未达成一致",
+          "url": "https://flash.jin10.com/detail/20260413123744195800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
+          "title": "手机被植入木马 民警拉电闸保住10万",
+          "url": "https://www.toutiao.com/trending/7627900106800627718/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
         },
         {
           "title": "余承东官宣华为新款大阔折手机",
@@ -133,37 +251,37 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         }
       ]
     },
     {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
+      "keyword_group": "金价",
       "match_count": 2,
       "titles": [
         {
-          "title": "券商晨会精华：AI供需缺口和出海新能源成为新“宁组合”概率正在增大",
-          "url": "https://www.cls.cn/detail/2341719",
-          "source": "财联社热门",
+          "title": "瑞联银行（UBP）再次增持黄金，预测年底金价将达到6000美元。",
+          "url": "https://flash.jin10.com/detail/20260413130453424800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
+          "title": "瑞联银行重新购入黄金，押注年底金价达6000美元",
+          "url": "https://flash.jin10.com/detail/20260413125307708800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
-        },
-        {
-          "title": "比亚迪副总裁周亚琳打破“天花板”",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%89%AF%E6%80%BB%E8%A3%81%E5%91%A8%E4%BA%9A%E7%90%B3%E6%89%93%E7%A0%B4%E2%80%9C%E5%A4%A9%E8%8A%B1%E6%9D%BF%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
         }
       ]
     },
