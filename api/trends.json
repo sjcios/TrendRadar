@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T15:29:57.547076+08:00",
-  "total_titles_processed": 1214,
+  "generated_at": "2026-04-14T17:17:53.089640+08:00",
+  "total_titles_processed": 1362,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "比亚迪财务总监年薪 1013 万元，多名高管薪酬迈入千万级，在业内是什么水平？车企薪资在市场上竞争力如何？",
@@ -50,17 +50,6 @@
         },
         {
           "title": "官方通报深圳比亚迪火灾",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%B7%B1%E5%9C%B3%E6%AF%94%E4%BA%9A%E8%BF%AA%E7%81%AB%E7%81%BE%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时27分 ~ 10时28分]"
-        },
-        {
-          "title": "官方通报深圳比亚迪火灾",
           "url": "https://www.toutiao.com/trending/7628416832629902875/",
           "source": "今日头条",
           "ranks": [
@@ -69,8 +58,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时27分 ~ 15时29分]"
+          "appearance_count": 6,
+          "time_info": "[10时27分 ~ 17时17分]"
+        },
+        {
+          "title": "官方通报深圳比亚迪火灾",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%B7%B1%E5%9C%B3%E6%AF%94%E4%BA%9A%E8%BF%AA%E7%81%AB%E7%81%BE%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 10时28分]"
         },
         {
           "title": "深圳坪山比亚迪突发大火 消防通报",
@@ -83,6 +83,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时27分 ~ 13时23分]"
+        },
+        {
+          "title": "官方通报深圳比亚迪车库起火",
+          "url": "https://www.douyin.com/hot/2465381",
+          "source": "抖音",
+          "ranks": [
+            7,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时27分 ~ 17时17分]"
         },
         {
           "title": "中方回应巴西将比亚迪移出相关名单",
@@ -100,6 +113,20 @@
           "time_info": "[00时12分 ~ 08时05分]"
         },
         {
+          "title": "多地新能源车牌绿色变白色",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E7%89%8C%E7%BB%BF%E8%89%B2%E5%8F%98%E7%99%BD%E8%89%B2%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            24,
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时22分 ~ 17时17分]"
+        },
+        {
           "title": "比亚迪回应深圳车库火灾",
           "url": "https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%9B%9E%E5%BA%94%E6%B7%B1%E5%9C%B3%E8%BD%A6%E5%BA%93%E7%81%AB%E7%81%BE%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -112,19 +139,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时27分 ~ 13时23分]"
-        },
-        {
-          "title": "官方通报深圳比亚迪车库起火",
-          "url": "https://www.douyin.com/hot/2465381",
-          "source": "抖音",
-          "ranks": [
-            7,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时27分 ~ 15时29分]"
         },
         {
           "title": "中方回应巴西将比亚迪移出相关名单",
@@ -154,17 +168,17 @@
           "time_info": "[03时24分 ~ 06时42分]"
         },
         {
-          "title": "多地新能源车牌绿色变白色",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E7%89%8C%E7%BB%BF%E8%89%B2%E5%8F%98%E7%99%BD%E8%89%B2%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
+          "title": "比亚迪回应坪山园区一立体车库火情：为试验及报废车辆专用停放区，火势已扑灭，无人员伤亡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32964967",
+          "source": "澎湃新闻",
           "ranks": [
-            23,
-            24,
-            1
+            13,
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时22分 ~ 15时29分]"
+          "appearance_count": 4,
+          "time_info": "[13时22分 ~ 17时17分]"
         },
         {
           "title": "深圳比亚迪一立体车库发生火情，无人员伤亡，具体什么情况？起火原因可能是什么？",
@@ -172,18 +186,6 @@
           "source": "知乎",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时22分 ~ 15时29分]"
-        },
-        {
-          "title": "比亚迪回应坪山园区一立体车库火情：为试验及报废车辆专用停放区，火势已扑灭，无人员伤亡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32964967",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            8
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -235,6 +237,17 @@
           "time_info": "[13时22分 ~ 13时23分]"
         },
         {
+          "title": "深圳比亚迪一立体车库发生火情，比亚迪称车库为试验及报废车辆专用，起火原因可能是什么？对比亚迪影响大吗？",
+          "url": "https://www.zhihu.com/question/2027305938130924161",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
           "title": "纳斯达克金龙中国指数初步收涨0.7%。 热门中概股里，金山云初步收涨6.4%，小马智行涨4.9%，晶科能源涨3.7%，比亚迪涨4.4%，拼多多涨0.6%，阿里巴巴涨0.5%。 ETF中，CQQQ涨1.2%，KWEB涨0.1%。",
           "url": "https://wallstreetcn.com/livenews/3087145",
           "source": "华尔街见闻-快讯",
@@ -246,15 +259,37 @@
           "time_info": "04时55分"
         },
         {
+          "title": "宝马德国市场销量显著增长，增幅达10.7%。",
+          "url": "https://flash.jin10.com/detail/20260414170103807800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
           "title": "交管回应新能源车牌褪色攻略",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BA%A4%E7%AE%A1%E5%9B%9E%E5%BA%94%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E7%89%8C%E8%A4%AA%E8%89%B2%E6%94%BB%E7%95%A5%23&t=31&band_rank=23&Refer=top",
           "source": "微博",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
+        },
+        {
+          "title": "宝马集团一季度纯电动汽车销量下降20.1%；一季度欧洲纯电动汽车订单增长约40%。",
+          "url": "https://flash.jin10.com/detail/20260414170054344800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         },
         {
           "title": "纳斯达克金龙中国指数收涨0.72%，报6855.75点。 热门中概股里，金山云初步收涨6.4%，小马智行涨4.9%，晶科能源涨3.7%，比亚迪涨4.4%，拼多多涨0.6%，阿里巴巴涨0.5%。 ETF中，中国科技指数ETF（CQQQ）收涨1.13%，中概互联网指数ETF（KWEB）收涨0.07%。 德银嘉实沪深300指数ETF（ASHR）收涨1.01%，XtrackersHarvest中证50（ASHS）收涨0.70%。",
@@ -277,12 +312,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
+        },
+        {
+          "title": "宝马一季度交付量下降3.5%，至565,748辆。",
+          "url": "https://flash.jin10.com/detail/20260414170026661800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         }
       ]
     },
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 17,
+      "match_count": 22,
       "titles": [
         {
           "title": "在被问及收益率上升时表示，日本财务大臣片山皋月表示，将继续与日本国债市场参与者保持密切沟通；具体的货币政策操作由日本央行决定。",
@@ -294,6 +340,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
+        },
+        {
+          "title": "消息人士称，日本央行本月考虑大幅上调价格预期，可能因高油价考虑下调经济增长预期。日本央行内部对于中东局势谨慎和价格上行风险存在分歧，日本央行将持续关注风险，直到最后一刻才做出决策。",
+          "url": "https://wallstreetcn.com/livenews/3087599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         },
         {
           "title": "乌克兰央行行长：我们认为，乌克兰国防企业不会出现大量的系统性风险。",
@@ -429,6 +486,28 @@
           "time_info": "01时59分"
         },
         {
+          "title": "欧洲央行：欧元区必须更加像一个单一司法管辖区运作，允许资本和流动性在银行集团内部自由流动。",
+          "url": "https://flash.jin10.com/detail/20260414170239605800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
+          "title": "欧洲央行：管理委员会呼吁通过促进单一市场来增强银行竞争力。",
+          "url": "https://flash.jin10.com/detail/20260414170217632800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
           "title": "欧洲央行管委维勒鲁瓦：调查显示对通胀需保持警惕。",
           "url": "https://flash.jin10.com/detail/20260414020246905800",
           "source": "金十数据",
@@ -462,6 +541,17 @@
           "time_info": "03时24分"
         },
         {
+          "title": "抖音电商：一季度累计为商家降低经营成本超85亿元",
+          "url": "https://wallstreetcn.com/livenews/3087558",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
           "title": "澳洲联储副主席Hauser：对澳大利亚而言，能源价格上涨是一个重大的收入冲击。 央行的噩梦就是通胀上扬、经济活动下滑。 对于某些国家而言，财政主导型可能会成为一个问题。 不希望中期通胀预期上扬。 能源价格对经济活动的影响是一个重大问题。",
           "url": "https://wallstreetcn.com/livenews/3087196",
           "source": "华尔街见闻-快讯",
@@ -471,6 +561,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
+        },
+        {
+          "title": "欧洲央行管委Rehn：中东战争对通胀的影响并非直接明了。 从货币政策关注的中期来看，通胀走势可能会出现不同方向的发展。 货币政策不应仅仅基于某一单一价格（如石油），而应基于整体经济形势。 目前欧洲央行特别密切关注的是中东冲突的持续时间和强度，以及其对其他经济领域的溢出效应。 如果战争持续并导致价格和工资出现二轮效应，且通胀预期开始失锚，货币政策将按照策略大幅收紧。",
+          "url": "https://wallstreetcn.com/livenews/3087578",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         }
       ]
     },
@@ -485,7 +586,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         },
@@ -496,9 +597,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
+        },
+        {
+          "title": "库克开窍,折叠iPhone定版",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353208&amp;topic_name=%E5%BA%93%E5%85%8B%E5%BC%80%E7%AA%8D%2C%E6%8A%98%E5%8F%A0iPhone%E5%AE%9A%E7%89%88",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时29分 ~ 17时17分]"
         },
         {
           "title": "华为夺一季度中国手机出货量第一",
@@ -521,17 +634,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时27分 ~ 10时28分]"
-        },
-        {
-          "title": "库克开窍,折叠iPhone定版",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353208&amp;topic_name=%E5%BA%93%E5%85%8B%E5%BC%80%E7%AA%8D%2C%E6%8A%98%E5%8F%A0iPhone%E5%AE%9A%E7%89%88",
-          "source": "贴吧",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时29分"
         }
       ]
     },
@@ -570,7 +672,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         },
