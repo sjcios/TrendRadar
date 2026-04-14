@@ -1,789 +1,127 @@
 {
-  "generated_at": "2026-04-14T23:13:46.752175+08:00",
-  "total_titles_processed": 1784,
+  "generated_at": "2026-04-15T01:06:13.026836+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 28,
+      "match_count": 8,
       "titles": [
         {
-          "title": "在被问及收益率上升时表示，日本财务大臣片山皋月表示，将继续与日本国债市场参与者保持密切沟通；具体的货币政策操作由日本央行决定。",
-          "url": "https://wallstreetcn.com/livenews/3087227",
+          "title": "英国央行行长贝利：必须评估（伊朗战争的）第一轮效应和第二轮效应。",
+          "url": "https://wallstreetcn.com/livenews/3087891",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
-          "title": "消息人士称，日本央行本月考虑大幅上调价格预期，可能因高油价考虑下调经济增长预期。日本央行内部对于中东局势谨慎和价格上行风险存在分歧，日本央行将持续关注风险，直到最后一刻才做出决策。",
-          "url": "https://wallstreetcn.com/livenews/3087599",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时17分"
-        },
-        {
-          "title": "IMF首席经济学家古兰沙：各国央行需警惕工资-物价螺旋式上升的迹象。",
-          "url": "https://flash.jin10.com/detail/20260414211932734800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时24分"
-        },
-        {
-          "title": "IMF首席经济学家古兰沙：各国央行无需立即踩下刹车。",
-          "url": "https://flash.jin10.com/detail/20260414211924407800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时24分"
-        },
-        {
-          "title": "央行：将开展5000亿元买断式逆回购",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%EF%BC%9A%E5%B0%86%E5%BC%80%E5%B1%955000%E4%BA%BF%E5%85%83%E4%B9%B0%E6%96%AD%E5%BC%8F%E9%80%86%E5%9B%9E%E8%B4%AD",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时03分 ~ 23时13分]"
-        },
-        {
-          "title": "乌克兰央行行长：我们认为，乌克兰国防企业不会出现大量的系统性风险。",
-          "url": "https://wallstreetcn.com/livenews/3087104",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时59分 ~ 03时24分]"
-        },
-        {
-          "title": "波兰央行委员Kotecki：我认为今年没有进一步降息的空间了。",
-          "url": "https://flash.jin10.com/detail/20260414130306050800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时23分"
-        },
-        {
-          "title": "IMF首席经济学家古兰沙：在20世纪70年代，各国央行更关注支持经济活动，而非物价稳定。",
-          "url": "https://flash.jin10.com/detail/20260414211852229800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时24分"
-        },
-        {
-          "title": "英国央行行长贝利警告私人信贷风险上升",
-          "url": "https://flash.jin10.com/detail/20260414024031184800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
-          "title": "乌克兰央行行长：我们希望阻碍欧盟向乌克兰提供贷款的障碍能够被消除，并鼓励各伙伴不要再拖延。",
-          "url": "https://flash.jin10.com/detail/20260414011250620800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
-        },
-        {
-          "title": "欧洲央行管委武伊契奇：能源价格仍最接近欧洲央行基本情景",
-          "url": "https://flash.jin10.com/detail/20260413234406049800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
-        },
-        {
-          "title": "乌克兰央行行长：伊朗战争可能导致乌克兰通胀率上升1.8至2.5个百分点。因伊朗局势引发的油价上涨将对乌克兰的通胀和经济增长产生最大影响；化肥及生产成本的上升也将带来相当显著的影响。",
-          "url": "https://flash.jin10.com/detail/20260414011243903800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
-        },
-        {
-          "title": "乌克兰央行行长：战争持续的时间越长，人口外流和劳动力市场承受的压力就越大。",
-          "url": "https://flash.jin10.com/detail/20260414011214023800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
-        },
-        {
-          "title": "乌克兰央行行长：我们未见乌克兰众多国防企业构成系统性风险。",
-          "url": "https://flash.jin10.com/detail/20260414011204959800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
-        },
-        {
-          "title": "乌克兰央行行长：乌克兰今年需510亿美元弥补预算缺口，其中大部分将来自欧盟贷款。",
-          "url": "https://flash.jin10.com/detail/20260414011157629800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
-        },
-        {
-          "title": "英国央行货币政策委员格林：私人信贷并非英国的系统性问题。",
-          "url": "https://flash.jin10.com/detail/20260414223648438800",
-          "source": "金十数据",
-          "ranks": [
-            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时13分"
+          "time_info": "01时06分"
         },
         {
-          "title": "乌克兰央行行长：俄罗斯在这个冬季对能源基础设施的打击将拖累经济增长，并加剧人口外流。",
-          "url": "https://flash.jin10.com/detail/20260414011144765800",
-          "source": "金十数据",
+          "title": "英国央行行长贝利谈及Anthropic，称：所有人都在研究这个问题的意义。",
+          "url": "https://wallstreetcn.com/livenews/3087890",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时59分"
+          "time_info": "01时06分"
         },
         {
-          "title": "乌克兰央行行长：乌克兰央行的通胀目标是在三年内达到5%。",
-          "url": "https://flash.jin10.com/detail/20260414011127014800",
+          "title": "欧洲央行管委Makhlouf：如果冲击持续存在，欧洲央行将采取强有力的行动。",
+          "url": "https://wallstreetcn.com/livenews/3087879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时06分"
+        },
+        {
+          "title": "欧洲央行管委马赫鲁夫：尚未看到消费者行为因高通胀而发生变化。",
+          "url": "https://flash.jin10.com/detail/20260415002954335800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时59分"
+          "time_info": "01时06分"
         },
         {
-          "title": "乌克兰央行行长：匈牙利大选缓解了市场对欧盟支持乌克兰的担忧。",
-          "url": "https://flash.jin10.com/detail/20260414011053173800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
-        },
-        {
-          "title": "欧洲央行：欧元区必须更加像一个单一司法管辖区运作，允许资本和流动性在银行集团内部自由流动。",
-          "url": "https://flash.jin10.com/detail/20260414170239605800",
+          "title": "欧洲央行管委马赫鲁夫：美联储和欧洲央行短期内走向不同道路并非不可能。",
+          "url": "https://flash.jin10.com/detail/20260415002807863800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时17分"
-        },
-        {
-          "title": "欧洲央行：管理委员会呼吁通过促进单一市场来增强银行竞争力。",
-          "url": "https://flash.jin10.com/detail/20260414170217632800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时17分"
-        },
-        {
-          "title": "欧洲央行管委维勒鲁瓦：调查显示对通胀需保持警惕。",
-          "url": "https://flash.jin10.com/detail/20260414020246905800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
-          "title": "土耳其央行发布行长Karahan的报告：经济活动正在放缓。 外汇储备“比以往那些资金外流时期都更强大”。",
-          "url": "https://wallstreetcn.com/livenews/3087055",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
-        },
-        {
-          "title": "法国央行：预计法国第一季度GDP增长0.3%。",
-          "url": "https://flash.jin10.com/detail/20260414020035827800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
-          "title": "英国央行货币政策委员会（MPC）成员Greene：AI可能会通过生产力提振潜在增速。",
-          "url": "https://wallstreetcn.com/livenews/3087808",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时13分"
+          "time_info": "01时06分"
         },
         {
-          "title": "抖音电商：一季度累计为商家降低经营成本超85亿元",
-          "url": "https://wallstreetcn.com/livenews/3087558",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时17分"
-        },
-        {
-          "title": "澳洲联储副主席Hauser：对澳大利亚而言，能源价格上涨是一个重大的收入冲击。 央行的噩梦就是通胀上扬、经济活动下滑。 对于某些国家而言，财政主导型可能会成为一个问题。 不希望中期通胀预期上扬。 能源价格对经济活动的影响是一个重大问题。",
-          "url": "https://wallstreetcn.com/livenews/3087196",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
-          "title": "欧洲央行管委Rehn：中东战争对通胀的影响并非直接明了。 从货币政策关注的中期来看，通胀走势可能会出现不同方向的发展。 货币政策不应仅仅基于某一单一价格（如石油），而应基于整体经济形势。 目前欧洲央行特别密切关注的是中东冲突的持续时间和强度，以及其对其他经济领域的溢出效应。 如果战争持续并导致价格和工资出现二轮效应，且通胀预期开始失锚，货币政策将按照策略大幅收紧。",
-          "url": "https://wallstreetcn.com/livenews/3087578",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 27,
-      "titles": [
-        {
-          "title": "比亚迪财务总监年薪 1013 万元，多名高管薪酬迈入千万级，在业内是什么水平？车企薪资在市场上竞争力如何？",
-          "url": "https://www.zhihu.com/question/2027000572734169725",
-          "source": "知乎",
-          "ranks": [
-            12,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时12分 ~ 10时28分]"
-        },
-        {
-          "title": "圆桌｜规模已不是产业竞争核心，全球新能源车竞争节奏由中国来定义",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32956360",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 08时05分]"
-        },
-        {
-          "title": "官方通报深圳比亚迪火灾",
-          "url": "https://www.toutiao.com/trending/7628416832629902875/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            6,
-            8,
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时27分 ~ 23时13分]"
-        },
-        {
-          "title": "新能源车牌绿色变白色？交管部门回应",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E7%89%8C%E7%BB%BF%E8%89%B2%E5%8F%98%E7%99%BD%E8%89%B2%EF%BC%9F%E4%BA%A4%E7%AE%A1%E9%83%A8%E9%97%A8%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            16,
-            10,
-            9,
-            7,
-            1,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时12分 ~ 10时28分]"
-        },
-        {
-          "title": "官方通报深圳比亚迪车库起火",
-          "url": "https://www.douyin.com/hot/2465381",
-          "source": "抖音",
-          "ranks": [
-            7,
-            13,
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时27分 ~ 23时13分]"
-        },
-        {
-          "title": "比亚迪回应坪山园区一立体车库火情：为试验及报废车辆专用停放区，火势已扑灭，无人员伤亡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32964967",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时22分 ~ 23时13分]"
-        },
-        {
-          "title": "官方通报深圳比亚迪火灾",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%B7%B1%E5%9C%B3%E6%AF%94%E4%BA%9A%E8%BF%AA%E7%81%AB%E7%81%BE%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时27分 ~ 10时28分]"
-        },
-        {
-          "title": "深圳坪山比亚迪突发大火 消防通报",
-          "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%9D%AA%E5%B1%B1%E6%AF%94%E4%BA%9A%E8%BF%AA%E7%AA%81%E5%8F%91%E5%A4%A7%E7%81%AB+%E6%B6%88%E9%98%B2%E9%80%9A%E6%8A%A5",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时27分 ~ 13时23分]"
-        },
-        {
-          "title": "中方回应巴西将比亚迪移出相关名单",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B7%B4%E8%A5%BF%E5%B0%86%E6%AF%94%E4%BA%9A%E8%BF%AA%E7%A7%BB%E5%87%BA%E7%9B%B8%E5%85%B3%E5%90%8D%E5%8D%95",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            23,
-            28,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时12分 ~ 08时05分]"
-        },
-        {
-          "title": "多地新能源车牌绿色变白色",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E7%89%8C%E7%BB%BF%E8%89%B2%E5%8F%98%E7%99%BD%E8%89%B2%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            24,
-            1,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时22分 ~ 17时17分]"
-        },
-        {
-          "title": "深圳比亚迪一立体车库发生火情，比亚迪称车库为试验及报废车辆专用，起火原因可能是什么？对比亚迪影响大吗？",
-          "url": "https://www.zhihu.com/question/2027305938130924161",
-          "source": "知乎",
-          "ranks": [
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时17分 ~ 23时13分]"
-        },
-        {
-          "title": "比亚迪回应深圳车库火灾",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%9B%9E%E5%BA%94%E6%B7%B1%E5%9C%B3%E8%BD%A6%E5%BA%93%E7%81%AB%E7%81%BE%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            5,
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时27分 ~ 13时23分]"
-        },
-        {
-          "title": "中方回应巴西将比亚迪移出相关名单",
-          "url": "https://www.toutiao.com/trending/7627501811481657380/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            23,
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时59分 ~ 08时05分]"
-        },
-        {
-          "title": "【焦点复盘】三大指数延续缩量反弹，AI、新能源赛道双线共振，“宁王”A+H总市值一度突破2万亿",
-          "url": "https://www.cls.cn/detail/2342373",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时24分 ~ 06时42分]"
-        },
-        {
-          "title": "深圳比亚迪一立体车库发生火情，无人员伤亡，具体什么情况？起火原因可能是什么？",
-          "url": "https://www.zhihu.com/question/2027305938130924161",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时22分 ~ 15时29分]"
-        },
-        {
-          "title": "比亚迪回应深圳坪山园区火情",
-          "url": "https://www.toutiao.com/trending/7628206506252439076/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时22分 ~ 15时29分]"
-        },
-        {
-          "title": "巴西将比亚迪移出所谓涉“奴役劳动”名单，外交部回应",
-          "url": "https://www.cls.cn/detail/2342272",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时54分 ~ 05时48分]"
-        },
-        {
-          "title": "比亚迪回应车库火灾",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%9B%9E%E5%BA%94%E8%BD%A6%E5%BA%93%E7%81%AB%E7%81%BE",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时27分 ~ 10时28分]"
-        },
-        {
-          "title": "比亚迪回应车库火情",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%9B%9E%E5%BA%94%E8%BD%A6%E5%BA%93%E7%81%AB%E6%83%85",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时22分 ~ 13时23分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收涨0.7%。 热门中概股里，金山云初步收涨6.4%，小马智行涨4.9%，晶科能源涨3.7%，比亚迪涨4.4%，拼多多涨0.6%，阿里巴巴涨0.5%。 ETF中，CQQQ涨1.2%，KWEB涨0.1%。",
-          "url": "https://wallstreetcn.com/livenews/3087145",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时55分"
-        },
-        {
-          "title": "瑞银集团：将特斯拉(TSLA.O)评级上调至“中性”，此前为“卖出”。",
-          "url": "https://flash.jin10.com/detail/20260414184746780800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时03分"
-        },
-        {
-          "title": "宝马德国市场销量显著增长，增幅达10.7%。",
-          "url": "https://flash.jin10.com/detail/20260414170103807800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时17分"
-        },
-        {
-          "title": "交管回应新能源车牌褪色攻略",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%A4%E7%AE%A1%E5%9B%9E%E5%BA%94%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E7%89%8C%E8%A4%AA%E8%89%B2%E6%94%BB%E7%95%A5%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时29分"
-        },
-        {
-          "title": "宝马集团一季度纯电动汽车销量下降20.1%；一季度欧洲纯电动汽车订单增长约40%。",
-          "url": "https://flash.jin10.com/detail/20260414170054344800",
+          "title": "欧洲央行管委马赫鲁夫：若冲击使通胀偏离目标但不具持续性，我们应采取审慎的应对措施。",
+          "url": "https://flash.jin10.com/detail/20260415002005340800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时17分"
+          "time_info": "01时06分"
         },
         {
-          "title": "纳斯达克金龙中国指数收涨0.72%，报6855.75点。 热门中概股里，金山云初步收涨6.4%，小马智行涨4.9%，晶科能源涨3.7%，比亚迪涨4.4%，拼多多涨0.6%，阿里巴巴涨0.5%。 ETF中，中国科技指数ETF（CQQQ）收涨1.13%，中概互联网指数ETF（KWEB）收涨0.07%。 德银嘉实沪深300指数ETF（ASHR）收涨1.01%，XtrackersHarvest中证50（ASHS）收涨0.70%。",
-          "url": "https://wallstreetcn.com/livenews/3087145",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时48分"
-        },
-        {
-          "title": "比亚迪回应坪山园区一立体车库火情：为试验及报废车辆专用停放区，火势已扑灭，无人员伤亡",
-          "url": "https://wallstreetcn.com/livenews/3087289",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时28分"
-        },
-        {
-          "title": "宝马一季度交付量下降3.5%，至565,748辆。",
-          "url": "https://flash.jin10.com/detail/20260414170026661800",
+          "title": "欧洲央行管委马赫鲁夫：我们绝对专注于实现通胀目标。",
+          "url": "https://flash.jin10.com/detail/20260415001908136800",
           "source": "金十数据",
           "ranks": [
-            27
+            26
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时17分"
+          "time_info": "01时06分"
+        },
+        {
+          "title": "IMF：日本央行等主要央行暂无迫切必要加息",
+          "url": "https://wallstreetcn.com/livenews/3087867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时06分"
         }
       ]
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 6,
+      "match_count": 2,
       "titles": [
         {
           "title": "库克开窍,折叠iPhone定版",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353208&amp;topic_name=%E5%BA%93%E5%85%8B%E5%BC%80%E7%AA%8D%2C%E6%8A%98%E5%8F%A0iPhone%E5%AE%9A%E7%89%88",
           "source": "贴吧",
           "ranks": [
-            11,
-            12,
-            17,
-            18
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时29分 ~ 23时13分]"
-        },
-        {
-          "title": "苹果新款平价电脑MacBook Neo首批产品已售罄 正向供应商紧急追加大量订单",
-          "url": "https://flash.jin10.com/detail/20260414151722914800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时29分"
-        },
-        {
-          "title": "折叠屏iPhone外观实锤",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%8A%98%E5%8F%A0%E5%B1%8FiPhone%E5%A4%96%E8%A7%82%E5%AE%9E%E9%94%A4%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时29分"
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 01时06分]"
         },
         {
           "title": "谁懂这次换手机的意义",
-          "url": "https://s.weibo.com/weibo?q=%E8%B0%81%E6%87%82%E8%BF%99%E6%AC%A1%E6%8D%A2%E6%89%8B%E6%9C%BA%E7%9A%84%E6%84%8F%E4%B9%89&t=31&band_rank=5&Refer=top",
+          "url": "https://s.weibo.com/weibo?q=%E8%B0%81%E6%87%82%E8%BF%99%E6%AC%A1%E6%8D%A2%E6%89%8B%E6%9C%BA%E7%9A%84%E6%84%8F%E4%B9%89&t=31&band_rank=19&Refer=top",
           "source": "微博",
           "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时23分 ~ 23时13分]"
-        },
-        {
-          "title": "华为夺一季度中国手机出货量第一",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%A4%BA%E4%B8%80%E5%AD%A3%E5%BA%A6%E4%B8%AD%E5%9B%BD%E6%89%8B%E6%9C%BA%E5%87%BA%E8%B4%A7%E9%87%8F%E7%AC%AC%E4%B8%80%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时22分 ~ 13时23分]"
-        },
-        {
-          "title": "「学生手机」因远程管控、实时定位功能在家长圈走红，孩子却感觉像被监视，保护孩子和侵犯隐私的边界在哪？",
-          "url": "https://www.zhihu.com/question/2024940444648259844",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时27分 ~ 10时28分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "OpenAI伦敦设立永久办公室",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E4%BC%A6%E6%95%A6%E8%AE%BE%E7%AB%8B%E6%B0%B8%E4%B9%85%E5%8A%9E%E5%85%AC%E5%AE%A4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时22分 ~ 15时29分]"
-        },
-        {
-          "title": "美国FBI局长：今天早上，FBI及合作伙伴在得州开展了一项行动，拘留了一名与上周五早上袭击OpenAI首席执行官Sam Altman家有关的嫌疑人。",
-          "url": "https://flash.jin10.com/detail/20260414043421131800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时55分 ~ 05时48分]"
-        },
-        {
-          "title": "火药味十足！OpenAI高管点名Anthropic“虚增80亿美元营收”",
-          "url": "https://flash.jin10.com/detail/20260414151445573800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时29分"
-        },
-        {
-          "title": "OpenAI估值8520亿美元遭质疑：押注企业市场，投资人直言“失焦”",
-          "url": "https://flash.jin10.com/detail/20260414124747645800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时23分"
+          "time_info": "[01时05分 ~ 01时06分]"
         }
       ]
     },
@@ -798,26 +136,26 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 01时06分]"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "随着OpenAI战略转型，投资者对其8520亿美元的估值提出质疑，部分投资者称，这些变化可能使OpenAI容易受到Anthropic和谷歌的冲击。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3087405",
+          "title": "微软将接管挪威Stargate Data Center（星际之门数据中心），该项目原本是为OpenAI准备的。",
+          "url": "https://wallstreetcn.com/livenews/3087885",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时23分"
+          "time_info": "01时06分"
         }
       ]
     }
