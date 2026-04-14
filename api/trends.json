@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-14T19:03:28.995286+08:00",
-  "total_titles_processed": 1500,
+  "generated_at": "2026-04-14T21:24:05.400632+08:00",
+  "total_titles_processed": 1657,
   "failed_sources": [],
   "trends": [
     {
@@ -55,11 +55,12 @@
           "ranks": [
             1,
             6,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时27分 ~ 19时03分]"
+          "appearance_count": 9,
+          "time_info": "[10时27分 ~ 21时24分]"
         },
         {
           "title": "官方通报深圳比亚迪车库起火",
@@ -72,8 +73,22 @@
             19
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时27分 ~ 21时24分]"
+        },
+        {
+          "title": "比亚迪回应坪山园区一立体车库火情：为试验及报废车辆专用停放区，火势已扑灭，无人员伤亡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32964967",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[10时27分 ~ 19时03分]"
+          "time_info": "[13时22分 ~ 21时24分]"
         },
         {
           "title": "官方通报深圳比亚迪火灾",
@@ -97,20 +112,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时27分 ~ 13时23分]"
-        },
-        {
-          "title": "比亚迪回应坪山园区一立体车库火情：为试验及报废车辆专用停放区，火势已扑灭，无人员伤亡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32964967",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时22分 ~ 19时03分]"
         },
         {
           "title": "中方回应巴西将比亚迪移出相关名单",
@@ -183,6 +184,18 @@
           "time_info": "[03时24分 ~ 06时42分]"
         },
         {
+          "title": "深圳比亚迪一立体车库发生火情，比亚迪称车库为试验及报废车辆专用，起火原因可能是什么？对比亚迪影响大吗？",
+          "url": "https://www.zhihu.com/question/2027305938130924161",
+          "source": "知乎",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时17分 ~ 21时24分]"
+        },
+        {
           "title": "深圳比亚迪一立体车库发生火情，无人员伤亡，具体什么情况？起火原因可能是什么？",
           "url": "https://www.zhihu.com/question/2027305938130924161",
           "source": "知乎",
@@ -215,17 +228,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时54分 ~ 05时48分]"
-        },
-        {
-          "title": "深圳比亚迪一立体车库发生火情，比亚迪称车库为试验及报废车辆专用，起火原因可能是什么？对比亚迪影响大吗？",
-          "url": "https://www.zhihu.com/question/2027305938130924161",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 19时03分]"
         },
         {
           "title": "比亚迪回应车库火灾",
@@ -267,7 +269,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -341,7 +343,7 @@
     },
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "在被问及收益率上升时表示，日本财务大臣片山皋月表示，将继续与日本国债市场参与者保持密切沟通；具体的货币政策操作由日本央行决定。",
@@ -366,6 +368,40 @@
           "time_info": "17时17分"
         },
         {
+          "title": "IMF首席经济学家古兰沙：各国央行需警惕工资-物价螺旋式上升的迹象。",
+          "url": "https://flash.jin10.com/detail/20260414211932734800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
+          "title": "IMF首席经济学家古兰沙：各国央行无需立即踩下刹车。",
+          "url": "https://flash.jin10.com/detail/20260414211924407800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
+          "title": "央行：将开展5000亿元买断式逆回购",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%EF%BC%9A%E5%B0%86%E5%BC%80%E5%B1%955000%E4%BA%BF%E5%85%83%E4%B9%B0%E6%96%AD%E5%BC%8F%E9%80%86%E5%9B%9E%E8%B4%AD",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时03分 ~ 21时24分]"
+        },
+        {
           "title": "乌克兰央行行长：我们认为，乌克兰国防企业不会出现大量的系统性风险。",
           "url": "https://wallstreetcn.com/livenews/3087104",
           "source": "华尔街见闻-快讯",
@@ -387,6 +423,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
+        },
+        {
+          "title": "IMF首席经济学家古兰沙：在20世纪70年代，各国央行更关注支持经济活动，而非物价稳定。",
+          "url": "https://flash.jin10.com/detail/20260414211852229800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
         },
         {
           "title": "英国央行行长贝利警告私人信贷风险上升",
@@ -499,17 +546,6 @@
           "time_info": "01时59分"
         },
         {
-          "title": "央行：将开展5000亿元买断式逆回购",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%EF%BC%9A%E5%B0%86%E5%BC%80%E5%B1%955000%E4%BA%BF%E5%85%83%E4%B9%B0%E6%96%AD%E5%BC%8F%E9%80%86%E5%9B%9E%E8%B4%AD",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时03分"
-        },
-        {
           "title": "欧洲央行：欧元区必须更加像一个单一司法管辖区运作，允许资本和流动性在银行集团内部自由流动。",
           "url": "https://flash.jin10.com/detail/20260414170239605800",
           "source": "金十数据",
@@ -601,8 +637,19 @@
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "谁懂这次换手机的意义",
+          "url": "https://s.weibo.com/weibo?q=%E8%B0%81%E6%87%82%E8%BF%99%E6%AC%A1%E6%8D%A2%E6%89%8B%E6%9C%BA%E7%9A%84%E6%84%8F%E4%B9%89&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时23分 ~ 21时24分]"
+        },
         {
           "title": "苹果新款平价电脑MacBook Neo首批产品已售罄 正向供应商紧急追加大量订单",
           "url": "https://flash.jin10.com/detail/20260414151722914800",
@@ -635,8 +682,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时29分 ~ 19时03分]"
+          "appearance_count": 5,
+          "time_info": "[15时29分 ~ 21时24分]"
         },
         {
           "title": "华为夺一季度中国手机出货量第一",
