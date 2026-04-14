@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-14T06:42:45.425681+08:00",
-  "total_titles_processed": 626,
+  "generated_at": "2026-04-14T08:05:32.938317+08:00",
+  "total_titles_processed": 729,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "在被问及收益率上升时表示，日本财务大臣片山皋月表示，将继续与日本国债市场参与者保持密切沟通；具体的货币政策操作由日本央行决定。",
+          "url": "https://wallstreetcn.com/livenews/3087227",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
         {
           "title": "乌克兰央行行长：我们认为，乌克兰国防企业不会出现大量的系统性风险。",
           "url": "https://wallstreetcn.com/livenews/3087104",
@@ -161,6 +172,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "澳洲联储副主席Hauser：对澳大利亚而言，能源价格上涨是一个重大的收入冲击。 央行的噩梦就是通胀上扬、经济活动下滑。 对于某些国家而言，财政主导型可能会成为一个问题。 不希望中期通胀预期上扬。 能源价格对经济活动的影响是一个重大问题。",
+          "url": "https://wallstreetcn.com/livenews/3087196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
         }
       ]
     },
@@ -177,8 +199,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 06时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 08时05分]"
         },
         {
           "title": "新能源车牌绿色变白色？交管部门回应",
@@ -189,11 +211,12 @@
             16,
             10,
             9,
-            7
+            7,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 06时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 08时05分]"
         },
         {
           "title": "比亚迪财务总监年薪 1013 万元，多名高管薪酬迈入千万级，在业内是什么水平？车企薪资在市场上竞争力如何？",
@@ -203,8 +226,37 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 06时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 08时05分]"
+        },
+        {
+          "title": "中方回应巴西将比亚迪移出相关名单",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B7%B4%E8%A5%BF%E5%B0%86%E6%AF%94%E4%BA%9A%E8%BF%AA%E7%A7%BB%E5%87%BA%E7%9B%B8%E5%85%B3%E5%90%8D%E5%8D%95",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            23,
+            28,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 08时05分]"
+        },
+        {
+          "title": "中方回应巴西将比亚迪移出相关名单",
+          "url": "https://www.toutiao.com/trending/7627501811481657380/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            23,
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时59分 ~ 08时05分]"
         },
         {
           "title": "【焦点复盘】三大指数延续缩量反弹，AI、新能源赛道双线共振，“宁王”A+H总市值一度突破2万亿",
@@ -218,33 +270,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时24分 ~ 06时42分]"
-        },
-        {
-          "title": "中方回应巴西将比亚迪移出相关名单",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B7%B4%E8%A5%BF%E5%B0%86%E6%AF%94%E4%BA%9A%E8%BF%AA%E7%A7%BB%E5%87%BA%E7%9B%B8%E5%85%B3%E5%90%8D%E5%8D%95",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            23,
-            28,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 06时42分]"
-        },
-        {
-          "title": "中方回应巴西将比亚迪移出相关名单",
-          "url": "https://www.toutiao.com/trending/7627501811481657380/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            23,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时59分 ~ 06时42分]"
         },
         {
           "title": "巴西将比亚迪移出所谓涉“奴役劳动”名单，外交部回应",
