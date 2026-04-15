@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T18:59:02.587059+08:00",
-  "total_titles_processed": 1465,
+  "generated_at": "2026-04-15T19:59:14.676664+08:00",
+  "total_titles_processed": 1573,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "央行抛售黄金只是“战术性”操作？主要消费国或逢低买入托底",
@@ -133,6 +133,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "策略师：投资者对英国央行加息的预期似乎过于激进",
+          "url": "https://flash.jin10.com/detail/20260415194552741800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
         },
         {
           "title": "国际货币基金组织（IMF）总裁格奥尔基耶娃：如果战争在两周内结束，全球经济仍能实现快速复苏。 如果我们看到整个夏季持续动荡，我们将处于不利局面。 全球经济中仍有20%的石油和天然气供应处于缺失状态。 正与各国讨论其需求，以便我们能为他们筹集支持。 如果中央银行过早收紧政策，可能会窒息经济增长。 如果影响持续的时间足以让价格的二轮效应显现，那么许多央行就需要采取行动。",
@@ -273,7 +284,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时59分"
         },
@@ -436,11 +447,12 @@
           "ranks": [
             14,
             17,
-            21
+            21,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时23分 ~ 18时59分]"
+          "appearance_count": 9,
+          "time_info": "[13时23分 ~ 19时59分]"
         },
         {
           "title": "姚安娜代言华为新手机",
@@ -448,11 +460,25 @@
           "source": "百度热搜",
           "ranks": [
             13,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时18分 ~ 18时59分]"
+          "appearance_count": 6,
+          "time_info": "[17时18分 ~ 19时59分]"
+        },
+        {
+          "title": "姚安娜代言华为新手机",
+          "url": "https://www.toutiao.com/trending/7628813839002173490/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时18分 ~ 19时59分]"
         },
         {
           "title": "苹果官方发文提醒",
@@ -464,6 +490,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
+        },
+        {
+          "title": "网红B太帮扶的大山女孩用苹果手机",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2B%E5%A4%AA%E5%B8%AE%E6%89%B6%E7%9A%84%E5%A4%A7%E5%B1%B1%E5%A5%B3%E5%AD%A9%E7%94%A8%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时18分 ~ 19时59分]"
         },
         {
           "title": "IDC：2026年第一季度全球智能手机出货量下降4.1%",
@@ -489,27 +526,15 @@
           "time_info": "[10时26分 ~ 13时23分]"
         },
         {
-          "title": "姚安娜代言华为新手机",
-          "url": "https://www.toutiao.com/trending/7628813839002173490/",
-          "source": "今日头条",
+          "title": "春天了，能不能看看你手机里拍的花？",
+          "url": "https://www.zhihu.com/question/1894493957167219311",
+          "source": "知乎",
           "ranks": [
-            7,
             20
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[17时18分 ~ 18时59分]"
-        },
-        {
-          "title": "网红B太帮扶的大山女孩用苹果手机",
-          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2B%E5%A4%AA%E5%B8%AE%E6%89%B6%E7%9A%84%E5%A4%A7%E5%B1%B1%E5%A5%B3%E5%AD%A9%E7%94%A8%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时18分 ~ 18时59分]"
+          "time_info": "[18时58分 ~ 19时59分]"
         },
         {
           "title": "B太帮扶大山女孩用苹果手机",
@@ -546,17 +571,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时18分 ~ 17时19分]"
-        },
-        {
-          "title": "春天了，能不能看看你手机里拍的花？",
-          "url": "https://www.zhihu.com/question/1894493957167219311",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时58分 ~ 18时59分]"
         },
         {
           "title": "苹果提醒用户更新iOS以免受网页攻击",
@@ -650,6 +664,20 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "LOL新赛季:黄昏人称小神分",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353258&amp;topic_name=LOL%E6%96%B0%E8%B5%9B%E5%AD%A3%3A%E9%BB%84%E6%98%8F%E4%BA%BA%E7%A7%B0%E5%B0%8F%E7%A5%9E%E5%88%86",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            10,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时30分 ~ 19时59分]"
+        },
+        {
           "title": "Uzi 称「很多退役的选手就不想玩英雄联盟了」，这反映了电竞职业的哪些特点？",
           "url": "https://www.zhihu.com/question/2020132108971057763",
           "source": "知乎",
@@ -664,19 +692,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[04时53分 ~ 13时23分]"
-        },
-        {
-          "title": "LOL新赛季:黄昏人称小神分",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353258&amp;topic_name=LOL%E6%96%B0%E8%B5%9B%E5%AD%A3%3A%E9%BB%84%E6%98%8F%E4%BA%BA%E7%A7%B0%E5%B0%8F%E7%A5%9E%E5%88%86",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时30分 ~ 18时59分]"
         },
         {
           "title": "英雄联盟万魔殿系列皮肤揭晓",
@@ -733,7 +748,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "月薪3万，去内蒙草原给DeepSeek守机房",
@@ -749,6 +764,17 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[01时05分 ~ 17时19分]"
+        },
+        {
+          "title": "DeepSeek招人去内蒙草原“守机房”",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%8B%9B%E4%BA%BA%E5%8E%BB%E5%86%85%E8%92%99%E8%8D%89%E5%8E%9F%E2%80%9C%E5%AE%88%E6%9C%BA%E6%88%BF%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时58分 ~ 19时59分]"
         }
       ]
     },
