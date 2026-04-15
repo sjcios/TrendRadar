@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-16T03:16:18.086075+08:00",
-  "total_titles_processed": 409,
+  "generated_at": "2026-04-16T04:46:02.186853+08:00",
+  "total_titles_processed": 483,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "国家安全部官方入驻抖音",
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 03时16分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 04时46分]"
         },
         {
           "title": "据知情人士透露，欧洲央行官员们对4月加息前景保持谨慎态度，因为还没有关于第二轮通胀效应的证据。（路透）",
@@ -37,9 +37,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "欧洲央行执行理事会成员Isabel Schnabel：通胀预期可能会变得更加脆弱。 欧洲央行可以承受“花时间来分析伊朗战争带来的冲击”所产生的影响。",
+          "url": "https://wallstreetcn.com/livenews/3088774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时46分"
         },
         {
           "title": "英国央行行长贝利：关税不是解决失衡的正确方式。",
@@ -48,7 +59,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
         },
@@ -59,7 +70,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
         },
@@ -81,9 +92,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "IMF：日本央行可忽略中东冲突带来的通胀冲击",
+          "url": "https://flash.jin10.com/detail/20260416034110225800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时46分"
+        },
+        {
+          "title": "国际货币基金组织：日本央行可以忽略来自中东冲突的通胀压力，因为二轮通胀效应将较为温和。",
+          "url": "https://flash.jin10.com/detail/20260416033534437800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时46分"
         },
         {
           "title": "英国央行行长贝利：关税并非解决（贸易）失衡问题的正确途径。",
@@ -92,7 +125,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
         },
@@ -120,7 +153,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
         },
@@ -142,44 +175,15 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
         }
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "DeepSeek招人去内蒙草原“守机房”",
-          "url": "https://www.toutiao.com/trending/7628152198593691675/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 03时16分]"
-        },
-        {
-          "title": "DeepSeek高薪招聘数据中心人才",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E9%AB%98%E8%96%AA%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E4%BA%BA%E6%89%8D%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "宝马发布“内涵”视频",
@@ -191,6 +195,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时02分 ~ 01时03分]"
+        },
+        {
+          "title": "美股收盘：标普500、纳指创新高 特斯拉涨逾7%",
+          "url": "https://flash.jin10.com/detail/20260416040118406800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时46分"
         },
         {
           "title": "特斯拉股价上涨7.9%，有望创下九个多月以来的最大单日涨幅。",
@@ -206,6 +221,36 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepSeek招人去内蒙草原“守机房”",
+          "url": "https://www.toutiao.com/trending/7628152198593691675/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 04时46分]"
+        },
+        {
+          "title": "DeepSeek高薪招聘数据中心人才",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E9%AB%98%E8%96%AA%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E4%BA%BA%E6%89%8D%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 01时03分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "英雄联盟 LOL",
       "match_count": 1,
       "titles": [
@@ -217,8 +262,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 03时16分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 04时46分]"
         }
       ]
     },
@@ -232,11 +277,12 @@
           "source": "抖音",
           "ranks": [
             27,
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 03时16分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 04时46分]"
         }
       ]
     }
