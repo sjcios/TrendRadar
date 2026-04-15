@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-16T06:50:02.845180+08:00",
-  "total_titles_processed": 571,
+  "generated_at": "2026-04-16T07:50:22.251683+08:00",
+  "total_titles_processed": 639,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "国家安全部官方入驻抖音",
@@ -18,19 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时02分 ~ 06时50分]"
-        },
-        {
-          "title": "行长贝利：英国央行不急于加息",
-          "url": "https://wallstreetcn.com/livenews/3088811",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时50分"
+          "appearance_count": 10,
+          "time_info": "[01时02分 ~ 07时50分]"
         },
         {
           "title": "据知情人士透露，欧洲央行官员们对4月加息前景保持谨慎态度，因为还没有关于第二轮通胀效应的证据。（路透）",
@@ -44,15 +33,16 @@
           "time_info": "01时03分"
         },
         {
-          "title": "报道：欧洲央行官员们倾向于4月份按兵不动",
-          "url": "https://wallstreetcn.com/livenews/3088806",
+          "title": "行长贝利：英国央行不急于加息",
+          "url": "https://wallstreetcn.com/livenews/3088811",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            1,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时50分 ~ 07时50分]"
         },
         {
           "title": "英国央行行长贝利：通胀正在上升。 伊朗战争将对（经济）活动造成负面影响。 这是一个非常重大的能源冲击。 （伊朗战争产生的）增速和通胀影响难以权衡。 （美国和以色列发动）伊朗战争之前，我本来预计会降息1-2次。 当前，这不再是我们的中心预期。",
@@ -65,6 +55,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时52分 ~ 06时50分]"
+        },
+        {
+          "title": "报道：欧洲央行官员们倾向于4月份按兵不动",
+          "url": "https://wallstreetcn.com/livenews/3088806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时50分 ~ 07时50分]"
         },
         {
           "title": "欧洲央行执行理事会成员Isabel Schnabel：通胀预期可能会变得更加脆弱。 欧洲央行可以承受“花时间来分析伊朗战争带来的冲击”所产生的影响。",
@@ -160,6 +162,17 @@
           "time_info": "03时16分"
         },
         {
+          "title": "市场消息：欧洲央行官员表示倾向于在四月维持利率不变。",
+          "url": "https://flash.jin10.com/detail/20260416062019611800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时50分"
+        },
+        {
           "title": "消息人士：欧洲央行政策制定者对4月加息持谨慎态度，因为尚无二轮通胀效应的证据。",
           "url": "https://flash.jin10.com/detail/20260416003043749800",
           "source": "金十数据",
@@ -240,19 +253,31 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "中信建投：Anthropic最强模型Mythos推出，重点推荐谷歌链",
+          "url": "https://wallstreetcn.com/livenews/3088828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时50分"
+        },
         {
           "title": "谷歌关联公司拟发57亿美元垃圾债 助力数据中心建设",
           "url": "https://flash.jin10.com/detail/20260416045257037800",
           "source": "金十数据",
           "ranks": [
             4,
-            17
+            17,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时52分 ~ 06时50分]"
+          "appearance_count": 3,
+          "time_info": "[05时52分 ~ 07时50分]"
         },
         {
           "title": "市场消息：谷歌母公司Alphabet有望从其对SpaceX的投资中获得约1000亿美元的巨额回报。",
@@ -291,8 +316,19 @@
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "谈判曙光与强劲财报双重提振市场，标普历史新高，纳指十一连涨，特斯拉大涨近8%",
+          "url": "https://wallstreetcn.com/articles/3770007",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时50分"
+        },
         {
           "title": "宝马发布“内涵”视频",
           "url": "https://www.toutiao.com/trending/7628215678529749046/",
@@ -342,11 +378,12 @@
             10,
             29,
             28,
-            20
+            20,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时02分 ~ 06时50分]"
+          "appearance_count": 10,
+          "time_info": "[01时02分 ~ 07时50分]"
         },
         {
           "title": "DeepSeek高薪招聘数据中心人才",
@@ -376,8 +413,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时02分 ~ 06时50分]"
+          "appearance_count": 10,
+          "time_info": "[01时02分 ~ 07时50分]"
         },
         {
           "title": "姚安娜代言华为新手机",
@@ -402,11 +439,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            15
+            15,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时52分 ~ 06时50分]"
+          "appearance_count": 3,
+          "time_info": "[05时52分 ~ 07时50分]"
         }
       ]
     },
@@ -422,8 +460,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时02分 ~ 06时50分]"
+          "appearance_count": 10,
+          "time_info": "[01时02分 ~ 07时50分]"
         }
       ]
     }
