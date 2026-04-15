@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T10:26:51.677441+08:00",
-  "total_titles_processed": 854,
+  "generated_at": "2026-04-15T13:23:33.149114+08:00",
+  "total_titles_processed": 1018,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 26,
+      "match_count": 31,
       "titles": [
         {
           "title": "央行抛售黄金只是“战术性”操作？主要消费国或逢低买入托底",
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
         },
@@ -47,9 +47,31 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
+        },
+        {
+          "title": "安永：英国央行可能不会加息",
+          "url": "https://flash.jin10.com/detail/20260415125303907800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
+          "title": "印度央行就如何提高居民存款与商业银行展开会谈",
+          "url": "https://flash.jin10.com/detail/20260415125208067800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
         },
         {
           "title": "欧洲央行行长拉加德：不会允许通胀预期脱锚。",
@@ -146,6 +168,17 @@
           "time_info": "03时14分"
         },
         {
+          "title": "央行发布 2026 年一季度及 3 月社融初步数据，存量同比增 7.9%，M2 维持 8% 以上增长，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2027320025485177826",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
           "title": "欧洲央行管委Makhlouf：如果冲击持续存在，欧洲央行将采取强有力的行动。",
           "url": "https://wallstreetcn.com/livenews/3087879",
           "source": "华尔街见闻-快讯",
@@ -163,7 +196,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
         },
@@ -179,13 +212,24 @@
           "time_info": "01时06分"
         },
         {
+          "title": "印度央行与银行就如何增加存款进行会谈。",
+          "url": "https://flash.jin10.com/detail/20260415123643610800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
           "title": "韩国央行行长提名人申铉松：韩元过度走弱并不可取。 韩国面临滞胀的风险较低。 价格稳定是经济稳定增长的必要条件。 若伊朗战争引发持续的通胀压力，货币政策需要采取行动。",
           "url": "https://wallstreetcn.com/livenews/3088087",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
         },
@@ -251,7 +295,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
         },
@@ -284,9 +328,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
+        },
+        {
+          "title": "小红书开源大模型强化学习训练引擎Relax",
+          "url": "https://wallstreetcn.com/livenews/3088171",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
         },
         {
           "title": "4月初以来市场流动性偏松，央行6个月期买断式逆回购继续缩量续作",
@@ -303,7 +358,7 @@
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "库克开窍,折叠iPhone定版",
@@ -311,11 +366,12 @@
           "source": "贴吧",
           "ranks": [
             19,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时05分 ~ 10时26分]"
+          "appearance_count": 11,
+          "time_info": "[01时05分 ~ 13时23分]"
         },
         {
           "title": "苹果官方发文提醒",
@@ -324,18 +380,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "苹果紧急提醒：iPhone用户立即更新",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E7%B4%A7%E6%80%A5%E6%8F%90%E9%86%92%EF%BC%9AiPhone%E7%94%A8%E6%88%B7%E7%AB%8B%E5%8D%B3%E6%9B%B4%E6%96%B0",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
         },
@@ -346,9 +391,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
+        },
+        {
+          "title": "苹果紧急提醒：iPhone用户立即更新",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E7%B4%A7%E6%80%A5%E6%8F%90%E9%86%92%EF%BC%9AiPhone%E7%94%A8%E6%88%B7%E7%AB%8B%E5%8D%B3%E6%9B%B4%E6%96%B0",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时26分 ~ 13时23分]"
         },
         {
           "title": "谁懂这次换手机的意义",
@@ -369,9 +426,42 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
+        },
+        {
+          "title": "苹果发风险提示",
+          "url": "https://www.douyin.com/hot/2466517",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
+          "title": "全球智能手机出货量同比下降6%，荣耀苹果逆势增长",
+          "url": "https://wallstreetcn.com/livenews/3088182",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
+          "title": "B太帮扶大山女孩用苹果手机",
+          "url": "https://s.weibo.com/weibo?q=%23B%E5%A4%AA%E5%B8%AE%E6%89%B6%E5%A4%A7%E5%B1%B1%E5%A5%B3%E5%AD%A9%E7%94%A8%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
         }
       ]
     },
@@ -451,22 +541,52 @@
             15,
             11,
             7,
-            4
+            4,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时53分 ~ 10时26分]"
+          "appearance_count": 7,
+          "time_info": "[04时53分 ~ 13时23分]"
         },
         {
           "title": "英雄联盟万魔殿系列皮肤揭晓",
           "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E4%B8%87%E9%AD%94%E6%AE%BF%E7%B3%BB%E5%88%97%E7%9A%AE%E8%82%A4%E6%8F%AD%E6%99%93",
           "source": "bilibili 热搜",
           "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时26分 ~ 13时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "A股燃气板块震荡下挫，美能能源触及跌停，天壕能源、深圳燃气、水发燃气、国新能源、升达林业跟跌。",
+          "url": "https://flash.jin10.com/detail/20260415100303856800",
+          "source": "金十数据",
+          "ranks": [
             11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "交管部门回应新能源车牌绿色变白色",
+          "url": "https://www.toutiao.com/trending/7628155078448676870/",
+          "source": "今日头条",
+          "ranks": [
+            30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时26分"
+          "time_info": "13时23分"
         }
       ]
     },
@@ -485,8 +605,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时05分 ~ 10时26分]"
+          "appearance_count": 11,
+          "time_info": "[01时05分 ~ 13时23分]"
         }
       ]
     },
@@ -522,23 +642,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时52分 ~ 06时44分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "A股燃气板块震荡下挫，美能能源触及跌停，天壕能源、深圳燃气、水发燃气、国新能源、升达林业跟跌。",
-          "url": "https://flash.jin10.com/detail/20260415100303856800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时26分"
         }
       ]
     }
