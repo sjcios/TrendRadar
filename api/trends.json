@@ -1,455 +1,106 @@
 {
-  "generated_at": "2026-04-16T23:25:52.296354+08:00",
-  "total_titles_processed": 1728,
+  "generated_at": "2026-04-17T01:57:21.350589+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 36,
+      "match_count": 8,
       "titles": [
         {
-          "title": "国家安全部官方入驻抖音",
-          "url": "https://www.douyin.com/hot/2466564",
-          "source": "抖音",
-          "ranks": [
-            6,
-            5,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时02分 ~ 07时50分]"
-        },
-        {
-          "title": "据知情人士透露，欧洲央行官员们对4月加息前景保持谨慎态度，因为还没有关于第二轮通胀效应的证据。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3088674",
+          "title": "以色列央行行长Yaron：下一届以色列政府将不得不设法削减债务规模。 重要的是，让债务规模重拾下行轨迹。 市场对以色列的看法非常正面。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3089510",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
-        },
-        {
-          "title": "行长贝利：英国央行不急于加息",
-          "url": "https://wallstreetcn.com/livenews/3088811",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时50分 ~ 07时50分]"
-        },
-        {
-          "title": "英国央行行长贝利：通胀正在上升。 伊朗战争将对（经济）活动造成负面影响。 这是一个非常重大的能源冲击。 （伊朗战争产生的）增速和通胀影响难以权衡。 （美国和以色列发动）伊朗战争之前，我本来预计会降息1-2次。 当前，这不再是我们的中心预期。",
-          "url": "https://wallstreetcn.com/livenews/3088787",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时52分 ~ 06时50分]"
-        },
-        {
-          "title": "报道：欧洲央行官员们倾向于4月份按兵不动",
-          "url": "https://wallstreetcn.com/livenews/3088806",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时50分 ~ 07时50分]"
-        },
-        {
-          "title": "欧洲央行执行理事会成员Isabel Schnabel：通胀预期可能会变得更加脆弱。 欧洲央行可以承受“花时间来分析伊朗战争带来的冲击”所产生的影响。",
-          "url": "https://wallstreetcn.com/livenews/3088774",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时46分 ~ 05时52分]"
-        },
-        {
-          "title": "欧洲央行执委施纳贝尔：我们必须保持对数据的依赖，仔细思考哪些数据能告诉我们通胀可能会变得根深蒂固，并产生二次影响。",
-          "url": "https://flash.jin10.com/detail/20260416043137623800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时52分 ~ 06时50分]"
-        },
-        {
-          "title": "欧洲央行执委施纳贝尔：我们处于相对有利的位置，因为在战争开始之前，我们成功将通胀降至2%，并且货币政策立场总体上是中性的。",
-          "url": "https://flash.jin10.com/detail/20260416043059246800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时52分 ~ 06时50分]"
-        },
-        {
-          "title": "欧洲央行执委施纳贝尔：欧洲央行可以花时间分析伊朗冲击。",
-          "url": "https://flash.jin10.com/detail/20260416043055184800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时52分 ~ 06时50分]"
-        },
-        {
-          "title": "欧洲央行执委施纳贝尔：必须非常谨慎地权衡政策决定。我们不想给经济带来不必要的成本。",
-          "url": "https://flash.jin10.com/detail/20260416042934019800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时52分 ~ 06时50分]"
-        },
-        {
-          "title": "蜜语纪抖音追剧团",
-          "url": "https://www.douyin.com/hot/2468500",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时28分 ~ 23时25分]"
-        },
-        {
-          "title": "维尼修斯入驻抖音",
-          "url": "https://www.douyin.com/hot/2467263",
-          "source": "抖音",
-          "ranks": [
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时44分 ~ 17时18分]"
-        },
-        {
-          "title": "市场消息：秘鲁央行进行了规模为20亿索尔的货币互换操作。",
-          "url": "https://flash.jin10.com/detail/20260416023837751800",
-          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时16分"
+          "time_info": "01时57分"
         },
         {
-          "title": "日本财务大臣片山皋月：许多央行官员称目前应该静观其变。",
-          "url": "https://wallstreetcn.com/livenews/3088938",
+          "title": "法国央行行长Villeroy：央行独立性是货币政策取得成功的先决条件。 经验表明，央行独立性有助于降低通胀、压低利率。",
+          "url": "https://wallstreetcn.com/livenews/3089509",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时33分"
+          "time_info": "01时57分"
         },
         {
-          "title": "抖音集团5亿扶持真人短剧",
-          "url": "https://www.douyin.com/hot/2467807",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        },
-        {
-          "title": "欧洲央行德马尔科：需要耐心，不要急于做出决定。",
-          "url": "https://flash.jin10.com/detail/20260416131621567800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        },
-        {
-          "title": "欧洲央行德马尔科：经济可能正朝着欧洲央行的不利情景发展。",
-          "url": "https://flash.jin10.com/detail/20260416131613739800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        },
-        {
-          "title": "英国央行行长贝利：关税不是解决失衡的正确方式。",
-          "url": "https://flash.jin10.com/detail/20260416023458935800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时16分"
-        },
-        {
-          "title": "欧洲央行德马尔科：通胀预期目前稳固，企业定价信号将至关重要。",
-          "url": "https://flash.jin10.com/detail/20260416131602772800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        },
-        {
-          "title": "欧洲央行管委Nagel：不能排除4月加息可能性，因伊朗局势很不明朗",
-          "url": "https://wallstreetcn.com/livenews/3088732",
+          "title": "德国央行行长Nagel：伊朗战争可能会将2026年经济增速拖累0.3个百分点。",
+          "url": "https://wallstreetcn.com/livenews/3089505",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时16分"
+          "time_info": "01时57分"
         },
         {
-          "title": "市场消息：欧洲央行官员表示倾向于在四月维持利率不变。",
-          "url": "https://flash.jin10.com/detail/20260416062019611800",
+          "title": "欧洲央行管委内格尔：欧洲央行必须保持选择的灵活性，尚不能做出承诺。",
+          "url": "https://flash.jin10.com/detail/20260417010254900800",
           "source": "金十数据",
           "ranks": [
-            12
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时50分"
+          "time_info": "01时57分"
         },
         {
-          "title": "欧洲央行德马尔科：如果不利情景成为现实，市场预期的两次加息是合理的。",
-          "url": "https://flash.jin10.com/detail/20260416131550962800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        },
-        {
-          "title": "消息人士：欧洲央行政策制定者对4月加息持谨慎态度，因为尚无二轮通胀效应的证据。",
-          "url": "https://flash.jin10.com/detail/20260416003043749800",
+          "title": "欧洲央行管委内格尔：伊朗战争可能会使德国今年的增长降低0.3个百分点。",
+          "url": "https://flash.jin10.com/detail/20260417010119453800",
           "source": "金十数据",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时03分"
+          "time_info": "01时57分"
         },
         {
-          "title": "经济学家：强劲增长难掩滞胀担忧，英国央行料暂时按兵不动",
-          "url": "https://flash.jin10.com/detail/20260416151214015800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时44分"
-        },
-        {
-          "title": "欧洲央行管委Villeroy：现在就侧重于4月行动与否还操之过急。",
-          "url": "https://wallstreetcn.com/livenews/3088728",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时16分"
-        },
-        {
-          "title": "IMF：日本央行可忽略中东冲突带来的通胀冲击",
-          "url": "https://flash.jin10.com/detail/20260416034110225800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "国际货币基金组织：日本央行可以忽略来自中东冲突的通胀压力，因为二轮通胀效应将较为温和。",
-          "url": "https://flash.jin10.com/detail/20260416033534437800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "欧洲央行执委施纳贝尔：高通胀的记忆依然非常鲜明。通胀预期可能更脆弱。",
-          "url": "https://flash.jin10.com/detail/20260416042621327800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时52分"
-        },
-        {
-          "title": "摩根大通：预计欧洲央行将在2026年6月和9月各加息25个基点，之前的预测是4月和7月加息。",
-          "url": "https://wallstreetcn.com/livenews/3089368",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "日本央行宣布将于5月21日至22日召开债券市场参与者会议。",
-          "url": "https://flash.jin10.com/detail/20260416150950405800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时44分"
-        },
-        {
-          "title": "英国央行行长贝利：关税并非解决（贸易）失衡问题的正确途径。",
-          "url": "https://wallstreetcn.com/livenews/3088722",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时16分"
-        },
-        {
-          "title": "欧洲央行管委穆勒：目前尚无确凿证据表明第二轮通胀效应。",
-          "url": "https://flash.jin10.com/detail/20260416130109555800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        },
-        {
-          "title": "欧洲央行管委穆勒：4月30日会议可能难以确定是否需要加息；6月会议将提供更多数据。",
-          "url": "https://flash.jin10.com/detail/20260416130100417800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        },
-        {
-          "title": "英国央行行长贝利：不会急于对加息做出判断",
-          "url": "https://flash.jin10.com/detail/20260416150838218800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时44分"
-        },
-        {
-          "title": "欧洲央行管委穆勒：仍然不能排除四月会议进行利率调整。",
-          "url": "https://flash.jin10.com/detail/20260416130029146800",
+          "title": "英国央行泰勒：市场在利率问题上曾操之过急，现已趋于平静",
+          "url": "https://flash.jin10.com/detail/20260417005711244800",
           "source": "金十数据",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时31分"
+          "time_info": "01时57分"
         },
         {
-          "title": "欧洲央行管委兼德国央行行长Nagel：我们应当非常警惕，非常谨慎。",
-          "url": "https://wallstreetcn.com/livenews/3088649",
-          "source": "华尔街见闻-快讯",
+          "title": "蜜语纪抖音追剧团",
+          "url": "https://www.douyin.com/hot/2468500",
+          "source": "抖音",
           "ranks": [
-            29
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时03分"
+          "time_info": "01时57分"
+        },
+        {
+          "title": "英国央行货币政策委员会（MPC）成员Taylor：预测已经表明，劳动力市场持续放松。 劳动力市场对伊朗战争的反应是英国央行（货币政策决定）的关键。 英国央行3月表决结果并没有方向性的边缘，而是一个暂停。",
+          "url": "https://wallstreetcn.com/livenews/3089490",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时57分"
         }
       ]
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 15,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "苹果发风险提示",
-          "url": "https://www.douyin.com/hot/2466517",
-          "source": "抖音",
-          "ranks": [
-            27,
-            22,
-            21,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时02分 ~ 07时50分]"
-        },
-        {
-          "title": "游戏主播芜湖大司马吐槽「每天需要狂送手机才能维持人气」，为什么现在游戏主播越来越难做了？",
-          "url": "https://www.zhihu.com/question/2027762134264673438",
-          "source": "知乎",
-          "ranks": [
-            5,
-            3,
-            1,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时31分 ~ 23时25分]"
-        },
         {
           "title": "如何看待 IDC 发布 2026 第一季度国内手机出货量数据，华为居首苹果次席，小米跌出前五？",
           "url": "https://www.zhihu.com/question/2027778862646408771",
@@ -458,422 +109,30 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时28分 ~ 23时25分]"
-        },
-        {
-          "title": "金立手机创始人曾赌博输掉十几亿",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E7%AB%8B%E6%89%8B%E6%9C%BA%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%9B%BE%E8%B5%8C%E5%8D%9A%E8%BE%93%E6%8E%89%E5%8D%81%E5%87%A0%E4%BA%BF%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时33分"
-        },
-        {
-          "title": "4月16日投资避雷针：1500亿白马股一季度亏损1.5亿 智能手机与电脑类收入减少",
-          "url": "https://www.cls.cn/detail/2345544",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时33分 ~ 15时44分]"
-        },
-        {
-          "title": "华尔街量化巨头签算力大单 苹果库克再度增持耐克 | 环球市场",
-          "url": "https://www.cls.cn/detail/2345535",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时33分 ~ 15时44分]"
-        },
-        {
-          "title": "刷手机有多累？现在AI能算出来了",
-          "url": "https://www.baidu.com/s?wd=%E5%88%B7%E6%89%8B%E6%9C%BA%E6%9C%89%E5%A4%9A%E7%B4%AF%EF%BC%9F%E7%8E%B0%E5%9C%A8AI%E8%83%BD%E7%AE%97%E5%87%BA%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 15时44分]"
-        },
-        {
-          "title": "陪91岁大爷玩手机月入5000",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%99%AA91%E5%B2%81%E5%A4%A7%E7%88%B7%E7%8E%A9%E6%89%8B%E6%9C%BA%E6%9C%88%E5%85%A55000%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时02分 ~ 21时28分]"
-        },
-        {
-          "title": "姚安娜代言华为新手机",
-          "url": "https://www.toutiao.com/trending/7628813839002173490/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时49分 ~ 06时50分]"
+          "time_info": "01时57分"
         },
         {
           "title": "十年前大学生每天用手机拍两秒",
           "url": "https://search.bilibili.com/all?keyword=%E5%8D%81%E5%B9%B4%E5%89%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%AF%8F%E5%A4%A9%E7%94%A8%E6%89%8B%E6%9C%BA%E6%8B%8D%E4%B8%A4%E7%A7%92",
           "source": "bilibili 热搜",
           "ranks": [
-            8
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时02分"
+          "time_info": "01时57分"
         },
         {
-          "title": "苹果CEO库克再度增持耐克股票 去年买入部分已浮亏25%",
-          "url": "https://www.cls.cn/detail/2345469",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时33分"
-        },
-        {
-          "title": "荣旗科技在互动平台表示，公司参与了苹果折叠屏手机中VC散热的外观缺陷检测。",
-          "url": "https://flash.jin10.com/detail/20260416151128566800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时44分"
-        },
-        {
-          "title": "小米史上最大电池手机曝光",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E7%94%B5%E6%B1%A0%E6%89%8B%E6%9C%BA%E6%9B%9D%E5%85%89%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时33分"
-        },
-        {
-          "title": "陪91岁大爷玩手机月入5000",
-          "url": "https://www.baidu.com/s?wd=%E9%99%AA91%E5%B2%81%E5%A4%A7%E7%88%B7%E7%8E%A9%E6%89%8B%E6%9C%BA%E6%9C%88%E5%85%A55000",
+          "title": "厦门地铁车厢内一乘客手机起火",
+          "url": "https://www.baidu.com/s?wd=%E5%8E%A6%E9%97%A8%E5%9C%B0%E9%93%81%E8%BD%A6%E5%8E%A2%E5%86%85%E4%B8%80%E4%B9%98%E5%AE%A2%E6%89%8B%E6%9C%BA%E8%B5%B7%E7%81%AB",
           "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "台积电：对AI的超级趋势有强烈信心，未来三年的资本支出将显著高于过去三年。 我们正在准备产能以满足客户需求。 内存价格上涨对个人电脑和智能手机市场有一定影响。 努力加快美国亚利桑那州工厂建设进度，希望在亚利桑那州兴建更多晶圆厂。",
-          "url": "https://wallstreetcn.com/livenews/3089070",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "谈判曙光与强劲财报双重提振市场，标普历史新高，纳指十一连涨，特斯拉大涨近8%",
-          "url": "https://wallstreetcn.com/articles/3770007",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时50分 ~ 23时25分]"
-        },
-        {
-          "title": "特斯拉AI芯片里程碑！马斯克官宣AI5成功流片，双芯性能对标Blackwell",
-          "url": "https://wallstreetcn.com/articles/3770049",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时33分 ~ 19时02分]"
-        },
-        {
-          "title": "港股新能源汽车股走高，比亚迪股份(01211.HK)涨5%，零跑汽车(09863.HK)、吉利汽车(00175.HK)涨2.6%，小鹏集团(09868.HK)、小米集团(01810.HK)涨超2%。",
-          "url": "https://flash.jin10.com/detail/20260416132026640800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        },
-        {
-          "title": "“仙人”要名表奥迪 女子转账194万",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BB%99%E4%BA%BA%E2%80%9D%E8%A6%81%E5%90%8D%E8%A1%A8%E5%A5%A5%E8%BF%AA+%E5%A5%B3%E5%AD%90%E8%BD%AC%E8%B4%A6194%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            29,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时18分 ~ 21时28分]"
-        },
-        {
-          "title": "宝马发布“内涵”视频",
-          "url": "https://www.toutiao.com/trending/7628215678529749046/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
-        },
-        {
-          "title": "美股收盘：标普500、纳指创新高 特斯拉涨逾7%",
-          "url": "https://flash.jin10.com/detail/20260416040118406800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时46分 ~ 05时52分]"
-        },
-        {
-          "title": "宝马中国宣传片疑似讽刺友商",
-          "url": "https://www.toutiao.com/trending/7628617507208695332/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        },
-        {
-          "title": "刘翔直言中国新能源车太顶了",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E7%BF%94%E7%9B%B4%E8%A8%80%E4%B8%AD%E5%9B%BD%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E5%A4%AA%E9%A1%B6%E4%BA%86%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "特斯拉股价上涨7.9%，有望创下九个多月以来的最大单日涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3088654",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
-        },
-        {
-          "title": "特斯拉拟在上海生产人形机器人",
-          "url": "https://wallstreetcn.com/livenews/3089221",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
-          "title": "“仙人”要名表奥迪？女子转账194万",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BB%99%E4%BA%BA%E2%80%9D%E8%A6%81%E5%90%8D%E8%A1%A8%E5%A5%A5%E8%BF%AA%EF%BC%9F%E5%A5%B3%E5%AD%90%E8%BD%AC%E8%B4%A6194%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "中信建投：Anthropic最强模型Mythos推出，重点推荐谷歌链",
-          "url": "https://wallstreetcn.com/livenews/3088828",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时50分"
-        },
-        {
-          "title": "谷歌关联公司拟发57亿美元垃圾债 助力数据中心建设",
-          "url": "https://flash.jin10.com/detail/20260416045257037800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            17,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时52分 ~ 07时50分]"
-        },
-        {
-          "title": "市场消息：谷歌母公司Alphabet有望从其对SpaceX的投资中获得约1000亿美元的巨额回报。",
-          "url": "https://flash.jin10.com/detail/20260416023532344800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时16分"
-        },
-        {
-          "title": "据The Information，谷歌与五角大楼讨论机密人工智能合作协议，洽谈使用Gemini模型，重建与军方关系。",
-          "url": "https://wallstreetcn.com/livenews/3089379",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "谷歌最新SpaceX持股比例出炉 投资盈利有望达100000000000美元",
-          "url": "https://www.cls.cn/detail/2345498",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时33分"
-        },
-        {
-          "title": "据The Information：谷歌(GOOG.O)正与美国国防部洽谈使用Gemini模型。",
-          "url": "https://flash.jin10.com/detail/20260416210648422800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "谷歌公司：Gemini现在上架苹果公司Mac。",
-          "url": "https://wallstreetcn.com/livenews/3088660",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
-        },
-        {
-          "title": "报道：谷歌母公司Alphabet料将因SpaceX投资而获得1000亿美元“意外之财”",
-          "url": "https://wallstreetcn.com/livenews/3088724",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时16分"
-        },
-        {
-          "title": "据The Information：各方正在商讨一项协议，该协议将允许对谷歌(GOOG.O)的人工智能进行所有合法用途。",
-          "url": "https://flash.jin10.com/detail/20260416210333508800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "DeepSeek招人去内蒙草原“守机房”",
-          "url": "https://www.toutiao.com/trending/7628152198593691675/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            10,
-            29,
-            28,
-            20,
-            9,
-            21,
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时02分 ~ 19时02分]"
-        },
-        {
-          "title": "DeepSeek高薪招聘数据中心人才",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E9%AB%98%E8%96%AA%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E4%BA%BA%E6%89%8D%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
+          "time_info": "01时57分"
         }
       ]
     },
@@ -882,104 +141,71 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "据AXIOS：OpenAI游说扩大人工智能在生命科学中的作用。",
-          "url": "https://flash.jin10.com/detail/20260416050117948800",
+          "title": "OpenAI：现在Codex可以使用Mac上的应用程序，连接到更多工具，创建图像，从以前的操作中学习，记住你喜欢的工作方式，并执行持续性和可重复性的任务。",
+          "url": "https://flash.jin10.com/detail/20260417012338631800",
           "source": "金十数据",
           "ranks": [
-            2,
-            15,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时52分 ~ 07时50分]"
-        },
-        {
-          "title": "OpenAI：加速网络防御生态系统（建设），保护我们所有人。 美国银行、贝莱德、纽约梅隆银行、花旗集团等公司纷纷签约。",
-          "url": "https://wallstreetcn.com/livenews/3089213",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时02分"
+          "time_info": "01时57分"
+        },
+        {
+          "title": "在OpenAI宣布伦敦首个永久办公室后，Anthropic揭晓英国重大扩张计划",
+          "url": "https://wallstreetcn.com/livenews/3089493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时57分"
         }
       ]
     },
     {
-      "keyword_group": "金价",
+      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
       "match_count": 2,
       "titles": [
         {
-          "title": "金价这一宽幅整理区间，究竟说明了什么？",
-          "url": "https://flash.jin10.com/detail/20260416151238132800",
-          "source": "金十数据",
+          "title": "谈判曙光与强劲财报双重提振市场，标普历史新高，纳指十一连涨，特斯拉大涨近8%",
+          "url": "https://wallstreetcn.com/articles/3770007",
+          "source": "华尔街见闻",
           "ranks": [
-            14
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时44分"
+          "time_info": "01时57分"
         },
         {
-          "title": "金价稳住但未赢，市场在等什么？",
-          "url": "https://flash.jin10.com/detail/20260416125619591800",
-          "source": "金十数据",
+          "title": "刘翔直言中国新能源车太顶了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E7%BF%94%E7%9B%B4%E8%A8%80%E4%B8%AD%E5%9B%BD%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E5%A4%AA%E9%A1%B6%E4%BA%86%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时31分"
+          "time_info": "01时57分"
         }
       ]
     },
     {
-      "keyword_group": "英雄联盟 LOL",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "LOL新赛季:黄昏人称小神分",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353258&amp;topic_name=LOL%E6%96%B0%E8%B5%9B%E5%AD%A3%3A%E9%BB%84%E6%98%8F%E4%BA%BA%E7%A7%B0%E5%B0%8F%E7%A5%9E%E5%88%86",
-          "source": "贴吧",
-          "ranks": [
-            17,
-            19,
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时02分 ~ 17时18分]"
-        },
-        {
-          "title": "假如《英雄联盟》给你随意英雄 6 神装，但是血量上限只有 1 滴，你要如何运营操作并 100% 获胜？",
-          "url": "https://www.zhihu.com/question/520577551",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 13时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
         {
-          "title": "湖南黄金：预计2026年第一季度净利润为5.32亿元～6.31亿元，同比增长60.00%～90.00%。报告期内，业绩上涨主要是公司金、锑、钨产品销售价格同比上涨。",
-          "url": "https://wallstreetcn.com/livenews/3089146",
-          "source": "华尔街见闻-快讯",
+          "title": "据伊朗改革派报纸《Shargh Daily》报道，在经历48天的互联网中断后，谷歌搜索在伊朗已恢复访问，但部分谷歌服务仍无法使用。伊朗半官方通讯社法尔斯通讯社也报道称，“几分钟前，谷歌搜索引擎已重新向用户开放”，但补充称部分用户仍面临连接中断和网络波动问题。",
+          "url": "https://flash.jin10.com/detail/20260417005843333800",
+          "source": "金十数据",
           "ranks": [
-            30
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时18分"
+          "time_info": "01时57分"
         }
       ]
     }
