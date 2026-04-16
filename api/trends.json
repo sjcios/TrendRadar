@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-16T19:02:28.317293+08:00",
-  "total_titles_processed": 1426,
+  "generated_at": "2026-04-16T21:28:23.538423+08:00",
+  "total_titles_processed": 1593,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "国家安全部官方入驻抖音",
@@ -317,6 +317,28 @@
           "time_info": "05时52分"
         },
         {
+          "title": "蜜语纪抖音追剧团",
+          "url": "https://www.douyin.com/hot/2468500",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "摩根大通：预计欧洲央行将在2026年6月和9月各加息25个基点，之前的预测是4月和7月加息。",
+          "url": "https://wallstreetcn.com/livenews/3089368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
           "title": "日本央行宣布将于5月21日至22日召开债券市场参与者会议。",
           "url": "https://flash.jin10.com/detail/20260416150950405800",
           "source": "金十数据",
@@ -397,7 +419,7 @@
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "苹果发风险提示",
@@ -420,11 +442,12 @@
           "ranks": [
             5,
             3,
-            1
+            1,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时31分 ~ 19时02分]"
+          "appearance_count": 5,
+          "time_info": "[13时31分 ~ 21时28分]"
         },
         {
           "title": "金立手机创始人曾赌博输掉十几亿",
@@ -436,6 +459,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
+        },
+        {
+          "title": "如何看待 IDC 发布 2026 第一季度国内手机出货量数据，华为居首苹果次席，小米跌出前五？",
+          "url": "https://www.zhihu.com/question/2027778862646408771",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "4月16日投资避雷针：1500亿白马股一季度亏损1.5亿 智能手机与电脑类收入减少",
@@ -474,6 +508,18 @@
           "time_info": "[13时31分 ~ 15时44分]"
         },
         {
+          "title": "陪91岁大爷玩手机月入5000",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%99%AA91%E5%B2%81%E5%A4%A7%E7%88%B7%E7%8E%A9%E6%89%8B%E6%9C%BA%E6%9C%88%E5%85%A55000%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 21时28分]"
+        },
+        {
           "title": "姚安娜代言华为新手机",
           "url": "https://www.toutiao.com/trending/7628813839002173490/",
           "source": "今日头条",
@@ -491,7 +537,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -516,17 +562,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
-        },
-        {
-          "title": "陪91岁大爷玩手机月入5000",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%99%AA91%E5%B2%81%E5%A4%A7%E7%88%B7%E7%8E%A9%E6%89%8B%E6%9C%BA%E6%9C%88%E5%85%A55000%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
         },
         {
           "title": "小米史上最大电池手机曝光",
@@ -564,8 +599,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时50分 ~ 19时02分]"
+          "appearance_count": 7,
+          "time_info": "[07时50分 ~ 21时28分]"
         },
         {
           "title": "特斯拉AI芯片里程碑！马斯克官宣AI5成功流片，双芯性能对标Blackwell",
@@ -594,6 +629,19 @@
           "time_info": "13时31分"
         },
         {
+          "title": "“仙人”要名表奥迪 女子转账194万",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BB%99%E4%BA%BA%E2%80%9D%E8%A6%81%E5%90%8D%E8%A1%A8%E5%A5%A5%E8%BF%AA+%E5%A5%B3%E5%AD%90%E8%BD%AC%E8%B4%A6194%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            29,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时18分 ~ 21时28分]"
+        },
+        {
           "title": "宝马发布“内涵”视频",
           "url": "https://www.toutiao.com/trending/7628215678529749046/",
           "source": "今日头条",
@@ -615,18 +663,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时46分 ~ 05时52分]"
-        },
-        {
-          "title": "“仙人”要名表奥迪 女子转账194万",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BB%99%E4%BA%BA%E2%80%9D%E8%A6%81%E5%90%8D%E8%A1%A8%E5%A5%A5%E8%BF%AA+%E5%A5%B3%E5%AD%90%E8%BD%AC%E8%B4%A6194%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时18分 ~ 19时02分]"
         },
         {
           "title": "宝马中国宣传片疑似讽刺友商",
@@ -657,7 +693,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -676,7 +712,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "中信建投：Anthropic最强模型Mythos推出，重点推荐谷歌链",
@@ -714,6 +750,17 @@
           "time_info": "03时16分"
         },
         {
+          "title": "据The Information，谷歌与五角大楼讨论机密人工智能合作协议，洽谈使用Gemini模型，重建与军方关系。",
+          "url": "https://wallstreetcn.com/livenews/3089379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
           "title": "谷歌最新SpaceX持股比例出炉 投资盈利有望达100000000000美元",
           "url": "https://www.cls.cn/detail/2345498",
           "source": "财联社热门",
@@ -723,6 +770,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
+        },
+        {
+          "title": "据The Information：谷歌(GOOG.O)正与美国国防部洽谈使用Gemini模型。",
+          "url": "https://flash.jin10.com/detail/20260416210648422800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "谷歌公司：Gemini现在上架苹果公司Mac。",
@@ -745,6 +803,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "据The Information：各方正在商讨一项协议，该协议将允许对谷歌(GOOG.O)的人工智能进行所有合法用途。",
+          "url": "https://flash.jin10.com/detail/20260416210333508800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         }
       ]
     },
@@ -808,7 +877,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         }
