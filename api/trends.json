@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-04-17T04:57:59.368522+08:00",
-  "total_titles_processed": 457,
+  "generated_at": "2026-04-17T05:42:22.071244+08:00",
+  "total_titles_processed": 488,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "以色列央行行长亚伦Yaron：考虑到美伊停火及黎巴嫩敌对行动的停止，可能会上调2026年的增长预期。 预计2027年将实现“约5.5%的反弹式增长”。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3089574",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 05时42分]"
         },
         {
           "title": "蜜语纪抖音追剧团",
@@ -25,11 +26,60 @@
           "ranks": [
             24,
             26,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时57分 ~ 04时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 05时42分]"
+        },
+        {
+          "title": "美国至4月20日当周外国央行持有美国国债 122.76亿美元，前值-388.14亿美元。",
+          "url": "https://flash.jin10.com/detail/20260417043100409800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 05时42分]"
+        },
+        {
+          "title": "以色列央行行长：以色列央行预计2027年将实现约5.5%的反弹式增长。",
+          "url": "https://flash.jin10.com/detail/20260417041628472800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 05时42分]"
+        },
+        {
+          "title": "市场消息：鉴于美伊达成停火协议以及黎巴嫩境内敌对行动的停止，以色列央行很可能上调其对2026年的经济增长预测。",
+          "url": "https://flash.jin10.com/detail/20260417041535098800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 05时42分]"
+        },
+        {
+          "title": "小红书上兜售健康证 人不到可办证",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%BA%A2%E4%B9%A6%E4%B8%8A%E5%85%9C%E5%94%AE%E5%81%A5%E5%BA%B7%E8%AF%81+%E4%BA%BA%E4%B8%8D%E5%88%B0%E5%8F%AF%E5%8A%9E%E8%AF%81",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 05时42分]"
         },
         {
           "title": "以色列央行行长Yaron：下一届以色列政府将不得不设法削减债务规模。 重要的是，让债务规模重拾下行轨迹。 市场对以色列的看法非常正面。（彭博电视）",
@@ -43,15 +93,15 @@
           "time_info": "01时57分"
         },
         {
-          "title": "美国至4月20日当周外国央行持有美国国债 122.76亿美元，前值-388.14亿美元。",
-          "url": "https://flash.jin10.com/detail/20260417043100409800",
+          "title": "阿根廷央行：将每日最低准备金水平从75%降低至65%。",
+          "url": "https://flash.jin10.com/detail/20260417045044678800",
           "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时57分"
+          "time_info": "05时42分"
         },
         {
           "title": "法国央行行长Villeroy：央行独立性是货币政策取得成功的先决条件。 经验表明，央行独立性有助于降低通胀、压低利率。",
@@ -65,15 +115,15 @@
           "time_info": "01时57分"
         },
         {
-          "title": "以色列央行行长：以色列央行预计2027年将实现约5.5%的反弹式增长。",
-          "url": "https://flash.jin10.com/detail/20260417041628472800",
-          "source": "金十数据",
+          "title": "七国集团（G7）声明：财长财长们讨论中东危机的经济与金融后果、关键矿物供应链、以及乌克兰问题。 各成员国财长在华盛顿举行的会议上讨论了中东危机的经济与金融后果、关键矿产供应链以及对乌克兰的支持。 各成员国财长一致认为，限制长期中东冲突给全球经济带来的成本具有紧迫性。 G7成员国对冲突给最脆弱国家带来的直接和间接影响保持高度警惕。 G7各成员国财长及央行行长重申了对乌克兰的支持。 各成员国财长讨论了维持对俄罗斯施压的必要性，以防止中东危机使其战争行动受益。 各成员国财长讨论了满足乌克兰能源需求的问题，以为即将到来的冬季做准备。",
+          "url": "https://wallstreetcn.com/livenews/3089582",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时57分"
+          "time_info": "05时42分"
         },
         {
           "title": "德国央行行长Nagel：伊朗战争可能会将2026年经济增速拖累0.3个百分点。",
@@ -85,17 +135,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
-        },
-        {
-          "title": "市场消息：鉴于美伊达成停火协议以及黎巴嫩境内敌对行动的停止，以色列央行很可能上调其对2026年的经济增长预测。",
-          "url": "https://flash.jin10.com/detail/20260417041535098800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时57分"
         },
         {
           "title": "欧洲央行管委内格尔：欧洲央行必须保持选择的灵活性，尚不能做出承诺。",
@@ -170,7 +209,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
         },
@@ -181,18 +220,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时57分"
-        },
-        {
-          "title": "小红书上兜售健康证 人不到可办证",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%BA%A2%E4%B9%A6%E4%B8%8A%E5%85%9C%E5%94%AE%E5%81%A5%E5%BA%B7%E8%AF%81+%E4%BA%BA%E4%B8%8D%E5%88%B0%E5%8F%AF%E5%8A%9E%E8%AF%81",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
         }
@@ -271,8 +299,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时57分 ~ 04时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 05时42分]"
         },
         {
           "title": "十年前大学生每天用手机拍两秒",
@@ -292,11 +320,24 @@
           "source": "知乎",
           "ranks": [
             20,
-            16
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时11分 ~ 05时42分]"
+        },
+        {
+          "title": "陪91岁大爷玩手机月入5000",
+          "url": "https://www.baidu.com/s?wd=%E9%99%AA91%E5%B2%81%E5%A4%A7%E7%88%B7%E7%8E%A9%E6%89%8B%E6%9C%BA%E6%9C%88%E5%85%A55000",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时11分 ~ 04时57分]"
+          "time_info": "[04时57分 ~ 05时42分]"
         },
         {
           "title": "厦门地铁车厢内一乘客手机起火",
@@ -309,63 +350,24 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时57分 ~ 04时57分]"
-        },
-        {
-          "title": "陪91岁大爷玩手机月入5000",
-          "url": "https://www.baidu.com/s?wd=%E9%99%AA91%E5%B2%81%E5%A4%A7%E7%88%B7%E7%8E%A9%E6%89%8B%E6%9C%BA%E6%9C%88%E5%85%A55000",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "谈判曙光与强劲财报双重提振市场，标普历史新高，纳指十一连涨，特斯拉大涨近8%",
-          "url": "https://wallstreetcn.com/articles/3770007",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时57分 ~ 04时57分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨1.74%，报7192.18点，跳空高开之后，主要持稳于7200点附近，北京时间00:18曾涨至7256.75点。 热门中概股里，蔚来初步收涨6.7%，新东方涨4.8%，阿里涨4%，比亚迪、小米、小鹏、百度涨超3%，腾讯涨超2%。 ETF中，中概互联网指数ETF（KWEB）收涨1.55%，中国科技指数ETF（CQQQ）收涨1.04%。 XtrackersHarvest中证50（ASHS）收涨0.65%，德银嘉实沪深300指数ETF（ASHR）收涨0.44%。",
-          "url": "https://wallstreetcn.com/livenews/3089562",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时57分"
-        },
-        {
-          "title": "刘翔直言中国新能源车太顶了",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E7%BF%94%E7%9B%B4%E8%A8%80%E4%B8%AD%E5%9B%BD%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E5%A4%AA%E9%A1%B6%E4%BA%86%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "NiSource美股盘后涨3.7%，该公司宣布与谷歌母公司Alphabet附属公司达成长期能源供应协议，用于后者在美国印第安纳州北部开发和运营大规模数据中心。",
+          "url": "https://wallstreetcn.com/livenews/3089580",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
         {
           "title": "据伊朗改革派报纸《Shargh Daily》报道，在经历48天的互联网中断后，谷歌搜索在伊朗已恢复访问，但部分谷歌服务仍无法使用。伊朗半官方通讯社法尔斯通讯社也报道称，“几分钟前，谷歌搜索引擎已重新向用户开放”，但补充称部分用户仍面临连接中断和网络波动问题。",
           "url": "https://flash.jin10.com/detail/20260417005843333800",
@@ -384,9 +386,49 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "谈判曙光与强劲财报双重提振市场，标普历史新高，纳指十一连涨，特斯拉大涨近8%",
+          "url": "https://wallstreetcn.com/articles/3770007",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 05时42分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨1.74%，报7192.18点，跳空高开之后，主要持稳于7200点附近，北京时间00:18曾涨至7256.75点。 热门中概股里，蔚来初步收涨6.7%，新东方涨4.8%，阿里涨4%，比亚迪、小米、小鹏、百度涨超3%，腾讯涨超2%。 ETF中，中概互联网指数ETF（KWEB）收涨1.55%，中国科技指数ETF（CQQQ）收涨1.04%。 XtrackersHarvest中证50（ASHS）收涨0.65%，德银嘉实沪深300指数ETF（ASHR）收涨0.44%。",
+          "url": "https://wallstreetcn.com/livenews/3089562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 05时42分]"
+        },
+        {
+          "title": "刘翔直言中国新能源车太顶了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E7%BF%94%E7%9B%B4%E8%A8%80%E4%B8%AD%E5%9B%BD%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E5%A4%AA%E9%A1%B6%E4%BA%86%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时57分"
         }
       ]
     }
