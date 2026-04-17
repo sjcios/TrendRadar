@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-17T21:17:44.312559+08:00",
-  "total_titles_processed": 1617,
+  "generated_at": "2026-04-17T22:55:20.206379+08:00",
+  "total_titles_processed": 1748,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "微博",
           "ranks": [
             1,
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时16分 ~ 21时17分]"
+          "appearance_count": 6,
+          "time_info": "[17时16分 ~ 22时55分]"
         },
         {
           "title": "蜜语纪抖音追剧团",
@@ -86,7 +87,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
         },
@@ -97,7 +98,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
         },
@@ -108,7 +109,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
         },
@@ -227,7 +228,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
         },
@@ -260,7 +261,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
         },
@@ -282,7 +283,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
         },
@@ -293,7 +294,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
         },
@@ -304,7 +305,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
         },
@@ -315,7 +316,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
         },
@@ -348,7 +349,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
         },
@@ -572,6 +573,19 @@
           "time_info": "[13时27分 ~ 17时17分]"
         },
         {
+          "title": "摊主因借给学生手机被家长逼下跪",
+          "url": "https://www.baidu.com/s?wd=%E6%91%8A%E4%B8%BB%E5%9B%A0%E5%80%9F%E7%BB%99%E5%AD%A6%E7%94%9F%E6%89%8B%E6%9C%BA%E8%A2%AB%E5%AE%B6%E9%95%BF%E9%80%BC%E4%B8%8B%E8%B7%AA",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时52分 ~ 22时55分]"
+        },
+        {
           "title": "工作为什么默认能用我的手机",
           "url": "https://s.weibo.com/weibo?q=%E5%B7%A5%E4%BD%9C%E4%B8%BA%E4%BB%80%E4%B9%88%E9%BB%98%E8%AE%A4%E8%83%BD%E7%94%A8%E6%88%91%E7%9A%84%E6%89%8B%E6%9C%BA&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -584,16 +598,18 @@
           "time_info": "[19时52分 ~ 21时17分]"
         },
         {
-          "title": "摊主因借给学生手机被家长逼下跪",
-          "url": "https://www.baidu.com/s?wd=%E6%91%8A%E4%B8%BB%E5%9B%A0%E5%80%9F%E7%BB%99%E5%AD%A6%E7%94%9F%E6%89%8B%E6%9C%BA%E8%A2%AB%E5%AE%B6%E9%95%BF%E9%80%BC%E4%B8%8B%E8%B7%AA",
-          "source": "百度热搜",
+          "title": "曝 iPhone Ultra 折叠屏手机量产延至 8 月初，秋季发布目标不变，对现有市场带来哪些冲击？",
+          "url": "https://www.zhihu.com/question/15718177307",
+          "source": "知乎",
           "ranks": [
-            25,
-            4
+            18,
+            17,
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时52分 ~ 21时17分]"
+          "appearance_count": 4,
+          "time_info": "[18时55分 ~ 22时55分]"
         },
         {
           "title": "陪91岁大爷玩手机月入5000",
@@ -608,19 +624,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时57分 ~ 07时40分]"
-        },
-        {
-          "title": "曝 iPhone Ultra 折叠屏手机量产延至 8 月初，秋季发布目标不变，对现有市场带来哪些冲击？",
-          "url": "https://www.zhihu.com/question/15718177307",
-          "source": "知乎",
-          "ranks": [
-            18,
-            17,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时55分 ~ 21时17分]"
         },
         {
           "title": "厦门地铁车厢内一乘客手机起火",
@@ -687,28 +690,30 @@
         },
         {
           "title": "换电池小卡扣要13万 新能源车主崩溃",
-          "url": "https://www.baidu.com/s?wd=%E6%8D%A2%E7%94%B5%E6%B1%A0%E5%B0%8F%E5%8D%A1%E6%89%A3%E8%A6%8113%E4%B8%87+%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E4%B8%BB%E5%B4%A9%E6%BA%83",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时52分 ~ 21时17分]"
-        },
-        {
-          "title": "换电池小卡扣要13万 新能源车主崩溃",
           "url": "https://www.toutiao.com/trending/7629287077401935898/",
           "source": "今日头条",
           "ranks": [
             4,
             8,
-            9
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时55分 ~ 22时55分]"
+        },
+        {
+          "title": "换电池小卡扣要13万 新能源车主崩溃",
+          "url": "https://www.baidu.com/s?wd=%E6%8D%A2%E7%94%B5%E6%B1%A0%E5%B0%8F%E5%8D%A1%E6%89%A3%E8%A6%8113%E4%B8%87+%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E4%B8%BB%E5%B4%A9%E6%BA%83",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            1,
+            14
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时55分 ~ 21时17分]"
+          "time_info": "[19时52分 ~ 22时55分]"
         },
         {
           "title": "比亚迪汉EV闪充版4月22日上市",
@@ -948,7 +953,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
         }
