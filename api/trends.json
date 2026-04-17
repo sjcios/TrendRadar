@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T07:40:23.799486+08:00",
-  "total_titles_processed": 605,
+  "generated_at": "2026-04-17T10:29:08.106117+08:00",
+  "total_titles_processed": 796,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "蜜语纪抖音追剧团",
@@ -19,8 +19,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时57分 ~ 07时40分]"
+          "appearance_count": 8,
+          "time_info": "[01时57分 ~ 10时29分]"
         },
         {
           "title": "日本央行行长植田和男：原油价格上涨恶化了日本的贸易条件，并对经济产生下行压力。 必须将此类下行压力，与政府刺激措施，及强劲的企业利润对增长的提振作用进行综合权衡。 增长放缓将对通胀构成压力。 货币环境依然高度宽松。 油价上涨将对潜在通胀产生上行压力。 日本央行将在每次会议上，通过全面审视届时可获得的各种信息来做出决策。",
@@ -29,7 +29,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         },
@@ -40,7 +40,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         },
@@ -51,7 +51,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         },
@@ -148,7 +148,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         },
@@ -192,7 +192,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         },
@@ -283,12 +283,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
+        },
+        {
+          "title": "中国央行公开市场开展5亿元7天期逆回购操作，操作利率持平于1.40%，今日有20亿元逆回购到期。",
+          "url": "https://wallstreetcn.com/livenews/3089672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI发布用于药物研发的新款AI模型。",
@@ -311,6 +322,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
+        },
+        {
+          "title": "OpenAI推出AI代理升级 可以“与你并肩操作你的电脑”",
+          "url": "https://www.cls.cn/detail/2346818",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 10时29分]"
         },
         {
           "title": "OpenAI：推出新模型GPT-Rosalind，旨在服务于生命科学研究。该模型最初将以研究预览版的形式提供给部分企业客户。",
@@ -344,6 +366,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
+        },
+        {
+          "title": "OpenAI将投入超过200亿美元购买Cerebras芯片。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3089671",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
         }
       ]
     },
@@ -357,11 +390,12 @@
           "source": "知乎",
           "ranks": [
             2,
-            3
+            3,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时57分 ~ 07时40分]"
+          "appearance_count": 8,
+          "time_info": "[01时57分 ~ 10时29分]"
         },
         {
           "title": "十年前大学生每天用手机拍两秒",
@@ -370,11 +404,12 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时57分 ~ 07时40分]"
+          "appearance_count": 7,
+          "time_info": "[01时57分 ~ 10时29分]"
         },
         {
           "title": "游戏主播芜湖大司马吐槽「每天需要狂送手机才能维持人气」，为什么现在游戏主播越来越难做了？",
