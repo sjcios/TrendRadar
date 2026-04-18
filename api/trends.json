@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-18T15:06:34.558435+08:00",
-  "total_titles_processed": 1088,
+  "generated_at": "2026-04-18T16:49:20.673599+08:00",
+  "total_titles_processed": 1200,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "拼多多美团京东淘天抖音被罚35亿",
@@ -249,6 +249,17 @@
           "time_info": "02时59分"
         },
         {
+          "title": "郭敬明入驻抖音",
+          "url": "https://www.douyin.com/hot/2470634",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
+        },
+        {
           "title": "加拿大央行行长麦克勒姆：更大的担忧是中长期通胀预期上升。",
           "url": "https://flash.jin10.com/detail/20260418020334630800",
           "source": "金十数据",
@@ -274,7 +285,7 @@
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "雷军15小时不眠直播手机却被“偷家”",
@@ -366,11 +377,34 @@
           "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E7%9C%8B%E5%AD%97%E6%80%BB%E8%A7%89%E5%BE%97%E5%A4%B4%E6%99%95%EF%BC%9F%E8%B0%83%E8%BF%993%E4%B8%AA%E8%AE%BE%E7%BD%AE",
           "source": "百度热搜",
           "ranks": [
-            21
+            21,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时06分 ~ 16时49分]"
+        },
+        {
+          "title": "高三女生借摊贩手机作弊已被处理",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%B8%89%E5%A5%B3%E7%94%9F%E5%80%9F%E6%91%8A%E8%B4%A9%E6%89%8B%E6%9C%BA%E4%BD%9C%E5%BC%8A%E5%B7%B2%E8%A2%AB%E5%A4%84%E7%90%86%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时06分"
+          "time_info": "16时49分"
+        },
+        {
+          "title": "女子走路玩手机摔倒腰椎爆裂或瘫痪",
+          "url": "https://www.toutiao.com/trending/7629351796198866998/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
         }
       ]
     },
@@ -438,11 +472,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            13
+            13,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时06分 ~ 15时06分]"
+          "appearance_count": 3,
+          "time_info": "[13时06分 ~ 16时49分]"
         },
         {
           "title": "特斯拉(TSLA.O)涨幅扩大至5%。",
@@ -480,11 +515,12 @@
           "url": "https://search.bilibili.com/all?keyword=LOL%E6%96%B0%E8%B5%9B%E5%AD%A3%E9%BE%99%E5%A5%B3%E5%A4%A7%E8%B0%83%E6%95%B4",
           "source": "bilibili 热搜",
           "ranks": [
-            26
+            26,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时06分 ~ 16时49分]"
         }
       ]
     },
@@ -501,8 +537,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时06分 ~ 15时06分]"
+          "appearance_count": 3,
+          "time_info": "[13时06分 ~ 16时49分]"
         }
       ]
     },
@@ -537,8 +573,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时06分 ~ 15时06分]"
+          "appearance_count": 3,
+          "time_info": "[13时06分 ~ 16时49分]"
         }
       ]
     },
@@ -551,11 +587,12 @@
           "url": "https://www.toutiao.com/trending/7629288526889353242/",
           "source": "今日头条",
           "ranks": [
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时06分 ~ 15时06分]"
+          "appearance_count": 3,
+          "time_info": "[13时06分 ~ 16时49分]"
         }
       ]
     }
