@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T04:37:02.780107+08:00",
-  "total_titles_processed": 423,
+  "generated_at": "2026-04-19T05:34:43.487592+08:00",
+  "total_titles_processed": 439,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 04时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 05时34分]"
         },
         {
           "title": "DeepSeek百亿融资背后的两张王牌",
@@ -46,8 +46,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 04时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 05时34分]"
         },
         {
           "title": "特斯拉(TSLA.O)：机器人出租车现已在达拉斯和休斯顿上线。",
@@ -55,11 +55,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时41分 ~ 04时37分]"
+          "appearance_count": 3,
+          "time_info": "[03时41分 ~ 05时34分]"
         }
       ]
     },
@@ -76,8 +77,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 04时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 05时34分]"
         }
       ]
     }
