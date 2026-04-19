@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T06:35:40.006927+08:00",
-  "total_titles_processed": 512,
+  "generated_at": "2026-04-20T07:36:21.448584+08:00",
+  "total_titles_processed": 580,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 06时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 07时36分]"
         },
         {
           "title": "DeepSeek 开启首次对外融资，其在多名核心研究员跳槽之下为何会选择此时，从商业资本角度你怎么看？",
@@ -34,8 +34,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 06时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 07时36分]"
         },
         {
           "title": "DeepSeek被曝融资20亿",
@@ -46,8 +46,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 06时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 07时36分]"
         }
       ]
     },
@@ -63,8 +63,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 06时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 07时36分]"
         },
         {
           "title": "如何评价李雨桐泄露薛之谦手机号、身份证被行拘？法律上如何界定这类行为？这次处罚能终结两人近十年恩怨吗？",
@@ -74,8 +74,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 06时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 07时36分]"
         },
         {
           "title": "女生下楼梯玩手机踩空致腰椎骨折",
@@ -102,19 +102,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 06时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 07时36分]"
         },
         {
           "title": "环球下周看点：美伊临时停火即将到期 特斯拉等题材牛股发布财报",
           "url": "https://www.cls.cn/detail/2348368",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 06时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 07时36分]"
         }
       ]
     },
