@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T16:53:56.597578+08:00",
-  "total_titles_processed": 955,
+  "generated_at": "2026-04-19T17:47:24.508081+08:00",
+  "total_titles_processed": 996,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时28分 ~ 16时53分]"
+          "appearance_count": 4,
+          "time_info": "[13时28分 ~ 17时47分]"
         },
         {
           "title": "DeepSeek 拟首次启动融资，估值超百亿美元，有何战略意图？对国内 AI 大模型赛道带来哪些改变？",
@@ -41,8 +42,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时28分 ~ 16时53分]"
+          "appearance_count": 4,
+          "time_info": "[13时28分 ~ 17时47分]"
         },
         {
           "title": "DeepSeek被曝融资20亿",
@@ -53,8 +54,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时28分 ~ 16时53分]"
+          "appearance_count": 4,
+          "time_info": "[13时28分 ~ 17时47分]"
         },
         {
           "title": "多名核心人员流失，AGI梦想不敌商业化现实？DeepSeek开启首次外部融资",
@@ -64,11 +65,12 @@
             14,
             12,
             11,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时33分 ~ 16时53分]"
+          "appearance_count": 6,
+          "time_info": "[10时33分 ~ 17时47分]"
         },
         {
           "title": "DeepSeek被曝融资20亿",
@@ -82,6 +84,18 @@
           "time_info": "[13时28分 ~ 15时18分]"
         },
         {
+          "title": "DeepSeek被曝融资20亿",
+          "url": "https://www.toutiao.com/trending/7630341053001829938/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 17时47分]"
+        },
+        {
           "title": "DeepSeek百亿融资背后的两张王牌",
           "url": "https://www.toutiao.com/trending/7630034603113188906/",
           "source": "今日头条",
@@ -91,17 +105,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时40分 ~ 03时41分]"
-        },
-        {
-          "title": "DeepSeek被曝融资20亿",
-          "url": "https://www.toutiao.com/trending/7630341053001829938/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
         }
       ]
     },
@@ -118,11 +121,12 @@
             7,
             8,
             9,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时39分 ~ 16时53分]"
+          "appearance_count": 18,
+          "time_info": "[00时39分 ~ 17时47分]"
         },
         {
           "title": "洪灏：黄金价格翻倍“没有悬念”",
@@ -154,8 +158,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时39分 ~ 16时53分]"
+          "appearance_count": 18,
+          "time_info": "[00时39分 ~ 17时47分]"
         },
         {
           "title": "特斯拉(TSLA.O)：机器人出租车现已在达拉斯和休斯顿上线。",
