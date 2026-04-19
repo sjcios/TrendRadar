@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T17:47:24.508081+08:00",
-  "total_titles_processed": 996,
+  "generated_at": "2026-04-19T18:38:42.102548+08:00",
+  "total_titles_processed": 1048,
   "failed_sources": [],
   "trends": [
     {
@@ -21,17 +21,20 @@
           "time_info": "[00时39分 ~ 10时34分]"
         },
         {
-          "title": "DeepSeek被曝启动融资",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%A2%AB%E6%9B%9D%E5%90%AF%E5%8A%A8%E8%9E%8D%E8%B5%84",
-          "source": "bilibili 热搜",
+          "title": "多名核心人员流失，AGI梦想不敌商业化现实？DeepSeek开启首次外部融资",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33002057",
+          "source": "澎湃新闻",
           "ranks": [
-            4,
-            5,
-            10
+            14,
+            12,
+            11,
+            8,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时28分 ~ 17时47分]"
+          "appearance_count": 7,
+          "time_info": "[10时33分 ~ 18时38分]"
         },
         {
           "title": "DeepSeek 拟首次启动融资，估值超百亿美元，有何战略意图？对国内 AI 大模型赛道带来哪些改变？",
@@ -40,6 +43,19 @@
           "ranks": [
             7,
             4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时28分 ~ 18时38分]"
+        },
+        {
+          "title": "DeepSeek被曝启动融资",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%A2%AB%E6%9B%9D%E5%90%AF%E5%8A%A8%E8%9E%8D%E8%B5%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            5,
+            10
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -58,19 +74,17 @@
           "time_info": "[13时28分 ~ 17时47分]"
         },
         {
-          "title": "多名核心人员流失，AGI梦想不敌商业化现实？DeepSeek开启首次外部融资",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33002057",
-          "source": "澎湃新闻",
+          "title": "DeepSeek被曝融资20亿",
+          "url": "https://www.toutiao.com/trending/7630341053001829938/",
+          "source": "今日头条",
           "ranks": [
-            14,
-            12,
-            11,
-            8,
-            6
+            21,
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时33分 ~ 17时47分]"
+          "appearance_count": 3,
+          "time_info": "[16时53分 ~ 18时38分]"
         },
         {
           "title": "DeepSeek被曝融资20亿",
@@ -84,18 +98,6 @@
           "time_info": "[13时28分 ~ 15时18分]"
         },
         {
-          "title": "DeepSeek被曝融资20亿",
-          "url": "https://www.toutiao.com/trending/7630341053001829938/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时53分 ~ 17时47分]"
-        },
-        {
           "title": "DeepSeek百亿融资背后的两张王牌",
           "url": "https://www.toutiao.com/trending/7630034603113188906/",
           "source": "今日头条",
@@ -105,6 +107,54 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时40分 ~ 03时41分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "多地车主将新能源绿色车牌褪色为白色，还有博主分享攻略和教程，这种行为会带来哪些影响？要承担哪些责任？",
+          "url": "https://www.zhihu.com/question/2027152168185082308",
+          "source": "知乎",
+          "ranks": [
+            15,
+            6,
+            4,
+            3,
+            10,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时39分 ~ 18时38分]"
+        },
+        {
+          "title": "特斯拉(TSLA.O)：机器人出租车现已在达拉斯和休斯顿上线。",
+          "url": "https://flash.jin10.com/detail/20260419024853734800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            9,
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时41分 ~ 07时35分]"
+        },
+        {
+          "title": "下周重磅日程：沃什听证会，美伊停火到期，特斯拉、茅台、新易盛一季报",
+          "url": "https://wallstreetcn.com/articles/3770211",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
         }
       ]
     },
@@ -125,8 +175,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时39分 ~ 17时47分]"
+          "appearance_count": 19,
+          "time_info": "[00时39分 ~ 18时38分]"
         },
         {
           "title": "洪灏：黄金价格翻倍“没有悬念”",
@@ -142,38 +192,19 @@
       ]
     },
     {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 2,
+      "keyword_group": "英雄联盟 LOL",
+      "match_count": 1,
       "titles": [
         {
-          "title": "多地车主将新能源绿色车牌褪色为白色，还有博主分享攻略和教程，这种行为会带来哪些影响？要承担哪些责任？",
-          "url": "https://www.zhihu.com/question/2027152168185082308",
+          "title": "宝蓝和骆歆聊 Inb 哥「捧 Dota 踩 LoL 太直接」，如何评价这种言论风格？",
+          "url": "https://www.zhihu.com/question/2028080895173702764",
           "source": "知乎",
           "ranks": [
-            15,
-            6,
-            4,
-            3,
-            10,
-            18
+            19
           ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时39分 ~ 17时47分]"
-        },
-        {
-          "title": "特斯拉(TSLA.O)：机器人出租车现已在达拉斯和休斯顿上线。",
-          "url": "https://flash.jin10.com/detail/20260419024853734800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            9,
-            18,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时41分 ~ 07时35分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
         }
       ]
     }
