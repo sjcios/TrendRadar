@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T02:49:54.450670+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2026-04-20T03:41:25.989735+08:00",
+  "total_titles_processed": 429,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             8,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时49分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时41分]"
         },
         {
           "title": "DeepSeek 开启首次对外融资，其在多名核心研究员跳槽之下为何会选择此时，从商业资本角度你怎么看？",
@@ -30,19 +31,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时49分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时41分]"
         },
         {
           "title": "DeepSeek被曝融资20亿",
           "url": "https://www.toutiao.com/trending/7630341053001829938/",
           "source": "今日头条",
           "ranks": [
-            29
+            29,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时49分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时41分]"
         }
       ]
     },
@@ -58,8 +60,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时49分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时41分]"
         },
         {
           "title": "如何评价李雨桐泄露薛之谦手机号、身份证被行拘？法律上如何界定这类行为？这次处罚能终结两人近十年恩怨吗？",
@@ -69,8 +71,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时49分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时41分]"
         },
         {
           "title": "女生下楼梯玩手机踩空致腰椎骨折",
@@ -97,8 +99,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时49分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时41分]"
         },
         {
           "title": "环球下周看点：美伊临时停火即将到期 特斯拉等题材牛股发布财报",
@@ -108,8 +110,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时49分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时41分]"
         }
       ]
     },
@@ -140,11 +142,12 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时49分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时41分]"
         }
       ]
     }
