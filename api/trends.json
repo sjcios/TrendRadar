@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-19T19:35:18.334068+08:00",
-  "total_titles_processed": 1123,
+  "generated_at": "2026-04-19T20:59:56.082811+08:00",
+  "total_titles_processed": 1201,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "梁文锋被曝史上首次融资！DeepSeek V4彻底摆脱英伟达",
@@ -30,11 +30,12 @@
             11,
             8,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时33分 ~ 19时35分]"
+          "appearance_count": 9,
+          "time_info": "[10时33分 ~ 20时59分]"
         },
         {
           "title": "DeepSeek 拟首次启动融资，估值超百亿美元，有何战略意图？对国内 AI 大模型赛道带来哪些改变？",
@@ -42,11 +43,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时28分 ~ 19时35分]"
+          "appearance_count": 7,
+          "time_info": "[13时28分 ~ 20时59分]"
         },
         {
           "title": "DeepSeek被曝启动融资",
@@ -108,6 +110,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时40分 ~ 03时41分]"
+        },
+        {
+          "title": "DeepSeek 开启首次对外融资，其在多名核心研究员跳槽之下为何会选择此时，从商业资本角度你怎么看？",
+          "url": "https://www.zhihu.com/question/2029139595183367444",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         }
       ]
     },
@@ -127,11 +140,12 @@
             10,
             18,
             16,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时39分 ~ 19时35分]"
+          "appearance_count": 21,
+          "time_info": "[00时39分 ~ 20时59分]"
         },
         {
           "title": "特斯拉(TSLA.O)：机器人出租车现已在达拉斯和休斯顿上线。",
@@ -152,22 +166,24 @@
           "url": "https://wallstreetcn.com/articles/3770211",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时38分"
+          "appearance_count": 2,
+          "time_info": "[18时38分 ~ 20时59分]"
         },
         {
           "title": "环球下周看点：美伊临时停火即将到期 特斯拉等题材牛股发布财报",
           "url": "https://www.cls.cn/detail/2348368",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时35分 ~ 20时59分]"
         }
       ]
     },
@@ -226,7 +242,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         }
@@ -243,9 +259,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时35分 ~ 20时59分]"
         },
         {
           "title": "如何评价李雨桐泄露薛之谦手机号、身份证被行拘？法律上如何界定这类行为？这次处罚能终结两人近十年恩怨吗？",
@@ -254,9 +270,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时35分 ~ 20时59分]"
         }
       ]
     },
@@ -269,11 +285,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33003882",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时35分 ~ 20时59分]"
         }
       ]
     }
