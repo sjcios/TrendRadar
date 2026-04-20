@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T01:57:28.619749+08:00",
-  "total_titles_processed": 410,
+  "generated_at": "2026-04-21T03:10:21.871767+08:00",
+  "total_titles_processed": 464,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "美联储主席提名人沃什将在听证会开场白时向参议员们承诺，FOMC将在利率方面保持严格的央行独立性。 沃什将称，央行应当聆听不同的意见。 沃什将表示，在价格稳定性这个职责方面没有借口（不容推诿）。 美国政府的论调不会威胁到美联储的政策。（Politico）",
@@ -27,8 +27,20 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时08分 ~ 01时57分]"
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 03时10分]"
+        },
+        {
+          "title": "欧洲央行行长拉加德：央行将根据形势的需要而采取行动。 （欧元区）经济形势仍然高度不确定。 欧元区还没有陷入恶劣的假设场景。 （美国总统特朗普造成的）伊朗战争的“停止-启动”本性让人难以评估战争所构成的影响。 恢复至战争爆发之前的水平谈何容易。 迄今，供应链所受干扰有限。 在（对伊朗战争）得出结论之前，央行需要掌握更多信息。",
+          "url": "https://wallstreetcn.com/livenews/3091263",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时57分 ~ 03时10分]"
         },
         {
           "title": "据Politico：沃什表示央行应倾听多元观点。",
@@ -42,6 +54,28 @@
           "time_info": "00时09分"
         },
         {
+          "title": "加拿大央行：戈塞林将于5月25日开始新职务，文森特将于8月3日开始履新。",
+          "url": "https://flash.jin10.com/detail/20260421020506384800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时10分"
+        },
+        {
+          "title": "加拿大央行：已任命马克-安德烈·戈塞林和尼古拉斯·文森特为新任副行长。",
+          "url": "https://flash.jin10.com/detail/20260421020434282800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时10分"
+        },
+        {
           "title": "加拿大央行：调查结果表明，通胀预期遭到伊朗战争的冲击。",
           "url": "https://wallstreetcn.com/livenews/3091242",
           "source": "华尔街见闻-快讯",
@@ -51,17 +85,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
-        },
-        {
-          "title": "欧洲央行行长拉加德：央行将根据形势的需要而采取行动。 （欧元区）经济形势仍然高度不确定。 欧元区还没有陷入恶劣的假设场景。 （美国总统特朗普造成的）伊朗战争的“停止-启动”本性让人难以评估战争所构成的影响。 恢复至战争爆发之前的水平谈何容易。 迄今，供应链所受干扰有限。 在（对伊朗战争）得出结论之前，央行需要掌握更多信息。",
-          "url": "https://wallstreetcn.com/livenews/3091263",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时57分"
         },
         {
           "title": "加拿大央行第一季度商业展望及消费者预期调查：企业预计在美墨加协定（USMCA）续签谈判后，美国关税将上升。",
@@ -92,7 +115,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
         },
@@ -114,7 +137,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
         },
@@ -136,7 +159,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
         },
@@ -180,7 +203,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
         }
@@ -188,7 +211,7 @@
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "余承东：内存价格一直涨，要是扛不住了手机以后可能涨价",
@@ -199,20 +222,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时08分 ~ 01时57分]"
-        },
-        {
-          "title": "我国成年国民年人均阅读量8.39本，人均每天接触手机超109分钟",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33009070",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时08分 ~ 01时57分]"
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 03时10分]"
         },
         {
           "title": "起底“上万元手机直播间里只卖199”",
@@ -223,19 +234,33 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时08分 ~ 01时57分]"
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 03时10分]"
+        },
+        {
+          "title": "我国成年国民年人均阅读量8.39本，人均每天接触手机超109分钟",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33009070",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 03时10分]"
         },
         {
           "title": "库克都没想到 MacBookNeo 卖爆，官网交付已排到 5 月，它有哪些吸引力？",
           "url": "https://www.zhihu.com/question/2028447293876052281",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时08分 ~ 01时57分]"
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 03时10分]"
         },
         {
           "title": "余承东：手机可能会涨价",
@@ -247,6 +272,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时08分 ~ 00时09分]"
+        },
+        {
+          "title": "苹果因对吸烟员工征收健康计划罚款被起诉",
+          "url": "https://wallstreetcn.com/livenews/3091288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时10分"
         }
       ]
     },
@@ -259,11 +295,12 @@
           "url": "https://flash.jin10.com/detail/20260421013601493800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时57分 ~ 03时10分]"
         },
         {
           "title": "为什么新能源汽车的轮胎那么贵，还特别脆弱?",
@@ -274,8 +311,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时08分 ~ 01时57分]"
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 03时10分]"
         },
         {
           "title": "全新比亚迪海狮05上市",
@@ -283,11 +320,12 @@
           "source": "今日头条",
           "ranks": [
             19,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时08分 ~ 01时57分]"
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 03时10分]"
         }
       ]
     },
@@ -300,11 +338,12 @@
           "url": "https://www.zhihu.com/question/2029232145541980805",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时57分 ~ 03时10分]"
         }
       ]
     },
