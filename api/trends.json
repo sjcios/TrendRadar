@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-20T20:04:14.755590+08:00",
-  "total_titles_processed": 1384,
+  "generated_at": "2026-04-20T22:50:13.388251+08:00",
+  "total_titles_processed": 1558,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "李雨桐泄露薛之谦手机号、身份证号，被北京警方拘留",
@@ -20,6 +20,18 @@
           "time_info": "[00时39分 ~ 10时34分]"
         },
         {
+          "title": "库克都没想到 MacBookNeo 卖爆，官网交付已排到 5 月，它有哪些吸引力？",
+          "url": "https://www.zhihu.com/question/2028447293876052281",
+          "source": "知乎",
+          "ranks": [
+            16,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时34分 ~ 22时50分]"
+        },
+        {
           "title": "如何评价李雨桐泄露薛之谦手机号、身份证被行拘？法律上如何界定这类行为？这次处罚能终结两人近十年恩怨吗？",
           "url": "https://www.zhihu.com/question/2029251695079682936",
           "source": "知乎",
@@ -31,16 +43,17 @@
           "time_info": "[00时39分 ~ 07时36分]"
         },
         {
-          "title": "库克都没想到 MacBookNeo 卖爆，官网交付已排到 5 月，它有哪些吸引力？",
-          "url": "https://www.zhihu.com/question/2028447293876052281",
-          "source": "知乎",
+          "title": "我国成年国民年人均阅读量8.39本，人均每天接触手机超109分钟",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33009070",
+          "source": "澎湃新闻",
           "ranks": [
-            16,
-            11
+            7,
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时34分 ~ 20时04分]"
+          "appearance_count": 6,
+          "time_info": "[18时47分 ~ 22时50分]"
         },
         {
           "title": "如何评价博主曝光的苹果首款折叠屏 iPhone Fold 最终版设计？此时入局折叠屏领域还有优势吗？",
@@ -102,16 +115,28 @@
           "time_info": "[13时40分 ~ 18时48分]"
         },
         {
-          "title": "我国成年国民年人均阅读量8.39本，人均每天接触手机超109分钟",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33009070",
+          "title": "余承东：内存价格一直涨，要是扛不住了手机以后可能涨价",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33010608",
           "source": "澎湃新闻",
           "ranks": [
-            7,
+            13,
             6
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[18时47分 ~ 20时04分]"
+          "time_info": "[20时03分 ~ 22时50分]"
+        },
+        {
+          "title": "起底“上万元手机直播间里只卖199”",
+          "url": "https://www.baidu.com/s?wd=%E8%B5%B7%E5%BA%95%E2%80%9C%E4%B8%8A%E4%B8%87%E5%85%83%E6%89%8B%E6%9C%BA%E7%9B%B4%E6%92%AD%E9%97%B4%E9%87%8C%E5%8F%AA%E5%8D%96199%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时03分 ~ 22时50分]"
         },
         {
           "title": "华为余承东称手机可能涨价",
@@ -125,26 +150,15 @@
           "time_info": "[18时47分 ~ 18时48分]"
         },
         {
-          "title": "起底“上万元手机直播间里只卖199”",
-          "url": "https://www.baidu.com/s?wd=%E8%B5%B7%E5%BA%95%E2%80%9C%E4%B8%8A%E4%B8%87%E5%85%83%E6%89%8B%E6%9C%BA%E7%9B%B4%E6%92%AD%E9%97%B4%E9%87%8C%E5%8F%AA%E5%8D%96199%E2%80%9D",
-          "source": "百度热搜",
+          "title": "余承东：手机可能会涨价",
+          "url": "https://www.toutiao.com/trending/7630128371195953203/",
+          "source": "今日头条",
           "ranks": [
-            13
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时03分 ~ 20时04分]"
-        },
-        {
-          "title": "余承东：内存价格一直涨，要是扛不住了手机以后可能涨价",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33010608",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时03分 ~ 20时04分]"
+          "time_info": "[22时49分 ~ 22时50分]"
         },
         {
           "title": "起底直播间特价手机捡漏骗局",
@@ -205,7 +219,7 @@
     },
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "欧洲央行管委雷恩：欧洲央行的起点相对平衡，没有设定的利率路径。",
@@ -214,7 +228,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时04分"
         },
@@ -225,7 +239,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时04分"
         },
@@ -236,7 +250,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时04分"
         },
@@ -247,7 +261,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时04分"
         },
@@ -258,7 +272,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时04分"
         },
@@ -269,7 +283,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时04分"
         },
@@ -362,6 +376,17 @@
           "time_info": "18时48分"
         },
         {
+          "title": "欧洲央行管委Pereira：战前时经济具有韧性。 伊朗冲突对经济造成的损害尚未显现。 欧洲当前处于欧洲央行的基准情景与不利情景之间。",
+          "url": "https://wallstreetcn.com/livenews/3091184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
           "title": "日本央行调查：82.6%的日本家庭预计五年后价格将上涨，而此前调查的比例为83.0%。",
           "url": "https://flash.jin10.com/detail/20260420123123748800",
           "source": "金十数据",
@@ -376,7 +401,7 @@
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "下周重磅日程：沃什听证会，美伊停火到期，特斯拉、茅台、新易盛一季报",
@@ -434,6 +459,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
+        },
+        {
+          "title": "为什么新能源汽车的轮胎那么贵，还特别脆弱?",
+          "url": "https://www.zhihu.com/question/1942699724776898904",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时49分 ~ 22时50分]"
         },
         {
           "title": "郑州一辆新能源汽车自燃无人员伤亡",
@@ -543,6 +579,34 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI最新生图模型有多强",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E6%9C%80%E6%96%B0%E7%94%9F%E5%9B%BE%E6%A8%A1%E5%9E%8B%E6%9C%89%E5%A4%9A%E5%BC%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时03分 ~ 20时04分]"
+        },
+        {
+          "title": "OpenAI将在未来数周发布新款图像模型。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3091192",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
@@ -571,6 +635,35 @@
       ]
     },
     {
+      "keyword_group": "英雄联盟 LOL",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "为什么拳头当年大力造势、资源拉满的《英雄联盟》女英雄萨勒芬妮现在人气还不如比她资源宣发更少的格温呢？",
+          "url": "https://www.zhihu.com/question/611164901",
+          "source": "知乎",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时05分 ~ 20时04分]"
+        },
+        {
+          "title": "EWC2026英雄联盟预选赛",
+          "url": "https://s.weibo.com/weibo?q=%23EWC2026%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E9%A2%84%E9%80%89%E8%B5%9B%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时49分 ~ 22时50分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -584,41 +677,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时39分 ~ 02时49分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI最新生图模型有多强",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E6%9C%80%E6%96%B0%E7%94%9F%E5%9B%BE%E6%A8%A1%E5%9E%8B%E6%9C%89%E5%A4%9A%E5%BC%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时03分 ~ 20时04分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "英雄联盟 LOL",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "为什么拳头当年大力造势、资源拉满的《英雄联盟》女英雄萨勒芬妮现在人气还不如比她资源宣发更少的格温呢？",
-          "url": "https://www.zhihu.com/question/611164901",
-          "source": "知乎",
-          "ranks": [
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时05分 ~ 20时04分]"
         }
       ]
     },
