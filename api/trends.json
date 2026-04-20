@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T05:45:31.386738+08:00",
-  "total_titles_processed": 585,
+  "generated_at": "2026-04-21T06:42:59.104315+08:00",
+  "total_titles_processed": 637,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "余承东：内存价格一直涨，要是扛不住了手机以后可能涨价",
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 05时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 06时42分]"
         },
         {
           "title": "起底“上万元手机直播间里只卖199”",
@@ -28,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 05时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 06时42分]"
         },
         {
           "title": "我国成年国民年人均阅读量8.39本，人均每天接触手机超109分钟",
@@ -41,8 +42,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 05时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 06时42分]"
         },
         {
           "title": "库克都没想到 MacBookNeo 卖爆，官网交付已排到 5 月，它有哪些吸引力？",
@@ -51,11 +52,12 @@
           "ranks": [
             15,
             16,
-            14
+            14,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 05时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 06时42分]"
         },
         {
           "title": "苹果：库克不再担任CEO",
@@ -70,6 +72,30 @@
           "time_info": "[04时44分 ~ 05时45分]"
         },
         {
+          "title": "苹果宣布换帅：特纳斯接任CEO 库克转任执行董事长",
+          "url": "https://flash.jin10.com/detail/20260421044943048800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时45分 ~ 06时42分]"
+        },
+        {
+          "title": "苹果(AAPL.O)：此次交接是在经过深思熟虑的长期继任规划流程后进行的，并已获得董事会一致批准。",
+          "url": "https://flash.jin10.com/detail/20260421044116967800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时45分 ~ 06时42分]"
+        },
+        {
           "title": "余承东：手机可能会涨价",
           "url": "https://www.toutiao.com/trending/7630128371195953203/",
           "source": "今日头条",
@@ -79,17 +105,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时08分 ~ 00时09分]"
-        },
-        {
-          "title": "苹果宣布换帅：特纳斯接任CEO 库克转任执行董事长",
-          "url": "https://flash.jin10.com/detail/20260421044943048800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时45分"
         },
         {
           "title": "苹果因对吸烟员工征收健康计划罚款被起诉",
@@ -103,15 +118,15 @@
           "time_info": "03时10分"
         },
         {
-          "title": "苹果(AAPL.O)：此次交接是在经过深思熟虑的长期继任规划流程后进行的，并已获得董事会一致批准。",
-          "url": "https://flash.jin10.com/detail/20260421044116967800",
-          "source": "金十数据",
+          "title": "库克将卸任苹果CEO",
+          "url": "https://news.ifeng.com/c/8sUVwcKoXfH",
+          "source": "凤凰网",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时45分"
+          "time_info": "06时42分"
         },
         {
           "title": "标普500指数初步收跌0.2%，电信板块跌1.5%，科技板块跌0.1%，能源板块大致持平。 纳斯达克100指数初步收跌0.3%，成分股中，英特尔初步收跌4.3%，核电股CEG跌3.1%，Meta跌2.7%，奈飞跌2.5%，特斯拉跌2%，Arm控股则涨4.9%，迈威尔科技/美满科技涨5.9%，Atlassian涨6.6%。 3M初步收跌2%，与宝洁、强生、霍尼韦尔、Merck领跌道指成分股，苹果、思科、高盛、摩根大通至少涨约1%，与Salesforce领跑。",
@@ -131,7 +146,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
         },
@@ -142,7 +157,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
         },
@@ -153,7 +168,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
         },
@@ -164,7 +179,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
         },
@@ -175,7 +190,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
         },
@@ -186,7 +201,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
         },
@@ -197,7 +212,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
         },
@@ -208,7 +223,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
         }
@@ -481,6 +496,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时57分 ~ 03时10分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌：向在亚太地区向用户扩展Gemini在Chrome中的应用。",
+          "url": "https://flash.jin10.com/detail/20260421060257230800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
         }
       ]
     },
