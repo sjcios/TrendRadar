@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T00:09:14.981525+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-21T01:57:28.619749+08:00",
+  "total_titles_processed": 410,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 11,
+      "match_count": 16,
       "titles": [
         {
           "title": "美联储主席提名人沃什将在听证会开场白时向参议员们承诺，FOMC将在利率方面保持严格的央行独立性。 沃什将称，央行应当聆听不同的意见。 沃什将表示，在价格稳定性这个职责方面没有借口（不容推诿）。 美国政府的论调不会威胁到美联储的政策。（Politico）",
@@ -14,7 +14,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
         },
@@ -23,11 +23,12 @@
           "url": "https://www.baidu.com/s?wd=%E6%8A%96%E9%9F%B3%E5%9B%9E%E5%BA%94%E2%80%9C%E5%AD%97%E8%8A%82%E5%87%80%E5%88%A9%E4%B8%8B%E6%BB%9170%25%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 00时09分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 01时57分]"
         },
         {
           "title": "据Politico：沃什表示央行应倾听多元观点。",
@@ -36,7 +37,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
         },
@@ -47,9 +48,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：央行将根据形势的需要而采取行动。 （欧元区）经济形势仍然高度不确定。 欧元区还没有陷入恶劣的假设场景。 （美国总统特朗普造成的）伊朗战争的“停止-启动”本性让人难以评估战争所构成的影响。 恢复至战争爆发之前的水平谈何容易。 迄今，供应链所受干扰有限。 在（对伊朗战争）得出结论之前，央行需要掌握更多信息。",
+          "url": "https://wallstreetcn.com/livenews/3091263",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
         },
         {
           "title": "加拿大央行第一季度商业展望及消费者预期调查：企业预计在美墨加协定（USMCA）续签谈判后，美国关税将上升。",
@@ -58,7 +70,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
         },
@@ -69,9 +81,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：（若实施）广泛的财政支持将迫使欧洲央行进一步提高关键利率。",
+          "url": "https://flash.jin10.com/detail/20260421005039082800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
         },
         {
           "title": "加拿大央行第一季度商业展望及消费者预期调查：受访者对未来五年通胀率的预期已从去年第四季度的3.09%降至3.02%。",
@@ -80,9 +103,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：不确定性表明在决定政策之前需要更多信息。",
+          "url": "https://flash.jin10.com/detail/20260421004852556800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
         },
         {
           "title": "加拿大央行第一季度商业展望及消费者预期调查：55.7%的加拿大受访者预计未来12个月内将出现衰退，低于去年第四季度的58.3%。",
@@ -91,9 +125,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：我们尚未看到能源价格上涨到足以将我们完全推入不利情景的程度。可能出现的结果范围比2022年时要广泛得多。",
+          "url": "https://flash.jin10.com/detail/20260421004718758800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
         },
         {
           "title": "加拿大央行第一季度商业展望及消费者预期调查：11%的企业预计未来两年通胀率将高于3%，低于去年第四季度的16%。26%的企业报告过去12个月销售额出现实际下滑，低于去年第四季度的33%。9%的企业预计加拿大将在未来一年内陷入衰退，低于去年第四季度的22%。",
@@ -102,7 +147,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
         },
@@ -113,7 +158,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
         },
@@ -124,9 +169,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
+        },
+        {
+          "title": "美联储主席提名人沃什将在听证会开场白时向参议员们承诺，FOMC将在利率方面保持严格的央行独立性，但美联储必须“各司其职（不越位）”。 沃什将称，央行应当聆听不同的意见。 沃什将表示，在价格稳定性这个职责方面没有借口（不容推诿）。 美国政府的论调不会威胁到美联储的政策。（Politico，CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3091249",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
         }
       ]
     },
@@ -135,37 +191,40 @@
       "match_count": 5,
       "titles": [
         {
-          "title": "我国成年国民年人均阅读量8.39本，人均每天接触手机超109分钟",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33009070",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 00时09分]"
-        },
-        {
           "title": "余承东：内存价格一直涨，要是扛不住了手机以后可能涨价",
           "url": "https://m.thepaper.cn/newsDetail_forward_33010608",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 00时09分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 01时57分]"
+        },
+        {
+          "title": "我国成年国民年人均阅读量8.39本，人均每天接触手机超109分钟",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33009070",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 01时57分]"
         },
         {
           "title": "起底“上万元手机直播间里只卖199”",
           "url": "https://www.baidu.com/s?wd=%E8%B5%B7%E5%BA%95%E2%80%9C%E4%B8%8A%E4%B8%87%E5%85%83%E6%89%8B%E6%9C%BA%E7%9B%B4%E6%92%AD%E9%97%B4%E9%87%8C%E5%8F%AA%E5%8D%96199%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            15
+            15,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 00时09分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 01时57分]"
         },
         {
           "title": "库克都没想到 MacBookNeo 卖爆，官网交付已排到 5 月，它有哪些吸引力？",
@@ -175,8 +234,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 00时09分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 01时57分]"
         },
         {
           "title": "余承东：手机可能会涨价",
@@ -193,29 +252,59 @@
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "厄瓜多尔总统：新能源部长将于4月30日接任。",
+          "url": "https://flash.jin10.com/detail/20260421013601493800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
         {
           "title": "为什么新能源汽车的轮胎那么贵，还特别脆弱?",
           "url": "https://www.zhihu.com/question/1942699724776898904",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 00时09分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 01时57分]"
         },
         {
           "title": "全新比亚迪海狮05上市",
           "url": "https://www.toutiao.com/trending/7630408462476918790/",
           "source": "今日头条",
           "ranks": [
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 00时09分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 01时57分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek 被曝融资 20 亿，真实性如何？若属实，估值合理吗？一直说不融资的它，怎么突然松口了？",
+          "url": "https://www.zhihu.com/question/2029232145541980805",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
         }
       ]
     },
