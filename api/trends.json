@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T13:27:05.810359+08:00",
-  "total_titles_processed": 1035,
+  "generated_at": "2026-04-21T15:48:49.199122+08:00",
+  "total_titles_processed": 1180,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时08分 ~ 13时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时08分 ~ 15时48分]"
         },
         {
           "title": "我国成年国民年人均阅读量8.39本，人均每天接触手机超109分钟",
@@ -57,8 +57,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时30分 ~ 13时27分]"
+          "appearance_count": 5,
+          "time_info": "[10时30分 ~ 15时48分]"
         },
         {
           "title": "库克都没想到 MacBookNeo 卖爆，官网交付已排到 5 月，它有哪些吸引力？",
@@ -76,26 +76,28 @@
           "time_info": "[00时08分 ~ 07时42分]"
         },
         {
+          "title": "苹果换帅！库克9月卸任CEO，硬件主管John Ternus接任",
+          "url": "https://wallstreetcn.com/articles/3770444",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时30分 ~ 15时48分]"
+        },
+        {
           "title": "库克宣布将于 9 月卸任苹果 CEO，由特努斯接任，哪些信息值得关注？苹果的未来会如何发展？",
           "url": "https://www.zhihu.com/question/2029792979703874483",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时30分 ~ 13时27分]"
-        },
-        {
-          "title": "苹果官宣新CEO",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E5%AE%98%E5%AE%A3%E6%96%B0CEO",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
+          "appearance_count": 5,
+          "time_info": "[10时30分 ~ 15时48分]"
         },
         {
           "title": "库克不再担任苹果CEO",
@@ -146,6 +148,18 @@
           "time_info": "[07时41分 ~ 13时27分]"
         },
         {
+          "title": "苹果官宣新CEO",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E5%AE%98%E5%AE%A3%E6%96%B0CEO",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时30分 ~ 15时48分]"
+        },
+        {
           "title": "库克将卸任苹果CEO",
           "url": "https://news.ifeng.com/c/8sUVwcKoXfH",
           "source": "凤凰网",
@@ -155,17 +169,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[06时42分 ~ 10时31分]"
-        },
-        {
-          "title": "苹果换帅！库克9月卸任CEO，硬件主管John Ternus接任",
-          "url": "https://wallstreetcn.com/articles/3770444",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时30分 ~ 13时27分]"
         },
         {
           "title": "苹果：库克不再担任CEO",
@@ -192,6 +195,42 @@
           "time_info": "[10时30分 ~ 13时27分]"
         },
         {
+          "title": "苹果宣布特努斯将接替库克担任CEO，9月1日起生效",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33014702",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时26分 ~ 15时48分]"
+        },
+        {
+          "title": "换帅!苹果高管迎来大洗牌",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353506&amp;topic_name=%E6%8D%A2%E5%B8%85%21%E8%8B%B9%E6%9E%9C%E9%AB%98%E7%AE%A1%E8%BF%8E%E6%9D%A5%E5%A4%A7%E6%B4%97%E7%89%8C",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时26分 ~ 15时48分]"
+        },
+        {
+          "title": "“库克时代”临近落幕！库克将卸任苹果CEO，硬件工程负责人接任",
+          "url": "https://www.cls.cn/detail/2350131",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时26分 ~ 15时48分]"
+        },
+        {
           "title": "苹果宣布换帅：特纳斯接任CEO 库克转任执行董事长",
           "url": "https://flash.jin10.com/detail/20260421044943048800",
           "source": "金十数据",
@@ -202,17 +241,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时45分 ~ 06时42分]"
-        },
-        {
-          "title": "换帅!苹果高管迎来大洗牌",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353506&amp;topic_name=%E6%8D%A2%E5%B8%85%21%E8%8B%B9%E6%9E%9C%E9%AB%98%E7%AE%A1%E8%BF%8E%E6%9D%A5%E5%A4%A7%E6%B4%97%E7%89%8C",
-          "source": "贴吧",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时26分 ~ 13时27分]"
         },
         {
           "title": "库克将卸任苹果CEO 特纳斯接棒",
@@ -247,28 +275,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时45分 ~ 06时42分]"
-        },
-        {
-          "title": "苹果宣布特努斯将接替库克担任CEO，9月1日起生效",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33014702",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时26分 ~ 13时27分]"
-        },
-        {
-          "title": "“库克时代”临近落幕！库克将卸任苹果CEO，硬件工程负责人接任",
-          "url": "https://www.cls.cn/detail/2350131",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时26分 ~ 13时27分]"
         },
         {
           "title": "苹果新任CEO特努斯是谁",
@@ -428,7 +434,7 @@
     },
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "抖音回应“字节净利下滑70%”",
@@ -469,6 +475,17 @@
           "time_info": "[01时57分 ~ 03时10分]"
         },
         {
+          "title": "据日经新闻：日本央行将在四月维持利率不变。",
+          "url": "https://flash.jin10.com/detail/20260421152243375800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
+        },
+        {
           "title": "据Politico：沃什表示央行应倾听多元观点。",
           "url": "https://flash.jin10.com/detail/20260420234608247800",
           "source": "金十数据",
@@ -491,6 +508,17 @@
           "time_info": "03时10分"
         },
         {
+          "title": "德国央行行长主张Mythos模型访问权理应开放给受影响机构 以确保公平",
+          "url": "https://wallstreetcn.com/livenews/3091626",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
+        },
+        {
           "title": "加拿大央行：已任命马克-安德烈·戈塞林和尼古拉斯·文森特为新任副行长。",
           "url": "https://flash.jin10.com/detail/20260421020434282800",
           "source": "金十数据",
@@ -511,6 +539,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
+        },
+        {
+          "title": "报道：日本央行4月将维持利率不变",
+          "url": "https://wallstreetcn.com/livenews/3091624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
         },
         {
           "title": "加拿大央行第一季度商业展望及消费者预期调查：企业预计在美墨加协定（USMCA）续签谈判后，美国关税将上升。",
@@ -541,7 +580,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
         },
@@ -640,7 +679,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
         },
@@ -692,7 +731,7 @@
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "A股绿电概念盘中异动拉升，粤电力A直线涨停，乐山电力、宝新能源、浙江新能、拓日新能、立新能源冲高。",
@@ -753,6 +792,45 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时08分 ~ 03时10分]"
+        },
+        {
+          "title": "近 70 款车集体降价，新能源平均降 3.8 万，长安汽车总经理称车企仅靠卖车已无法盈利，真是这样吗？",
+          "url": "https://www.zhihu.com/question/2029614261630935945",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2026年04月21日（周二）上海金早盘价为1054.76元/克，较国际金价(1052.86元/克)，高1.9元/克",
+          "url": "https://flash.jin10.com/detail/20260421102331926800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "金十图示：2026年04月21日（周二）上海金午盘价为1049.29元/克，较国际金价(1048.62元/克)，高0.67元/克",
+          "url": "https://flash.jin10.com/detail/20260421151644797800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
         }
       ]
     },
@@ -789,23 +867,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时42分 ~ 07时42分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2026年04月21日（周二）上海金早盘价为1054.76元/克，较国际金价(1052.86元/克)，高1.9元/克",
-          "url": "https://flash.jin10.com/detail/20260421102331926800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
         }
       ]
     },
