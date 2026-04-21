@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T05:44:29.205630+08:00",
-  "total_titles_processed": 534,
+  "generated_at": "2026-04-22T06:37:58.271846+08:00",
+  "total_titles_processed": 576,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "怎么评价库克执掌苹果15年表现",
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 05时44分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 06时37分]"
         },
         {
           "title": "苹果换帅！库克9月卸任CEO，硬件主管John Ternus接任",
@@ -27,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 05时44分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 06时37分]"
         },
         {
           "title": "印度加快推进苹果反垄断案",
@@ -40,8 +41,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 05时44分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 06时37分]"
         },
         {
           "title": "换帅!苹果高管迎来大洗牌",
@@ -51,8 +52,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 05时44分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 06时37分]"
         },
         {
           "title": "李荣浩直播手机掉水里了",
@@ -64,8 +65,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 05时44分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 06时37分]"
         },
         {
           "title": "苹果更换CEO原因首次曝光",
@@ -143,6 +144,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
+        },
+        {
+          "title": "特努斯为何能接任苹果CEO",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E5%8A%AA%E6%96%AF%E4%B8%BA%E4%BD%95%E8%83%BD%E6%8E%A5%E4%BB%BB%E8%8B%B9%E6%9E%9CCEO",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时37分"
         }
       ]
     },
@@ -208,11 +220,12 @@
             17,
             16,
             21,
-            28
+            28,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 05时44分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 06时37分]"
         }
       ]
     },
@@ -228,8 +241,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 05时44分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 06时37分]"
         }
       ]
     },
@@ -247,8 +260,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 05时44分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 06时37分]"
         }
       ]
     },
