@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T04:03:11.702121+08:00",
-  "total_titles_processed": 464,
+  "generated_at": "2026-04-22T05:44:29.205630+08:00",
+  "total_titles_processed": 534,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 04时03分]"
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 05时44分]"
         },
         {
           "title": "苹果换帅！库克9月卸任CEO，硬件主管John Ternus接任",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 04时03分]"
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 05时44分]"
         },
         {
           "title": "印度加快推进苹果反垄断案",
@@ -36,11 +36,12 @@
           "source": "抖音",
           "ranks": [
             18,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 04时03分]"
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 05时44分]"
         },
         {
           "title": "换帅!苹果高管迎来大洗牌",
@@ -50,8 +51,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 04时03分]"
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 05时44分]"
         },
         {
           "title": "李荣浩直播手机掉水里了",
@@ -63,8 +64,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 04时03分]"
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 05时44分]"
         },
         {
           "title": "苹果更换CEO原因首次曝光",
@@ -117,7 +118,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
         },
@@ -139,7 +140,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
         }
@@ -167,7 +168,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
         },
@@ -178,7 +179,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
         },
@@ -189,7 +190,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
         }
@@ -206,11 +207,12 @@
           "ranks": [
             17,
             16,
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 04时03分]"
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 05时44分]"
         }
       ]
     },
@@ -226,8 +228,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 04时03分]"
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 05时44分]"
         }
       ]
     },
@@ -241,11 +243,12 @@
           "source": "知乎",
           "ranks": [
             1,
-            2
+            2,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 04时03分]"
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 05时44分]"
         }
       ]
     },
