@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T19:06:43.296022+08:00",
-  "total_titles_processed": 1459,
+  "generated_at": "2026-04-21T21:47:50.304054+08:00",
+  "total_titles_processed": 1620,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 48,
+      "match_count": 52,
       "titles": [
         {
           "title": "余承东：内存价格一直涨，要是扛不住了手机以后可能涨价",
@@ -32,6 +32,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时30分 ~ 19时06分]"
+        },
+        {
+          "title": "苹果换帅！库克9月卸任CEO，硬件主管John Ternus接任",
+          "url": "https://wallstreetcn.com/articles/3770444",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4,
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时30分 ~ 21时47分]"
         },
         {
           "title": "我国成年国民年人均阅读量8.39本，人均每天接触手机超109分钟",
@@ -61,29 +75,17 @@
           "time_info": "[00时08分 ~ 07时42分]"
         },
         {
-          "title": "苹果换帅！库克9月卸任CEO，硬件主管John Ternus接任",
-          "url": "https://wallstreetcn.com/articles/3770444",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时30分 ~ 19时06分]"
-        },
-        {
           "title": "库克宣布将于 9 月卸任苹果 CEO，由特努斯接任，哪些信息值得关注？苹果的未来会如何发展？",
           "url": "https://www.zhihu.com/question/2029792979703874483",
           "source": "知乎",
           "ranks": [
             2,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时30分 ~ 19时06分]"
+          "appearance_count": 8,
+          "time_info": "[10时30分 ~ 21时47分]"
         },
         {
           "title": "库克都没想到 MacBookNeo 卖爆，官网交付已排到 5 月，它有哪些吸引力？",
@@ -149,13 +151,28 @@
           "time_info": "[07时41分 ~ 13时27分]"
         },
         {
+          "title": "换帅!苹果高管迎来大洗牌",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353506&amp;topic_name=%E6%8D%A2%E5%B8%85%21%E8%8B%B9%E6%9E%9C%E9%AB%98%E7%AE%A1%E8%BF%8E%E6%9D%A5%E5%A4%A7%E6%B4%97%E7%89%8C",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            11,
+            12,
+            18,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时26分 ~ 21时47分]"
+        },
+        {
           "title": "苹果更换CEO原因首次曝光",
           "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%9B%B4%E6%8D%A2CEO%E5%8E%9F%E5%9B%A0%E9%A6%96%E6%AC%A1%E6%9B%9D%E5%85%89%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         },
@@ -186,31 +203,6 @@
           "time_info": "[13时26分 ~ 19时06分]"
         },
         {
-          "title": "苹果新CEO会带来什么",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%96%B0CEO%E4%BC%9A%E5%B8%A6%E6%9D%A5%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时06分"
-        },
-        {
-          "title": "换帅!苹果高管迎来大洗牌",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353506&amp;topic_name=%E6%8D%A2%E5%B8%85%21%E8%8B%B9%E6%9E%9C%E9%AB%98%E7%AE%A1%E8%BF%8E%E6%9D%A5%E5%A4%A7%E6%B4%97%E7%89%8C",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            11,
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时26分 ~ 19时06分]"
-        },
-        {
           "title": "库克将卸任苹果CEO",
           "url": "https://news.ifeng.com/c/8sUVwcKoXfH",
           "source": "凤凰网",
@@ -232,6 +224,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时44分 ~ 05时45分]"
+        },
+        {
+          "title": "苹果新CEO会带来什么",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%96%B0CEO%E4%BC%9A%E5%B8%A6%E6%9D%A5%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时06分 ~ 21时47分]"
         },
         {
           "title": "“库克时代”临近落幕！库克将卸任苹果CEO，硬件工程负责人接任",
@@ -257,6 +261,42 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时30分 ~ 13时27分]"
+        },
+        {
+          "title": "库克淡出 苹果迎来更懂硬件的CEO 能否开启巨头新周期？",
+          "url": "https://www.cls.cn/detail/2350494",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 21时47分]"
+        },
+        {
+          "title": "印度加快推进苹果反垄断案",
+          "url": "https://www.douyin.com/hot/2473570",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 21时47分]"
+        },
+        {
+          "title": "苹果更换CEO原因首次曝光",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%9B%B4%E6%8D%A2CEO%E5%8E%9F%E5%9B%A0%E9%A6%96%E6%AC%A1%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时06分 ~ 21时47分]"
         },
         {
           "title": "苹果宣布换帅：特纳斯接任CEO 库克转任执行董事长",
@@ -305,18 +345,6 @@
           "time_info": "[17时25分 ~ 19时06分]"
         },
         {
-          "title": "库克淡出 苹果迎来更懂硬件的CEO 能否开启巨头新周期？",
-          "url": "https://www.cls.cn/detail/2350494",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时25分 ~ 19时06分]"
-        },
-        {
           "title": "苹果(AAPL.O)：此次交接是在经过深思熟虑的长期继任规划流程后进行的，并已获得董事会一致批准。",
           "url": "https://flash.jin10.com/detail/20260421044116967800",
           "source": "金十数据",
@@ -329,15 +357,16 @@
           "time_info": "[05时45分 ~ 06时42分]"
         },
         {
-          "title": "印度加快推进苹果反垄断案",
-          "url": "https://www.douyin.com/hot/2473570",
-          "source": "抖音",
+          "title": "李荣浩直播手机掉水里了",
+          "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E8%8D%A3%E6%B5%A9%E7%9B%B4%E6%92%AD%E6%89%8B%E6%9C%BA%E6%8E%89%E6%B0%B4%E9%87%8C%E4%BA%86&t=31&band_rank=12&Refer=top",
+          "source": "微博",
           "ranks": [
-            14
+            12,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时25分 ~ 19时06分]"
+          "time_info": "[19时06分 ~ 21时47分]"
         },
         {
           "title": "苹果新任CEO特努斯是谁",
@@ -390,20 +419,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         },
         {
-          "title": "苹果更换CEO原因首次曝光",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%9B%B4%E6%8D%A2CEO%E5%8E%9F%E5%9B%A0%E9%A6%96%E6%AC%A1%E6%9B%9D%E5%85%89",
-          "source": "百度热搜",
+          "title": "怎么评价库克执掌苹果15年表现",
+          "url": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E8%AF%84%E4%BB%B7%E5%BA%93%E5%85%8B%E6%89%A7%E6%8E%8C%E8%8B%B9%E6%9E%9C15%E5%B9%B4%E8%A1%A8%E7%8E%B0",
+          "source": "bilibili 热搜",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时06分"
+          "time_info": "21时47分"
         },
         {
           "title": "苹果因对吸烟员工征收健康计划罚款被起诉",
@@ -417,24 +446,24 @@
           "time_info": "03时10分"
         },
         {
+          "title": "美股三大股指高开，道指涨0.5%，标普500指数涨0.28%，纳指涨0.27%。联合健康(UNH.N)涨9.4%，一季度财报优于预期。亚马逊(AMZN.O)涨2.1%，其与Anthropic升级合作关系。苹果(AAPL.O)跌0.3%，库克将卸任CEO，特努斯接任。",
+          "url": "https://flash.jin10.com/detail/20260421213027894800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
+        },
+        {
           "title": "特朗普：我一直是蒂姆·库克的超级粉丝。 库克将继续为苹果公司做出杰出的贡献。",
           "url": "https://wallstreetcn.com/livenews/3091767",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时06分"
-        },
-        {
-          "title": "李荣浩直播手机掉水里了",
-          "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E8%8D%A3%E6%B5%A9%E7%9B%B4%E6%92%AD%E6%89%8B%E6%9C%BA%E6%8E%89%E6%B0%B4%E9%87%8C%E4%BA%86&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         },
@@ -472,13 +501,24 @@
           "time_info": "05时45分"
         },
         {
+          "title": "欧盟将强制手机平板配备可更换电池",
+          "url": "https://www.toutiao.com/trending/7630371983541141514/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
+        },
+        {
           "title": "机器人半马冠军出自做手机的荣耀",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8D%8A%E9%A9%AC%E5%86%A0%E5%86%9B%E5%87%BA%E8%87%AA%E5%81%9A%E6%89%8B%E6%9C%BA%E7%9A%84%E8%8D%A3%E8%80%80%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         },
@@ -522,7 +562,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         },
@@ -558,6 +598,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
+        },
+        {
+          "title": "李荣浩直播手机掉水里了",
+          "url": "https://www.douyin.com/hot/2474274",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
         },
         {
           "title": "苹果(AAPL.O)：库克将担任苹果执行董事长；约翰·特纳斯将成为苹果首席执行官。",
@@ -632,7 +683,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         },
@@ -882,7 +933,7 @@
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "近 70 款车集体降价，新能源平均降 3.8 万，长安汽车总经理称车企仅靠卖车已无法盈利，真是这样吗？",
@@ -894,8 +945,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时48分 ~ 19时06分]"
+          "appearance_count": 4,
+          "time_info": "[15时48分 ~ 21时47分]"
         },
         {
           "title": "A股绿电概念盘中异动拉升，粤电力A直线涨停，乐山电力、宝新能源、浙江新能、拓日新能、立新能源冲高。",
@@ -956,6 +1007,67 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时08分 ~ 03时10分]"
+        },
+        {
+          "title": "特斯拉车机语音大模型服务完成备案",
+          "url": "https://flash.jin10.com/detail/20260421212240150800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
+        },
+        {
+          "title": "翔丰华：拟募资不超过6亿元 用于年产9.3万吨新能源电池负极材料项目",
+          "url": "https://flash.jin10.com/detail/20260421211058616800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI推出Codex Labs",
+          "url": "https://wallstreetcn.com/livenews/3091875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
+        },
+        {
+          "title": "腾讯云宣布开源OpenAI、Manus同款Agent底座",
+          "url": "https://wallstreetcn.com/livenews/3091685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "OpenAI推出Codex实验室（Codex Labs）。",
+          "url": "https://flash.jin10.com/detail/20260421211330666800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
         }
       ]
     },
@@ -985,6 +1097,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "谷歌：向在亚太地区向用户扩展Gemini在Chrome中的应用。",
+          "url": "https://flash.jin10.com/detail/20260421060257230800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时42分 ~ 07时42分]"
+        },
+        {
+          "title": "C大普微：已实现对海外客户Google等客户的产品销售 2025年已通过Nvidia、xAI两家全球AI头部公司测试导入",
+          "url": "https://wallstreetcn.com/livenews/3091872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
         }
       ]
     },
@@ -1036,46 +1177,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353541&amp;topic_name=go%E5%AD%A6%E9%95%BF%E5%8C%BA%E5%88%AB%E5%AF%B9%E5%BE%85%2Clol%E5%80%92%E5%A4%A7%E9%9C%89",
           "source": "贴吧",
           "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌：向在亚太地区向用户扩展Gemini在Chrome中的应用。",
-          "url": "https://flash.jin10.com/detail/20260421060257230800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时42分 ~ 07时42分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "腾讯云宣布开源OpenAI、Manus同款Agent底座",
-          "url": "https://wallstreetcn.com/livenews/3091685",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
+            15,
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时25分"
+          "appearance_count": 2,
+          "time_info": "[19时06分 ~ 21时47分]"
         }
       ]
     }
