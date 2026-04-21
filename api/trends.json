@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T07:42:06.901213+08:00",
-  "total_titles_processed": 701,
+  "generated_at": "2026-04-21T10:31:24.878834+08:00",
+  "total_titles_processed": 868,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 22,
+      "match_count": 32,
       "titles": [
         {
           "title": "余承东：内存价格一直涨，要是扛不住了手机以后可能涨价",
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             4,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时08分 ~ 07时42分]"
+          "appearance_count": 11,
+          "time_info": "[00时08分 ~ 10时31分]"
         },
         {
           "title": "我国成年国民年人均阅读量8.39本，人均每天接触手机超109分钟",
@@ -27,11 +28,12 @@
           "ranks": [
             4,
             6,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时08分 ~ 07时42分]"
+          "appearance_count": 11,
+          "time_info": "[00时08分 ~ 10时31分]"
         },
         {
           "title": "起底“上万元手机直播间里只卖199”",
@@ -73,6 +75,50 @@
           "time_info": "[07时41分 ~ 07时42分]"
         },
         {
+          "title": "特纳斯将接替库克担任苹果CEO",
+          "url": "https://www.douyin.com/hot/2473318",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
+        },
+        {
+          "title": "苹果新任CEO特努斯是谁",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%96%B0%E4%BB%BBCEO%E7%89%B9%E5%8A%AA%E6%96%AF%E6%98%AF%E8%B0%81%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
+        },
+        {
+          "title": "库克宣布将于 9 月卸任苹果 CEO，由特努斯接任，哪些信息值得关注？苹果的未来会如何发展？",
+          "url": "https://www.zhihu.com/question/2029792979703874483",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
+        },
+        {
+          "title": "苹果官宣新CEO",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E5%AE%98%E5%AE%A3%E6%96%B0CEO",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
+        },
+        {
           "title": "苹果宣布特纳斯将接替库克担任CEO",
           "url": "https://www.toutiao.com/trending/7630977954876493321/",
           "source": "今日头条",
@@ -82,6 +128,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时41分 ~ 07时42分]"
+        },
+        {
+          "title": "库克将卸任苹果CEO",
+          "url": "https://news.ifeng.com/c/8sUVwcKoXfH",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时42分 ~ 10时31分]"
         },
         {
           "title": "苹果：库克不再担任CEO",
@@ -96,15 +153,27 @@
           "time_info": "[04时44分 ~ 05时45分]"
         },
         {
-          "title": "库克将卸任苹果CEO",
-          "url": "https://news.ifeng.com/c/8sUVwcKoXfH",
-          "source": "凤凰网",
+          "title": "伊朗最高领袖重申三项基本立场 苹果任命John Ternus为首席执行官 | 环球市场",
+          "url": "https://www.cls.cn/detail/2350058",
+          "source": "财联社热门",
           "ranks": [
-            10
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时42分 ~ 07时42分]"
+          "appearance_count": 4,
+          "time_info": "[07时41分 ~ 10时31分]"
+        },
+        {
+          "title": "苹果换帅！库克9月卸任CEO，硬件主管John Ternus接任",
+          "url": "https://wallstreetcn.com/articles/3770444",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
         },
         {
           "title": "苹果宣布换帅：特纳斯接任CEO 库克转任执行董事长",
@@ -119,6 +188,28 @@
           "time_info": "[05时45分 ~ 06时42分]"
         },
         {
+          "title": "库克将卸任苹果CEO 特纳斯接棒",
+          "url": "https://www.toutiao.com/trending/7630977954876493321/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
+        },
+        {
+          "title": "库克将卸任苹果CEO 特努斯接任",
+          "url": "https://www.baidu.com/s?wd=%E5%BA%93%E5%85%8B%E5%B0%86%E5%8D%B8%E4%BB%BB%E8%8B%B9%E6%9E%9CCEO+%E7%89%B9%E5%8A%AA%E6%96%AF%E6%8E%A5%E4%BB%BB",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
+        },
+        {
           "title": "苹果(AAPL.O)：此次交接是在经过深思熟虑的长期继任规划流程后进行的，并已获得董事会一致批准。",
           "url": "https://flash.jin10.com/detail/20260421044116967800",
           "source": "金十数据",
@@ -131,15 +222,37 @@
           "time_info": "[05时45分 ~ 06时42分]"
         },
         {
-          "title": "伊朗最高领袖重申三项基本立场 苹果任命John Ternus为首席执行官 | 环球市场",
-          "url": "https://www.cls.cn/detail/2350058",
-          "source": "财联社热门",
+          "title": "折叠iPhone手机壳曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%8A%98%E5%8F%A0iPhone%E6%89%8B%E6%9C%BA%E5%A3%B3%E6%9B%9D%E5%85%89%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
           "ranks": [
-            11
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时41分 ~ 07时42分]"
+          "time_info": "[10时30分 ~ 10时31分]"
+        },
+        {
+          "title": "苹果新任CEO特努斯是谁",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%96%B0%E4%BB%BBCEO%E7%89%B9%E5%8A%AA%E6%96%AF%E6%98%AF%E8%B0%81",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
+        },
+        {
+          "title": "印度拟对苹果罚款380亿美元",
+          "url": "https://www.toutiao.com/trending/7630773760219611142/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
         },
         {
           "title": "余承东：手机可能会涨价",
@@ -266,7 +379,7 @@
     },
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "抖音回应“字节净利下滑70%”",
@@ -362,6 +475,17 @@
           "time_info": "00时09分"
         },
         {
+          "title": "路透调查显示，预期中值预计菲律宾央行将在本季度将关键政策利率提高至4.50%。",
+          "url": "https://flash.jin10.com/detail/20260421100626591800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
           "title": "加拿大央行第一季度商业展望及消费者预期调查：约85%的家庭预计伊朗战争将对经济造成损害，并推高物价。",
           "url": "https://flash.jin10.com/detail/20260420233342766800",
           "source": "金十数据",
@@ -382,6 +506,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
+        },
+        {
+          "title": "路透调查显示，26位经济学家中有14位表示，菲律宾央行将在4月23日维持基准利率在4.25%不变。",
+          "url": "https://flash.jin10.com/detail/20260421100545459800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
         },
         {
           "title": "加拿大央行第一季度商业展望及消费者预期调查：受访者对未来五年通胀率的预期已从去年第四季度的3.09%降至3.02%。",
@@ -470,13 +605,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
+        },
+        {
+          "title": "中国央行公开市场开展50亿元7天期逆回购操作，操作利率1.40%。今日10亿元逆回购到期。",
+          "url": "https://wallstreetcn.com/livenews/3091428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
         }
       ]
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "A股绿电概念盘中异动拉升，粤电力A直线涨停，乐山电力、宝新能源、浙江新能、拓日新能、立新能源冲高。",
+          "url": "https://flash.jin10.com/detail/20260421102536532800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "绿电概念快速回暖，粤电力A直线涨停，陕西能源涨超7%，乐山电力、宝新能源、浙江新能、拓日新能跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3091481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
         {
           "title": "全新比亚迪海狮05上市",
           "url": "https://www.toutiao.com/trending/7630408462476918790/",
@@ -550,6 +718,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时42分 ~ 07时42分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年04月21日（周二）上海金早盘价为1054.76元/克，较国际金价(1052.86元/克)，高1.9元/克",
+          "url": "https://flash.jin10.com/detail/20260421102331926800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
         }
       ]
     },
