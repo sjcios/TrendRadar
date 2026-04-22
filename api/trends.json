@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T07:34:52.684464+08:00",
-  "total_titles_processed": 638,
+  "generated_at": "2026-04-22T10:28:18.643234+08:00",
+  "total_titles_processed": 820,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "怎么评价库克执掌苹果15年表现",
@@ -38,22 +38,12 @@
           "ranks": [
             18,
             16,
-            17
+            17,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时04分 ~ 07时34分]"
-        },
-        {
-          "title": "换帅!苹果高管迎来大洗牌",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353506&amp;topic_name=%E6%8D%A2%E5%B8%85%21%E8%8B%B9%E6%9E%9C%E9%AB%98%E7%AE%A1%E8%BF%8E%E6%9D%A5%E5%A4%A7%E6%B4%97%E7%89%8C",
-          "source": "贴吧",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时04分 ~ 07时34分]"
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 10时28分]"
         },
         {
           "title": "李荣浩直播手机掉水里了",
@@ -62,11 +52,35 @@
           "ranks": [
             22,
             24,
+            23,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 10时28分]"
+        },
+        {
+          "title": "换帅!苹果高管迎来大洗牌",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353506&amp;topic_name=%E6%8D%A2%E5%B8%85%21%E8%8B%B9%E6%9E%9C%E9%AB%98%E7%AE%A1%E8%BF%8E%E6%9D%A5%E5%A4%A7%E6%B4%97%E7%89%8C",
+          "source": "贴吧",
+          "ranks": [
+            21,
             23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时04分 ~ 07时34分]"
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 10时28分]"
+        },
+        {
+          "title": "苹果或被印度罚款380亿美元",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E6%88%96%E8%A2%AB%E5%8D%B0%E5%BA%A6%E7%BD%9A%E6%AC%BE380%E4%BA%BF%E7%BE%8E%E5%85%83&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
         },
         {
           "title": "苹果更换CEO原因首次曝光",
@@ -135,6 +149,39 @@
           "time_info": "02时07分"
         },
         {
+          "title": "回顾库克苹果15年职业生涯",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%9E%E9%A1%BE%E5%BA%93%E5%85%8B%E8%8B%B9%E6%9E%9C15%E5%B9%B4%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "曝iPhone18屏幕规格或开倒车",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DiPhone18%E5%B1%8F%E5%B9%95%E8%A7%84%E6%A0%BC%E6%88%96%E5%BC%80%E5%80%92%E8%BD%A6%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "苹果或被印度罚款380亿美元",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%88%96%E8%A2%AB%E5%8D%B0%E5%BA%A6%E7%BD%9A%E6%AC%BE380%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
           "title": "苹果公司候任CEO Ternus：我们将再次改变世界。 AI将创造“几乎无限的潜力”。 在我任期内，公司的使命不会变化。",
           "url": "https://wallstreetcn.com/livenews/3092049",
           "source": "华尔街见闻-快讯",
@@ -169,7 +216,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
         },
@@ -220,6 +267,45 @@
       ]
     },
     {
+      "keyword_group": "央行 抖音 小红书",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美联储主席提名人沃什：美联储无权发行数字货币，那将是一个糟糕的政策选择。 美联储的确不应该采用央行数字货币（CBDC）。",
+          "url": "https://wallstreetcn.com/livenews/3091998",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
+          "title": "澳新银行：日本央行料会继续强化紧缩政策，但不会调整利率",
+          "url": "https://flash.jin10.com/detail/20260422100509160800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "中国央行公开市场开展60亿元7天期逆回购操作，操作利率1.40%。今日5亿元逆回购到期。",
+          "url": "https://wallstreetcn.com/livenews/3092200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -241,6 +327,23 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年04月22日（周三）上海金早盘价为1046.07元/克，较国际金价(1043.67元/克)，高2.4元/克",
+          "url": "https://flash.jin10.com/detail/20260422102305576800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "英雄联盟 LOL",
       "match_count": 1,
       "titles": [
@@ -249,11 +352,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353541&amp;topic_name=go%E5%AD%A6%E9%95%BF%E5%8C%BA%E5%88%AB%E5%AF%B9%E5%BE%85%2Clol%E5%80%92%E5%A4%A7%E9%9C%89",
           "source": "贴吧",
           "ranks": [
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时04分 ~ 07时34分]"
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 10时28分]"
         }
       ]
     },
@@ -268,28 +372,12 @@
           "ranks": [
             1,
             2,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时04分 ~ 07时34分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "央行 抖音 小红书",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美联储主席提名人沃什：美联储无权发行数字货币，那将是一个糟糕的政策选择。 美联储的确不应该采用央行数字货币（CBDC）。",
-          "url": "https://wallstreetcn.com/livenews/3091998",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 10时28分]"
         }
       ]
     }
