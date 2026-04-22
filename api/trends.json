@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T21:25:06.040046+08:00",
-  "total_titles_processed": 1531,
+  "generated_at": "2026-04-22T23:13:59.698066+08:00",
+  "total_titles_processed": 1657,
   "failed_sources": [],
   "trends": [
     {
@@ -81,8 +81,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时16分 ~ 21时25分]"
+          "appearance_count": 6,
+          "time_info": "[18时16分 ~ 23时13分]"
         },
         {
           "title": "日本人称手机设置为中文感觉很清爽",
@@ -90,11 +90,12 @@
           "source": "微博",
           "ranks": [
             12,
-            2
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时16分 ~ 21时25分]"
+          "appearance_count": 6,
+          "time_info": "[18时16分 ~ 23时13分]"
         },
         {
           "title": "李荣浩手机捞回来了",
@@ -362,7 +363,7 @@
     },
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "欧洲央行管委西姆库斯：欧洲央行不应在四月加息。",
@@ -481,7 +482,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         },
@@ -495,6 +496,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时04分"
+        },
+        {
+          "title": "美国银行将日本央行下次加息的预期时间推迟到6月。",
+          "url": "https://flash.jin10.com/detail/20260422224429894800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "澳新银行：日本央行料会继续强化紧缩政策，但不会调整利率",
@@ -514,7 +526,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         },
@@ -569,7 +581,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         },
@@ -613,7 +625,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         }
@@ -621,7 +633,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "谷歌云与Collibra宣布扩大合作伙伴关系。（彭博）",
@@ -630,7 +642,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         },
@@ -641,7 +653,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         },
@@ -652,7 +664,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         },
@@ -663,9 +675,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
+        },
+        {
+          "title": "谷歌公司：Drive Now现在普遍可以使用Gemini和AI概览。",
+          "url": "https://wallstreetcn.com/livenews/3092705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "智能数据基础设施公司NetApp今日宣布，该公司荣获“2026年Google Cloud存储类别年度基础架构现代化合作伙伴奖”。",
@@ -674,9 +697,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
+        },
+        {
+          "title": "谷歌：Google Drive中的AI概览功能现已普遍可用。",
+          "url": "https://flash.jin10.com/detail/20260422224544540800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "谷歌云AI使用量达到每分钟160亿Tokens。（彭博）",
@@ -685,7 +719,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         },
@@ -696,9 +730,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
+        },
+        {
+          "title": "谷歌：Google Drive中的Gemini现已全面上线。",
+          "url": "https://flash.jin10.com/detail/20260422224338586800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "谷歌：Gemini Enterprise第一季度付费月活跃用户数环比增长40%。 目前谷歌所有新代码中，75%由人工智能生成。",
@@ -707,7 +752,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         },
@@ -718,7 +763,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         },
@@ -729,7 +774,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         },
@@ -740,7 +785,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         },
@@ -751,7 +796,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         },
@@ -762,7 +807,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         },
@@ -773,7 +818,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         }
@@ -845,7 +890,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         },
@@ -859,6 +904,59 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "近 70 款车集体降价，新能源平均降 3.8 万，长安汽车总经理称车企仅靠卖车已无法盈利，真是这样吗？",
+          "url": "https://www.zhihu.com/question/2029614261630935945",
+          "source": "知乎",
+          "ranks": [
+            1,
+            2,
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 10时28分]"
+        },
+        {
+          "title": "新世代宝马",
+          "url": "https://s.weibo.com/weibo?q=%E6%96%B0%E4%B8%96%E4%BB%A3%E5%AE%9D%E9%A9%AC&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
+          "title": "宝马美国首席执行官：美国整体销售仍以油车为主。",
+          "url": "https://flash.jin10.com/detail/20260422223733468800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
+          "title": "宝马美国首席执行官：宝马在美国电动车型销量小幅上升，因汽油价格上涨。",
+          "url": "https://flash.jin10.com/detail/20260422223707952800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         }
       ]
     },
@@ -881,6 +979,18 @@
           "time_info": "[01时04分 ~ 15时45分]"
         },
         {
+          "title": "《英雄联盟》里后期最无力的英雄，你认为是谁？",
+          "url": "https://www.zhihu.com/question/463004471",
+          "source": "知乎",
+          "ranks": [
+            15,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时24分 ~ 23时13分]"
+        },
+        {
           "title": "谁是卧底LOL职业选手版",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%81%E6%98%AF%E5%8D%A7%E5%BA%95LOL%E8%81%8C%E4%B8%9A%E9%80%89%E6%89%8B%E7%89%88",
           "source": "bilibili 热搜",
@@ -891,17 +1001,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时17分 ~ 15时45分]"
-        },
-        {
-          "title": "《英雄联盟》里后期最无力的英雄，你认为是谁？",
-          "url": "https://www.zhihu.com/question/463004471",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时24分 ~ 21时25分]"
         }
       ]
     },
@@ -979,26 +1078,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "近 70 款车集体降价，新能源平均降 3.8 万，长安汽车总经理称车企仅靠卖车已无法盈利，真是这样吗？",
-          "url": "https://www.zhihu.com/question/2029614261630935945",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2,
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时04分 ~ 10时28分]"
         }
       ]
     }
