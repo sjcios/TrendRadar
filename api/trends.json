@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-04-23T10:32:00.181231+08:00",
-  "total_titles_processed": 866,
+  "generated_at": "2026-04-23T13:29:49.856670+08:00",
+  "total_titles_processed": 1031,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 66,
+      "match_count": 69,
       "titles": [
         {
-          "title": "特斯拉Q1营收创近三年最高增速，盈利大超预期，现金流翻倍，马斯克预告支出大增丨财报见闻",
-          "url": "https://wallstreetcn.com/articles/3770645",
-          "source": "华尔街见闻",
+          "title": "特斯拉：第三代人形机器人预计年中亮相",
+          "url": "https://wallstreetcn.com/livenews/3093071",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
         },
         {
           "title": "纳斯达克金龙中国指数初步大致收平。 热门中概股里，大全新能源初步收涨16.5%，晶科能源涨11.2%，阿特斯太阳能涨8.8%，亚朵涨5%，金山云跌2.1%，新东方跌3.1%，华住跌3.9%，再鼎医药跌6.5%。 ETF中，ASHS涨2.2%，ASHR涨1.7%，CQQQ涨1.6%，KWEB跌0.5%。",
@@ -28,6 +28,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
+        },
+        {
+          "title": "特斯拉Q1营收创近三年最高增速，盈利大超预期，现金流翻倍，马斯克预告支出大增丨财报见闻",
+          "url": "https://wallstreetcn.com/articles/3770645",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 13时29分]"
         },
         {
           "title": "特斯拉CEO埃隆·马斯克：长期来看，唯一的人类驾驶汽车将是新款Roadster。",
@@ -102,6 +114,18 @@
           "time_info": "[06时46分 ~ 07时44分]"
         },
         {
+          "title": "特斯拉Q1利润超预期 自由现金流意外转正 盘后股价涨近4%",
+          "url": "https://www.cls.cn/detail/2352871",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 13时29分]"
+        },
+        {
           "title": "特斯拉高管：欧洲版FSD在架构方面与其他版本相同，但拥有更多欧洲数据。",
           "url": "https://flash.jin10.com/detail/20260423060744251800",
           "source": "金十数据",
@@ -136,17 +160,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时46分 ~ 07时44分]"
-        },
-        {
-          "title": "特斯拉Q1利润超预期 自由现金流意外转正 盘后股价涨近4%",
-          "url": "https://www.cls.cn/detail/2352871",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
         },
         {
           "title": "特斯拉美股盘后跌幅扩大至1.2%，业绩报告发布后曾一度上涨4.5%。",
@@ -203,7 +216,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         },
@@ -214,9 +227,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
+        },
+        {
+          "title": "特斯拉财报会实录：今年资本开支将超250亿美元 Optimus会是史上最重要产品",
+          "url": "https://www.cls.cn/detail/2353097",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
         },
         {
           "title": "特斯拉一季度自由现金流意外转正",
@@ -236,7 +260,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         },
@@ -302,7 +326,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         },
@@ -445,7 +469,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         },
@@ -588,7 +612,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         },
@@ -670,6 +694,17 @@
           "time_info": "06时46分"
         },
         {
+          "title": "加拿大皇家银行：将特斯拉(TSLA.O)目标价从480美元下调至475美元。",
+          "url": "https://flash.jin10.com/detail/20260423120903312800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
           "title": "特斯拉：正在为美国得州超级工厂准备第二代生产线，设计年产能为1000万台机器人。",
           "url": "https://wallstreetcn.com/livenews/3092836",
           "source": "华尔街见闻-快讯",
@@ -720,7 +755,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         },
@@ -753,6 +788,19 @@
       "match_count": 7,
       "titles": [
         {
+          "title": "谷歌云年度Next大会：TPU打破“内存墙” OCS、液冷题材如期亮相",
+          "url": "https://www.cls.cn/detail/2352843",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时44分 ~ 13时29分]"
+        },
+        {
           "title": "芯片股创历史上最长连涨天数，费城半导体指数初步收涨约2.7%，连续第十六个交易日走高，创1994年有数据记录以来最长连涨天数。Arm控股初步收涨11.3%，闪迪Sandisk涨8.5%，美光涨8.4%，AMD涨6.9%。 标普500指数初步收涨1%，科技板块涨2.1%，电信、能源板块涨超1%，房地产板块跌0.8%。 纳斯达克100指数初步收涨1.7%，成分股中，Arm控股初步收涨11.3%，Strategy涨9.3%，闪迪Sandisk涨8.5%，美光涨8.4%，达芬奇手术机器人涨7%，AMD涨6.9%，谷歌A涨2.1%，Workday则收跌2.2%，T-Mobile跌3.3%，路透跌4.1%，Booking跌6.4%。",
           "url": "https://wallstreetcn.com/livenews/3092822",
           "source": "华尔街见闻-快讯",
@@ -762,18 +810,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
-        },
-        {
-          "title": "谷歌云年度Next大会：TPU打破“内存墙” OCS、液冷题材如期亮相",
-          "url": "https://www.cls.cn/detail/2352843",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时44分 ~ 10时32分]"
         },
         {
           "title": "谷歌设立7.5亿美元基金，助力咨询公司应用AI",
@@ -835,7 +871,7 @@
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "【数据看盘】超14亿元资金出逃东山精密 游资联手机构抢筹九安医疗",
@@ -861,16 +897,28 @@
           "time_info": "07时44分"
         },
         {
+          "title": "快递员将7999元手机放门口丢失",
+          "url": "https://www.baidu.com/s?wd=%E5%BF%AB%E9%80%92%E5%91%98%E5%B0%867999%E5%85%83%E6%89%8B%E6%9C%BA%E6%94%BE%E9%97%A8%E5%8F%A3%E4%B8%A2%E5%A4%B1",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
           "title": "库克称苹果地图发布是首个重大错误",
           "url": "https://s.weibo.com/weibo?q=%23%E5%BA%93%E5%85%8B%E7%A7%B0%E8%8B%B9%E6%9E%9C%E5%9C%B0%E5%9B%BE%E5%8F%91%E5%B8%83%E6%98%AF%E9%A6%96%E4%B8%AA%E9%87%8D%E5%A4%A7%E9%94%99%E8%AF%AF%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
           "ranks": [
             14,
-            2
+            2,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 13时29分]"
         },
         {
           "title": "日本人称手机设置为中文感觉很清爽",
@@ -890,11 +938,23 @@
           "url": "https://www.toutiao.com/trending/7631406236243886122/",
           "source": "今日头条",
           "ranks": [
-            7
+            7,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 13时29分]"
+        },
+        {
+          "title": "库克称苹果地图发布是首个重大错误",
+          "url": "https://www.baidu.com/s?wd=%E5%BA%93%E5%85%8B%E7%A7%B0%E8%8B%B9%E6%9E%9C%E5%9C%B0%E5%9B%BE%E5%8F%91%E5%B8%83%E6%98%AF%E9%A6%96%E4%B8%AA%E9%87%8D%E5%A4%A7%E9%94%99%E8%AF%AF",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
         }
       ]
     },
@@ -943,7 +1003,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         }
@@ -1044,8 +1104,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时44分 ~ 10时32分]"
+          "appearance_count": 4,
+          "time_info": "[07时44分 ~ 13时29分]"
         }
       ]
     },
