@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-04-24T23:07:58.341995+08:00",
-  "total_titles_processed": 1742,
+  "generated_at": "2026-04-25T00:56:14.792175+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 38,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "DeepSeek V4预览版发布：显存和算力需求大降，Agent能力领跑国内开源，体验超越Sonnet 4.5",
+          "url": "https://wallstreetcn.com/articles/3770782",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 00时56分]"
+        },
+        {
+          "title": "DeepSeek V4 Pro实测",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%20Pro%E5%AE%9E%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 00时56分]"
+        },
         {
           "title": "DeepSeek V4 预览版本上线并同步开源，哪些亮点值得关注？",
           "url": "https://www.zhihu.com/question/2030963929510310856",
@@ -15,1174 +37,313 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时34分 ~ 23时07分]"
-        },
-        {
-          "title": "DeepSeek V4预览版发布：显存和算力需求大降，Agent能力领跑国内开源，体验超越Sonnet 4.5",
-          "url": "https://wallstreetcn.com/articles/3770782",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时34分 ~ 23时07分]"
-        },
-        {
-          "title": "万字回顾DeepSeek演进之路",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E5%9B%9E%E9%A1%BEDeepSeek%E6%BC%94%E8%BF%9B%E4%B9%8B%E8%B7%AF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            5,
-            13,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时34分 ~ 23时07分]"
-        },
-        {
-          "title": "DeepSeek V4 发布",
-          "url": "https://www.douyin.com/hot/2477208",
-          "source": "抖音",
-          "ranks": [
-            1,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时34分 ~ 21时22分]"
-        },
-        {
-          "title": "如何看待腾讯、阿里洽谈投资 DeepSeek 的消息，估值超过 200 亿美元合理吗？",
-          "url": "https://www.zhihu.com/question/2030589948001084304",
-          "source": "知乎",
-          "ranks": [
-            8,
-            5,
-            7,
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时19分 ~ 07时44分]"
-        },
-        {
-          "title": "DeepSeek-V4预览版上线 对计算和显存的需求降低 百万字上下文成标配",
-          "url": "https://www.cls.cn/detail/2354495",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时34分 ~ 19时57分]"
-        },
-        {
-          "title": "DeepSeek-V4虽迟但到！百万上下文成标配 华为昇腾和英伟达均被写进其技术报告",
-          "url": "https://www.cls.cn/detail/2354737",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时02分 ~ 23时07分]"
-        },
-        {
-          "title": "DeepSeek-V4发布！迈入百万上下文时代 华为昇腾超节点全面支持",
-          "url": "https://www.cls.cn/detail/2354690",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时02分 ~ 21时22分]"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 00时56分]"
         },
         {
           "title": "DeepSeek-V4 已公布，如何评价 DeepSeek-V4 的价格？",
           "url": "https://www.zhihu.com/question/2030963912749924411",
           "source": "知乎",
           "ranks": [
-            8,
-            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时20分 ~ 23时07分]"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 00时56分]"
         },
         {
-          "title": "DeepSeekV4预览版本上线",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E9%A2%84%E8%A7%88%E7%89%88%E6%9C%AC%E4%B8%8A%E7%BA%BF",
-          "source": "bilibili 热搜",
+          "title": "月之暗面与DeepSeek的“听牌”时刻",
+          "url": "https://www.toutiao.com/trending/7632324048923397668/",
+          "source": "今日头条",
           "ranks": [
-            18,
-            19,
-            22,
-            15
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时34分 ~ 23时07分]"
-        },
-        {
-          "title": "深度解读DeepSeek-V4",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BBDeepSeek-V4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            1,
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时20分 ~ 23时07分]"
-        },
-        {
-          "title": "智源FlagOS完成DeepSeek-V4八款芯片Day0适配，覆盖昇腾、海光、摩尔线程等",
-          "url": "https://wallstreetcn.com/livenews/3093943",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "【焦点复盘】三大指数缩量调整失守5日线，商业航天概念持续退潮，新版DeepSeek激活国产算力链",
-          "url": "https://www.cls.cn/detail/2354937",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时20分 ~ 23时07分]"
-        },
-        {
-          "title": "DeepSeek-V4 预览版正式上线",
-          "url": "https://www.baidu.com/s?wd=DeepSeek-V4+%E9%A2%84%E8%A7%88%E7%89%88%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时34分 ~ 16时02分]"
-        },
-        {
-          "title": "DeepSeek V4强在哪里",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E5%BC%BA%E5%9C%A8%E5%93%AA%E9%87%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            15,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时20分 ~ 23时07分]"
-        },
-        {
-          "title": "DeepSeek V4适配国产芯片",
-          "url": "https://www.baidu.com/s?wd=DeepSeek+V4%E9%80%82%E9%85%8D%E5%9B%BD%E4%BA%A7%E8%8A%AF%E7%89%87",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时02分 ~ 21时22分]"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 00时56分]"
         },
         {
           "title": "DeepSeek V4揭开AI内卷终局",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E6%8F%AD%E5%BC%80AI%E5%86%85%E5%8D%B7%E7%BB%88%E5%B1%80",
           "source": "bilibili 热搜",
           "ranks": [
-            24,
-            4
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时22分 ~ 23时07分]"
+          "time_info": "[00时55分 ~ 00时56分]"
         },
         {
-          "title": "UP主评测DeepSeek V4",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%AF%84%E6%B5%8BDeepSeek%20V4",
+          "title": "【焦点复盘】三大指数缩量调整失守5日线，商业航天概念持续退潮，新版DeepSeek激活国产算力链",
+          "url": "https://www.cls.cn/detail/2354937",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 00时56分]"
+        },
+        {
+          "title": "DeepSeek V4强在哪里",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E5%BC%BA%E5%9C%A8%E5%93%AA%E9%87%8C",
           "source": "bilibili 热搜",
           "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时34分 ~ 16时02分]"
-        },
-        {
-          "title": "DeepSeek v4 百万上下文",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%20v4%20%E7%99%BE%E4%B8%87%E4%B8%8A%E4%B8%8B%E6%96%87&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时34分 ~ 16时02分]"
-        },
-        {
-          "title": "重磅！DeepSeek V4来了 定价揭晓",
-          "url": "https://www.baidu.com/s?wd=%E9%87%8D%E7%A3%85%EF%BC%81DeepSeek+V4%E6%9D%A5%E4%BA%86+%E5%AE%9A%E4%BB%B7%E6%8F%AD%E6%99%93",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时34分 ~ 16时02分]"
-        },
-        {
-          "title": "DeepSeek融资为何谁都不想错过",
-          "url": "https://www.toutiao.com/trending/7632134652576140850/",
-          "source": "今日头条",
-          "ranks": [
-            9
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时34分 ~ 13时35分]"
+          "time_info": "[00时55分 ~ 00时56分]"
         },
         {
-          "title": "DeepSeek-V4预览版本正式上线",
-          "url": "https://www.toutiao.com/trending/7631414915676782633/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时34分 ~ 13时35分]"
-        },
-        {
-          "title": "DeepSeek V4拥有百万字超长上下文",
-          "url": "https://www.baidu.com/s?wd=DeepSeek+V4%E6%8B%A5%E6%9C%89%E7%99%BE%E4%B8%87%E5%AD%97%E8%B6%85%E9%95%BF%E4%B8%8A%E4%B8%8B%E6%96%87",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时34分 ~ 13时35分]"
-        },
-        {
-          "title": "DeepSeek-V4上线 国产AI芯片股拉升",
-          "url": "https://www.baidu.com/s?wd=DeepSeek-V4%E4%B8%8A%E7%BA%BF+%E5%9B%BD%E4%BA%A7AI%E8%8A%AF%E7%89%87%E8%82%A1%E6%8B%89%E5%8D%87",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时34分 ~ 13时35分]"
-        },
-        {
-          "title": "DeepSeekV4发布",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeekV4%E5%8F%91%E5%B8%83%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时34分 ~ 13时35分]"
-        },
-        {
-          "title": "港股大模型概念股智谱、Minimax午后跌幅扩大，智谱跌超9%，Minimax跌超4%，此前DeepSeek V4预览版发布。",
-          "url": "https://wallstreetcn.com/livenews/3093717",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时35分"
-        },
-        {
-          "title": "DeepSeekV4 价格屠夫",
-          "url": "https://s.weibo.com/weibo?q=DeepSeekV4%20%E4%BB%B7%E6%A0%BC%E5%B1%A0%E5%A4%AB&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时22分"
-        },
-        {
-          "title": "摩尔线程TileLang-MUSA Day-0支持DeepSeek-V4全新TileKernels",
-          "url": "https://wallstreetcn.com/livenews/3094157",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时07分"
-        },
-        {
-          "title": "如何评价 DeepSeek 刚刚发布的 DeepSeek-V4-Pro 和 DeepSeek-V4-Flash？",
-          "url": "https://www.zhihu.com/question/2030969489941066221",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "DeepSeek-V4-Flash上线华为云",
-          "url": "https://flash.jin10.com/detail/20260424154111852800",
-          "source": "金十数据",
+          "title": "DeepSeekV4预览版本上线",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E9%A2%84%E8%A7%88%E7%89%88%E6%9C%AC%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
           "ranks": [
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "DeepSeekV4和GPT5.5谁更强",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E5%92%8CGPT5.5%E8%B0%81%E6%9B%B4%E5%BC%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时22分"
-        },
-        {
-          "title": "港股大模型概念股午后跌幅扩大，智谱(02513.HK)跌超9%，MiniMax(00100.HK)跌5.77%，此前DeepSeek-V4的预览版本正式上线并同步开源。",
-          "url": "https://flash.jin10.com/detail/20260424130703159800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时35分"
-        },
-        {
-          "title": "DeepSeek-V4-Flash上线华为云",
-          "url": "https://wallstreetcn.com/livenews/3093817",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "DeepSeek V4 Pro实测",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%20Pro%E5%AE%9E%E6%B5%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时07分"
-        },
-        {
-          "title": "DeepSeek-V4 已公布, 如何评价 DeepSeek-V4 的价格？",
-          "url": "https://www.zhihu.com/question/2030963912749924411",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "DeepSeekV4深度适配国产算力",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeekV4%E6%B7%B1%E5%BA%A6%E9%80%82%E9%85%8D%E5%9B%BD%E4%BA%A7%E7%AE%97%E5%8A%9B%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 00时56分]"
         },
         {
           "title": "实测DeepSeek V4",
           "url": "https://www.douyin.com/hot/2477701",
           "source": "抖音",
           "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时07分"
-        },
-        {
-          "title": "阿里国际旗下Accio Work已接入DeepSeek V4",
-          "url": "https://wallstreetcn.com/livenews/3094009",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "央行 抖音 小红书",
-      "match_count": 23,
-      "titles": [
-        {
-          "title": "好一个抖音新中式武术",
-          "url": "https://www.douyin.com/hot/2477202",
-          "source": "抖音",
-          "ranks": [
-            14,
-            18,
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时02分 ~ 23时07分]"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 00时56分]"
         },
         {
-          "title": "美国至4月17日当周外国央行持有美国国债 230.57亿美元，前值122.76亿美元。",
-          "url": "https://flash.jin10.com/detail/20260424043436815800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时52分"
-        },
-        {
-          "title": "中国央行：4月27日将开展4000亿元MLF操作，期限为1年期",
-          "url": "https://wallstreetcn.com/livenews/3093945",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "欧洲央行管委Kazimir：欧洲央行有可能需要加点息。",
-          "url": "https://wallstreetcn.com/livenews/3093944",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "规范金融产品网络营销活动，央行等八部门发布管理办法",
-          "url": "https://www.cls.cn/detail/2354995",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时56分 ~ 23时07分]"
-        },
-        {
-          "title": "瑞士央行发言人：Martin Brown将出任央行下一任首席经济学家。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3094159",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时07分"
-        },
-        {
-          "title": "伊朗央行：首笔霍尔木兹海峡通行费以“现金外汇”形式入账",
-          "url": "https://flash.jin10.com/detail/20260424004922065800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "“现金外汇”！伊朗央行：霍尔木兹海峡通行费已入账",
-          "url": "https://wallstreetcn.com/livenews/3093426",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "中国央行等八部门：应用算法推荐技术开展网络营销的 不得设置诱导金融消费者和投资者过度消费的算法模型",
-          "url": "https://wallstreetcn.com/livenews/3093926",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "中国央行等八部门：金融机构及其员工不得委托第三方互联网平台以“投资者教育”“课程培训”等形式变相开展金融产品网络营销",
-          "url": "https://wallstreetcn.com/livenews/3093925",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "瑞士央行副行长：自伊朗冲突开始以来，我们观察到瑞郎贬值。",
-          "url": "https://flash.jin10.com/detail/20260424021735753800",
-          "source": "金十数据",
+          "title": "终于来了！DeepSeekV4预览版本正式发布：Agent、世界知识和推理性能在开源领域领先",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33042587",
+          "source": "澎湃新闻",
           "ranks": [
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时06分"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 00时56分]"
         },
         {
-          "title": "土耳其央行：截至4月17日当周，按国际标准计的黄金储备增加30.68吨，至730.57吨。",
-          "url": "https://flash.jin10.com/detail/20260424193422359800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时57分"
-        },
-        {
-          "title": "瑞士央行副行长：我们更有意愿干预外汇市场。",
-          "url": "https://flash.jin10.com/detail/20260424021709340800",
-          "source": "金十数据",
+          "title": "万字回顾DeepSeek演进之路",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E5%9B%9E%E9%A1%BEDeepSeek%E6%BC%94%E8%BF%9B%E4%B9%8B%E8%B7%AF",
+          "source": "bilibili 热搜",
           "ranks": [
             19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时06分"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 00时56分]"
         },
         {
-          "title": "瑞士央行副行长：非常明确的是，鉴于中东战争造成的局势，我们准备好进行干预。",
-          "url": "https://flash.jin10.com/detail/20260424021651798800",
-          "source": "金十数据",
+          "title": "深度解读DeepSeek-V4",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BBDeepSeek-V4",
+          "source": "bilibili 热搜",
           "ranks": [
-            20
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时06分"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 00时56分]"
         },
         {
-          "title": "路透调查：巴西2026年通胀预期为4.5%，2027年为3.9%（1月调查为4.0%、3.8%）。巴西经济预计在2026年增长1.8%，2027年增长1.8%（1月调查为1.8%、1.9%）。35位受访经济学家中有31位预计，巴西央行将在4月29日将关键利率从14.75%下调至14.50%。",
-          "url": "https://flash.jin10.com/detail/20260424210700134800",
-          "source": "金十数据",
+          "title": "DeepSeek V4 发布",
+          "url": "https://www.douyin.com/hot/2477208",
+          "source": "抖音",
           "ranks": [
-            20
+            28
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 00时56分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "谷歌计划向Anthropic投资高达400亿美元",
+          "url": "https://flash.jin10.com/detail/20260424235901530800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时22分"
+          "time_info": "00时56分"
         },
         {
-          "title": "瑞士央行发言人：首席经济学家卡洛斯·伦茨（Carlos Lenz）将在2026年底退休。瑞士央行：马丁·布朗（Martin Brown）将成为下一任首席经济学家。",
-          "url": "https://flash.jin10.com/detail/20260424223959233800",
+          "title": "谷歌计划向Anthropic投资高达400亿美元",
+          "url": "https://wallstreetcn.com/livenews/3094203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时56分"
+        },
+        {
+          "title": "据日经新闻：竞标方将为软银美国数据中心项目选择客户。谷歌和微软将成为竞标方之一。",
+          "url": "https://flash.jin10.com/detail/20260424235828766800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时56分"
+        },
+        {
+          "title": "市场消息：谷歌将向Anthropic提供至少5吉瓦算力。",
+          "url": "https://flash.jin10.com/detail/20260424235156900800",
           "source": "金十数据",
           "ranks": [
             21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时07分"
+          "time_info": "00时56分"
         },
         {
-          "title": "分析师料欧洲央行6月加息 2027年改变政策方向",
-          "url": "https://wallstreetcn.com/livenews/3093806",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "泰国央行：泰国外汇储备4月17日为2888亿美元，4月10日为2855亿美元。",
-          "url": "https://flash.jin10.com/detail/20260424153039047800",
+          "title": "市场消息：谷歌(GOOG.O)最初承诺向Anthropic投资100亿美元现金，若达成目标，谷歌还将向Anthropic追加最多300亿美元投资。",
+          "url": "https://flash.jin10.com/detail/20260424235142904800",
           "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "中国央行公开市场开展50亿元7天期逆回购操作，操作利率1.40%。今日5亿元逆回购到期。",
-          "url": "https://wallstreetcn.com/livenews/3093609",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "分析师：欧洲央行将于6月加息，2027年将逆转政策方向",
-          "url": "https://flash.jin10.com/detail/20260424125151656800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时35分"
-        },
-        {
-          "title": "泰国央行：泰国净远期头寸4月17日为226亿美元，4月10日为228亿美元。",
-          "url": "https://flash.jin10.com/detail/20260424153026383800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "凯投宏观：日本央行最早可能在6月加息",
-          "url": "https://flash.jin10.com/detail/20260424093905417800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "英国央行官员警告：股价未能反映当前的风险水平 有可能出现下跌",
-          "url": "https://flash.jin10.com/detail/20260424153013395800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "美伊局势升温，美股低开，特斯拉跌4%，金银下跌，油价涨超1%",
-          "url": "https://wallstreetcn.com/articles/3770666",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时19分 ~ 04时52分]"
-        },
-        {
-          "title": "特斯拉电话会：超预期上调2026年资本开支，AI5芯片提前流片，“Optimus将是史上最大的产品”",
-          "url": "https://wallstreetcn.com/articles/3770653",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时19分 ~ 07时44分]"
-        },
-        {
-          "title": "特斯拉Q1营收创近三年最高增速，盈利大超预期，现金流翻倍，马斯克预告支出大增丨财报见闻",
-          "url": "https://wallstreetcn.com/articles/3770645",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时19分 ~ 06时43分]"
-        },
-        {
-          "title": "年中亮相、今夏投产！特斯拉官宣第三代机器人时间表 硬件端有望全面升级",
-          "url": "https://www.cls.cn/detail/2353290",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 01时20分]"
-        },
-        {
-          "title": "英特尔(INTC.O)CEO：英特尔与特斯拉交易的细节仍在敲定。",
-          "url": "https://flash.jin10.com/detail/20260424042800843800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时52分"
-        },
-        {
-          "title": "特斯拉一季度净利润 4.77 亿美元，同比增长 17%，交付量 35.8 万辆，同比增长 6.5%，如何解读？",
-          "url": "https://www.zhihu.com/question/2030579939343380868",
-          "source": "知乎",
-          "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时31分 ~ 13时35分]"
-        },
-        {
-          "title": "比亚迪大唐EV开启预售",
-          "url": "https://www.toutiao.com/trending/7631838015578472467/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时56分 ~ 21时22分]"
-        },
-        {
-          "title": "全新奥迪SQ8上市",
-          "url": "https://www.toutiao.com/trending/7631876821516337158/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时02分 ~ 18时20分]"
-        },
-        {
-          "title": "马斯克画的饼特斯拉和SpaceX不够分了",
-          "url": "https://www.toutiao.com/trending/7631816740452548650/",
-          "source": "今日头条",
           "ranks": [
             22
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时34分 ~ 13时35分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时56分"
         },
         {
-          "title": "英特尔(INTC.O)CEO：将通过特斯拉CEO埃隆·马斯克的Terafab项目寻找非常规方式提升制造能力。",
-          "url": "https://flash.jin10.com/detail/20260424052524927800",
+          "title": "市场消息：谷歌计划向Anthropic投资高达400亿美元。",
+          "url": "https://flash.jin10.com/detail/20260424235037826800",
           "source": "金十数据",
           "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时44分"
-        },
-        {
-          "title": "比亚迪全新概念车OCEAN-V首发亮相",
-          "url": "https://www.toutiao.com/trending/7631895760532815913/",
-          "source": "今日头条",
-          "ranks": [
-            17
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时07分"
-        },
-        {
-          "title": "比亚迪大唐EV预售价公布：25万元起",
-          "url": "https://wallstreetcn.com/livenews/3093812",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "OpenAI深夜王炸！GPT-5.5正式发布：更会编程和使用计算机的最强模型",
-          "url": "https://www.cls.cn/detail/2354272",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时34分 ~ 16时02分]"
-        },
-        {
-          "title": "如何评价 OpenAI 最新发布的 GPT-5.5 模型？",
-          "url": "https://www.zhihu.com/question/2030834616181970293",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
-        },
-        {
-          "title": "OpenAI发布GPT-5.5",
-          "url": "https://www.baidu.com/s?wd=OpenAI%E5%8F%91%E5%B8%83GPT-5.5",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
-        },
-        {
-          "title": "微软：OpenAI的GPT-5.5将于明天在微软Foundry正式发布。",
-          "url": "https://flash.jin10.com/detail/20260424064650416800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时44分"
-        },
-        {
-          "title": "OpenAI发布新模型GPT 5.5，能更好地帮助科学家们、简化软件开发、执行更复杂的任务。",
-          "url": "https://wallstreetcn.com/livenews/3093466",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时06分"
-        },
-        {
-          "title": "OpenAI：将很快把GPT‑5.5和GPT‑5.5 PRO引入 API。",
-          "url": "https://flash.jin10.com/detail/20260424020703790800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时06分"
-        },
-        {
-          "title": "OpenAI：GPT‑5.5 PRO正在向ChatGPT的专业版、商业版和企业用户推出。",
-          "url": "https://flash.jin10.com/detail/20260424020634954800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时06分"
-        },
-        {
-          "title": "OpenAI：发布GPT‑5.5，并配备迄今为止最强大的一套安全防护措施。",
-          "url": "https://flash.jin10.com/detail/20260424020613042800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时06分"
-        },
-        {
-          "title": "OpenAI：推出 GPT‑5.5，这是我们迄今为止最智能、最直观易用的模型，也是迈向在电脑上完成工作的全新方式的下一步。",
-          "url": "https://flash.jin10.com/detail/20260424020534371800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "女子捡到手机解不开密码丢草丛被判赔",
-          "url": "https://www.toutiao.com/trending/7632103367078297641/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时34分 ~ 13时35分]"
-        },
-        {
-          "title": "苹果或被印度罚款380亿美元有何影响",
-          "url": "https://www.toutiao.com/trending/7631444837368807475/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            26,
-            30,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时19分 ~ 06时43分]"
-        },
-        {
-          "title": "因拒交数据，苹果或在印度面临 380 亿美元反垄断处罚，印度为何要索要这些信息？苹果又为何拒绝提交？",
-          "url": "https://www.zhihu.com/question/2030231825646187454",
-          "source": "知乎",
-          "ranks": [
-            18,
-            13,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时20分 ~ 23时07分]"
-        },
-        {
-          "title": "如何理解库克称苹果地图发布是首个重大错误？这款产品为何会成为苹果业务中的一块短板？",
-          "url": "https://www.zhihu.com/question/2030662394523776013",
-          "source": "知乎",
-          "ranks": [
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时56分 ~ 23时07分]"
-        },
-        {
-          "title": "为什么苹果总能在产品上出现一些非常糟糕的设计？",
-          "url": "https://www.zhihu.com/question/1990076787405914325",
-          "source": "知乎",
-          "ranks": [
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时31分 ~ 13时35分]"
-        },
-        {
-          "title": "苹果新CEO什么来头",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%96%B0CEO%E4%BB%80%E4%B9%88%E6%9D%A5%E5%A4%B4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
-        },
-        {
-          "title": "捡到手机丢草丛 法院：赔偿失主6千元",
-          "url": "https://www.baidu.com/s?wd=%E6%8D%A1%E5%88%B0%E6%89%8B%E6%9C%BA%E4%B8%A2%E8%8D%89%E4%B8%9B+%E6%B3%95%E9%99%A2%EF%BC%9A%E8%B5%94%E5%81%BF%E5%A4%B1%E4%B8%BB6%E5%8D%83%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
-        },
-        {
-          "title": "废旧手机回收价格腰斩",
-          "url": "https://www.baidu.com/s?wd=%E5%BA%9F%E6%97%A7%E6%89%8B%E6%9C%BA%E5%9B%9E%E6%94%B6%E4%BB%B7%E6%A0%BC%E8%85%B0%E6%96%A9",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时22分"
+          "time_info": "00时56分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
         {
           "title": "国际金价银价下跌",
           "url": "https://www.douyin.com/hot/2477037",
           "source": "抖音",
           "ranks": [
-            20,
-            22,
-            18,
-            12,
-            10
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时02分 ~ 23时07分]"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 00时56分]"
         },
         {
           "title": "金价跌破神话了吗",
           "url": "https://www.toutiao.com/trending/7632294513389604393/",
           "source": "今日头条",
           "ranks": [
-            4
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 00时56分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 Apple Mac iPhone 手机",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "因拒交数据，苹果或在印度面临 380 亿美元反垄断处罚，印度为何要索要这些信息？苹果又为何拒绝提交？",
+          "url": "https://www.zhihu.com/question/2030231825646187454",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 00时56分]"
+        },
+        {
+          "title": "如何理解库克称苹果地图发布是首个重大错误？这款产品为何会成为苹果业务中的一块短板？",
+          "url": "https://www.zhihu.com/question/2030662394523776013",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 00时56分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "奥迪 E7X 亮相，5月8日开启预售",
+          "url": "https://wallstreetcn.com/livenews/3094193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时07分"
+          "time_info": "00时56分"
         },
         {
-          "title": "纽蒙特矿业承诺：黄金价格出现史无前例的上涨行情，公司打算回购60亿美元股票。",
-          "url": "https://wallstreetcn.com/livenews/3093522",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时44分"
-        },
-        {
-          "title": "金价何时迎来阶段性反弹",
-          "url": "https://www.toutiao.com/trending/7631763306449518635/",
-          "source": "今日头条",
+          "title": "乘联分会：4月狭义乘用车零售预计142.0万辆，新能源预计86.0万辆",
+          "url": "https://flash.jin10.com/detail/20260424234955601800",
+          "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时20分"
+          "time_info": "00时56分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "keyword_group": "央行 抖音 小红书",
+      "match_count": 2,
       "titles": [
         {
-          "title": "据日经新闻：谷歌将竞标软银在俄亥俄州的数据中心使用权。",
-          "url": "https://flash.jin10.com/detail/20260424153616706800",
-          "source": "金十数据",
+          "title": "好一个抖音新中式武术",
+          "url": "https://www.douyin.com/hot/2477202",
+          "source": "抖音",
           "ranks": [
-            19
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 00时56分]"
+        },
         {
-          "title": "纽曼矿业(NEM.N)：一季度实现黄金平均价格为每盎司4,900美元。",
-          "url": "https://flash.jin10.com/detail/20260424042901417800",
-          "source": "金十数据",
+          "title": "规范金融产品网络营销活动，央行等八部门发布管理办法",
+          "url": "https://www.cls.cn/detail/2354995",
+          "source": "财联社热门",
           "ranks": [
-            3
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "英雄联盟 LOL",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何评价英雄联盟 16.9 版本将中路任务奖励由强化回城替换为 6% 的额外攻击力和法术强度加成？",
-          "url": "https://www.zhihu.com/question/2030373762764371549",
-          "source": "知乎",
-          "ranks": [
-            19,
-            16,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时19分 ~ 05时44分]"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 00时56分]"
         }
       ]
     }
