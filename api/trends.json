@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T02:50:22.724058+08:00",
-  "total_titles_processed": 423,
+  "generated_at": "2026-04-25T03:53:25.498505+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 02时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 03时53分]"
         },
         {
           "title": "DeepSeek V4 Pro实测",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 02时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 03时53分]"
         },
         {
           "title": "DeepSeek-V4 已公布，如何评价 DeepSeek-V4 的价格？",
@@ -38,8 +38,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 02时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 03时53分]"
         },
         {
           "title": "【焦点复盘】三大指数缩量调整失守5日线，商业航天概念持续退潮，新版DeepSeek激活国产算力链",
@@ -50,8 +50,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 02时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 03时53分]"
         },
         {
           "title": "DeepSeek V4 预览版本上线并同步开源，哪些亮点值得关注？",
@@ -67,6 +67,20 @@
           "time_info": "[00时55分 ~ 02时50分]"
         },
         {
+          "title": "DeepSeek V4揭开AI内卷终局",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E6%8F%AD%E5%BC%80AI%E5%86%85%E5%8D%B7%E7%BB%88%E5%B1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            12,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 03时53分]"
+        },
+        {
           "title": "月之暗面与DeepSeek的“听牌”时刻",
           "url": "https://www.toutiao.com/trending/7632324048923397668/",
           "source": "今日头条",
@@ -80,30 +94,18 @@
           "time_info": "[00时55分 ~ 02时50分]"
         },
         {
-          "title": "DeepSeek V4揭开AI内卷终局",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E6%8F%AD%E5%BC%80AI%E5%86%85%E5%8D%B7%E7%BB%88%E5%B1%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 02时50分]"
-        },
-        {
           "title": "实测DeepSeek V4",
           "url": "https://www.douyin.com/hot/2477701",
           "source": "抖音",
           "ranks": [
             16,
             12,
-            14
+            14,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 02时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 03时53分]"
         },
         {
           "title": "DeepSeekV4预览版本上线",
@@ -112,11 +114,12 @@
           "ranks": [
             16,
             20,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 02时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 03时53分]"
         },
         {
           "title": "万字回顾DeepSeek演进之路",
@@ -125,11 +128,12 @@
           "ranks": [
             19,
             13,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 02时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 03时53分]"
         },
         {
           "title": "DeepSeek V4强在哪里",
@@ -141,8 +145,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 02时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 03时53分]"
         },
         {
           "title": "终于来了！DeepSeekV4预览版本正式发布：Agent、世界知识和推理性能在开源领域领先",
@@ -152,8 +156,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 02时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 03时53分]"
         },
         {
           "title": "深度解读DeepSeek-V4",
@@ -161,11 +165,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             25,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 02时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 03时53分]"
         },
         {
           "title": "DeepSeek V4 发布",
@@ -263,11 +268,12 @@
           "ranks": [
             17,
             7,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 02时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 03时53分]"
         },
         {
           "title": "金价跌破神话了吗",
@@ -277,8 +283,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 02时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 03时53分]"
         },
         {
           "title": "金价跌破新低",
@@ -286,11 +292,12 @@
           "source": "微博",
           "ranks": [
             24,
-            27
+            27,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时50分 ~ 02时50分]"
+          "appearance_count": 4,
+          "time_info": "[01时50分 ~ 03时53分]"
         }
       ]
     },
@@ -307,8 +314,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 02时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 03时53分]"
         },
         {
           "title": "规范金融产品网络营销活动，央行等八部门发布管理办法",
@@ -319,8 +326,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 02时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 03时53分]"
         },
         {
           "title": "英国央行警告：股市估值过高，恐将迎来“调整”",
@@ -348,8 +355,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 02时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 03时53分]"
         },
         {
           "title": "如何理解库克称苹果地图发布是首个重大错误？这款产品为何会成为苹果业务中的一块短板？",
@@ -357,11 +364,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 02时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 03时53分]"
         }
       ]
     },
@@ -404,7 +412,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         }
