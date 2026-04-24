@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-04-24T07:44:22.269854+08:00",
-  "total_titles_processed": 657,
+  "generated_at": "2026-04-24T10:32:17.554549+08:00",
+  "total_titles_processed": 849,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "如何评价 OpenAI 最新发布的 GPT-5.5 模型？",
+          "url": "https://www.zhihu.com/question/2030834616181970293",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 10时32分]"
+        },
+        {
+          "title": "OpenAI发布GPT-5.5",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E5%8F%91%E5%B8%83GPT-5.5",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 10时32分]"
+        },
         {
           "title": "微软：OpenAI的GPT-5.5将于明天在微软Foundry正式发布。",
           "url": "https://flash.jin10.com/detail/20260424064650416800",
@@ -14,7 +36,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         },
@@ -76,83 +98,8 @@
       ]
     },
     {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "美伊局势升温，美股低开，特斯拉跌4%，金银下跌，油价涨超1%",
-          "url": "https://wallstreetcn.com/articles/3770666",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时19分 ~ 04时52分]"
-        },
-        {
-          "title": "特斯拉电话会：超预期上调2026年资本开支，AI5芯片提前流片，“Optimus将是史上最大的产品”",
-          "url": "https://wallstreetcn.com/articles/3770653",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时19分 ~ 07时44分]"
-        },
-        {
-          "title": "特斯拉Q1营收创近三年最高增速，盈利大超预期，现金流翻倍，马斯克预告支出大增丨财报见闻",
-          "url": "https://wallstreetcn.com/articles/3770645",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时19分 ~ 06时43分]"
-        },
-        {
-          "title": "年中亮相、今夏投产！特斯拉官宣第三代机器人时间表 硬件端有望全面升级",
-          "url": "https://www.cls.cn/detail/2353290",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 01时20分]"
-        },
-        {
-          "title": "英特尔(INTC.O)CEO：英特尔与特斯拉交易的细节仍在敲定。",
-          "url": "https://flash.jin10.com/detail/20260424042800843800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时52分"
-        },
-        {
-          "title": "英特尔(INTC.O)CEO：将通过特斯拉CEO埃隆·马斯克的Terafab项目寻找非常规方式提升制造能力。",
-          "url": "https://flash.jin10.com/detail/20260424052524927800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时44分"
-        }
-      ]
-    },
-    {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "美国至4月17日当周外国央行持有美国国债 230.57亿美元，前值122.76亿美元。",
@@ -219,6 +166,167 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
+        },
+        {
+          "title": "中国央行公开市场开展50亿元7天期逆回购操作，操作利率1.40%。今日5亿元逆回购到期。",
+          "url": "https://wallstreetcn.com/livenews/3093609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "凯投宏观：日本央行最早可能在6月加息",
+          "url": "https://flash.jin10.com/detail/20260424093905417800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "美伊局势升温，美股低开，特斯拉跌4%，金银下跌，油价涨超1%",
+          "url": "https://wallstreetcn.com/articles/3770666",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时19分 ~ 04时52分]"
+        },
+        {
+          "title": "特斯拉电话会：超预期上调2026年资本开支，AI5芯片提前流片，“Optimus将是史上最大的产品”",
+          "url": "https://wallstreetcn.com/articles/3770653",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时19分 ~ 07时44分]"
+        },
+        {
+          "title": "特斯拉Q1营收创近三年最高增速，盈利大超预期，现金流翻倍，马斯克预告支出大增丨财报见闻",
+          "url": "https://wallstreetcn.com/articles/3770645",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时19分 ~ 06时43分]"
+        },
+        {
+          "title": "年中亮相、今夏投产！特斯拉官宣第三代机器人时间表 硬件端有望全面升级",
+          "url": "https://www.cls.cn/detail/2353290",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 01时20分]"
+        },
+        {
+          "title": "英特尔(INTC.O)CEO：英特尔与特斯拉交易的细节仍在敲定。",
+          "url": "https://flash.jin10.com/detail/20260424042800843800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时52分"
+        },
+        {
+          "title": "特斯拉一季度净利润 4.77 亿美元，同比增长 17%，交付量 35.8 万辆，同比增长 6.5%，如何解读？",
+          "url": "https://www.zhihu.com/question/2030579939343380868",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 10时32分]"
+        },
+        {
+          "title": "英特尔(INTC.O)CEO：将通过特斯拉CEO埃隆·马斯克的Terafab项目寻找非常规方式提升制造能力。",
+          "url": "https://flash.jin10.com/detail/20260424052524927800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 Apple Mac iPhone 手机",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "苹果或被印度罚款380亿美元有何影响",
+          "url": "https://www.toutiao.com/trending/7631444837368807475/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            26,
+            30,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时19分 ~ 06时43分]"
+        },
+        {
+          "title": "苹果新CEO什么来头",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%96%B0CEO%E4%BB%80%E4%B9%88%E6%9D%A5%E5%A4%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 10时32分]"
+        },
+        {
+          "title": "为什么苹果总能在产品上出现一些非常糟糕的设计？",
+          "url": "https://www.zhihu.com/question/1990076787405914325",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 10时32分]"
+        },
+        {
+          "title": "捡到手机丢草丛 法院：赔偿失主6千元",
+          "url": "https://www.baidu.com/s?wd=%E6%8D%A1%E5%88%B0%E6%89%8B%E6%9C%BA%E4%B8%A2%E8%8D%89%E4%B8%9B+%E6%B3%95%E9%99%A2%EF%BC%9A%E8%B5%94%E5%81%BF%E5%A4%B1%E4%B8%BB6%E5%8D%83%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 10时32分]"
         }
       ]
     },
@@ -293,26 +401,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时19分 ~ 05时44分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "苹果或被印度罚款380亿美元有何影响",
-          "url": "https://www.toutiao.com/trending/7631444837368807475/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            26,
-            30,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时19分 ~ 06时43分]"
         }
       ]
     }
