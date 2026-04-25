@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T02:52:17.769687+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2026-04-26T03:44:03.338323+08:00",
+  "total_titles_processed": 433,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2031047018336839206",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 02时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 03时44分]"
         },
         {
           "title": "沐曦股份携手FlagOS、上海人工智能实验室，完成DeepSeek-V4 Day 0适配",
@@ -26,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 03时44分]"
         },
         {
           "title": "DeepSeek V4换芯片的背后",
@@ -38,8 +39,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 02时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 03时44分]"
         },
         {
           "title": "DeepSeek如何适配国产芯片",
@@ -76,11 +77,12 @@
           "ranks": [
             21,
             17,
-            8
+            8,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 02时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 03时44分]"
         },
         {
           "title": "断绝孩子手机上瘾最快的偏方",
@@ -88,11 +90,12 @@
           "source": "微博",
           "ranks": [
             26,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时37分 ~ 02时52分]"
+          "appearance_count": 5,
+          "time_info": "[01时37分 ~ 03时44分]"
         }
       ]
     },
@@ -105,11 +108,12 @@
           "url": "https://wallstreetcn.com/articles/3770859",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 02时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 03时44分]"
         }
       ]
     },
@@ -124,11 +128,12 @@
           "ranks": [
             7,
             28,
-            24
+            24,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 02时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 03时44分]"
         }
       ]
     }
