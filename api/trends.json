@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T03:44:03.338323+08:00",
-  "total_titles_processed": 433,
+  "generated_at": "2026-04-26T04:38:07.365093+08:00",
+  "total_titles_processed": 455,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时40分 ~ 03时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 04时38分]"
         },
         {
           "title": "沐曦股份携手FlagOS、上海人工智能实验室，完成DeepSeek-V4 Day 0适配",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 03时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 04时38分]"
         },
         {
           "title": "DeepSeek V4换芯片的背后",
@@ -36,11 +36,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             21,
-            24
+            24,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时40分 ~ 03时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 04时38分]"
         },
         {
           "title": "DeepSeek如何适配国产芯片",
@@ -68,7 +69,7 @@
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "尾号9999999手机号将再次拍卖",
@@ -78,11 +79,12 @@
             21,
             17,
             8,
-            20
+            20,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时40分 ~ 03时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 04时38分]"
         },
         {
           "title": "断绝孩子手机上瘾最快的偏方",
@@ -94,8 +96,19 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时37分 ~ 03时44分]"
+          "appearance_count": 7,
+          "time_info": "[01时37分 ~ 04时38分]"
+        },
+        {
+          "title": "尾号9999999手机号26余万起拍",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%BE%E5%8F%B79999999%E6%89%8B%E6%9C%BA%E5%8F%B726%E4%BD%99%E4%B8%87%E8%B5%B7%E6%8B%8D",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时37分 ~ 04时38分]"
         }
       ]
     },
@@ -112,8 +125,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时40分 ~ 03时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 04时38分]"
         }
       ]
     },
@@ -132,8 +145,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时40分 ~ 03时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 04时38分]"
         }
       ]
     }
