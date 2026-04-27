@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-28T06:03:06.763578+08:00",
-  "total_titles_processed": 505,
+  "generated_at": "2026-04-28T07:53:26.062148+08:00",
+  "total_titles_processed": 610,
   "failed_sources": [],
   "trends": [
     {
@@ -109,60 +109,86 @@
       ]
     },
     {
-      "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 4,
+      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
+      "match_count": 6,
       "titles": [
         {
-          "title": "时薪100元的新工种：把iPhone绑在脑门上，替AI蒸馏自己",
-          "url": "https://wallstreetcn.com/articles/3770953",
-          "source": "华尔街见闻",
+          "title": "北京车展百万元内新能源速览",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8C%97%E4%BA%AC%E8%BD%A6%E5%B1%95%E7%99%BE%E4%B8%87%E5%85%83%E5%86%85%E6%96%B0%E8%83%BD%E6%BA%90%E9%80%9F%E8%A7%88",
+          "source": "bilibili 热搜",
           "ranks": [
-            7,
-            8
+            24,
+            26,
+            15,
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 06时03分]"
+          "appearance_count": 6,
+          "time_info": "[01时22分 ~ 07时53分]"
         },
         {
-          "title": "日本人不愿相信中国座椅给手机充电",
-          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E4%BA%BA%E4%B8%8D%E6%84%BF%E7%9B%B8%E4%BF%A1%E4%B8%AD%E5%9B%BD%E5%BA%A7%E6%A4%85%E7%BB%99%E6%89%8B%E6%9C%BA%E5%85%85%E7%94%B5&t=31&band_rank=21&Refer=top",
-          "source": "微博",
+          "title": "深圳市委书记靳磊到华为、比亚迪等走访调研",
+          "url": "https://wallstreetcn.com/livenews/3095287",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌1.20%，报6868.78点。 热门中概股里，亚朵初步收跌5.4%，世纪互联跌4.2%，再鼎医药、华住、大全新能源至少跌3.5%，万国数据、B站、阿里跌超2%，蔚来涨0.6%，网易涨0.7%，新东方涨1.3%，文远知行涨2.4%。 ETF中，中概互联网指数ETF（KWEB）收跌1.63%，中国科技指数ETF（CQQQ）收涨0.36%。 德银嘉实沪深300指数ETF（ASHR）收跌0.49%，XtrackersHarvest中证50（ASHS）收涨0.71%。",
+          "url": "https://wallstreetcn.com/livenews/3095216",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 06时03分]"
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时03分]"
         },
         {
-          "title": "男子花 21999 元网购三星手机，被要求激活才能签收，客服称为防黄牛倒卖，这要求合法吗？算不算霸王条款？",
-          "url": "https://www.zhihu.com/question/2031382043821434628",
-          "source": "知乎",
+          "title": "奔驰下一代电车将采用三星电池",
+          "url": "https://www.toutiao.com/trending/7633259417777700914/",
+          "source": "今日头条",
           "ranks": [
-            8,
-            18
+            27,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时22分 ~ 03时19分]"
         },
         {
-          "title": "苹果商店工会成员指控公司对即将关闭的门店进行报复",
-          "url": "https://flash.jin10.com/detail/20260428001805140800",
+          "title": "深圳市委书记靳磊到华为、比亚迪等走访调研",
+          "url": "https://flash.jin10.com/detail/20260428072557076800",
           "source": "金十数据",
           "ranks": [
-            22
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时22分"
+          "time_info": "07时53分"
+        },
+        {
+          "title": "险资一季度优化权益配置，泛科技与新能源成核心主线",
+          "url": "https://wallstreetcn.com/livenews/3095262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
         }
       ]
     },
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "追觅 CEO 连续发文炮轰小红书是非常非常烂的平台，称其肆意推送各种未经证实的假消息，究竟是怎么回事？",
@@ -175,8 +201,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 06时03分]"
+          "appearance_count": 6,
+          "time_info": "[01时22分 ~ 07时53分]"
+        },
+        {
+          "title": "日本经济财政大臣城内实：将出席今天的日本央行政策会议。",
+          "url": "https://flash.jin10.com/detail/20260428074326568800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
         },
         {
           "title": "追觅CEO连发三条微博怒批小红书：非常非常烂的平台",
@@ -186,8 +223,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 06时03分]"
+          "appearance_count": 6,
+          "time_info": "[01时22分 ~ 07时53分]"
+        },
+        {
+          "title": "日本经济财政大臣城内实：将出席今天的日本央行政策会议。",
+          "url": "https://wallstreetcn.com/livenews/3095290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
         },
         {
           "title": "全球迎来超级央行周",
@@ -216,6 +264,70 @@
       ]
     },
     {
+      "keyword_group": "苹果 Apple Mac iPhone 手机",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "时薪100元的新工种：把iPhone绑在脑门上，替AI蒸馏自己",
+          "url": "https://wallstreetcn.com/articles/3770953",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时22分 ~ 07时53分]"
+        },
+        {
+          "title": "日本人不愿相信中国座椅给手机充电",
+          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E4%BA%BA%E4%B8%8D%E6%84%BF%E7%9B%B8%E4%BF%A1%E4%B8%AD%E5%9B%BD%E5%BA%A7%E6%A4%85%E7%BB%99%E6%89%8B%E6%9C%BA%E5%85%85%E7%94%B5&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时22分 ~ 07时53分]"
+        },
+        {
+          "title": "男子花 21999 元网购三星手机，被要求激活才能签收，客服称为防黄牛倒卖，这要求合法吗？算不算霸王条款？",
+          "url": "https://www.zhihu.com/question/2031382043821434628",
+          "source": "知乎",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时22分 ~ 03时19分]"
+        },
+        {
+          "title": "美国商务部：苹果CEO与商务部长卢特尼克今日会面。",
+          "url": "https://wallstreetcn.com/livenews/3095277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "苹果商店工会成员指控公司对即将关闭的门店进行报复",
+          "url": "https://flash.jin10.com/detail/20260428001805140800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 3,
       "titles": [
@@ -227,11 +339,12 @@
             18,
             7,
             5,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 06时03分]"
+          "appearance_count": 6,
+          "time_info": "[01时22分 ~ 07时53分]"
         },
         {
           "title": "国芯+国模！DeepSeek适配国产芯片 AI算力底座迈向多样化",
@@ -240,11 +353,12 @@
           "ranks": [
             12,
             11,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 06时03分]"
+          "appearance_count": 6,
+          "time_info": "[01时22分 ~ 07时53分]"
         },
         {
           "title": "媒体：梁文锋这一次要掀桌",
@@ -253,55 +367,12 @@
           "ranks": [
             8,
             7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时22分 ~ 05时01分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "北京车展百万元内新能源速览",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8C%97%E4%BA%AC%E8%BD%A6%E5%B1%95%E7%99%BE%E4%B8%87%E5%85%83%E5%86%85%E6%96%B0%E8%83%BD%E6%BA%90%E9%80%9F%E8%A7%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            26,
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 06时03分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌1.20%，报6868.78点。 热门中概股里，亚朵初步收跌5.4%，世纪互联跌4.2%，再鼎医药、华住、大全新能源至少跌3.5%，万国数据、B站、阿里跌超2%，蔚来涨0.6%，网易涨0.7%，新东方涨1.3%，文远知行涨2.4%。 ETF中，中概互联网指数ETF（KWEB）收跌1.63%，中国科技指数ETF（CQQQ）收涨0.36%。 德银嘉实沪深300指数ETF（ASHR）收跌0.49%，XtrackersHarvest中证50（ASHS）收涨0.71%。",
-          "url": "https://wallstreetcn.com/livenews/3095216",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
+            17,
             30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时01分 ~ 06时03分]"
-        },
-        {
-          "title": "奔驰下一代电车将采用三星电池",
-          "url": "https://www.toutiao.com/trending/7633259417777700914/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 03时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 07时53分]"
         }
       ]
     },
@@ -310,28 +381,30 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "OpenAI：ChatGPT企业版和API平台已获得FedRAMP 20X中等级别授权。美国联邦机构现在可以在我们的FedRAMP环境中访问我们最强大的模型，包括GPT‑5.5。美国联邦机构很快可以通过 FedRAMP ChatGPT企业工作区访问他们的Codex云环境，并利用Codex应用。",
-          "url": "https://flash.jin10.com/detail/20260428054512315800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时03分"
-        },
-        {
           "title": "费城半导体指数挑战19连涨 OpenAI“自研手机”消息震动市场 | 今夜看点",
           "url": "https://www.cls.cn/detail/2357129",
           "source": "财联社热门",
           "ranks": [
             8,
             9,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 06时03分]"
+          "appearance_count": 6,
+          "time_info": "[01时22分 ~ 07时53分]"
+        },
+        {
+          "title": "OpenAI：ChatGPT企业版和API平台已获得FedRAMP 20X中等级别授权。美国联邦机构现在可以在我们的FedRAMP环境中访问我们最强大的模型，包括GPT‑5.5。美国联邦机构很快可以通过 FedRAMP ChatGPT企业工作区访问他们的Codex云环境，并利用Codex应用。",
+          "url": "https://flash.jin10.com/detail/20260428054512315800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时03分 ~ 07时53分]"
         }
       ]
     },
@@ -365,8 +438,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 06时03分]"
+          "appearance_count": 6,
+          "time_info": "[01时22分 ~ 07时53分]"
         }
       ]
     },
@@ -379,11 +452,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33045646",
           "source": "澎湃新闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 06时03分]"
+          "appearance_count": 6,
+          "time_info": "[01时22分 ~ 07时53分]"
         }
       ]
     }
