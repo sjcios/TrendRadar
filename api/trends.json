@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-27T19:04:15.768293+08:00",
-  "total_titles_processed": 1185,
+  "generated_at": "2026-04-27T21:50:56.180993+08:00",
+  "total_titles_processed": 1355,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "高盛：DeepSeek V4对中国AI意味着什么？",
@@ -142,19 +142,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时23分 ~ 19时04分]"
-        },
-        {
-          "title": "媒体：梁文锋这一次要掀桌",
-          "url": "https://www.toutiao.com/trending/7633338675333434907/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时03分 ~ 19时04分]"
+          "appearance_count": 4,
+          "time_info": "[16时23分 ~ 21时50分]"
         },
         {
           "title": "手机厂商加速接入DeepSeek-V4，荣耀打响第一枪",
@@ -166,6 +155,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
+        },
+        {
+          "title": "媒体：梁文锋这一次要掀桌",
+          "url": "https://www.toutiao.com/trending/7633338675333434907/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时03分 ~ 21时50分]"
         },
         {
           "title": "DeepSeek V4成OpenClaw默认模型",
@@ -251,12 +252,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时03分 ~ 19时04分]"
+        },
+        {
+          "title": "DeepSeek V4哪些点被低估了",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E5%93%AA%E4%BA%9B%E7%82%B9%E8%A2%AB%E4%BD%8E%E4%BC%B0%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
+          "title": "DeepSeek“吓崩”智谱和MiniMax，但摩根大通认为：V4打破算力束缚，是行业利好",
+          "url": "https://wallstreetcn.com/articles/3770936",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
         }
       ]
     },
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "下周重磅日程：重磅会议+超级央行周+超级财报周！美日央行决议、MAG7业绩密集轰炸",
@@ -306,6 +329,17 @@
           "time_info": "10时39分"
         },
         {
+          "title": "大摩：英国央行或以8比1投票维持利率不变",
+          "url": "https://flash.jin10.com/detail/20260427213135340800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
           "title": "美债收益率上行 市场聚焦本周密集央行会议",
           "url": "https://flash.jin10.com/detail/20260427134519219800",
           "source": "金十数据",
@@ -337,8 +371,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时53分 ~ 19时04分]"
+          "appearance_count": 5,
+          "time_info": "[13时53分 ~ 21时50分]"
         },
         {
           "title": "巴基斯坦央行将关键利率上调100个基点至11.50%，符合预期。",
@@ -347,7 +381,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时04分"
         },
@@ -413,7 +447,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时04分"
         },
@@ -435,7 +469,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时04分"
         },
@@ -475,6 +509,123 @@
       ]
     },
     {
+      "keyword_group": "苹果 Apple Mac iPhone 手机",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "研究生坐六小时成「发呆比赛」冠军，落泪称「多次想放弃，坚持不容易」，全程不玩手机不交谈，这比赛有多难？",
+          "url": "https://www.zhihu.com/question/2029619111450222998",
+          "source": "知乎",
+          "ranks": [
+            7,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时53分 ~ 21时50分]"
+        },
+        {
+          "title": "男子花 21999 元网购三星手机，被要求激活才能签收，客服称为防黄牛倒卖，这要求合法吗？算不算霸王条款？",
+          "url": "https://www.zhihu.com/question/2031382043821434628",
+          "source": "知乎",
+          "ranks": [
+            12,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时23分 ~ 21时50分]"
+        },
+        {
+          "title": "古尔曼：苹果新帅特努斯9月1日上任，折叠屏iPhone成首秀",
+          "url": "https://flash.jin10.com/detail/20260427025222479800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            9,
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时45分 ~ 06时37分]"
+        },
+        {
+          "title": "科技记者古尔曼：苹果CEO蒂姆·库克正将一条实力雄厚的产品线移交给继任者约翰·特努斯，其中包括计划于九月发布的折叠屏iPhone。",
+          "url": "https://flash.jin10.com/detail/20260427024243091800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            10,
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时45分 ~ 06时37分]"
+        },
+        {
+          "title": "时薪100元的新工种：把iPhone绑在脑门上，替AI蒸馏自己",
+          "url": "https://wallstreetcn.com/articles/3770953",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时23分 ~ 21时50分]"
+        },
+        {
+          "title": "孩子沉迷手机游戏怎么控制使用时间",
+          "url": "https://www.toutiao.com/trending/7632339841276330027/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时03分 ~ 19时04分]"
+        },
+        {
+          "title": "灵光在手机端上线“体验世界模型 ”功能",
+          "url": "https://wallstreetcn.com/livenews/3094653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        },
+        {
+          "title": "20周年版iPhone曝光",
+          "url": "https://s.weibo.com/weibo?q=%2320%E5%91%A8%E5%B9%B4%E7%89%88iPhone%E6%9B%9D%E5%85%89%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
+          "title": "机构：第一季度全球智能手机SoC出货量同比下降8% 预计2028年初回升",
+          "url": "https://wallstreetcn.com/livenews/3094812",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        }
+      ]
+    },
+    {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
       "match_count": 9,
       "titles": [
@@ -484,11 +635,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             6,
-            8
+            8,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时53分 ~ 19时04分]"
+          "appearance_count": 5,
+          "time_info": "[13时53分 ~ 21时50分]"
         },
         {
           "title": "比亚迪能越野的MPV来了",
@@ -556,7 +708,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时04分"
         },
@@ -585,112 +737,80 @@
       ]
     },
     {
-      "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 8,
+      "keyword_group": "chatgpt openai",
+      "match_count": 6,
       "titles": [
         {
-          "title": "研究生坐六小时成「发呆比赛」冠军，落泪称「多次想放弃，坚持不容易」，全程不玩手机不交谈，这比赛有多难？",
-          "url": "https://www.zhihu.com/question/2029619111450222998",
-          "source": "知乎",
-          "ranks": [
-            7,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时53分 ~ 19时04分]"
-        },
-        {
-          "title": "古尔曼：苹果新帅特努斯9月1日上任，折叠屏iPhone成首秀",
-          "url": "https://flash.jin10.com/detail/20260427025222479800",
+          "title": "美股开盘，道指开跌0.24%，标普500指数跌0.15%，纳指跌0.17%。微软(MSFT.O)跌0.5%，公司宣布OpenAI许可转为非独家且将不再向OpenAI支付收入分成。高通(QCOM.O)涨5.2%，据悉OpenAI正与联发科及高通合作开发手机处理器。",
+          "url": "https://flash.jin10.com/detail/20260427213032078800",
           "source": "金十数据",
-          "ranks": [
-            2,
-            9,
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时45分 ~ 06时37分]"
-        },
-        {
-          "title": "科技记者古尔曼：苹果CEO蒂姆·库克正将一条实力雄厚的产品线移交给继任者约翰·特努斯，其中包括计划于九月发布的折叠屏iPhone。",
-          "url": "https://flash.jin10.com/detail/20260427024243091800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            10,
-            14,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时45分 ~ 06时37分]"
-        },
-        {
-          "title": "男子花 21999 元网购三星手机，被要求激活才能签收，客服称为防黄牛倒卖，这要求合法吗？算不算霸王条款？",
-          "url": "https://www.zhihu.com/question/2031382043821434628",
-          "source": "知乎",
-          "ranks": [
-            12,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时23分 ~ 19时04分]"
-        },
-        {
-          "title": "时薪100元的新工种：把iPhone绑在脑门上，替AI蒸馏自己",
-          "url": "https://wallstreetcn.com/articles/3770953",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时23分 ~ 19时04分]"
-        },
-        {
-          "title": "孩子沉迷手机游戏怎么控制使用时间",
-          "url": "https://www.toutiao.com/trending/7632339841276330027/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时03分 ~ 19时04分]"
-        },
-        {
-          "title": "灵光在手机端上线“体验世界模型 ”功能",
-          "url": "https://wallstreetcn.com/livenews/3094653",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时39分"
+          "time_info": "21时50分"
         },
         {
-          "title": "机构：第一季度全球智能手机SoC出货量同比下降8% 预计2028年初回升",
-          "url": "https://wallstreetcn.com/livenews/3094812",
+          "title": "费城半导体指数挑战19连涨 OpenAI“自研手机”消息震动市场 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2357129",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
+          "title": "OpenAI与微软达成“休战协议”：取消排他性、收入分成设限",
+          "url": "https://flash.jin10.com/detail/20260427212620435800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
+          "title": "微软：将不再向OpenAI支付收入分成，微软的OpenAI许可现将转为非独家许可",
+          "url": "https://wallstreetcn.com/livenews/3095041",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
+          "title": "微软(MSFT.O)：OpenAI产品将优先在Azure上发布。",
+          "url": "https://flash.jin10.com/detail/20260427211114444800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
+          "title": "郭明錤：OpenAI进军手机，正与联发科、高通合作开发处理器",
+          "url": "https://wallstreetcn.com/livenews/3094729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时23分"
+          "time_info": "13时53分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "路透调查：预计2026年黄金价格平均为4916美元/盎司，2027年为5100美元/盎司。",
@@ -699,7 +819,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时04分"
         },
@@ -713,23 +833,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
+        },
         {
-          "title": "郭明錤：OpenAI进军手机，正与联发科、高通合作开发处理器",
-          "url": "https://wallstreetcn.com/livenews/3094729",
-          "source": "华尔街见闻-快讯",
+          "title": "金价震荡 多家金店一口价金饰打折",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%9C%87%E8%8D%A1+%E5%A4%9A%E5%AE%B6%E9%87%91%E5%BA%97%E4%B8%80%E5%8F%A3%E4%BB%B7%E9%87%91%E9%A5%B0%E6%89%93%E6%8A%98",
+          "source": "百度热搜",
           "ranks": [
-            30
+            29
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时53分"
+          "time_info": "21时50分"
         }
       ]
     },
@@ -747,8 +861,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时53分 ~ 19时04分]"
+          "appearance_count": 5,
+          "time_info": "[13时53分 ~ 21时50分]"
         }
       ]
     },
@@ -764,11 +878,12 @@
             18,
             12,
             9,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时38分 ~ 19时04分]"
+          "appearance_count": 7,
+          "time_info": "[10时38分 ~ 21时50分]"
         }
       ]
     }
