@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-27T16:23:17.342587+08:00",
-  "total_titles_processed": 1018,
+  "generated_at": "2026-04-27T19:04:15.768293+08:00",
+  "total_titles_processed": 1185,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "高盛：DeepSeek V4对中国AI意味着什么？",
@@ -38,11 +38,12 @@
           "ranks": [
             2,
             4,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时41分 ~ 16时23分]"
+          "appearance_count": 16,
+          "time_info": "[00时41分 ~ 19时04分]"
         },
         {
           "title": "沉默的DeepSeek，和不被定义的中国大模型",
@@ -70,6 +71,29 @@
           "time_info": "[00时41分 ~ 07时38分]"
         },
         {
+          "title": "如何评价 DeepSeek V4 Pro 官网限时 2.5 折优惠和缓存永久大降价？",
+          "url": "https://www.zhihu.com/question/2031494133160861736",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时38分 ~ 19时04分]"
+        },
+        {
+          "title": "DeepSeek V4“寄予厚望”！国产算力“进攻的矛”--超节点",
+          "url": "https://wallstreetcn.com/articles/3770923",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时38分 ~ 19时04分]"
+        },
+        {
           "title": "DeepSeek输入缓存降价",
           "url": "https://wallstreetcn.com/livenews/3094547",
           "source": "华尔街见闻-快讯",
@@ -95,17 +119,6 @@
           "time_info": "[00时41分 ~ 07时38分]"
         },
         {
-          "title": "如何评价 DeepSeek V4 Pro 官网限时 2.5 折优惠和缓存永久大降价？",
-          "url": "https://www.zhihu.com/question/2031494133160861736",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时38分 ~ 16时23分]"
-        },
-        {
           "title": "DeepSeek V4全面评测",
           "url": "https://www.douyin.com/hot/2479058",
           "source": "抖音",
@@ -121,16 +134,27 @@
           "time_info": "[00时41分 ~ 06时37分]"
         },
         {
-          "title": "DeepSeek V4“寄予厚望”！国产算力“进攻的矛”--超节点",
-          "url": "https://wallstreetcn.com/articles/3770923",
-          "source": "华尔街见闻",
+          "title": "中国信通院：正式启动DeepSeek V4国产化适配测试工作",
+          "url": "https://www.cls.cn/detail/2356575",
+          "source": "财联社热门",
           "ranks": [
             5,
-            4
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时38分 ~ 16时23分]"
+          "appearance_count": 3,
+          "time_info": "[16时23分 ~ 19时04分]"
+        },
+        {
+          "title": "媒体：梁文锋这一次要掀桌",
+          "url": "https://www.toutiao.com/trending/7633338675333434907/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时03分 ~ 19时04分]"
         },
         {
           "title": "手机厂商加速接入DeepSeek-V4，荣耀打响第一枪",
@@ -142,17 +166,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
-        },
-        {
-          "title": "中国信通院：正式启动DeepSeek V4国产化适配测试工作",
-          "url": "https://www.cls.cn/detail/2356575",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时23分"
         },
         {
           "title": "DeepSeek V4成OpenClaw默认模型",
@@ -216,12 +229,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时53分 ~ 16时23分]"
+        },
+        {
+          "title": "DeepSeek 多位骨干离职去大厂，他们的去向透露出哪些信息？会对 DeepSeek 自身带来多大影响？",
+          "url": "https://www.zhihu.com/question/2031824748590494923",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时03分 ~ 19时04分]"
+        },
+        {
+          "title": "中国石化完成DeepSeek-V4私有化部署",
+          "url": "https://www.toutiao.com/trending/7632654178616213547/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时03分 ~ 19时04分]"
         }
       ]
     },
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "下周重磅日程：重磅会议+超级央行周+超级财报周！美日央行决议、MAG7业绩密集轰炸",
@@ -245,8 +280,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时38分 ~ 16时23分]"
+          "appearance_count": 6,
+          "time_info": "[10时38分 ~ 19时04分]"
         },
         {
           "title": "欧洲央行调查：欧元区企业短期通胀预期上升，但薪资压力缓和",
@@ -255,7 +290,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -288,7 +323,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -298,11 +333,23 @@
           "source": "知乎",
           "ranks": [
             14,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时53分 ~ 16时23分]"
+          "appearance_count": 4,
+          "time_info": "[13时53分 ~ 19时04分]"
+        },
+        {
+          "title": "巴基斯坦央行将关键利率上调100个基点至11.50%，符合预期。",
+          "url": "https://wallstreetcn.com/livenews/3094944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
         },
         {
           "title": "欧洲央行企业融资渠道调查：企业的短期通胀预期显著上升，中期预期保持稳定。企业预计，伊朗战争将推动销售价格大幅上涨，但工资预期略有减弱。",
@@ -311,7 +358,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -333,7 +380,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -344,7 +391,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -355,9 +402,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
+        },
+        {
+          "title": "巴基斯坦央行将基准利率上调100个基点至11.5%。",
+          "url": "https://flash.jin10.com/detail/20260427184423319800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
         },
         {
           "title": "追觅CEO俞浩连发三文炮轰小红书",
@@ -369,6 +427,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
+        },
+        {
+          "title": "德商银行：若日本央行未明确释放加息信号，日元或下跌",
+          "url": "https://flash.jin10.com/detail/20260427184135677800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
         },
         {
           "title": "机构：日本央行应预防性加息以锚定通胀预期",
@@ -407,8 +476,20 @@
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "北京车展百万元内新能源速览",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8C%97%E4%BA%AC%E8%BD%A6%E5%B1%95%E7%99%BE%E4%B8%87%E5%85%83%E5%86%85%E6%96%B0%E8%83%BD%E6%BA%90%E9%80%9F%E8%A7%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时53分 ~ 19时04分]"
+        },
         {
           "title": "比亚迪能越野的MPV来了",
           "url": "https://www.toutiao.com/trending/7632963848034700851/",
@@ -434,18 +515,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时38分 ~ 16时23分]"
-        },
-        {
-          "title": "北京车展百万元内新能源速览",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8C%97%E4%BA%AC%E8%BD%A6%E5%B1%95%E7%99%BE%E4%B8%87%E5%85%83%E5%86%85%E6%96%B0%E8%83%BD%E6%BA%90%E9%80%9F%E8%A7%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时53分 ~ 16时23分]"
         },
         {
           "title": "【数读IPO】今日2申购1上市，涉及比亚迪等知名企业供应商等",
@@ -481,6 +550,17 @@
           "time_info": "13时53分"
         },
         {
+          "title": "特斯拉：4月21日，马斯克签署实施协议，以行使2018年首席执行官绩效奖励。 提交S-8表格，为马斯克2018年CEO绩效奖励注册3.0396亿股特斯拉普通股。",
+          "url": "https://wallstreetcn.com/livenews/3094921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
+        },
+        {
           "title": "港股新能源车企股回升，比亚迪股份(01211.HK)涨近5%，奇瑞汽车(09973.HK)涨超3%，长城汽车(02333.HK)、蔚来-SW(09866.HK)、小鹏集团(09868.HK)、零跑汽车(09863.HK)等个股跟涨。",
           "url": "https://flash.jin10.com/detail/20260427095912492800",
           "source": "金十数据",
@@ -506,8 +586,21 @@
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "研究生坐六小时成「发呆比赛」冠军，落泪称「多次想放弃，坚持不容易」，全程不玩手机不交谈，这比赛有多难？",
+          "url": "https://www.zhihu.com/question/2029619111450222998",
+          "source": "知乎",
+          "ranks": [
+            7,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时53分 ~ 19时04分]"
+        },
         {
           "title": "古尔曼：苹果新帅特努斯9月1日上任，折叠屏iPhone成首秀",
           "url": "https://flash.jin10.com/detail/20260427025222479800",
@@ -537,16 +630,39 @@
           "time_info": "[03时45分 ~ 06时37分]"
         },
         {
-          "title": "研究生坐六小时成「发呆比赛」冠军，落泪称「多次想放弃，坚持不容易」，全程不玩手机不交谈，这比赛有多难？",
-          "url": "https://www.zhihu.com/question/2029619111450222998",
+          "title": "男子花 21999 元网购三星手机，被要求激活才能签收，客服称为防黄牛倒卖，这要求合法吗？算不算霸王条款？",
+          "url": "https://www.zhihu.com/question/2031382043821434628",
           "source": "知乎",
           "ranks": [
-            7,
-            3
+            12,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时23分 ~ 19时04分]"
+        },
+        {
+          "title": "时薪100元的新工种：把iPhone绑在脑门上，替AI蒸馏自己",
+          "url": "https://wallstreetcn.com/articles/3770953",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时23分 ~ 19时04分]"
+        },
+        {
+          "title": "孩子沉迷手机游戏怎么控制使用时间",
+          "url": "https://www.toutiao.com/trending/7632339841276330027/",
+          "source": "今日头条",
+          "ranks": [
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时53分 ~ 16时23分]"
+          "time_info": "[19时03分 ~ 19时04分]"
         },
         {
           "title": "灵光在手机端上线“体验世界模型 ”功能",
@@ -560,37 +676,43 @@
           "time_info": "10时39分"
         },
         {
-          "title": "时薪100元的新工种：把iPhone绑在脑门上，替AI蒸馏自己",
-          "url": "https://wallstreetcn.com/articles/3770953",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "男子花 21999 元网购三星手机，被要求激活才能签收，客服称为防黄牛倒卖，这要求合法吗？算不算霸王条款？",
-          "url": "https://www.zhihu.com/question/2031382043821434628",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
           "title": "机构：第一季度全球智能手机SoC出货量同比下降8% 预计2028年初回升",
           "url": "https://wallstreetcn.com/livenews/3094812",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "路透调查：预计2026年黄金价格平均为4916美元/盎司，2027年为5100美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260427184708810800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
+        },
+        {
+          "title": "金十图示：2026年04月27日（周一）上海金早盘价为1034.9元/克，较国际金价(1032.83元/克)，高2.07元/克",
+          "url": "https://flash.jin10.com/detail/20260427101722746800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时39分"
         }
       ]
     },
@@ -612,23 +734,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2026年04月27日（周一）上海金早盘价为1034.9元/克，较国际金价(1032.83元/克)，高2.07元/克",
-          "url": "https://flash.jin10.com/detail/20260427101722746800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时39分"
-        }
-      ]
-    },
-    {
       "keyword_group": "英雄联盟 LOL",
       "match_count": 1,
       "titles": [
@@ -638,11 +743,12 @@
           "source": "贴吧",
           "ranks": [
             10,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时53分 ~ 16时23分]"
+          "appearance_count": 4,
+          "time_info": "[13时53分 ~ 19时04分]"
         }
       ]
     },
@@ -657,11 +763,12 @@
           "ranks": [
             18,
             12,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时38分 ~ 16时23分]"
+          "appearance_count": 6,
+          "time_info": "[10时38分 ~ 19时04分]"
         }
       ]
     }
