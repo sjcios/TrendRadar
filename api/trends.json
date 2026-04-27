@@ -1,280 +1,144 @@
 {
-  "generated_at": "2026-04-27T23:47:41.589849+08:00",
-  "total_titles_processed": 1501,
+  "generated_at": "2026-04-28T01:22:20.322380+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 24,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 6,
       "titles": [
         {
-          "title": "高盛：DeepSeek V4对中国AI意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3770911",
-          "source": "华尔街见闻",
+          "title": "谷歌员工敦促其CEO拒绝参与机密军事人工智能项目",
+          "url": "https://flash.jin10.com/detail/20260428003448866800",
+          "source": "金十数据",
           "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时41分 ~ 10时39分]"
-        },
-        {
-          "title": "龙虾官宣接入DeepSeekV4",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BE%99%E8%99%BE%E5%AE%98%E5%AE%A3%E6%8E%A5%E5%85%A5DeepSeekV4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 07时38分]"
-        },
-        {
-          "title": "一条视频看懂DeepSeek V4",
-          "url": "https://www.douyin.com/hot/2479851",
-          "source": "抖音",
-          "ranks": [
-            2,
-            4,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时41分 ~ 19时04分]"
-        },
-        {
-          "title": "沉默的DeepSeek，和不被定义的中国大模型",
-          "url": "https://wallstreetcn.com/articles/3770908",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 07时38分]"
+          "appearance_count": 1,
+          "time_info": "01时22分"
         },
         {
-          "title": "DeepSeek V4发布意味着什么",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E5%8F%91%E5%B8%83%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 07时38分]"
-        },
-        {
-          "title": "如何评价 DeepSeek V4 Pro 官网限时 2.5 折优惠和缓存永久大降价？",
-          "url": "https://www.zhihu.com/question/2031494133160861736",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时38分 ~ 19时04分]"
-        },
-        {
-          "title": "DeepSeek V4“寄予厚望”！国产算力“进攻的矛”--超节点",
-          "url": "https://wallstreetcn.com/articles/3770923",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时38分 ~ 19时04分]"
-        },
-        {
-          "title": "DeepSeek输入缓存降价",
-          "url": "https://wallstreetcn.com/livenews/3094547",
+          "title": "苹果、谷歌联手扼杀美国加州扶持小竞争对手的法案",
+          "url": "https://wallstreetcn.com/livenews/3095147",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            4,
-            12,
-            25
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时42分 ~ 07时38分]"
+          "appearance_count": 1,
+          "time_info": "01时22分"
         },
         {
-          "title": "DeepSeek输入缓存降价",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E8%BE%93%E5%85%A5%E7%BC%93%E5%AD%98%E9%99%8D%E4%BB%B7",
-          "source": "百度热搜",
+          "title": "谷歌公司（至少）数百名员工要求CEO Pichai拒绝涉足美国国防部机密的军事AI工作。 该公司员工们称，他们不希望接触Lethal AI。 （一名）研究员称，谷歌尚未讨论关于AI使用的红线。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3095139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "谷歌表示，欧盟毫无依据的干预将剥夺设备制造商定制AI服务的自主权，推高成本，并削弱隐私保护。",
+          "url": "https://flash.jin10.com/detail/20260428002123603800",
+          "source": "金十数据",
           "ranks": [
             17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 07时38分]"
+          "appearance_count": 1,
+          "time_info": "01时22分"
         },
         {
-          "title": "DeepSeek V4全面评测",
-          "url": "https://www.douyin.com/hot/2479058",
-          "source": "抖音",
-          "ranks": [
-            23,
-            21,
-            8,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时41分 ~ 06时37分]"
-        },
-        {
-          "title": "中国信通院：正式启动DeepSeek V4国产化适配测试工作",
-          "url": "https://www.cls.cn/detail/2356575",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时23分 ~ 21时50分]"
-        },
-        {
-          "title": "手机厂商加速接入DeepSeek-V4，荣耀打响第一枪",
-          "url": "https://wallstreetcn.com/livenews/3094744",
+          "title": "报道：谷歌员工敦促Pichai阻止美国军方使用其AI技术",
+          "url": "https://wallstreetcn.com/livenews/3095134",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时53分"
+          "time_info": "01时22分"
         },
+        {
+          "title": "Alphabet旗下谷歌公司获得欧盟反垄断监管机构的指引，以协助竞争对手获取安卓的关键功能。",
+          "url": "https://flash.jin10.com/detail/20260428002043909800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 Apple Mac iPhone 手机",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "时薪100元的新工种：把iPhone绑在脑门上，替AI蒸馏自己",
+          "url": "https://wallstreetcn.com/articles/3770953",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "男子花 21999 元网购三星手机，被要求激活才能签收，客服称为防黄牛倒卖，这要求合法吗？算不算霸王条款？",
+          "url": "https://www.zhihu.com/question/2031382043821434628",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "日本人不愿相信中国座椅给手机充电",
+          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E4%BA%BA%E4%B8%8D%E6%84%BF%E7%9B%B8%E4%BF%A1%E4%B8%AD%E5%9B%BD%E5%BA%A7%E6%A4%85%E7%BB%99%E6%89%8B%E6%9C%BA%E5%85%85%E7%94%B5&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "苹果商店工会成员指控公司对即将关闭的门店进行报复",
+          "url": "https://flash.jin10.com/detail/20260428001805140800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 3,
+      "titles": [
         {
           "title": "媒体：梁文锋这一次要掀桌",
           "url": "https://www.toutiao.com/trending/7633338675333434907/",
           "source": "今日头条",
           "ranks": [
-            5,
-            25,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时03分 ~ 23时47分]"
-        },
-        {
-          "title": "DeepSeek V4成OpenClaw默认模型",
-          "url": "https://www.toutiao.com/trending/7632564309457141806/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            26,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 03时45分]"
-        },
-        {
-          "title": "DeepSeekV4脱离英伟达了吗",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E8%84%B1%E7%A6%BB%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%BA%86%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时37分 ~ 10时39分]"
-        },
-        {
-          "title": "席卷全球AI圈！DeepSeek-V4成OpenClaw默认模型",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33057893",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时38分 ~ 16时23分]"
-        },
-        {
-          "title": "深入解读DeepSeek V1-V4",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%85%A5%E8%A7%A3%E8%AF%BBDeepSeek%20V1-V4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时38分 ~ 16时23分]"
-        },
-        {
-          "title": "“价格屠夫”DeepSeek再度出手 国产算力核心标的有望直接受益",
-          "url": "https://www.cls.cn/detail/2356166",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时53分 ~ 16时23分]"
-        },
-        {
-          "title": "DeepSeek 多位骨干离职去大厂，他们的去向透露出哪些信息？会对 DeepSeek 自身带来多大影响？",
-          "url": "https://www.zhihu.com/question/2031824748590494923",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时03分 ~ 19时04分]"
-        },
-        {
-          "title": "中国石化完成DeepSeek-V4私有化部署",
-          "url": "https://www.toutiao.com/trending/7632654178616213547/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时03分 ~ 19时04分]"
-        },
-        {
-          "title": "DeepSeek V4哪些点被低估了",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E5%93%AA%E4%BA%9B%E7%82%B9%E8%A2%AB%E4%BD%8E%E4%BC%B0%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时50分"
-        },
-        {
-          "title": "DeepSeek“吓崩”智谱和MiniMax，但摩根大通认为：V4打破算力束缚，是行业利好",
-          "url": "https://wallstreetcn.com/articles/3770936",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时50分"
+          "time_info": "01时22分"
         },
         {
           "title": "国芯+国模！DeepSeek适配国产芯片 AI算力底座迈向多样化",
@@ -283,9 +147,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时47分"
+          "time_info": "01时22分"
         },
         {
           "title": "如何评价小米 4 月 23 日发布的 MiMo-V2.5 系列模型，有可能比 DeepSeekV4 更强吗？",
@@ -294,131 +158,26 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时47分"
+          "time_info": "01时22分"
         }
       ]
     },
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 22,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "下周重磅日程：重磅会议+超级央行周+超级财报周！美日央行决议、MAG7业绩密集轰炸",
-          "url": "https://wallstreetcn.com/articles/3770785",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 07时38分]"
-        },
-        {
-          "title": "本周重磅日程：重磅会议+超级央行周+超级财报周！美日央行决议、MAG7业绩密集轰炸",
-          "url": "https://wallstreetcn.com/articles/3770785",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时38分 ~ 19时04分]"
-        },
         {
           "title": "追觅 CEO 连续发文炮轰小红书是非常非常烂的平台，称其肆意推送各种未经证实的假消息，究竟是怎么回事？",
           "url": "https://www.zhihu.com/question/2032052994884071504",
           "source": "知乎",
           "ranks": [
-            14,
-            11,
-            8,
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时53分 ~ 23时47分]"
-        },
-        {
-          "title": "欧洲央行调查：欧元区企业短期通胀预期上升，但薪资压力缓和",
-          "url": "https://flash.jin10.com/detail/20260427160704535800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "伊朗消息人士及美媒均透露，伊朗欲分阶段解决当前分歧：先就霍尔木兹海峡达成协议并解除美国封锁，核问题留待日后再谈；本周再迎“超级央行周”，市场关注鲍威尔或举行作为美联储主席的最后一场发布会。当前金银呈卖出信号，美油多空情绪接近持平，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20260427103350545800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时39分"
-        },
-        {
-          "title": "大摩：英国央行或以8比1投票维持利率不变",
-          "url": "https://flash.jin10.com/detail/20260427213135340800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时50分"
-        },
-        {
-          "title": "美债收益率上行 市场聚焦本周密集央行会议",
-          "url": "https://flash.jin10.com/detail/20260427134519219800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时53分"
-        },
-        {
-          "title": "欧洲央行调查：企业预计非劳动力成本的上涨幅度将更大。 短期通胀预期显著上升。 工资预期略有下降。 中期通胀预期保持稳定。",
-          "url": "https://wallstreetcn.com/livenews/3094835",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "巴基斯坦央行将关键利率上调100个基点至11.50%，符合预期。",
-          "url": "https://wallstreetcn.com/livenews/3094944",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时04分"
-        },
-        {
-          "title": "欧洲央行企业融资渠道调查：企业的短期通胀预期显著上升，中期预期保持稳定。企业预计，伊朗战争将推动销售价格大幅上涨，但工资预期略有减弱。",
-          "url": "https://flash.jin10.com/detail/20260427160119582800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
+          "time_info": "01时22分"
         },
         {
           "title": "追觅CEO连发三条微博怒批小红书：非常非常烂的平台",
@@ -427,522 +186,65 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时47分"
-        },
-        {
-          "title": "本周重要事件与数据预告：超级央行周叠加财报周来袭",
-          "url": "https://flash.jin10.com/detail/20260427052518209800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时37分"
-        },
-        {
-          "title": "欧洲央行企业融资渠道调查：企业报告银行贷款利率和其他贷款条件进一步收紧；企业利润继续恶化。",
-          "url": "https://flash.jin10.com/detail/20260427160047544800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "瑞士宝盛：油价冲击令亚洲各央行宽松周期暂停",
-          "url": "https://flash.jin10.com/detail/20260427155913517800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "高盛：欧洲央行本周料将按兵不动，拉加德将表态关注二轮效应",
-          "url": "https://flash.jin10.com/detail/20260427155551337800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "巴基斯坦央行将基准利率上调100个基点至11.5%。",
-          "url": "https://flash.jin10.com/detail/20260427184423319800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时04分"
-        },
-        {
-          "title": "追觅CEO俞浩连发三文炮轰小红书",
-          "url": "https://www.baidu.com/s?wd=%E8%BF%BD%E8%A7%85CEO%E4%BF%9E%E6%B5%A9%E8%BF%9E%E5%8F%91%E4%B8%89%E6%96%87%E7%82%AE%E8%BD%B0%E5%B0%8F%E7%BA%A2%E4%B9%A6",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时53分"
-        },
-        {
-          "title": "德商银行：若日本央行未明确释放加息信号，日元或下跌",
-          "url": "https://flash.jin10.com/detail/20260427184135677800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时04分"
-        },
-        {
-          "title": "机构：日本央行应预防性加息以锚定通胀预期",
-          "url": "https://flash.jin10.com/detail/20260427132106817800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时53分"
-        },
-        {
-          "title": "中国央行公开市场开展2185亿元7天期逆回购操作，操作利率1.40%。今日5亿元逆回购到期。",
-          "url": "https://wallstreetcn.com/livenews/3094620",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时39分"
-        },
-        {
-          "title": "追觅俞浩怒批小红书",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%BD%E8%A7%85%E4%BF%9E%E6%B5%A9%E6%80%92%E6%89%B9%E5%B0%8F%E7%BA%A2%E4%B9%A6%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时53分"
+          "time_info": "01时22分"
         },
         {
           "title": "全球迎来超级央行周",
           "url": "https://www.douyin.com/hot/2481035",
           "source": "抖音",
           "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "男子花 21999 元网购三星手机，被要求激活才能签收，客服称为防黄牛倒卖，这要求合法吗？算不算霸王条款？",
-          "url": "https://www.zhihu.com/question/2031382043821434628",
-          "source": "知乎",
-          "ranks": [
-            12,
-            5,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时23分 ~ 23时47分]"
-        },
-        {
-          "title": "研究生坐六小时成「发呆比赛」冠军，落泪称「多次想放弃，坚持不容易」，全程不玩手机不交谈，这比赛有多难？",
-          "url": "https://www.zhihu.com/question/2029619111450222998",
-          "source": "知乎",
-          "ranks": [
-            7,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时53分 ~ 21时50分]"
-        },
-        {
-          "title": "古尔曼：苹果新帅特努斯9月1日上任，折叠屏iPhone成首秀",
-          "url": "https://flash.jin10.com/detail/20260427025222479800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            9,
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时45分 ~ 06时37分]"
-        },
-        {
-          "title": "时薪100元的新工种：把iPhone绑在脑门上，替AI蒸馏自己",
-          "url": "https://wallstreetcn.com/articles/3770953",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时23分 ~ 23时47分]"
-        },
-        {
-          "title": "科技记者古尔曼：苹果CEO蒂姆·库克正将一条实力雄厚的产品线移交给继任者约翰·特努斯，其中包括计划于九月发布的折叠屏iPhone。",
-          "url": "https://flash.jin10.com/detail/20260427024243091800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            10,
-            14,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时45分 ~ 06时37分]"
-        },
-        {
-          "title": "孩子沉迷手机游戏怎么控制使用时间",
-          "url": "https://www.toutiao.com/trending/7632339841276330027/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时03分 ~ 19时04分]"
-        },
-        {
-          "title": "灵光在手机端上线“体验世界模型 ”功能",
-          "url": "https://wallstreetcn.com/livenews/3094653",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时39分"
-        },
-        {
-          "title": "20周年版iPhone曝光",
-          "url": "https://s.weibo.com/weibo?q=%2320%E5%91%A8%E5%B9%B4%E7%89%88iPhone%E6%9B%9D%E5%85%89%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时50分"
-        },
-        {
-          "title": "机构：第一季度全球智能手机SoC出货量同比下降8% 预计2028年初回升",
-          "url": "https://wallstreetcn.com/livenews/3094812",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "日本人不愿相信中国座椅给手机充电",
-          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E4%BA%BA%E4%B8%8D%E6%84%BF%E7%9B%B8%E4%BF%A1%E4%B8%AD%E5%9B%BD%E5%BA%A7%E6%A4%85%E7%BB%99%E6%89%8B%E6%9C%BA%E5%85%85%E7%94%B5&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时47分"
+          "time_info": "01时22分"
         }
       ]
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 9,
+      "match_count": 2,
       "titles": [
         {
           "title": "北京车展百万元内新能源速览",
           "url": "https://search.bilibili.com/all?keyword=%E5%8C%97%E4%BA%AC%E8%BD%A6%E5%B1%95%E7%99%BE%E4%B8%87%E5%85%83%E5%86%85%E6%96%B0%E8%83%BD%E6%BA%90%E9%80%9F%E8%A7%88",
           "source": "bilibili 热搜",
           "ranks": [
-            6,
-            8,
-            21,
-            23
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时53分 ~ 23时47分]"
+          "appearance_count": 1,
+          "time_info": "01时22分"
         },
         {
-          "title": "比亚迪能越野的MPV来了",
-          "url": "https://www.toutiao.com/trending/7632963848034700851/",
+          "title": "奔驰下一代电车将采用三星电池",
+          "url": "https://www.toutiao.com/trending/7633259417777700914/",
           "source": "今日头条",
           "ranks": [
-            24,
-            9,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时38分 ~ 05时37分]"
-        },
-        {
-          "title": "新能源车高速没电 司机接监控充电",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E9%AB%98%E9%80%9F%E6%B2%A1%E7%94%B5+%E5%8F%B8%E6%9C%BA%E6%8E%A5%E7%9B%91%E6%8E%A7%E5%85%85%E7%94%B5",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时38分 ~ 16时23分]"
-        },
-        {
-          "title": "【数读IPO】今日2申购1上市，涉及比亚迪等知名企业供应商等",
-          "url": "https://www.cls.cn/detail/2356148",
-          "source": "财联社热门",
-          "ranks": [
-            8
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时53分"
-        },
-        {
-          "title": "A股绿电概念反复活跃，华电辽能触及涨停，粤电力A涨超7%，华电能源、节能风电、广安爱众、宝新能源跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3094641",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时39分"
-        },
-        {
-          "title": "无牌奔驰违停被拖走",
-          "url": "https://www.toutiao.com/trending/7632975473747820586/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时53分"
-        },
-        {
-          "title": "特斯拉：4月21日，马斯克签署实施协议，以行使2018年首席执行官绩效奖励。 提交S-8表格，为马斯克2018年CEO绩效奖励注册3.0396亿股特斯拉普通股。",
-          "url": "https://wallstreetcn.com/livenews/3094921",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时04分"
-        },
-        {
-          "title": "港股新能源车企股回升，比亚迪股份(01211.HK)涨近5%，奇瑞汽车(09973.HK)涨超3%，长城汽车(02333.HK)、蔚来-SW(09866.HK)、小鹏集团(09868.HK)、零跑汽车(09863.HK)等个股跟涨。",
-          "url": "https://flash.jin10.com/detail/20260427095912492800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时39分"
-        },
-        {
-          "title": "A股汽车整车板块午后震荡走高，江淮汽车涨停，北汽蓝谷、比亚迪、江铃汽车、中通客车跟涨。",
-          "url": "https://flash.jin10.com/detail/20260427130348440800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时53分"
+          "time_info": "01时22分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
         {
           "title": "费城半导体指数挑战19连涨 OpenAI“自研手机”消息震动市场 | 今夜看点",
           "url": "https://www.cls.cn/detail/2357129",
           "source": "财联社热门",
           "ranks": [
-            12,
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时50分 ~ 23时47分]"
-        },
-        {
-          "title": "美股开盘，道指开跌0.24%，标普500指数跌0.15%，纳指跌0.17%。微软(MSFT.O)跌0.5%，公司宣布OpenAI许可转为非独家且将不再向OpenAI支付收入分成。高通(QCOM.O)涨5.2%，据悉OpenAI正与联发科及高通合作开发手机处理器。",
-          "url": "https://flash.jin10.com/detail/20260427213032078800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时50分"
-        },
-        {
-          "title": "OpenAI与微软达成“休战协议”：取消排他性、收入分成设限",
-          "url": "https://flash.jin10.com/detail/20260427212620435800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时50分"
-        },
-        {
-          "title": "微软：将不再向OpenAI支付收入分成，微软的OpenAI许可现将转为非独家许可",
-          "url": "https://wallstreetcn.com/livenews/3095041",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时50分"
-        },
-        {
-          "title": "微软(MSFT.O)：OpenAI产品将优先在Azure上发布。",
-          "url": "https://flash.jin10.com/detail/20260427211114444800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时50分"
-        },
-        {
-          "title": "郭明錤：OpenAI进军手机，正与联发科、高通合作开发处理器",
-          "url": "https://wallstreetcn.com/livenews/3094729",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "原谷歌Deepmind研究员David Silver为自家新公司Ineffable Intelligence在种子轮按照51亿美元估值融资11亿美元。 红杉资本与Lightspeed Venture Partners领投，英伟达、Alphabet旗下谷歌公司、英国政府等参投。",
-          "url": "https://wallstreetcn.com/livenews/3095118",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时47分"
-        },
-        {
-          "title": "美国五角大楼增添新的Gemini模型到其AI工具。",
-          "url": "https://wallstreetcn.com/livenews/3095117",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时47分"
-        },
-        {
-          "title": "美国国防部在其人工智能门户中新增了Gemini模型。",
-          "url": "https://flash.jin10.com/detail/20260427230746134800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "路透调查：预计2026年黄金价格平均为4916美元/盎司，2027年为5100美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260427184708810800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时04分"
-        },
-        {
-          "title": "金十图示：2026年04月27日（周一）上海金早盘价为1034.9元/克，较国际金价(1032.83元/克)，高2.07元/克",
-          "url": "https://flash.jin10.com/detail/20260427101722746800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时39分"
-        },
-        {
-          "title": "金价震荡 多家金店一口价金饰打折",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%9C%87%E8%8D%A1+%E5%A4%9A%E5%AE%B6%E9%87%91%E5%BA%97%E4%B8%80%E5%8F%A3%E4%BB%B7%E9%87%91%E9%A5%B0%E6%89%93%E6%8A%98",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时50分"
+          "time_info": "01时22分"
         }
       ]
     },
@@ -955,14 +257,11 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353761&amp;topic_name=%E5%B0%8F%E7%8E%8B%E8%81%94%E5%8A%A8%E5%93%AA%E5%90%922%2C%E6%90%AC%E7%A9%BAlol%E7%8E%A9%E5%AE%B6",
           "source": "贴吧",
           "ranks": [
-            10,
-            14,
-            15,
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时53分 ~ 23时47分]"
+          "appearance_count": 1,
+          "time_info": "01时22分"
         }
       ]
     },
@@ -975,16 +274,11 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33045646",
           "source": "澎湃新闻",
           "ranks": [
-            18,
-            12,
-            9,
-            7,
-            4,
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时38分 ~ 23时47分]"
+          "appearance_count": 1,
+          "time_info": "01时22分"
         }
       ]
     }
