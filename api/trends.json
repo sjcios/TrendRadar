@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-27T13:53:51.467211+08:00",
-  "total_titles_processed": 866,
+  "generated_at": "2026-04-27T16:23:17.342587+08:00",
+  "total_titles_processed": 1018,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "高盛：DeepSeek V4对中国AI意味着什么？",
@@ -37,11 +37,12 @@
           "source": "抖音",
           "ranks": [
             2,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 13时53分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 16时23分]"
         },
         {
           "title": "沉默的DeepSeek，和不被定义的中国大模型",
@@ -94,6 +95,17 @@
           "time_info": "[00时41分 ~ 07时38分]"
         },
         {
+          "title": "如何评价 DeepSeek V4 Pro 官网限时 2.5 折优惠和缓存永久大降价？",
+          "url": "https://www.zhihu.com/question/2031494133160861736",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时38分 ~ 16时23分]"
+        },
+        {
           "title": "DeepSeek V4全面评测",
           "url": "https://www.douyin.com/hot/2479058",
           "source": "抖音",
@@ -109,17 +121,6 @@
           "time_info": "[00时41分 ~ 06时37分]"
         },
         {
-          "title": "如何评价 DeepSeek V4 Pro 官网限时 2.5 折优惠和缓存永久大降价？",
-          "url": "https://www.zhihu.com/question/2031494133160861736",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时38分 ~ 13时53分]"
-        },
-        {
           "title": "DeepSeek V4“寄予厚望”！国产算力“进攻的矛”--超节点",
           "url": "https://wallstreetcn.com/articles/3770923",
           "source": "华尔街见闻",
@@ -128,8 +129,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时38分 ~ 13时53分]"
+          "appearance_count": 4,
+          "time_info": "[10时38分 ~ 16时23分]"
         },
         {
           "title": "手机厂商加速接入DeepSeek-V4，荣耀打响第一枪",
@@ -138,9 +139,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
+        },
+        {
+          "title": "中国信通院：正式启动DeepSeek V4国产化适配测试工作",
+          "url": "https://www.cls.cn/detail/2356575",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "DeepSeek V4成OpenClaw默认模型",
@@ -174,39 +186,42 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时38分 ~ 13时53分]"
+          "appearance_count": 4,
+          "time_info": "[10时38分 ~ 16时23分]"
         },
         {
           "title": "深入解读DeepSeek V1-V4",
           "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%85%A5%E8%A7%A3%E8%AF%BBDeepSeek%20V1-V4",
           "source": "bilibili 热搜",
           "ranks": [
-            30
+            30,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时38分 ~ 10时39分]"
+          "appearance_count": 3,
+          "time_info": "[10时38分 ~ 16时23分]"
         },
         {
           "title": "“价格屠夫”DeepSeek再度出手 国产算力核心标的有望直接受益",
           "url": "https://www.cls.cn/detail/2356166",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时53分 ~ 16时23分]"
         }
       ]
     },
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 10,
+      "match_count": 16,
       "titles": [
         {
           "title": "下周重磅日程：重磅会议+超级央行周+超级财报周！美日央行决议、MAG7业绩密集轰炸",
@@ -230,8 +245,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时38分 ~ 13时53分]"
+          "appearance_count": 4,
+          "time_info": "[10时38分 ~ 16时23分]"
+        },
+        {
+          "title": "欧洲央行调查：欧元区企业短期通胀预期上升，但薪资压力缓和",
+          "url": "https://flash.jin10.com/detail/20260427160704535800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "伊朗消息人士及美媒均透露，伊朗欲分阶段解决当前分歧：先就霍尔木兹海峡达成协议并解除美国封锁，核问题留待日后再谈；本周再迎“超级央行周”，市场关注鲍威尔或举行作为美联储主席的最后一场发布会。当前金银呈卖出信号，美油多空情绪接近持平，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -251,9 +277,43 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
+        },
+        {
+          "title": "欧洲央行调查：企业预计非劳动力成本的上涨幅度将更大。 短期通胀预期显著上升。 工资预期略有下降。 中期通胀预期保持稳定。",
+          "url": "https://wallstreetcn.com/livenews/3094835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
+          "title": "追觅 CEO 连续发文炮轰小红书是非常非常烂的平台，称其肆意推送各种未经证实的假消息，究竟是怎么回事？",
+          "url": "https://www.zhihu.com/question/2032052994884071504",
+          "source": "知乎",
+          "ranks": [
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时53分 ~ 16时23分]"
+        },
+        {
+          "title": "欧洲央行企业融资渠道调查：企业的短期通胀预期显著上升，中期预期保持稳定。企业预计，伊朗战争将推动销售价格大幅上涨，但工资预期略有减弱。",
+          "url": "https://flash.jin10.com/detail/20260427160119582800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "本周重要事件与数据预告：超级央行周叠加财报周来袭",
@@ -267,15 +327,37 @@
           "time_info": "06时37分"
         },
         {
-          "title": "追觅 CEO 连续发文炮轰小红书是非常非常烂的平台，称其肆意推送各种未经证实的假消息，究竟是怎么回事？",
-          "url": "https://www.zhihu.com/question/2032052994884071504",
-          "source": "知乎",
+          "title": "欧洲央行企业融资渠道调查：企业报告银行贷款利率和其他贷款条件进一步收紧；企业利润继续恶化。",
+          "url": "https://flash.jin10.com/detail/20260427160047544800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
+          "title": "瑞士宝盛：油价冲击令亚洲各央行宽松周期暂停",
+          "url": "https://flash.jin10.com/detail/20260427155913517800",
+          "source": "金十数据",
           "ranks": [
             14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时53分"
+          "time_info": "16时23分"
+        },
+        {
+          "title": "高盛：欧洲央行本周料将按兵不动，拉加德将表态关注二轮效应",
+          "url": "https://flash.jin10.com/detail/20260427155551337800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "追觅CEO俞浩连发三文炮轰小红书",
@@ -284,7 +366,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -295,7 +377,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -317,7 +399,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         }
@@ -346,22 +428,24 @@
           "source": "百度热搜",
           "ranks": [
             10,
-            9
+            9,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时38分 ~ 13时53分]"
+          "appearance_count": 4,
+          "time_info": "[10时38分 ~ 16时23分]"
         },
         {
           "title": "北京车展百万元内新能源速览",
           "url": "https://search.bilibili.com/all?keyword=%E5%8C%97%E4%BA%AC%E8%BD%A6%E5%B1%95%E7%99%BE%E4%B8%87%E5%85%83%E5%86%85%E6%96%B0%E8%83%BD%E6%BA%90%E9%80%9F%E8%A7%88",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            6,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时53分 ~ 16时23分]"
         },
         {
           "title": "【数读IPO】今日2申购1上市，涉及比亚迪等知名企业供应商等",
@@ -370,7 +454,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -392,7 +476,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -414,7 +498,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         }
@@ -422,7 +506,7 @@
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "古尔曼：苹果新帅特努斯9月1日上任，折叠屏iPhone成首秀",
@@ -457,11 +541,12 @@
           "url": "https://www.zhihu.com/question/2029619111450222998",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时53分 ~ 16时23分]"
         },
         {
           "title": "灵光在手机端上线“体验世界模型 ”功能",
@@ -473,6 +558,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
+        },
+        {
+          "title": "时薪100元的新工种：把iPhone绑在脑门上，替AI蒸馏自己",
+          "url": "https://wallstreetcn.com/articles/3770953",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
+          "title": "男子花 21999 元网购三星手机，被要求激活才能签收，客服称为防黄牛倒卖，这要求合法吗？算不算霸王条款？",
+          "url": "https://www.zhihu.com/question/2031382043821434628",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
+          "title": "机构：第一季度全球智能手机SoC出货量同比下降8% 预计2028年初回升",
+          "url": "https://wallstreetcn.com/livenews/3094812",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         }
       ]
     },
@@ -487,7 +605,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         }
@@ -519,11 +637,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353761&amp;topic_name=%E5%B0%8F%E7%8E%8B%E8%81%94%E5%8A%A8%E5%93%AA%E5%90%922%2C%E6%90%AC%E7%A9%BAlol%E7%8E%A9%E5%AE%B6",
           "source": "贴吧",
           "ranks": [
-            10
+            10,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时53分 ~ 16时23分]"
         }
       ]
     },
@@ -537,11 +656,12 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时38分 ~ 13时53分]"
+          "appearance_count": 4,
+          "time_info": "[10时38分 ~ 16时23分]"
         }
       ]
     }
