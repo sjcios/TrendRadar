@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-04-29T00:51:41.784677+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-04-29T02:17:18.712613+08:00",
+  "total_titles_processed": 389,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
-        {
-          "title": "马斯克律师：OpenAI“偷走了一个慈善机构”，针对AI公司及Altman的审判开启",
-          "url": "https://wallstreetcn.com/livenews/3095934",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
-        },
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，纳指盘初跌1.2%，半导体集体回调，WTI涨破百元大关，金银下挫",
           "url": "https://wallstreetcn.com/articles/3771095",
@@ -26,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 02时17分]"
         },
         {
           "title": "OpenAI增长疑云引发科技股回调 海合会召开特别峰会 | 今夜看点",
@@ -37,19 +26,65 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 02时17分]"
+        },
+        {
+          "title": "OpenAI的Codex登陆亚马逊Bedrock平台",
+          "url": "https://flash.jin10.com/detail/20260429015838005800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时51分"
+          "time_info": "02时17分"
+        },
+        {
+          "title": "马斯克律师：OpenAI“偷走了一个慈善机构”，针对AI公司及Altman的审判开启",
+          "url": "https://wallstreetcn.com/livenews/3095934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 02时17分]"
         },
         {
           "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
           "url": "https://wallstreetcn.com/articles/3771064",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 02时17分]"
+        },
+        {
+          "title": "OpenAI：华尔街日报的报道是标题党，公司各项业务“火力全开”",
+          "url": "https://wallstreetcn.com/livenews/3095943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时51分"
+          "time_info": "02时17分"
+        },
+        {
+          "title": "随着微软放弃排他性协议，亚马逊将开始销售OpenAI的技术",
+          "url": "https://wallstreetcn.com/livenews/3095938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时17分"
         },
         {
           "title": "甲骨文：对与OpenAI的合作感到非常兴奋。",
@@ -57,6 +92,57 @@
           "source": "金十数据",
           "ranks": [
             16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        },
+        {
+          "title": "亚马逊云服务(AWS)与OpenAI宣布扩大合作伙伴关系。",
+          "url": "https://flash.jin10.com/detail/20260429010529383800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "比亚迪一季度净利润 40.85 亿元，同比减少 55.38%，如何评价这一业绩？",
+          "url": "https://www.zhihu.com/question/2032535175213441716",
+          "source": "知乎",
+          "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 02时17分]"
+        },
+        {
+          "title": "比亚迪短期借款飙升至纪录高位，季度利润降至数年来最低",
+          "url": "https://wallstreetcn.com/livenews/3095945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        },
+        {
+          "title": "比亚迪一季度净利润40.85亿",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BA%9A%E8%BF%AA%E4%B8%80%E5%AD%A3%E5%BA%A6%E5%87%80%E5%88%A9%E6%B6%A640.85%E4%BA%BF%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -76,8 +162,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 02时17分]"
         },
         {
           "title": "如何评价 DeepSeek V4 降价的事？",
@@ -93,47 +179,48 @@
       ]
     },
     {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "比亚迪一季度净利润 40.85 亿元，同比减少 55.38%，如何评价这一业绩？",
-          "url": "https://www.zhihu.com/question/2032535175213441716",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
-        },
-        {
-          "title": "比亚迪一季度净利润40.85亿",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BA%9A%E8%BF%AA%E4%B8%80%E5%AD%A3%E5%BA%A6%E5%87%80%E5%88%A9%E6%B6%A640.85%E4%BA%BF%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
-        }
-      ]
-    },
-    {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "员工厕所玩手机照片被发400人群",
           "url": "https://s.weibo.com/weibo?q=%23%E5%91%98%E5%B7%A5%E5%8E%95%E6%89%80%E7%8E%A9%E6%89%8B%E6%9C%BA%E7%85%A7%E7%89%87%E8%A2%AB%E5%8F%91400%E4%BA%BA%E7%BE%A4%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
           "ranks": [
-            25
+            25,
+            17
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 02时17分]"
+        },
+        {
+          "title": "华尔街已经担心“120甚至150美元油价”：手机、汽车、衣服、化妆品……都在涨价路上",
+          "url": "https://wallstreetcn.com/articles/3771067",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时51分"
+          "time_info": "02时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌突然退出美国国防部无人机蜂群技术竞标",
+          "url": "https://flash.jin10.com/detail/20260429012913081800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时17分"
         }
       ]
     },
@@ -146,11 +233,12 @@
           "url": "https://www.douyin.com/hot/2482690",
           "source": "抖音",
           "ranks": [
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 02时17分]"
         }
       ]
     }
