@@ -1,8 +1,353 @@
 {
-  "generated_at": "2026-04-29T20:18:17.412588+08:00",
-  "total_titles_processed": 1444,
+  "generated_at": "2026-04-29T23:13:07.570307+08:00",
+  "total_titles_processed": 1612,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "央行 抖音 小红书",
+      "match_count": 30,
+      "titles": [
+        {
+          "title": "全球迎来超级央行周",
+          "url": "https://www.douyin.com/hot/2482690",
+          "source": "抖音",
+          "ranks": [
+            9,
+            13,
+            10,
+            11,
+            14,
+            18,
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时51分 ~ 18时56分]"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆新闻发布会结束。",
+          "url": "https://flash.jin10.com/detail/20260429230844363800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：看起来加拿大人对我们的信誉和决心并没有失去信心。",
+          "url": "https://flash.jin10.com/detail/20260429230820792800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
+          "title": "贝莱德智库建议低配日本国债 预计日本央行将进一步加息",
+          "url": "https://wallstreetcn.com/livenews/3096166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
+          "title": "抖音“五一”消费预测：小城游火热 多地吃喝游玩团购订单增长超6成",
+          "url": "https://wallstreetcn.com/livenews/3096248",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：通胀预期可能没有疫情前那么稳定，存在风险。",
+          "url": "https://flash.jin10.com/detail/20260429230700407800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
+          "title": "加拿大央行高级副行长Rogers：与美国的贸易紧张局势对加拿大经济构成更大的长期威胁。",
+          "url": "https://wallstreetcn.com/livenews/3096791",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
+          "title": "智利央行一致决定维持利率在4.50%不变。",
+          "url": "https://flash.jin10.com/detail/20260429060037235800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时58分 ~ 07时57分]"
+        },
+        {
+          "title": "智利央行维持关键利率在4.5%不变，符合预期。 全球经济继续表现出不确定性。",
+          "url": "https://wallstreetcn.com/livenews/3096038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时58分 ~ 07时57分]"
+        },
+        {
+          "title": "央行一季度逆势购金，普通投资者能抄作业吗？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260429183518794800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时56分"
+        },
+        {
+          "title": "加拿大央行高级副行长罗杰斯：某个单一的通胀数据不会让我们彻底改变看法。",
+          "url": "https://flash.jin10.com/detail/20260429230557126800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
+          "title": "加拿大央行高级副行长罗杰斯：新冠疫情的教训是，加拿大人真的不喜欢通货膨胀。",
+          "url": "https://flash.jin10.com/detail/20260429230329017800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：我们正在概述加拿大央行的应对方式。",
+          "url": "https://flash.jin10.com/detail/20260429230133033800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
+          "title": "英国国家经济社会研究院：预计在温和情景下，英国央行的利率将上调至4%。",
+          "url": "https://flash.jin10.com/detail/20260429070259394800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：由于不确定性，可能出现多种结果。",
+          "url": "https://flash.jin10.com/detail/20260429230130353800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
+          "title": "周二（4月28日）纽约尾盘，美元兑日元涨0.15%，报159.65日元，日内交投区间为158.96-159.79日元，日本央行宣布利率决议之际、在北京时间11:04显著跳水，随后逐步回升。 欧元兑日元涨0.01%，报186.990日元，日本央行行长举行新闻发布会之际，14:43刷新日低至186.07日元；英镑兑日元跌0.01%，报215.763日元，整体呈现出W形走势。",
+          "url": "https://wallstreetcn.com/livenews/3095984",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：传达我们将如何应对各种潜在结果是很有用的。",
+          "url": "https://flash.jin10.com/detail/20260429230035958800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
+          "title": "英国国家经济社会研究院：在不利情景下，英国央行的关键利率应上升至5.25%。",
+          "url": "https://flash.jin10.com/detail/20260429070145059800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：今天的表态不应被视为前瞻性指引。",
+          "url": "https://flash.jin10.com/detail/20260429225833704800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：目前经济中存在一定的闲置产能，因此我们不认为能源价格上涨会迅速传导至商品和服务领域。",
+          "url": "https://flash.jin10.com/detail/20260429225514798800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：如果我们现在加息，而随后油价下跌，那么等到加息对经济产生影响时，我们会后悔当初加了息。",
+          "url": "https://flash.jin10.com/detail/20260429225429524800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：政策利率没有无风险的路径。",
+          "url": "https://flash.jin10.com/detail/20260429225315954800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
+          "title": "加拿大央行高级副行长罗杰斯：从长期来看，贸易紧张局势对经济的威胁大于油价上涨。",
+          "url": "https://flash.jin10.com/detail/20260429225307503800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
+          "title": "法巴银行：通胀风险或促使英国央行2026年加息两次",
+          "url": "https://flash.jin10.com/detail/20260429193122017800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时18分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：对高油价的应对措施取决于消费者物价指数上行压力是否会扩散。",
+          "url": "https://flash.jin10.com/detail/20260429225249101800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：金融市场的重新定价对前景构成风险。",
+          "url": "https://flash.jin10.com/detail/20260429225110698800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：目前尚无可能加息的具体时间表。",
+          "url": "https://flash.jin10.com/detail/20260429225005215800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
+          "title": "经济学家：全球供应冲击改变英央行政策前景，2026年降息或无望",
+          "url": "https://flash.jin10.com/detail/20260429181813671800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时56分"
+        },
+        {
+          "title": "提醒：北京时间22:30，美国能源信息署（EIA）将发布政府版原油库存周报，加拿大央行行长麦克勒姆召开货币政策新闻发布会。",
+          "url": "https://wallstreetcn.com/livenews/3096769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
+          "title": "日元跌破160关键关口，交易员关注日本央行下一步行动",
+          "url": "https://flash.jin10.com/detail/20260429224905615800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        }
+      ]
+    },
     {
       "keyword_group": "chatgpt openai",
       "match_count": 25,
@@ -15,8 +360,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时57分 ~ 20时18分]"
+          "appearance_count": 9,
+          "time_info": "[07时57分 ~ 23时13分]"
         },
         {
           "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
@@ -25,11 +370,12 @@
           "ranks": [
             10,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时57分 ~ 20时18分]"
+          "appearance_count": 11,
+          "time_info": "[06时57分 ~ 23时13分]"
         },
         {
           "title": "OpenAI增长疑云引发科技股回调 海合会召开特别峰会 | 今夜看点",
@@ -81,6 +427,20 @@
           "time_info": "[06时57分 ~ 13时58分]"
         },
         {
+          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
+          "url": "https://wallstreetcn.com/articles/3771182",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时58分 ~ 23时13分]"
+        },
+        {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股债齐跌，半导体集体回调，WTI涨破百元大关，金银下挫",
           "url": "https://wallstreetcn.com/articles/3771095",
           "source": "华尔街见闻",
@@ -103,19 +463,6 @@
           "time_info": "02时17分"
         },
         {
-          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
-          "url": "https://wallstreetcn.com/articles/3771182",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时58分 ~ 20时18分]"
-        },
-        {
           "title": "马斯克律师：OpenAI“偷走了一个慈善机构”，针对AI公司及Altman的审判开启",
           "url": "https://wallstreetcn.com/livenews/3095934",
           "source": "华尔街见闻-快讯",
@@ -126,6 +473,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时51分 ~ 02时17分]"
+        },
+        {
+          "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032593268840600541",
+          "source": "知乎",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时17分 ~ 23时13分]"
         },
         {
           "title": "报道：OpenAI预计用户将大规模转向更廉价的ChatGPT订阅层级",
@@ -186,17 +545,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时58分 ~ 07时57分]"
-        },
-        {
-          "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2032593268840600541",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时17分 ~ 20时18分]"
         },
         {
           "title": "马斯克称奥尔特曼是“小偷”，OpenAI反驳",
@@ -449,155 +797,20 @@
       ]
     },
     {
-      "keyword_group": "央行 抖音 小红书",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "全球迎来超级央行周",
-          "url": "https://www.douyin.com/hot/2482690",
-          "source": "抖音",
-          "ranks": [
-            9,
-            13,
-            10,
-            11,
-            14,
-            18,
-            17,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时51分 ~ 18时56分]"
-        },
-        {
-          "title": "贝莱德智库建议低配日本国债 预计日本央行将进一步加息",
-          "url": "https://wallstreetcn.com/livenews/3096166",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时58分"
-        },
-        {
-          "title": "抖音“五一”消费预测：小城游火热 多地吃喝游玩团购订单增长超6成",
-          "url": "https://wallstreetcn.com/livenews/3096248",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "智利央行一致决定维持利率在4.50%不变。",
-          "url": "https://flash.jin10.com/detail/20260429060037235800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时58分 ~ 07时57分]"
-        },
-        {
-          "title": "智利央行维持关键利率在4.5%不变，符合预期。 全球经济继续表现出不确定性。",
-          "url": "https://wallstreetcn.com/livenews/3096038",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时58分 ~ 07时57分]"
-        },
-        {
-          "title": "央行一季度逆势购金，普通投资者能抄作业吗？丨Hi，今天怎么看？",
-          "url": "https://flash.jin10.com/detail/20260429183518794800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时56分"
-        },
-        {
-          "title": "英国国家经济社会研究院：预计在温和情景下，英国央行的利率将上调至4%。",
-          "url": "https://flash.jin10.com/detail/20260429070259394800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "周二（4月28日）纽约尾盘，美元兑日元涨0.15%，报159.65日元，日内交投区间为158.96-159.79日元，日本央行宣布利率决议之际、在北京时间11:04显著跳水，随后逐步回升。 欧元兑日元涨0.01%，报186.990日元，日本央行行长举行新闻发布会之际，14:43刷新日低至186.07日元；英镑兑日元跌0.01%，报215.763日元，整体呈现出W形走势。",
-          "url": "https://wallstreetcn.com/livenews/3095984",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
-          "title": "英国国家经济社会研究院：在不利情景下，英国央行的关键利率应上升至5.25%。",
-          "url": "https://flash.jin10.com/detail/20260429070145059800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "法巴银行：通胀风险或促使英国央行2026年加息两次",
-          "url": "https://flash.jin10.com/detail/20260429193122017800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时18分"
-        },
-        {
-          "title": "经济学家：全球供应冲击改变英央行政策前景，2026年降息或无望",
-          "url": "https://flash.jin10.com/detail/20260429181813671800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时56分"
-        }
-      ]
-    },
-    {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "员工厕所玩手机被开除，照片证据竟是门缝偷拍，以此为由解除劳动合同站得住脚吗？隐私权和工作纪律哪个优先？",
           "url": "https://www.zhihu.com/question/2032401034061009163",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时56分 ~ 20时18分]"
+          "appearance_count": 5,
+          "time_info": "[18时56分 ~ 23时13分]"
         },
         {
           "title": "员工厕所玩手机照片被发400人群",
@@ -626,6 +839,32 @@
           "time_info": "04时15分"
         },
         {
+          "title": "【数据看盘】外资联手机构抢筹多只锂电人气股 铜冠铜箔龙虎榜现多空博弈",
+          "url": "https://www.cls.cn/detail/2359683",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时56分 ~ 23时13分]"
+        },
+        {
+          "title": "曝iPhoneFold定价14999元",
+          "url": "https://s.weibo.com/weibo?q=%E6%9B%9DiPhoneFold%E5%AE%9A%E4%BB%B714999%E5%85%83&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时56分 ~ 23时13分]"
+        },
+        {
           "title": "华尔街已经担心“120甚至150美元油价”：手机、汽车、衣服、化妆品……都在涨价路上",
           "url": "https://wallstreetcn.com/articles/3771067",
           "source": "华尔街见闻",
@@ -637,28 +876,15 @@
           "time_info": "[02时17分 ~ 05时57分]"
         },
         {
-          "title": "【数据看盘】外资联手机构抢筹多只锂电人气股 铜冠铜箔龙虎榜现多空博弈",
-          "url": "https://www.cls.cn/detail/2359683",
-          "source": "财联社热门",
+          "title": "加拿大央行行长Macklem：金融市场再定价，这对前景构成风险。 政策利率没有“零风险路径”。",
+          "url": "https://wallstreetcn.com/livenews/3096790",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            10
+            6
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时56分 ~ 20时18分]"
-        },
-        {
-          "title": "曝iPhoneFold定价14999元",
-          "url": "https://s.weibo.com/weibo?q=%E6%9B%9DiPhoneFold%E5%AE%9A%E4%BB%B714999%E5%85%83&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时56分 ~ 20时18分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "杨元庆：AI PC和AI手机今年的增速都会达到30%以上",
@@ -733,8 +959,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时58分 ~ 20时18分]"
+          "appearance_count": 7,
+          "time_info": "[13时58分 ~ 23时13分]"
         },
         {
           "title": "6家券商抢先部署DeepSeek V4，2小时接入、24小时上线，新一轮竞速开始",
@@ -777,7 +1003,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时18分"
         },
@@ -799,7 +1025,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时18分"
         }
@@ -816,7 +1042,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时18分"
         },
@@ -866,11 +1092,12 @@
           "ranks": [
             29,
             19,
-            17
+            17,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时24分 ~ 20时18分]"
+          "appearance_count": 6,
+          "time_info": "[16时24分 ~ 23时13分]"
         },
         {
           "title": "英雄联盟16.9版本研究所",
@@ -898,7 +1125,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "影响金价的关键因素是什么",
@@ -913,6 +1140,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时58分 ~ 18时56分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时12分 ~ 23时13分]"
         }
       ]
     }
