@@ -1,1149 +1,44 @@
 {
-  "generated_at": "2026-04-30T23:09:52.303546+08:00",
-  "total_titles_processed": 1563,
+  "generated_at": "2026-05-01T01:52:09.162690+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "央行 抖音 小红书",
-      "match_count": 47,
-      "titles": [
-        {
-          "title": "英国央行行长贝利：情景描绘出增长放缓的图景，而非衰退。",
-          "url": "https://flash.jin10.com/detail/20260430230043830800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时09分"
-        },
-        {
-          "title": "英国两年期国债收益率下降10个基点，英国央行贝利正在发表讲话。",
-          "url": "https://wallstreetcn.com/livenews/3097485",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时15分"
-        },
-        {
-          "title": "英国央行行长贝利：不会给出“有力”措施的具体数值。 等到第二轮效应显现再采取行动是错误的。 企业告诉我，它们在转嫁成本方面遇到了困难。 目前没有证据表明劳动力市场运作效率低下。",
-          "url": "https://wallstreetcn.com/livenews/3097484",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时15分"
-        },
-        {
-          "title": "英国央行行长贝利：英国央行首席经济学家皮尔的异议是“完全可以理解的”。",
-          "url": "https://flash.jin10.com/detail/20260430230030997800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时09分"
-        },
-        {
-          "title": "英国央行副行长Lombardelli：我们所设定的这些场景并非是“全面详尽”的。",
-          "url": "https://wallstreetcn.com/livenews/3097482",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时15分"
-        },
-        {
-          "title": "印尼央行宣布与中国实现二维码支付互联互通",
-          "url": "https://wallstreetcn.com/livenews/3097594",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时09分"
-        },
-        {
-          "title": "美联储主席鲍威尔：我们是唯一一家不发布预测的主要央行。",
-          "url": "https://flash.jin10.com/detail/20260430030041849800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
-          "title": "英国央行行长贝利：市场对能源价格的预期过于乐观。",
-          "url": "https://flash.jin10.com/detail/20260430200929534800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时15分"
-        },
-        {
-          "title": "抖音生活服务：重点整治“五一”临时加价、强制消费、虚假宣传等问题",
-          "url": "https://flash.jin10.com/detail/20260430101215520800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时47分"
-        },
-        {
-          "title": "英国央行行长贝利：情景C认为不会导致经济衰退。",
-          "url": "https://flash.jin10.com/detail/20260430200853092800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时15分"
-        },
-        {
-          "title": "英国央行副行长拉姆斯登：目前的劳动力市场与2022年大相径庭。",
-          "url": "https://flash.jin10.com/detail/20260430200839985800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时15分"
-        },
-        {
-          "title": "英国央行行长贝利：并非在传递利率将会上升的信号。",
-          "url": "https://flash.jin10.com/detail/20260430200742813800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时15分"
-        },
-        {
-          "title": "中国央行公布2026年度公开市场业务一级交易商名单。",
-          "url": "https://wallstreetcn.com/livenews/3097409",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时55分"
-        },
-        {
-          "title": "英国央行行长贝利：第二轮效应的规模“高度不确定”。 工资谈判可能引发第二轮效应。 不确定性可能拖累企业的投资计划。 何时采取行动是一个“艰难的抉择”。 在情景C下需要“显著收紧”政策立场，其他情景下则不然。 所有政策规则都表明当前利率应高于2月份水平。 鉴于情景B，目前有充分理由维持利率不变。 正好合适的平衡可能随事态发展而变化。 局势仍不确定，将继续监控。 情景C是一个“非常持久的情景”。",
-          "url": "https://wallstreetcn.com/livenews/3097477",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时15分"
-        },
-        {
-          "title": "欧洲央行将于十分钟后公布利率决议。",
-          "url": "https://flash.jin10.com/detail/20260430200500000800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时15分"
-        },
-        {
-          "title": "日本央行5月的债券购买计划与4月保持一致未作变动。",
-          "url": "https://wallstreetcn.com/livenews/3097319",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        },
-        {
-          "title": "英国央行行长贝利：中东冲突“显著影响”了英国消费者物价指数的走势。 职责是防止冲击的影响变得根深蒂固。 预计到年底通胀率略高于3.5%。 食品价格受到的间接影响可能最为显著。 冲突持续越久，影响就越严重。 重新开放霍尔木兹海峡将减轻此次冲击的影响。 忽视间接影响的理由已减弱。",
-          "url": "https://wallstreetcn.com/livenews/3097471",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时15分"
-        },
-        {
-          "title": "菲律宾央行：将继续关注中东近期发展对通胀的影响。",
-          "url": "https://flash.jin10.com/detail/20260430100528114800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时47分"
-        },
-        {
-          "title": "葡萄牙央行行长表示，在欧洲央行警告后出售了股份。",
-          "url": "https://flash.jin10.com/detail/20260430004652774800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时28分"
-        },
-        {
-          "title": "菲律宾央行：2026年4月的通胀率将保持在5.6%至6.4%之间。将保持警惕，并以即将公布的数据为指引，尤其关注通胀和经济增长前景。",
-          "url": "https://flash.jin10.com/detail/20260430100518126800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时47分"
-        },
-        {
-          "title": "英国央行行长贝利：现在降息显然不是一个选项。",
-          "url": "https://flash.jin10.com/detail/20260430200051776800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时15分"
-        },
-        {
-          "title": "英国央行行长贝利：今天的维持利率不变是主动选择，而非被动结果。",
-          "url": "https://flash.jin10.com/detail/20260430200018942800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时15分"
-        },
-        {
-          "title": "英国央行行长贝利：我们没有听到任何关于能源供应条件可能迅速恢复到冲突前水平的消息。",
-          "url": "https://flash.jin10.com/detail/20260430200008028800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时15分"
-        },
-        {
-          "title": "日本央行报告：在假设高油价、日元进一步走弱、股市下跌的风险情景下，2026至2028财年的实际GDP预测将比日本央行的基准中值预测低0.1-0.2个百分点。 在风险情景下，核心通胀将大幅超过日本央行的基准中值预测，2026、2027财年可能徘徊在3%左右。 这种超预期通胀可能会提升中长期的通胀预期。 如果发生重大供应链中断，实际GDP可能大幅低于预期，同时可能导致通胀非线性上升。",
-          "url": "https://wallstreetcn.com/livenews/3097209",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时59分"
-        },
-        {
-          "title": "欧洲央行4月利率决议看点前瞻",
-          "url": "https://wallstreetcn.com/livenews/3097465",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时15分"
-        },
-        {
-          "title": "日本央行报告：日元走弱冲击对通胀的影响大于油价冲击。 日元走弱推高了商品和服务的价格，因此对剔除生鲜食品和能源的消费者通胀带来更大的推动 油价上涨对能源相关的少数商品施加了较大的上行压力。 日元走弱冲击扩大了工资和利润率，并导致GDP平减指数上升。 而能源冲击则压缩工资和利润率，并导致GDP平减指数下降。",
-          "url": "https://wallstreetcn.com/livenews/3097208",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时59分"
-        },
-        {
-          "title": "提醒：北京时间19:30，英国央行行长贝利召开货币政策新闻发布会。",
-          "url": "https://wallstreetcn.com/livenews/3097464",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时15分"
-        },
-        {
-          "title": "欧洲央行决议和拉加德新闻发布会要点汇总",
-          "url": "https://wallstreetcn.com/livenews/3097576",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时09分"
-        },
-        {
-          "title": "英国央行行长贝利：我认为情景B的能源价格走势比情景A更为可信。",
-          "url": "https://flash.jin10.com/detail/20260430195912252800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时15分"
-        },
-        {
-          "title": "英国央行行长贝利：由于大多数年度薪资协议已经达成，我们需要一段时间才能对薪资情况有清晰的了解。",
-          "url": "https://flash.jin10.com/detail/20260430195734342800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时15分"
-        },
-        {
-          "title": "日本央行称风险情景下 关键通胀指标或升至3%",
-          "url": "https://wallstreetcn.com/livenews/3097310",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        },
-        {
-          "title": "巴西央行下调基准贷款利率25个基点，至14.50%。",
-          "url": "https://wallstreetcn.com/livenews/3096965",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时56分"
-        },
-        {
-          "title": "英国央行行长贝利：企业告诉我，他们在转嫁成本方面遇到了困难。",
-          "url": "https://flash.jin10.com/detail/20260430195545289800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时15分"
-        },
-        {
-          "title": "欧洲央行消息人士称，部分成员已在周四提议加息，但可以接受推迟至六月。",
-          "url": "https://flash.jin10.com/detail/20260430223759155800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时09分"
-        },
-        {
-          "title": "英央行决策后英国国债续涨，两年期国债收益率下跌6个基点至4.49%。英国涨幅扩大至1.3%，英国富时250指数涨幅扩大至0.8%。",
-          "url": "https://wallstreetcn.com/livenews/3097457",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时15分"
-        },
-        {
-          "title": "欧洲央行消息人士称，央行政策制定者周四讨论了所需的紧缩力度。多位政策制定者认为，除非战争结束且布伦特原油价格迅速下跌，否则至少需要加息两次。",
-          "url": "https://flash.jin10.com/detail/20260430223741703800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时09分"
-        },
-        {
-          "title": "中国央行开展3000亿元期限为3个月的买断式逆回购操作",
-          "url": "https://wallstreetcn.com/livenews/3097377",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时55分"
-        },
-        {
-          "title": "欧洲央行消息人士称，6月加息的可能性非常大，政策制定者在周四普遍达成共识，认为有必要采取行动。",
-          "url": "https://flash.jin10.com/detail/20260430223719457800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时09分"
-        },
-        {
-          "title": "英国央行副行长Breeden：一旦出现危机，我们将“果断”采取行动。 英国央行副行长拉姆斯登：在情景B下会考虑加息。对情景A和情景B给予同等权重。 英国央行首席经济学家Pill：采取“迅速但适度”的加息将有助于缓解风险。第二轮效应的风险偏向上行。 英国央行副行长Lombardelli：需要进一步了解冲击的性质。更倾向于情景B。 英国央行MPC成员Greene：未来几次会议可能需要加息。最终通胀水平可能介于情景B和情景C之间。 英国央行DHINGRA：并不“强烈倾向于”任何一种情景。 英国央行MPC成员Mann：认为第二轮效应的影响比情景中显示的更大。若通胀及预期持续上升，则需要采取行动。 英国央行MPC成员成员Taylor：更倾向于情景A与标准路径之间。",
-          "url": "https://wallstreetcn.com/livenews/3097455",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时15分"
-        },
-        {
-          "title": "英国央行行长贝利：等待第二轮效应出现后再采取行动将是一个错误，那样就太晚了。",
-          "url": "https://flash.jin10.com/detail/20260430195401032800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时15分"
-        },
-        {
-          "title": "英国央行指引：委员会“随时准备”在必要时采取行动。",
-          "url": "https://wallstreetcn.com/livenews/3097454",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时15分"
-        },
-        {
-          "title": "英国央行：存在出现“实质性”第二轮影响的风险。 政策立场将取决于冲击的规模和持续时间。 劳动力市场正在放松，金融环境已收紧。 英国央行模型显示加息幅度在0到151个基点之间。 经济走弱或能遏制通胀压力。",
-          "url": "https://wallstreetcn.com/livenews/3097453",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时15分"
-        },
-        {
-          "title": "拉加德：欧洲央行目前尚未看到第二轮效应",
-          "url": "https://wallstreetcn.com/livenews/3097567",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时09分"
-        },
-        {
-          "title": "日本央行：日本央行审议委员小枝淳子将于5月21日在福冈出席会议和新闻发布会。",
-          "url": "https://flash.jin10.com/detail/20260430132539884800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时59分"
-        },
-        {
-          "title": "英国央行行长贝利：问题持续的时间越长，解决起来就越困难。",
-          "url": "https://flash.jin10.com/detail/20260430195244927800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时15分"
-        },
-        {
-          "title": "英国央行行长贝利：能源价格的剧烈波动使得无法对不同情景赋予概率。",
-          "url": "https://flash.jin10.com/detail/20260430195156224800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时15分"
-        },
-        {
-          "title": "英国央行行长贝利：不变的利率“是一个合理的水平”。 最倾向于情景B，也在一定程度上考虑情景C。",
-          "url": "https://wallstreetcn.com/livenews/3097450",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
-          "url": "https://wallstreetcn.com/articles/3771319",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时47分 ~ 23时09分]"
-        },
-        {
-          "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
-          "url": "https://wallstreetcn.com/articles/3771311",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时47分 ~ 23时09分]"
-        },
-        {
-          "title": "谷歌入驻广州珠江新城",
-          "url": "https://s.weibo.com/weibo?q=%E8%B0%B7%E6%AD%8C%E5%85%A5%E9%A9%BB%E5%B9%BF%E5%B7%9E%E7%8F%A0%E6%B1%9F%E6%96%B0%E5%9F%8E&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时54分 ~ 20时15分]"
-        },
-        {
-          "title": "谷歌母公司Alphabet一季度营收1099亿美元，分析师预期1071亿美元。 一季度Rev ex-TAC（剔除流量获取成本的收入）为946.7亿美元，分析师预期915.7亿美元。 一季度谷歌搜索与其他营收604亿美元，分析师预期590.8亿美元。 一季度谷歌服务营收896.4亿美元，分析师预期881.1亿美元。 一季度谷歌云营收200.3亿美元，分析师预期184.1亿美元。 一季度谷歌广告营收772.5亿美元，分析师预期762.1亿美元。 一季度YouTube广告营收98.8亿美元，分析师预期99.7亿美元。 一季度Alphabet Gemini Enterprise月活用户数（MAU）季环比增长40%。 一季度（Alphabet）运营利润397亿美元，分析师预期361.9亿美元。 一季度（Alphabet）资本开支356.7亿美元，分析师预期363.9亿美元。 谷歌A（GOOGL）美股盘后涨超1.3%。",
-          "url": "https://wallstreetcn.com/livenews/3096931",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "胡锡进：只要中国赚钱机会越来越多，谷歌就不舍得真正“离开”",
-          "url": "https://news.ifeng.com/c/8skgZ2z6e0A",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时09分"
-        },
-        {
-          "title": "美股盘前：高通涨约12%，谷歌A涨约7%，Meta跌约7%",
-          "url": "https://wallstreetcn.com/livenews/3097320",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        },
-        {
-          "title": "Alphabet(GOOGL.O)CEO：谷歌云业务正迎来强劲的交易势头。",
-          "url": "https://flash.jin10.com/detail/20260430044408891800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "周四亚太盘初，道指期货跌约0.4%，标普股指期货跌0.1%，纳指期货跌超0.2%，罗素2000股指期货跌超0.5%。 目前，Meta（美股盘后）跌6.1%，奈飞跌超1%，甲骨文跌超0.6%，亚马逊涨1.3%，Sandisk涨1.5%，亚马逊涨2.1%，西部数据涨2.7%，谷歌A涨5.8%，高通涨15.8%。",
-          "url": "https://wallstreetcn.com/livenews/3096972",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时56分"
-        },
-        {
-          "title": "谷歌入驻广州天河CBD，预计今年三季度正式投入运营",
-          "url": "https://wallstreetcn.com/livenews/3097212",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时59分"
-        },
-        {
-          "title": "谷歌财报电话会将于十分钟后举行。",
-          "url": "https://flash.jin10.com/detail/20260430042000001800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "微软(MSFT.O)、高通(QCOM.O)美股盘后下跌约3%，谷歌(GOOG.O)涨2%，亚马逊(AMZN.O)跌4%，Meta Platforms(META.O)跌6%。",
-          "url": "https://flash.jin10.com/detail/20260430041652163800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "谷歌母公司Alphabet：“不急于”在Gemini投放广告，但也还么有什么好说的。",
-          "url": "https://wallstreetcn.com/livenews/3096962",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时56分"
-        },
-        {
-          "title": "Alphabet(GOOGL.O)：第一季度谷歌云收入为200.3亿美元。",
-          "url": "https://flash.jin10.com/detail/20260430041128697800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "【数据看盘】外资联手机构抢筹多只锂电人气股 铜冠铜箔龙虎榜现多空博弈",
-          "url": "https://www.cls.cn/detail/2359683",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时28分 ~ 06时56分]"
-        },
-        {
-          "title": "来论丨印度380亿罚单砸向苹果：揭示中印营商环境的真实差距",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33078828",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时47分 ~ 20时15分]"
-        },
-        {
-          "title": "捡到手机后故意丢弃被判赔6000元",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%8D%A1%E5%88%B0%E6%89%8B%E6%9C%BA%E5%90%8E%E6%95%85%E6%84%8F%E4%B8%A2%E5%BC%83%E8%A2%AB%E5%88%A4%E8%B5%946000%E5%85%83%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时15分"
-        },
-        {
-          "title": "员工厕所玩手机被开除，照片证据竟是门缝偷拍，以此为由解除劳动合同站得住脚吗？隐私权和工作纪律哪个优先？",
-          "url": "https://www.zhihu.com/question/2032401034061009163",
-          "source": "知乎",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时28分 ~ 03时24分]"
-        },
-        {
-          "title": "苹果印度生产线陷入停摆",
-          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E5%8D%B0%E5%BA%A6%E7%94%9F%E4%BA%A7%E7%BA%BF%E9%99%B7%E5%85%A5%E5%81%9C%E6%91%86&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时47分 ~ 13时59分]"
-        },
-        {
-          "title": "青岛农业大学被曝拟推「无手机课堂」，上课不交手机视为旷课，是真的吗？你觉得有必要吗？",
-          "url": "https://www.zhihu.com/question/2033151956550513381",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时54分 ~ 18时55分]"
-        },
-        {
-          "title": "19岁男子失联10日手机软件已被删",
-          "url": "https://s.weibo.com/weibo?q=%2319%E5%B2%81%E7%94%B7%E5%AD%90%E5%A4%B1%E8%81%9410%E6%97%A5%E6%89%8B%E6%9C%BA%E8%BD%AF%E4%BB%B6%E5%B7%B2%E8%A2%AB%E5%88%A0%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时54分 ~ 18时55分]"
-        },
-        {
-          "title": "苹果公司计划在iOS 27提供一款Siri摄像头模型和升级款视觉AI。",
-          "url": "https://wallstreetcn.com/livenews/3096826",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时28分"
-        },
-        {
-          "title": "苹果电脑废纸篓里的废纸谁扔的",
-          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E7%94%B5%E8%84%91%E5%BA%9F%E7%BA%B8%E7%AF%93%E9%87%8C%E7%9A%84%E5%BA%9F%E7%BA%B8%E8%B0%81%E6%89%94%E7%9A%84&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时09分"
-        },
-        {
-          "title": "机构：一季度全球智能手机出货量达2.985亿台 同比增长1%",
-          "url": "https://flash.jin10.com/detail/20260430161626425800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        },
-        {
-          "title": "华尔街见闻消息，据接近投资方人士透露，追觅旗下AURORA智能手机正在按照640亿（约100亿美金）估值，推进新一轮融资。 据了解，追觅AURORA手机今日在美国硅谷举行发布会，苹果创始人沃兹尼亚克也作为嘉宾现身活动现场，对产品表示高度认可。",
-          "url": "https://wallstreetcn.com/livenews/3097219",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时59分"
-        },
-        {
-          "title": "高通(QCOM.O)：第三财季业绩指引中包含了因内存供应受限及相关定价因素对多家手机制造商需求所产生的影响预估。",
-          "url": "https://flash.jin10.com/detail/20260430041510904800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "高通(QCOM.O)美股盘前涨12.5%，因CEO预计智能手机市场将在第三财季后反弹。",
-          "url": "https://flash.jin10.com/detail/20260430160658402800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "比亚迪宣布涨价",
-          "url": "https://www.toutiao.com/trending/7633726705320099883/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            20,
-            18,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时23分 ~ 07时55分]"
-        },
-        {
-          "title": "比亚迪部分车型 5 月 1 日起涨价，因存储硬件成本大涨，这轮成本波动对车企们影响有多大？为何会扛不住涨价？",
-          "url": "https://www.zhihu.com/question/2032817462966577108",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时47分 ~ 13时59分]"
-        },
-        {
-          "title": "比亚迪和宁德时代捅破超充的窗户纸",
-          "url": "https://www.toutiao.com/trending/7634198638670908969/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时47分"
-        },
-        {
-          "title": "比亚迪“涨价”我们该不该下手",
-          "url": "https://www.toutiao.com/trending/7634074634689859135/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时29分 ~ 18时55分]"
-        },
-        {
-          "title": "比亚迪净利润为何腰斩",
-          "url": "https://www.toutiao.com/trending/7634181884787822143/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时28分 ~ 03时24分]"
-        },
-        {
-          "title": "新能源车市场升温，金融工具“贷”动消费",
-          "url": "https://wallstreetcn.com/livenews/3096981",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时56分 ~ 07时55分]"
-        },
-        {
-          "title": "网友拍到比亚迪滚装船通过苏伊士运河",
-          "url": "https://www.toutiao.com/trending/7634380482642722870/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时58分 ~ 13时59分]"
-        },
-        {
-          "title": "特斯拉Semi首辆量产车下线",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89Semi%E9%A6%96%E8%BE%86%E9%87%8F%E4%BA%A7%E8%BD%A6%E4%B8%8B%E7%BA%BF%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        },
-        {
-          "title": "新能源车换个后视镜花了近6000元",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E6%8D%A2%E4%B8%AA%E5%90%8E%E8%A7%86%E9%95%9C%E8%8A%B1%E4%BA%86%E8%BF%916000%E5%85%83%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时09分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收跌0.6%。 热门中概股里，大全新能源初步收跌12.7%，小马智行跌6.7%，再鼎医药跌6.1%，百度跌3.8%，小鹏跌1.8%，小米、腾讯、阿里至少跌约0.3%，携程、贝壳、亚朵、网易至多涨1.6%，华住、百胜中国至多涨约2.8%。 ETF中，CQQQ跌0.5%，KWEB跌0.3%，ASHS涨1.3%。",
-          "url": "https://wallstreetcn.com/livenews/3096924",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "港股收盘，恒生指数收跌1.28%，恒生科技指数收跌0.79%；芯片股震荡走高，商业航天板块午后拉升，电力设备、家电、石油等概念走强；电池、新能源车企、PCB、有色金属等概念跌幅居前。",
-          "url": "https://flash.jin10.com/detail/20260430160901135800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
-          "url": "https://wallstreetcn.com/articles/3771182",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时28分 ~ 07时55分]"
-        },
-        {
-          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
-          "url": "https://wallstreetcn.com/articles/3771095",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时28分 ~ 06时56分]"
-        },
-        {
-          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
-          "url": "https://wallstreetcn.com/articles/3771151",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时28分 ~ 05时04分]"
-        },
-        {
-          "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2032593268840600541",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时28分 ~ 06时56分]"
-        },
-        {
-          "title": "Anthropic估值或升至逾9000亿美元超过OpenAI",
-          "url": "https://flash.jin10.com/detail/20260430061412017800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时56分 ~ 07时55分]"
-        },
-        {
-          "title": "OpenAI：开发者大会9月29日在旧金山举行。",
-          "url": "https://flash.jin10.com/detail/20260430010327901800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时28分"
-        },
-        {
-          "title": "更多银行参与软银的400亿美元银团贷款 助其投资OpenAI",
-          "url": "https://wallstreetcn.com/livenews/3097306",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        },
-        {
-          "title": "Anthropic年收300亿碾压OpenAI",
-          "url": "https://s.weibo.com/weibo?q=Anthropic%E5%B9%B4%E6%94%B6300%E4%BA%BF%E7%A2%BE%E5%8E%8BOpenAI&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时47分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 7,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "如何评价 DeepSeek 刚刚上线的多模态「识图模式」？",
-          "url": "https://www.zhihu.com/question/2032851960177631968",
-          "source": "知乎",
-          "ranks": [
-            13,
-            2,
-            3,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时28分 ~ 10时47分]"
-        },
-        {
-          "title": "从硅谷视角看DeepSeekV4",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E7%A1%85%E8%B0%B7%E8%A7%86%E8%A7%92%E7%9C%8BDeepSeekV4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            14,
-            17,
-            16,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时28分 ~ 23时09分]"
-        },
         {
           "title": "DeepSeek破底价,友商瑟瑟发抖",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353912&amp;topic_name=DeepSeek%E7%A0%B4%E5%BA%95%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E7%91%9F%E7%91%9F%E5%8F%91%E6%8A%96",
           "source": "贴吧",
           "ranks": [
-            25,
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时54分 ~ 23时09分]"
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 01时52分]"
         },
         {
           "title": "Deepseek-V4 究竟在编程上和 Claude-Opus-4.7 差距有多大？",
           "url": "https://www.zhihu.com/question/2031352480852915686",
           "source": "知乎",
           "ranks": [
-            7,
-            9
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时15分 ~ 23时09分]"
+          "time_info": "[01时51分 ~ 01时52分]"
         },
         {
-          "title": "DeepSeek V4炸场背后",
-          "url": "https://www.toutiao.com/trending/7634160479450959423/",
-          "source": "今日头条",
+          "title": "从硅谷视角看DeepSeekV4",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E7%A1%85%E8%B0%B7%E8%A7%86%E8%A7%92%E7%9C%8BDeepSeekV4",
+          "source": "bilibili 热搜",
           "ranks": [
-            17
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时23分 ~ 03时24分]"
-        },
-        {
-          "title": "DeepSeek思考过程好萌",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E6%80%9D%E8%80%83%E8%BF%87%E7%A8%8B%E5%A5%BD%E8%90%8C&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时09分"
+          "time_info": "[01时51分 ~ 01时52分]"
         },
         {
           "title": "DeepSeek多模态模型来了",
@@ -1152,115 +47,210 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 01时52分]"
         }
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 7,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
       "titles": [
         {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=11&Refer=top",
-          "source": "微博",
+          "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
+          "url": "https://wallstreetcn.com/articles/3771319",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            12,
-            16,
-            13
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时28分 ~ 10时47分]"
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 01时52分]"
         },
         {
-          "title": "周大生：2026年金价继续大幅上涨对行业的边际影响降低",
-          "url": "https://flash.jin10.com/detail/20260430102207015800",
-          "source": "金十数据",
+          "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
+          "url": "https://wallstreetcn.com/articles/3771311",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时47分"
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 01时52分]"
         },
         {
-          "title": "金十图示：2026年04月30日（周四）上海金早盘价为1010.97元/克，较国际金价(1006.39元/克)，高4.58元/克",
-          "url": "https://flash.jin10.com/detail/20260430101947757800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时47分"
-        },
-        {
-          "title": "国际金价继续回撤至4500美元附近",
-          "url": "https://www.toutiao.com/trending/7634171899290848787/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时28分 ~ 03时24分]"
-        },
-        {
-          "title": "影响金价的关键因素是什么",
-          "url": "https://www.douyin.com/hot/2482875",
-          "source": "抖音",
+          "title": "胡锡进：只要中国赚钱机会越来越多，谷歌就不舍得真正“离开”",
+          "url": "https://news.ifeng.com/c/8skgZ2z6e0A",
+          "source": "凤凰网",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时15分 ~ 23时09分]"
+          "time_info": "[01时51分 ~ 01时52分]"
         },
+        {
+          "title": "谷歌公司：开始在配置谷歌的乘用车推广Gemini。",
+          "url": "https://wallstreetcn.com/livenews/3097635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "Yubico与OpenAI达成合作协议，前者用户可以通过OpenAI的安全项目购买Yubikeys。",
+          "url": "https://wallstreetcn.com/livenews/3097659",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        },
+        {
+          "title": "OpenAI 被曝联手联发科、高通开发手机芯片，高通涨逾 10%，这对 AI 手机市场来说意味着什么？",
+          "url": "https://www.zhihu.com/question/2032183066840360184",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 01时52分]"
+        },
+        {
+          "title": "马斯克再次重返证人席，接受OpenAI律师反询问",
+          "url": "https://wallstreetcn.com/livenews/3097631",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
         {
           "title": "金价“跳水”背后藏着什么博弈",
           "url": "https://www.toutiao.com/trending/7634525215950638633/",
           "source": "今日头条",
           "ranks": [
-            10
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 01时52分]"
         },
         {
-          "title": "高金价下的黄金市场变局",
-          "url": "https://www.toutiao.com/trending/7634524684175805994/",
-          "source": "今日头条",
+          "title": "金价突涨",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%AA%81%E6%B6%A8%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
           "ranks": [
-            30
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 01时52分]"
+        },
+        {
+          "title": "美国银行：预计铝价格将提前至2026年四季度达到4000美元/吨，之前预计要到2027年二季度才会涨至那样的水平。 上调锌价格预期12.7%，至3309美元/吨。 铜市场仍然供应紧俏，预计2026-27年将存在供应缺口。 重申对未来12个月黄金价格6000美元/盎司的预期。",
+          "url": "https://wallstreetcn.com/livenews/3097626",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时09分"
+          "time_info": "01时52分"
         }
       ]
     },
     {
-      "keyword_group": "英雄联盟 LOL",
+      "keyword_group": "苹果 Apple Mac iPhone 手机",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "苹果电脑废纸篓里的废纸谁扔的",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E7%94%B5%E8%84%91%E5%BA%9F%E7%BA%B8%E7%AF%93%E9%87%8C%E7%9A%84%E5%BA%9F%E7%BA%B8%E8%B0%81%E6%89%94%E7%9A%84&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 01时52分]"
+        },
+        {
+          "title": "捡到手机后故意丢弃被判赔6000元",
+          "url": "https://www.baidu.com/s?wd=%E6%8D%A1%E5%88%B0%E6%89%8B%E6%9C%BA%E5%90%8E%E6%95%85%E6%84%8F%E4%B8%A2%E5%BC%83%E8%A2%AB%E5%88%A4%E8%B5%946000%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 01时52分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "央行 抖音 小红书",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "俞浩炮轰小红书背后：平台如何更好应对水军、黑产？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33085027",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 01时52分]"
+        },
+        {
+          "title": "德国两年期国债收益率于欧洲央行决议日跌10个基点",
+          "url": "https://wallstreetcn.com/livenews/3097645",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
       "match_count": 1,
       "titles": [
         {
-          "title": "英雄联盟2026乱斗之夜",
-          "url": "https://www.douyin.com/hot/2483324",
-          "source": "抖音",
+          "title": "新能源车换个后视镜花了近6000元",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E6%8D%A2%E4%B8%AA%E5%90%8E%E8%A7%86%E9%95%9C%E8%8A%B1%E4%BA%86%E8%BF%916000%E5%85%83%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
           "ranks": [
-            24,
-            27,
-            29
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时28分 ~ 06时56分]"
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 01时52分]"
         }
       ]
     }
