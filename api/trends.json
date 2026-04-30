@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-30T20:15:44.377814+08:00",
-  "total_titles_processed": 1403,
+  "generated_at": "2026-04-30T23:09:52.303546+08:00",
+  "total_titles_processed": 1563,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 39,
+      "match_count": 47,
       "titles": [
+        {
+          "title": "英国央行行长贝利：情景描绘出增长放缓的图景，而非衰退。",
+          "url": "https://flash.jin10.com/detail/20260430230043830800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
         {
           "title": "英国两年期国债收益率下降10个基点，英国央行贝利正在发表讲话。",
           "url": "https://wallstreetcn.com/livenews/3097485",
@@ -14,7 +25,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -25,9 +36,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
+        },
+        {
+          "title": "英国央行行长贝利：英国央行首席经济学家皮尔的异议是“完全可以理解的”。",
+          "url": "https://flash.jin10.com/detail/20260430230030997800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "英国央行副行长Lombardelli：我们所设定的这些场景并非是“全面详尽”的。",
@@ -36,9 +58,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
+        },
+        {
+          "title": "印尼央行宣布与中国实现二维码支付互联互通",
+          "url": "https://wallstreetcn.com/livenews/3097594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "美联储主席鲍威尔：我们是唯一一家不发布预测的主要央行。",
@@ -58,7 +91,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -80,7 +113,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -91,7 +124,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -102,7 +135,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -124,7 +157,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -135,7 +168,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -157,7 +190,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -201,7 +234,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -212,7 +245,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -223,7 +256,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -245,7 +278,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -267,9 +300,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
+        },
+        {
+          "title": "欧洲央行决议和拉加德新闻发布会要点汇总",
+          "url": "https://wallstreetcn.com/livenews/3097576",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "英国央行行长贝利：我认为情景B的能源价格走势比情景A更为可信。",
@@ -278,7 +322,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -289,7 +333,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -322,9 +366,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
+        },
+        {
+          "title": "欧洲央行消息人士称，部分成员已在周四提议加息，但可以接受推迟至六月。",
+          "url": "https://flash.jin10.com/detail/20260430223759155800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "英央行决策后英国国债续涨，两年期国债收益率下跌6个基点至4.49%。英国涨幅扩大至1.3%，英国富时250指数涨幅扩大至0.8%。",
@@ -333,9 +388,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
+        },
+        {
+          "title": "欧洲央行消息人士称，央行政策制定者周四讨论了所需的紧缩力度。多位政策制定者认为，除非战争结束且布伦特原油价格迅速下跌，否则至少需要加息两次。",
+          "url": "https://flash.jin10.com/detail/20260430223741703800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "中国央行开展3000亿元期限为3个月的买断式逆回购操作",
@@ -349,13 +415,24 @@
           "time_info": "18时55分"
         },
         {
+          "title": "欧洲央行消息人士称，6月加息的可能性非常大，政策制定者在周四普遍达成共识，认为有必要采取行动。",
+          "url": "https://flash.jin10.com/detail/20260430223719457800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
           "title": "英国央行副行长Breeden：一旦出现危机，我们将“果断”采取行动。 英国央行副行长拉姆斯登：在情景B下会考虑加息。对情景A和情景B给予同等权重。 英国央行首席经济学家Pill：采取“迅速但适度”的加息将有助于缓解风险。第二轮效应的风险偏向上行。 英国央行副行长Lombardelli：需要进一步了解冲击的性质。更倾向于情景B。 英国央行MPC成员Greene：未来几次会议可能需要加息。最终通胀水平可能介于情景B和情景C之间。 英国央行DHINGRA：并不“强烈倾向于”任何一种情景。 英国央行MPC成员Mann：认为第二轮效应的影响比情景中显示的更大。若通胀及预期持续上升，则需要采取行动。 英国央行MPC成员成员Taylor：更倾向于情景A与标准路径之间。",
           "url": "https://wallstreetcn.com/livenews/3097455",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -366,7 +443,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -377,7 +454,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -388,9 +465,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
+        },
+        {
+          "title": "拉加德：欧洲央行目前尚未看到第二轮效应",
+          "url": "https://wallstreetcn.com/livenews/3097567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "日本央行：日本央行审议委员小枝淳子将于5月21日在福冈出席会议和新闻发布会。",
@@ -410,7 +498,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -421,7 +509,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -432,7 +520,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         }
@@ -440,7 +528,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
@@ -452,8 +540,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时47分 ~ 20时15分]"
+          "appearance_count": 8,
+          "time_info": "[10时47分 ~ 23时09分]"
         },
         {
           "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
@@ -465,8 +553,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时47分 ~ 20时15分]"
+          "appearance_count": 8,
+          "time_info": "[10时47分 ~ 23时09分]"
         },
         {
           "title": "谷歌入驻广州珠江新城",
@@ -490,6 +578,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        },
+        {
+          "title": "胡锡进：只要中国赚钱机会越来越多，谷歌就不舍得真正“离开”",
+          "url": "https://news.ifeng.com/c/8skgZ2z6e0A",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "美股盘前：高通涨约12%，谷歌A涨约7%，Meta跌约7%",
@@ -583,7 +682,7 @@
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "【数据看盘】外资联手机构抢筹多只锂电人气股 铜冠铜箔龙虎榜现多空博弈",
@@ -618,7 +717,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -680,6 +779,17 @@
           "time_info": "01时28分"
         },
         {
+          "title": "苹果电脑废纸篓里的废纸谁扔的",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E7%94%B5%E8%84%91%E5%BA%9F%E7%BA%B8%E7%AF%93%E9%87%8C%E7%9A%84%E5%BA%9F%E7%BA%B8%E8%B0%81%E6%89%94%E7%9A%84&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
           "title": "机构：一季度全球智能手机出货量达2.985亿台 同比增长1%",
           "url": "https://flash.jin10.com/detail/20260430161626425800",
           "source": "金十数据",
@@ -727,7 +837,7 @@
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "比亚迪宣布涨价",
@@ -822,6 +932,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
+        },
+        {
+          "title": "新能源车换个后视镜花了近6000元",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E6%8D%A2%E4%B8%AA%E5%90%8E%E8%A7%86%E9%95%9C%E8%8A%B1%E4%BA%86%E8%BF%916000%E5%85%83%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌0.6%。 热门中概股里，大全新能源初步收跌12.7%，小马智行跌6.7%，再鼎医药跌6.1%，百度跌3.8%，小鹏跌1.8%，小米、腾讯、阿里至少跌约0.3%，携程、贝壳、亚朵、网易至多涨1.6%，华住、百胜中国至多涨约2.8%。 ETF中，CQQQ跌0.5%，KWEB跌0.3%，ASHS涨1.3%。",
@@ -946,7 +1067,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "如何评价 DeepSeek 刚刚上线的多模态「识图模式」？",
@@ -975,8 +1096,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时28分 ~ 20时15分]"
+          "appearance_count": 16,
+          "time_info": "[01时28分 ~ 23时09分]"
         },
         {
           "title": "DeepSeek破底价,友商瑟瑟发抖",
@@ -987,8 +1108,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时54分 ~ 20时15分]"
+          "appearance_count": 4,
+          "time_info": "[18时54分 ~ 23时09分]"
+        },
+        {
+          "title": "Deepseek-V4 究竟在编程上和 Claude-Opus-4.7 差距有多大？",
+          "url": "https://www.zhihu.com/question/2031352480852915686",
+          "source": "知乎",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时15分 ~ 23时09分]"
         },
         {
           "title": "DeepSeek V4炸场背后",
@@ -1002,21 +1135,32 @@
           "time_info": "[03时23分 ~ 03时24分]"
         },
         {
-          "title": "Deepseek-V4 究竟在编程上和 Claude-Opus-4.7 差距有多大？",
-          "url": "https://www.zhihu.com/question/2031352480852915686",
-          "source": "知乎",
+          "title": "DeepSeek思考过程好萌",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E6%80%9D%E8%80%83%E8%BF%87%E7%A8%8B%E5%A5%BD%E8%90%8C&t=31&band_rank=14&Refer=top",
+          "source": "微博",
           "ranks": [
-            7
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时15分"
+          "time_info": "23时09分"
+        },
+        {
+          "title": "DeepSeek多模态模型来了",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A8%A1%E5%9E%8B%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "金价",
@@ -1073,9 +1217,31 @@
           "ranks": [
             12
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时15分 ~ 23时09分]"
+        },
+        {
+          "title": "金价“跳水”背后藏着什么博弈",
+          "url": "https://www.toutiao.com/trending/7634525215950638633/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时15分"
+          "time_info": "23时09分"
+        },
+        {
+          "title": "高金价下的黄金市场变局",
+          "url": "https://www.toutiao.com/trending/7634524684175805994/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         }
       ]
     },
