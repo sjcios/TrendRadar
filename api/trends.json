@@ -1,12 +1,45 @@
 {
-  "generated_at": "2026-04-30T18:55:12.949875+08:00",
-  "total_titles_processed": 1289,
+  "generated_at": "2026-04-30T20:15:44.377814+08:00",
+  "total_titles_processed": 1403,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 13,
+      "match_count": 39,
       "titles": [
+        {
+          "title": "英国两年期国债收益率下降10个基点，英国央行贝利正在发表讲话。",
+          "url": "https://wallstreetcn.com/livenews/3097485",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
+        },
+        {
+          "title": "英国央行行长贝利：不会给出“有力”措施的具体数值。 等到第二轮效应显现再采取行动是错误的。 企业告诉我，它们在转嫁成本方面遇到了困难。 目前没有证据表明劳动力市场运作效率低下。",
+          "url": "https://wallstreetcn.com/livenews/3097484",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
+        },
+        {
+          "title": "英国央行副行长Lombardelli：我们所设定的这些场景并非是“全面详尽”的。",
+          "url": "https://wallstreetcn.com/livenews/3097482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
+        },
         {
           "title": "美联储主席鲍威尔：我们是唯一一家不发布预测的主要央行。",
           "url": "https://flash.jin10.com/detail/20260430030041849800",
@@ -17,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "英国央行行长贝利：市场对能源价格的预期过于乐观。",
+          "url": "https://flash.jin10.com/detail/20260430200929534800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
         },
         {
           "title": "抖音生活服务：重点整治“五一”临时加价、强制消费、虚假宣传等问题",
@@ -30,15 +74,70 @@
           "time_info": "10时47分"
         },
         {
+          "title": "英国央行行长贝利：情景C认为不会导致经济衰退。",
+          "url": "https://flash.jin10.com/detail/20260430200853092800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
+        },
+        {
+          "title": "英国央行副行长拉姆斯登：目前的劳动力市场与2022年大相径庭。",
+          "url": "https://flash.jin10.com/detail/20260430200839985800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
+        },
+        {
+          "title": "英国央行行长贝利：并非在传递利率将会上升的信号。",
+          "url": "https://flash.jin10.com/detail/20260430200742813800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
+        },
+        {
           "title": "中国央行公布2026年度公开市场业务一级交易商名单。",
           "url": "https://wallstreetcn.com/livenews/3097409",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
+        },
+        {
+          "title": "英国央行行长贝利：第二轮效应的规模“高度不确定”。 工资谈判可能引发第二轮效应。 不确定性可能拖累企业的投资计划。 何时采取行动是一个“艰难的抉择”。 在情景C下需要“显著收紧”政策立场，其他情景下则不然。 所有政策规则都表明当前利率应高于2月份水平。 鉴于情景B，目前有充分理由维持利率不变。 正好合适的平衡可能随事态发展而变化。 局势仍不确定，将继续监控。 情景C是一个“非常持久的情景”。",
+          "url": "https://wallstreetcn.com/livenews/3097477",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
+        },
+        {
+          "title": "欧洲央行将于十分钟后公布利率决议。",
+          "url": "https://flash.jin10.com/detail/20260430200500000800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
         },
         {
           "title": "日本央行5月的债券购买计划与4月保持一致未作变动。",
@@ -50,6 +149,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
+        },
+        {
+          "title": "英国央行行长贝利：中东冲突“显著影响”了英国消费者物价指数的走势。 职责是防止冲击的影响变得根深蒂固。 预计到年底通胀率略高于3.5%。 食品价格受到的间接影响可能最为显著。 冲突持续越久，影响就越严重。 重新开放霍尔木兹海峡将减轻此次冲击的影响。 忽视间接影响的理由已减弱。",
+          "url": "https://wallstreetcn.com/livenews/3097471",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
         },
         {
           "title": "菲律宾央行：将继续关注中东近期发展对通胀的影响。",
@@ -85,6 +195,39 @@
           "time_info": "10时47分"
         },
         {
+          "title": "英国央行行长贝利：现在降息显然不是一个选项。",
+          "url": "https://flash.jin10.com/detail/20260430200051776800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
+        },
+        {
+          "title": "英国央行行长贝利：今天的维持利率不变是主动选择，而非被动结果。",
+          "url": "https://flash.jin10.com/detail/20260430200018942800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
+        },
+        {
+          "title": "英国央行行长贝利：我们没有听到任何关于能源供应条件可能迅速恢复到冲突前水平的消息。",
+          "url": "https://flash.jin10.com/detail/20260430200008028800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
+        },
+        {
           "title": "日本央行报告：在假设高油价、日元进一步走弱、股市下跌的风险情景下，2026至2028财年的实际GDP预测将比日本央行的基准中值预测低0.1-0.2个百分点。 在风险情景下，核心通胀将大幅超过日本央行的基准中值预测，2026、2027财年可能徘徊在3%左右。 这种超预期通胀可能会提升中长期的通胀预期。 如果发生重大供应链中断，实际GDP可能大幅低于预期，同时可能导致通胀非线性上升。",
           "url": "https://wallstreetcn.com/livenews/3097209",
           "source": "华尔街见闻-快讯",
@@ -96,6 +239,17 @@
           "time_info": "13时59分"
         },
         {
+          "title": "欧洲央行4月利率决议看点前瞻",
+          "url": "https://wallstreetcn.com/livenews/3097465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
+        },
+        {
           "title": "日本央行报告：日元走弱冲击对通胀的影响大于油价冲击。 日元走弱推高了商品和服务的价格，因此对剔除生鲜食品和能源的消费者通胀带来更大的推动 油价上涨对能源相关的少数商品施加了较大的上行压力。 日元走弱冲击扩大了工资和利润率，并导致GDP平减指数上升。 而能源冲击则压缩工资和利润率，并导致GDP平减指数下降。",
           "url": "https://wallstreetcn.com/livenews/3097208",
           "source": "华尔街见闻-快讯",
@@ -105,6 +259,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
+        },
+        {
+          "title": "提醒：北京时间19:30，英国央行行长贝利召开货币政策新闻发布会。",
+          "url": "https://wallstreetcn.com/livenews/3097464",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
+        },
+        {
+          "title": "英国央行行长贝利：我认为情景B的能源价格走势比情景A更为可信。",
+          "url": "https://flash.jin10.com/detail/20260430195912252800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
+        },
+        {
+          "title": "英国央行行长贝利：由于大多数年度薪资协议已经达成，我们需要一段时间才能对薪资情况有清晰的了解。",
+          "url": "https://flash.jin10.com/detail/20260430195734342800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
         },
         {
           "title": "日本央行称风险情景下 关键通胀指标或升至3%",
@@ -129,15 +316,81 @@
           "time_info": "06时56分"
         },
         {
+          "title": "英国央行行长贝利：企业告诉我，他们在转嫁成本方面遇到了困难。",
+          "url": "https://flash.jin10.com/detail/20260430195545289800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
+        },
+        {
+          "title": "英央行决策后英国国债续涨，两年期国债收益率下跌6个基点至4.49%。英国涨幅扩大至1.3%，英国富时250指数涨幅扩大至0.8%。",
+          "url": "https://wallstreetcn.com/livenews/3097457",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
+        },
+        {
           "title": "中国央行开展3000亿元期限为3个月的买断式逆回购操作",
           "url": "https://wallstreetcn.com/livenews/3097377",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
+        },
+        {
+          "title": "英国央行副行长Breeden：一旦出现危机，我们将“果断”采取行动。 英国央行副行长拉姆斯登：在情景B下会考虑加息。对情景A和情景B给予同等权重。 英国央行首席经济学家Pill：采取“迅速但适度”的加息将有助于缓解风险。第二轮效应的风险偏向上行。 英国央行副行长Lombardelli：需要进一步了解冲击的性质。更倾向于情景B。 英国央行MPC成员Greene：未来几次会议可能需要加息。最终通胀水平可能介于情景B和情景C之间。 英国央行DHINGRA：并不“强烈倾向于”任何一种情景。 英国央行MPC成员Mann：认为第二轮效应的影响比情景中显示的更大。若通胀及预期持续上升，则需要采取行动。 英国央行MPC成员成员Taylor：更倾向于情景A与标准路径之间。",
+          "url": "https://wallstreetcn.com/livenews/3097455",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
+        },
+        {
+          "title": "英国央行行长贝利：等待第二轮效应出现后再采取行动将是一个错误，那样就太晚了。",
+          "url": "https://flash.jin10.com/detail/20260430195401032800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
+        },
+        {
+          "title": "英国央行指引：委员会“随时准备”在必要时采取行动。",
+          "url": "https://wallstreetcn.com/livenews/3097454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
+        },
+        {
+          "title": "英国央行：存在出现“实质性”第二轮影响的风险。 政策立场将取决于冲击的规模和持续时间。 劳动力市场正在放松，金融环境已收紧。 英国央行模型显示加息幅度在0到151个基点之间。 经济走弱或能遏制通胀压力。",
+          "url": "https://wallstreetcn.com/livenews/3097453",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
         },
         {
           "title": "日本央行：日本央行审议委员小枝淳子将于5月21日在福冈出席会议和新闻发布会。",
@@ -149,6 +402,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
+        },
+        {
+          "title": "英国央行行长贝利：问题持续的时间越长，解决起来就越困难。",
+          "url": "https://flash.jin10.com/detail/20260430195244927800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
+        },
+        {
+          "title": "英国央行行长贝利：能源价格的剧烈波动使得无法对不同情景赋予概率。",
+          "url": "https://flash.jin10.com/detail/20260430195156224800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
+        },
+        {
+          "title": "英国央行行长贝利：不变的利率“是一个合理的水平”。 最倾向于情景B，也在一定程度上考虑情景C。",
+          "url": "https://wallstreetcn.com/livenews/3097450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
         }
       ]
     },
@@ -166,8 +452,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时47分 ~ 18时55分]"
+          "appearance_count": 7,
+          "time_info": "[10时47分 ~ 20时15分]"
         },
         {
           "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
@@ -179,19 +465,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时47分 ~ 18时55分]"
+          "appearance_count": 7,
+          "time_info": "[10时47分 ~ 20时15分]"
         },
         {
           "title": "谷歌入驻广州珠江新城",
           "url": "https://s.weibo.com/weibo?q=%E8%B0%B7%E6%AD%8C%E5%85%A5%E9%A9%BB%E5%B9%BF%E5%B7%9E%E7%8F%A0%E6%B1%9F%E6%96%B0%E5%9F%8E&t=31&band_rank=7&Refer=top",
           "source": "微博",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时54分 ~ 18时55分]"
+          "appearance_count": 3,
+          "time_info": "[18时54分 ~ 20时15分]"
         },
         {
           "title": "谷歌母公司Alphabet一季度营收1099亿美元，分析师预期1071亿美元。 一季度Rev ex-TAC（剔除流量获取成本的收入）为946.7亿美元，分析师预期915.7亿美元。 一季度谷歌搜索与其他营收604亿美元，分析师预期590.8亿美元。 一季度谷歌服务营收896.4亿美元，分析师预期881.1亿美元。 一季度谷歌云营收200.3亿美元，分析师预期184.1亿美元。 一季度谷歌广告营收772.5亿美元，分析师预期762.1亿美元。 一季度YouTube广告营收98.8亿美元，分析师预期99.7亿美元。 一季度Alphabet Gemini Enterprise月活用户数（MAU）季环比增长40%。 一季度（Alphabet）运营利润397亿美元，分析师预期361.9亿美元。 一季度（Alphabet）资本开支356.7亿美元，分析师预期363.9亿美元。 谷歌A（GOOGL）美股盘后涨超1.3%。",
@@ -296,7 +583,7 @@
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "【数据看盘】外资联手机构抢筹多只锂电人气股 铜冠铜箔龙虎榜现多空博弈",
@@ -321,8 +608,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时47分 ~ 18时55分]"
+          "appearance_count": 7,
+          "time_info": "[10时47分 ~ 20时15分]"
+        },
+        {
+          "title": "捡到手机后故意丢弃被判赔6000元",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%8D%A1%E5%88%B0%E6%89%8B%E6%9C%BA%E5%90%8E%E6%95%85%E6%84%8F%E4%B8%A2%E5%BC%83%E8%A2%AB%E5%88%A4%E8%B5%946000%E5%85%83%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
         },
         {
           "title": "员工厕所玩手机被开除，照片证据竟是门缝偷拍，以此为由解除劳动合同站得住脚吗？隐私权和工作纪律哪个优先？",
@@ -648,7 +946,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "如何评价 DeepSeek 刚刚上线的多模态「识图模式」？",
@@ -673,11 +971,24 @@
             14,
             17,
             16,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时28分 ~ 18时55分]"
+          "appearance_count": 15,
+          "time_info": "[01时28分 ~ 20时15分]"
+        },
+        {
+          "title": "DeepSeek破底价,友商瑟瑟发抖",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353912&amp;topic_name=DeepSeek%E7%A0%B4%E5%BA%95%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E7%91%9F%E7%91%9F%E5%8F%91%E6%8A%96",
+          "source": "贴吧",
+          "ranks": [
+            25,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时54分 ~ 20时15分]"
         },
         {
           "title": "DeepSeek V4炸场背后",
@@ -691,21 +1002,21 @@
           "time_info": "[03时23分 ~ 03时24分]"
         },
         {
-          "title": "DeepSeek破底价,友商瑟瑟发抖",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353912&amp;topic_name=DeepSeek%E7%A0%B4%E5%BA%95%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E7%91%9F%E7%91%9F%E5%8F%91%E6%8A%96",
-          "source": "贴吧",
+          "title": "Deepseek-V4 究竟在编程上和 Claude-Opus-4.7 差距有多大？",
+          "url": "https://www.zhihu.com/question/2031352480852915686",
+          "source": "知乎",
           "ranks": [
-            25
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时54分 ~ 18时55分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "金价",
@@ -754,6 +1065,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时28分 ~ 03时24分]"
+        },
+        {
+          "title": "影响金价的关键因素是什么",
+          "url": "https://www.douyin.com/hot/2482875",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
         }
       ]
     },
