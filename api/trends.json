@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T22:55:32.957827+08:00",
-  "total_titles_processed": 1586,
+  "generated_at": "2026-05-01T23:57:56.940888+08:00",
+  "total_titles_processed": 1663,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 53,
+      "match_count": 55,
       "titles": [
         {
           "title": "甲亢哥在深圳买的手机掉海里了",
@@ -23,6 +23,20 @@
           "time_info": "[17时00分 ~ 22时55分]"
         },
         {
+          "title": "小米手机毛利率跌至 8.3%，卢伟冰称涨价需理解，这会如何影响其性价比策略？",
+          "url": "https://www.zhihu.com/question/2020055937386328647",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19,
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时00分 ~ 23时57分]"
+        },
+        {
           "title": "捡到手机后故意丢弃被判赔6000元",
           "url": "https://www.baidu.com/s?wd=%E6%8D%A1%E5%88%B0%E6%89%8B%E6%9C%BA%E5%90%8E%E6%95%85%E6%84%8F%E4%B8%A2%E5%BC%83%E8%A2%AB%E5%88%A4%E8%B5%946000%E5%85%83",
           "source": "百度热搜",
@@ -38,18 +52,18 @@
           "time_info": "[01时51分 ~ 07时53分]"
         },
         {
-          "title": "小米手机毛利率跌至 8.3%，卢伟冰称涨价需理解，这会如何影响其性价比策略？",
-          "url": "https://www.zhihu.com/question/2020055937386328647",
-          "source": "知乎",
+          "title": "甲亢哥在深圳买的手机掉海里了",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B2%E4%BA%A2%E5%93%A5%E5%9C%A8%E6%B7%B1%E5%9C%B3%E4%B9%B0%E7%9A%84%E6%89%8B%E6%9C%BA%E6%8E%89%E6%B5%B7%E9%87%8C%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
-            20,
-            19,
+            26,
+            5,
             7,
-            1
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时00分 ~ 22时55分]"
+          "appearance_count": 5,
+          "time_info": "[19时59分 ~ 23时57分]"
         },
         {
           "title": "苹果(AAPL.O)2026财年Q2 营收1111.8亿美元，去年同期953.59亿美元，市场预期1096.58亿美元。",
@@ -113,17 +127,15 @@
           "time_info": "04时59分"
         },
         {
-          "title": "甲亢哥在深圳买的手机掉海里了",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B2%E4%BA%A2%E5%93%A5%E5%9C%A8%E6%B7%B1%E5%9C%B3%E4%B9%B0%E7%9A%84%E6%89%8B%E6%9C%BA%E6%8E%89%E6%B5%B7%E9%87%8C%E4%BA%86",
-          "source": "百度热搜",
+          "title": "伊朗提新谈判方案，美股高开高走，苹果绩后一度涨近6%，美油盘中跌超5%",
+          "url": "https://wallstreetcn.com/articles/3771459",
+          "source": "华尔街见闻",
           "ranks": [
-            26,
-            5,
-            7
+            4
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时59分 ~ 22时55分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
         },
         {
           "title": "苹果美股盘前涨幅扩大至逾4%。",
@@ -174,6 +186,18 @@
           "time_info": "[06时03分 ~ 07时53分]"
         },
         {
+          "title": "苹果电话会：营收指引超预期，存储自Q3起拖累利润率，追加千亿回购",
+          "url": "https://wallstreetcn.com/articles/3771437",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时41分 ~ 23时57分]"
+        },
+        {
           "title": "苹果(AAPL.O)CEO库克：第二季度的内存成本高于第一季度。预计第三季度的内存成本将显著高于第二季度。",
           "url": "https://flash.jin10.com/detail/20260501054247126800",
           "source": "金十数据",
@@ -209,18 +233,6 @@
           "time_info": "[19时59分 ~ 22时55分]"
         },
         {
-          "title": "苹果电话会：营收指引超预期，存储自Q3起拖累利润率，追加千亿回购",
-          "url": "https://wallstreetcn.com/articles/3771437",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时41分 ~ 22时55分]"
-        },
-        {
           "title": "苹果创始人站台追觅旗下手机",
           "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%88%9B%E5%A7%8B%E4%BA%BA%E7%AB%99%E5%8F%B0%E8%BF%BD%E8%A7%85%E6%97%97%E4%B8%8B%E6%89%8B%E6%9C%BA%23&t=31&band_rank=23&Refer=top",
           "source": "微博",
@@ -243,6 +255,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时03分 ~ 07时53分]"
+        },
+        {
+          "title": "巴克莱：将苹果(AAPL.O)目标价从248美元上调至253美元。",
+          "url": "https://flash.jin10.com/detail/20260501221533876800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时55分 ~ 23时57分]"
         },
         {
           "title": "苹果(AAPL.O)CEO库克：展望6月当季，我们大部分供应限制料将集中在几款Mac型号上。",
@@ -269,15 +293,16 @@
           "time_info": "[06时03分 ~ 07时53分]"
         },
         {
-          "title": "巴克莱：将苹果(AAPL.O)目标价从248美元上调至253美元。",
-          "url": "https://flash.jin10.com/detail/20260501221533876800",
-          "source": "金十数据",
+          "title": "纳指涨超1%，苹果涨超5%，创去年8月来最大涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3097930",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            16,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时55分 ~ 23时57分]"
         },
         {
           "title": "苹果(AAPL.O)盘后拉升涨超3%。",
@@ -401,17 +426,6 @@
           "time_info": "07时53分"
         },
         {
-          "title": "纳指涨超1%，苹果涨超5%，创去年8月来最大涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3097930",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时55分"
-        },
-        {
           "title": "苹果公司CEO库克：对公司在印度市场的未来“兴奋不已”。",
           "url": "https://wallstreetcn.com/livenews/3097743",
           "source": "华尔街见闻-快讯",
@@ -462,7 +476,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时55分"
         },
@@ -487,6 +501,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
+        },
+        {
+          "title": "汇丰控股：将苹果(AAPL.O)目标价从250美元上调至260美元。",
+          "url": "https://flash.jin10.com/detail/20260501224628745800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
         },
         {
           "title": "苹果公司第二财季营收1111.8亿美元，分析师预期1096.6亿美元。 第二财季产品营收802.1亿美元，分析师预期81.3亿美元。 第二财季iPhone营收569.9亿美元，创历史新高，分析师预期569.8亿美元；iPhone 17“需求极其强劲”。 第二财季iPad营收69.1亿美元，分析师预期66.5亿美元。 第二财季Mac营收84亿美元，分析师预期81.3亿美元。 第二财季可穿戴设备、居家、周边营收79亿美元，分析师预期77.2亿美元。 第二财季服务营收309.8亿美元，分析师预期303.7亿美元。 第二财季美国营收450.9亿美元，分析师预期458.2亿美元。 第二财季大中华区营收205亿美元，分析师预期189.1亿美元。 第二财季每股收益（EPS）为2.01美元，分析师预期1.96美元。 苹果美股盘后涨0.6%，瞬间转而跌超1.2%，随后又迅速转而涨超1%。",
@@ -624,7 +649,7 @@
     },
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 35,
+      "match_count": 41,
       "titles": [
         {
           "title": "俞浩炮轰小红书背后：平台如何更好应对水军、黑产？",
@@ -723,6 +748,19 @@
           "time_info": "19时59分"
         },
         {
+          "title": "江苏常晋队员齐发抖音庆祝晋级",
+          "url": "https://www.douyin.com/hot/2485685",
+          "source": "抖音",
+          "ranks": [
+            8,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时59分 ~ 23时57分]"
+        },
+        {
           "title": "欧洲央行管委Nagel：倾向于欧洲央行在6月加息 除非前景出现明显改善",
           "url": "https://wallstreetcn.com/livenews/3097846",
           "source": "华尔街见闻-快讯",
@@ -747,19 +785,6 @@
           "time_info": "[03时19分 ~ 04时59分]"
         },
         {
-          "title": "江苏常晋队员齐发抖音庆祝晋级",
-          "url": "https://www.douyin.com/hot/2485685",
-          "source": "抖音",
-          "ranks": [
-            8,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时59分 ~ 22时55分]"
-        },
-        {
           "title": "时代少年团演唱会抖音直播",
           "url": "https://www.douyin.com/hot/2484805",
           "source": "抖音",
@@ -769,6 +794,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时41分 ~ 21时42分]"
+        },
+        {
+          "title": "印度央行行长：银行和市场参与者有责任确保每位用户都能轻松进入金融市场。",
+          "url": "https://flash.jin10.com/detail/20260501231202479800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
         },
         {
           "title": "英国央行首席经济学家皮尔：政策不应对暂时的市场波动过度反应。",
@@ -791,6 +827,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时16分"
+        },
+        {
+          "title": "印度央行行长：如果要为利益相关者提供有效的利率对冲选择，场外衍生品市场需要改善。",
+          "url": "https://flash.jin10.com/detail/20260501230928371800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
         },
         {
           "title": "英国央行首席经济学家皮尔：货币政策委员会内部就金融紧缩问题的讨论颇多。",
@@ -870,6 +917,17 @@
           "time_info": "17时01分"
         },
         {
+          "title": "印度央行行长：尽管能源价格上涨将对赤字造成上行压力，但近期的贸易协定应该会抵消部分影响。",
+          "url": "https://flash.jin10.com/detail/20260501230658135800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
+        },
+        {
           "title": "德国两年期国债收益率于欧洲央行决议日跌10个基点",
           "url": "https://wallstreetcn.com/livenews/3097645",
           "source": "华尔街见闻-快讯",
@@ -914,6 +972,17 @@
           "time_info": "17时01分"
         },
         {
+          "title": "印度央行行长：印度的宏观经济和金融基本面依然强劲。",
+          "url": "https://flash.jin10.com/detail/20260501230613245800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
+        },
+        {
           "title": "渣打银行：预计欧洲央行将在6月加息25个基点，之前的预测为利率保持不变。",
           "url": "https://flash.jin10.com/detail/20260501133547291800",
           "source": "金十数据",
@@ -923,6 +992,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时16分"
+        },
+        {
+          "title": "印度央行行长：随着近期金融资产估值的回调，我们预计资金回流将有所放缓。",
+          "url": "https://flash.jin10.com/detail/20260501230602430800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
+        },
+        {
+          "title": "印度央行行长：外汇储备充裕，可覆盖11个月的进口需求。",
+          "url": "https://flash.jin10.com/detail/20260501230545977800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
         },
         {
           "title": "英国4月制造业PMI终值、3月央行抵押贷款许可将于十分钟后公布。",
@@ -964,7 +1055,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时55分"
         },
@@ -1034,11 +1125,12 @@
           "url": "https://wallstreetcn.com/articles/3771356",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时52分 ~ 22时55分]"
+          "appearance_count": 13,
+          "time_info": "[07时52分 ~ 23时57分]"
         },
         {
           "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
@@ -1050,8 +1142,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时52分 ~ 22时55分]"
+          "appearance_count": 13,
+          "time_info": "[07时52分 ~ 23时57分]"
         },
         {
           "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
@@ -1067,6 +1159,21 @@
           "time_info": "[01时51分 ~ 07时53分]"
         },
         {
+          "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
+          "url": "https://wallstreetcn.com/articles/3771450",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时00分 ~ 23时57分]"
+        },
+        {
           "title": "胡锡进：只要中国赚钱机会越来越多，谷歌就不舍得真正“离开”",
           "url": "https://news.ifeng.com/c/8skgZ2z6e0A",
           "source": "凤凰网",
@@ -1076,20 +1183,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时51分 ~ 10时54分]"
-        },
-        {
-          "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
-          "url": "https://wallstreetcn.com/articles/3771450",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时00分 ~ 22时55分]"
         },
         {
           "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
@@ -1133,11 +1226,12 @@
           "url": "https://wallstreetcn.com/articles/3771451",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时55分 ~ 23时57分]"
         },
         {
           "title": "谷歌母公司Alphabet涨幅扩大至10%，创最近逾一年来最大盘中涨幅。",
@@ -1212,11 +1306,12 @@
             10,
             11,
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时51分 ~ 22时55分]"
+          "appearance_count": 19,
+          "time_info": "[01时51分 ~ 23时57分]"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
@@ -1391,11 +1486,12 @@
           "source": "今日头条",
           "ranks": [
             10,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时41分 ~ 22时55分]"
+          "appearance_count": 4,
+          "time_info": "[21时41分 ~ 23时57分]"
         },
         {
           "title": "马斯克2025年特斯拉薪酬总额达1580亿美元",
