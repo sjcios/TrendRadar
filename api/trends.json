@@ -1,22 +1,35 @@
 {
-  "generated_at": "2026-05-02T02:04:39.087149+08:00",
-  "total_titles_processed": 388,
+  "generated_at": "2026-05-02T04:04:21.308616+08:00",
+  "total_titles_processed": 468,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "伊朗提新谈判方案，美股高开，苹果绩后一度涨近6%，美油盘中跌超5%",
+          "url": "https://wallstreetcn.com/articles/3771459",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时04分 ~ 04时04分]"
+        },
         {
           "title": "小米手机毛利率跌至 8.3%，卢伟冰称涨价需理解，这会如何影响其性价比策略？",
           "url": "https://www.zhihu.com/question/2020055937386328647",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 04时04分]"
         },
         {
           "title": "伊朗提新谈判方案，美股高开高走，苹果绩后一度涨近6%，美油盘中跌超5%",
@@ -30,15 +43,15 @@
           "time_info": "[00时59分 ~ 01时00分]"
         },
         {
-          "title": "伊朗提新谈判方案，美股高开，苹果绩后一度涨近6%，美油盘中跌超5%",
-          "url": "https://wallstreetcn.com/articles/3771459",
-          "source": "华尔街见闻",
+          "title": "美股收盘，道指初步收跌0.31%、标普500指数涨0.29%、纳指涨0.89%。因Q1财报靓丽，苹果(AAPL.O)收涨3.24%、闪迪(SNDK.O)涨8.25%。英特尔(INTC.O)涨5.44%，收盘价为99.62美元创下新高。",
+          "url": "https://flash.jin10.com/detail/20260502040111732800",
+          "source": "金十数据",
           "ranks": [
-            3
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时04分"
+          "time_info": "04时04分"
         },
         {
           "title": "苹果电话会：营收指引超预期，存储自Q3起拖累利润率，追加千亿回购",
@@ -52,24 +65,25 @@
           "time_info": "[00时59分 ~ 02时04分]"
         },
         {
+          "title": "县长当场公布自己手机号",
+          "url": "https://www.baidu.com/s?wd=%E5%8E%BF%E9%95%BF%E5%BD%93%E5%9C%BA%E5%85%AC%E5%B8%83%E8%87%AA%E5%B7%B1%E6%89%8B%E6%9C%BA%E5%8F%B7",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时04分 ~ 04时04分]"
+        },
+        {
           "title": "甲亢哥在深圳买的手机掉海里了",
           "url": "https://s.weibo.com/weibo?q=%23%E7%94%B2%E4%BA%A2%E5%93%A5%E5%9C%A8%E6%B7%B1%E5%9C%B3%E4%B9%B0%E7%9A%84%E6%89%8B%E6%9C%BA%E6%8E%89%E6%B5%B7%E9%87%8C%E4%BA%86%23&t=31&band_rank=21&Refer=top",
           "source": "微博",
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时04分"
-        },
-        {
-          "title": "县长当场公布自己手机号",
-          "url": "https://www.baidu.com/s?wd=%E5%8E%BF%E9%95%BF%E5%BD%93%E5%9C%BA%E5%85%AC%E5%B8%83%E8%87%AA%E5%B7%B1%E6%89%8B%E6%9C%BA%E5%8F%B7",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
         }
@@ -87,19 +101,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 04时04分]"
         },
         {
           "title": "经济数据与财报提振信心，标普、纳指新高，谷歌大涨10%，日元暴涨",
           "url": "https://wallstreetcn.com/articles/3771356",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 04时04分]"
         },
         {
           "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
@@ -109,19 +124,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 04时04分]"
         },
         {
           "title": "谷歌、卡特彼勒成“大赢家”，AI和财报压倒战争，4月的美股创2020年以来最强",
           "url": "https://wallstreetcn.com/articles/3771451",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 04时04分]"
         }
       ]
     },
@@ -138,8 +154,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 04时04分]"
         },
         {
           "title": "欧洲央行管委Dolenc：中期通胀预期相对稳定。",
@@ -177,8 +193,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 04时04分]"
         }
       ]
     }
