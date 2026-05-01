@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T18:41:22.436049+08:00",
-  "total_titles_processed": 1233,
+  "generated_at": "2026-05-01T19:59:33.224985+08:00",
+  "total_titles_processed": 1337,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 43,
+      "match_count": 47,
       "titles": [
         {
           "title": "捡到手机后故意丢弃被判赔6000元",
@@ -32,6 +32,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
+        },
+        {
+          "title": "苹果美股盘前涨幅扩大至逾4%。",
+          "url": "https://wallstreetcn.com/livenews/3097892",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
         },
         {
           "title": "苹果电脑废纸篓里的废纸谁扔的",
@@ -71,6 +82,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
+        },
+        {
+          "title": "甲亢哥在深圳买的手机掉海里了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B2%E4%BA%A2%E5%93%A5%E5%9C%A8%E6%B7%B1%E5%9C%B3%E4%B9%B0%E7%9A%84%E6%89%8B%E6%9C%BA%E6%8E%89%E6%B5%B7%E9%87%8C%E4%BA%86%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时00分 ~ 19时59分]"
         },
         {
           "title": "苹果公司第二财季营收1111.8亿美元，分析师预期1096.6亿美元。 第二财季产品营收802.1亿美元，分析师预期81.3亿美元。 第二财季iPhone营收569.9亿美元，创历史新高，分析师预期569.8亿美元。 第二财季iPad营收69.1亿美元，分析师预期66.5亿美元。 第二财季Mac营收84亿美元，分析师预期81.3亿美元。 第二财季可穿戴设备、居家、周边营收79亿美元，分析师预期77.2亿美元。 第二财季服务营收309.8亿美元，分析师预期303.7亿美元。 第二财季美国营收450.9亿美元，分析师预期458.2亿美元。 第二财季大中华区营收205亿美元，分析师预期189.1亿美元。 第二财季每股收益（EPS）为2.01美元，分析师预期1.96美元。 苹果美股盘后涨0.6%，瞬间转而跌超1.2%，随后又迅速转而涨超1%。",
@@ -132,16 +156,17 @@
           "time_info": "[06时03分 ~ 07时53分]"
         },
         {
-          "title": "甲亢哥在深圳买的手机掉海里了",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B2%E4%BA%A2%E5%93%A5%E5%9C%A8%E6%B7%B1%E5%9C%B3%E4%B9%B0%E7%9A%84%E6%89%8B%E6%9C%BA%E6%8E%89%E6%B5%B7%E9%87%8C%E4%BA%86%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
+          "title": "小米手机毛利率跌至 8.3%，卢伟冰称涨价需理解，这会如何影响其性价比策略？",
+          "url": "https://www.zhihu.com/question/2020055937386328647",
+          "source": "知乎",
           "ranks": [
             20,
+            19,
             7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时00分 ~ 18时41分]"
+          "time_info": "[17时00分 ~ 19时59分]"
         },
         {
           "title": "苹果创始人站台追觅旗下手机",
@@ -192,16 +217,15 @@
           "time_info": "[06时03分 ~ 07时53分]"
         },
         {
-          "title": "小米手机毛利率跌至 8.3%，卢伟冰称涨价需理解，这会如何影响其性价比策略？",
-          "url": "https://www.zhihu.com/question/2020055937386328647",
-          "source": "知乎",
+          "title": "苹果上季在华收入继续两位数大增，iPhone收入创同期新高，本季营收指引意外强劲 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3771430",
+          "source": "华尔街见闻",
           "ranks": [
-            20,
-            19
+            10
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时00分 ~ 18时41分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
         },
         {
           "title": "苹果(AAPL.O)盘后拉升涨超3%。",
@@ -301,6 +325,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
+        },
+        {
+          "title": "甲亢哥在深圳买的手机掉海里了",
+          "url": "https://www.toutiao.com/trending/7634562119145013294/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
         },
         {
           "title": "提醒：苹果公司电话会结束。 苹果公司美股盘后维持3.9%的涨幅。",
@@ -446,6 +481,17 @@
           "time_info": "06时03分"
         },
         {
+          "title": "甲亢哥在深圳买的手机掉海里了",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B2%E4%BA%A2%E5%93%A5%E5%9C%A8%E6%B7%B1%E5%9C%B3%E4%B9%B0%E7%9A%84%E6%89%8B%E6%9C%BA%E6%8E%89%E6%B5%B7%E9%87%8C%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
+        },
+        {
           "title": "苹果(AAPL.O)：第二季度可穿戴设备收入为79.01亿美元。",
           "url": "https://flash.jin10.com/detail/20260501043625759800",
           "source": "金十数据",
@@ -504,7 +550,7 @@
     },
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 21,
+      "match_count": 31,
       "titles": [
         {
           "title": "俞浩炮轰小红书背后：平台如何更好应对水军、黑产？",
@@ -519,8 +565,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时51分 ~ 18时41分]"
+          "appearance_count": 15,
+          "time_info": "[01时51分 ~ 19时59分]"
         },
         {
           "title": "报道：日本政府与央行已干预外汇市场，实施日元买入操作",
@@ -532,8 +578,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时52分 ~ 18时41分]"
+          "appearance_count": 9,
+          "time_info": "[07时52分 ~ 19时59分]"
         },
         {
           "title": "机构：欧洲央行进行预防性加息或可安抚市场",
@@ -545,6 +591,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时16分"
+        },
+        {
+          "title": "英国央行首席经济学家皮尔：维持利率不变并非被动选择，而是一个更为主动的决策。",
+          "url": "https://flash.jin10.com/detail/20260501195446697800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
+        },
+        {
+          "title": "英国央行首席经济学家皮尔：但货币政策委员会也强调，如有必要，随时准备采取行动。",
+          "url": "https://flash.jin10.com/detail/20260501195414105800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
+        },
+        {
+          "title": "英国央行首席经济学家Pill：冲击会蔓延到何种程度存在高度不确定性。 货币政策委员会内部围绕金融紧缩问题讨论颇多。 政策不应因短期波动而过度反应。",
+          "url": "https://wallstreetcn.com/livenews/3097891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
+        },
+        {
+          "title": "英国央行首席经济学家皮尔：货币政策委员会不希望在利率上被束缚，需要保持灵活性。",
+          "url": "https://flash.jin10.com/detail/20260501195410627800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
+        },
+        {
+          "title": "英国央行首席经济学家皮尔：在伊朗战争带来的通胀风险下，收紧金融条件似乎是合理的应对措施。",
+          "url": "https://flash.jin10.com/detail/20260501195220467800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
         },
         {
           "title": "欧洲央行管委Nagel：倾向于欧洲央行在6月加息 除非前景出现明显改善",
@@ -571,6 +672,28 @@
           "time_info": "[03时19分 ~ 04时59分]"
         },
         {
+          "title": "英国央行首席经济学家皮尔：政策不应对暂时的市场波动过度反应。",
+          "url": "https://flash.jin10.com/detail/20260501195001242800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
+        },
+        {
+          "title": "江苏常晋队员齐发抖音庆祝晋级",
+          "url": "https://www.douyin.com/hot/2485685",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
+        },
+        {
           "title": "欧洲央行管委穆勒：欧洲央行加息的可能性越来越大。能源价格将持续居于高位的趋势愈加明显。",
           "url": "https://flash.jin10.com/detail/20260501134616792800",
           "source": "金十数据",
@@ -580,6 +703,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时16分"
+        },
+        {
+          "title": "英国央行首席经济学家皮尔：货币政策委员会内部就金融紧缩问题的讨论颇多。",
+          "url": "https://flash.jin10.com/detail/20260501194833076800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
         },
         {
           "title": "英国3月央行消费信贷 18.95亿英镑，预期 17亿英镑，前值 19亿英镑。",
@@ -602,6 +736,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
+        },
+        {
+          "title": "英国央行首席经济学家皮尔：冲击影响的程度仍存在不确定性。",
+          "url": "https://flash.jin10.com/detail/20260501194730014800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
         },
         {
           "title": "英国3月央行消费信贷 18.95亿英镑，预期17.5亿英镑，前值由19.35亿英镑修正为19.75亿英镑。",
@@ -698,7 +843,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时41分"
         },
@@ -709,7 +854,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时41分"
         },
@@ -720,7 +865,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时41分"
         },
@@ -745,12 +890,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时01分"
+        },
+        {
+          "title": "欧洲央行管委马赫鲁夫：担心能源价格会持续位于高位。",
+          "url": "https://flash.jin10.com/detail/20260501192106348800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "经济数据与财报提振信心，标普、纳指新高，谷歌大涨10%，日元暴涨",
@@ -760,8 +916,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时52分 ~ 18时41分]"
+          "appearance_count": 9,
+          "time_info": "[07时52分 ~ 19时59分]"
         },
         {
           "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
@@ -772,8 +928,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时52分 ~ 18时41分]"
+          "appearance_count": 9,
+          "time_info": "[07时52分 ~ 19时59分]"
         },
         {
           "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
@@ -812,6 +968,19 @@
           "time_info": "[01时51分 ~ 06时03分]"
         },
         {
+          "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
+          "url": "https://wallstreetcn.com/articles/3771450",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时00分 ~ 19时59分]"
+        },
+        {
           "title": "美股四大科技巨头「谷歌、微软、亚马逊、 Meta」2026 年 Q1 财报同时出炉，如何解析？",
           "url": "https://www.zhihu.com/question/2033115543276930640",
           "source": "知乎",
@@ -835,18 +1004,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时52分 ~ 10时54分]"
-        },
-        {
-          "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
-          "url": "https://wallstreetcn.com/articles/3771450",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时00分 ~ 18时41分]"
         },
         {
           "title": "谷歌母公司Alphabet涨幅扩大至10%，创最近逾一年来最大盘中涨幅。",
@@ -891,6 +1048,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
+        },
+        {
+          "title": "美国五角大楼宣布达成网络人工智能相关协议，已与SpaceX、OpenAI、谷歌(GOOG.O)和英伟达(NVDA.O)签署协议。",
+          "url": "https://flash.jin10.com/detail/20260501193320957800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
         }
       ]
     },
@@ -907,11 +1075,12 @@
             3,
             7,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时51分 ~ 18时41分]"
+          "appearance_count": 15,
+          "time_info": "[01时51分 ~ 19时59分]"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
@@ -1126,7 +1295,7 @@
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "新能源车换个后视镜花了近6000元",
@@ -1153,6 +1322,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时53分 ~ 10时54分]"
+        },
+        {
+          "title": "比亚迪：4月汽车销量为321,123辆",
+          "url": "https://wallstreetcn.com/livenews/3097880",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
+        },
+        {
+          "title": "领克汽车：4月领克品牌全系销量22,755台。其中，领克新能源车型销量12,533台，新能源销量占比55%。",
+          "url": "https://flash.jin10.com/detail/20260501194348023800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
         },
         {
           "title": "美国证交会：特斯拉CEO马斯克2025年总薪酬为1583.6亿美元，全部为股票奖励。",
