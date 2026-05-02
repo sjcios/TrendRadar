@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-02T10:35:46.213935+08:00",
-  "total_titles_processed": 724,
+  "generated_at": "2026-05-02T13:37:03.605900+08:00",
+  "total_titles_processed": 855,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "伊朗提新谈判方案，美股高开，苹果绩后一度涨近6%，美油盘中跌超5%",
@@ -44,6 +44,17 @@
           "time_info": "[00时59分 ~ 01时00分]"
         },
         {
+          "title": "手欠惹祸,捡手机丢弃倒赔6千",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353949&amp;topic_name=%E6%89%8B%E6%AC%A0%E6%83%B9%E7%A5%B8%2C%E6%8D%A1%E6%89%8B%E6%9C%BA%E4%B8%A2%E5%BC%83%E5%80%92%E8%B5%946%E5%8D%83",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时36分 ~ 13时37分]"
+        },
+        {
           "title": "美股收盘，道指初步收跌0.31%、标普500指数涨0.29%、纳指涨0.89%。因Q1财报靓丽，苹果(AAPL.O)收涨3.24%、闪迪(SNDK.O)涨8.25%。英特尔(INTC.O)涨5.44%，收盘价为99.62美元创下新高。",
           "url": "https://flash.jin10.com/detail/20260502040111732800",
           "source": "金十数据",
@@ -57,17 +68,6 @@
           "time_info": "[04时04分 ~ 08时40分]"
         },
         {
-          "title": "AI热潮导致供应短缺 苹果公司将Mac Mini的起售价提高至799美元",
-          "url": "https://flash.jin10.com/detail/20260502095648869800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        },
-        {
           "title": "县长当场公布自己手机号",
           "url": "https://www.baidu.com/s?wd=%E5%8E%BF%E9%95%BF%E5%BD%93%E5%9C%BA%E5%85%AC%E5%B8%83%E8%87%AA%E5%B7%B1%E6%89%8B%E6%9C%BA%E5%8F%B7",
           "source": "百度热搜",
@@ -79,6 +79,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时04分 ~ 08时40分]"
+        },
+        {
+          "title": "AI热潮导致供应短缺 苹果公司将Mac Mini的起售价提高至799美元",
+          "url": "https://flash.jin10.com/detail/20260502095648869800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时35分 ~ 13时37分]"
         },
         {
           "title": "苹果电话会：营收指引超预期，存储自Q3起拖累利润率，追加千亿回购",
@@ -117,6 +129,17 @@
           "time_info": "[05时53分 ~ 08时40分]"
         },
         {
+          "title": "5.4万亿日元干预前，日本财长曾警告交易员“手机不离身”，干预将成新常态？",
+          "url": "https://wallstreetcn.com/articles/3771460",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时36分 ~ 13时37分]"
+        },
+        {
           "title": "甲亢哥在深圳买的手机掉海里了",
           "url": "https://www.toutiao.com/trending/7634562119145013294/",
           "source": "今日头条",
@@ -142,7 +165,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
@@ -158,6 +181,19 @@
           "time_info": "[00时59分 ~ 10时35分]"
         },
         {
+          "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
+          "url": "https://www.cls.cn/detail/2361634",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 13时37分]"
+        },
+        {
           "title": "经济数据与财报提振信心，标普、纳指新高，谷歌大涨10%，日元暴涨",
           "url": "https://wallstreetcn.com/articles/3771356",
           "source": "华尔街见闻",
@@ -168,18 +204,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时59分 ~ 06时49分]"
-        },
-        {
-          "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
-          "url": "https://www.cls.cn/detail/2361634",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时59分 ~ 10时35分]"
         },
         {
           "title": "谷歌、卡特彼勒成“大赢家”，AI和财报压倒战争，4月的美股创2020年以来最强",
@@ -193,6 +217,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时59分 ~ 10时35分]"
+        },
+        {
+          "title": "美国防部与 SpaceX 、谷歌等 7 家 AI 公司达成协议，称将转型主导作战力量，这会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2033639221991319346",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时36分 ~ 13时37分]"
         },
         {
           "title": "美国国会山成员们下周将会见科技巨头们的代表。 英伟达、谷歌公司、Anthropic、Meta、特斯拉、英特尔、应用材料的代表们将与议员们见面。（Axios）",
@@ -209,7 +244,7 @@
     },
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "江苏常晋队员齐发抖音庆祝晋级",
@@ -226,16 +261,28 @@
           "time_info": "[00时59分 ~ 10时35分]"
         },
         {
+          "title": "日本央行前行长黑田东彦称2%的通胀目标已实现",
+          "url": "https://wallstreetcn.com/livenews/3098112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        },
+        {
           "title": "原日本央行行长黑田东彦：实现了2%这一通胀目标。 有鉴于此，日本无需实施财政宽松、也无需放宽货币政策。 日本央行4月28日对加息选项保持克制是正确的。（日本读卖新闻）",
           "url": "https://wallstreetcn.com/livenews/3098090",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时40分 ~ 10时35分]"
+          "appearance_count": 3,
+          "time_info": "[08时40分 ~ 13时37分]"
         },
         {
           "title": "欧洲央行管委Dolenc：中期通胀预期相对稳定。",
@@ -262,8 +309,47 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI 称 GPT-5.5 中「哥布林」泛滥是奖励机制所致，这反映了大模型训练的哪些难题？",
+          "url": "https://www.zhihu.com/question/2033267772931749457",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时36分 ~ 13时37分]"
+        },
+        {
+          "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
+          "url": "https://wallstreetcn.com/articles/3771463",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时36分 ~ 13时37分]"
+        },
+        {
+          "title": "马斯克承认蒸馏ChatGPT",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%89%BF%E8%AE%A4%E8%92%B8%E9%A6%8FChatGPT",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时36分 ~ 13时37分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "DeepSeek破底价,友商瑟瑟发抖",
@@ -272,18 +358,41 @@
           "ranks": [
             16,
             17,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时59分 ~ 10时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 13时37分]"
+        },
+        {
+          "title": "DeepSeek 现在我是你爹了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%20%E7%8E%B0%E5%9C%A8%E6%88%91%E6%98%AF%E4%BD%A0%E7%88%B9%E4%BA%86&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时36分 ~ 13时37分]"
         }
       ]
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "马斯克去年特斯拉安保费增长70%",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8E%BB%E5%B9%B4%E7%89%B9%E6%96%AF%E6%8B%89%E5%AE%89%E4%BF%9D%E8%B4%B9%E5%A2%9E%E9%95%BF70%25",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时36分 ~ 13时37分]"
+        },
         {
           "title": "比亚迪4月卖出32.11万辆",
           "url": "https://www.toutiao.com/trending/7634382854151618566/",
