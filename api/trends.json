@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-02T22:45:19.388717+08:00",
-  "total_titles_processed": 1416,
+  "generated_at": "2026-05-02T23:44:49.778165+08:00",
+  "total_titles_processed": 1466,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "手欠惹祸,捡手机丢弃倒赔6千",
@@ -18,8 +18,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时36分 ~ 22时45分]"
+          "appearance_count": 9,
+          "time_info": "[13时36分 ~ 23时44分]"
         },
         {
           "title": "伊朗提新谈判方案，美股高开，苹果绩后一度涨近6%，美油盘中跌超5%",
@@ -64,7 +64,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时45分"
         },
@@ -82,6 +82,18 @@
           "time_info": "[04时04分 ~ 08时40分]"
         },
         {
+          "title": "追星女的手机密码人尽皆知",
+          "url": "https://s.weibo.com/weibo?q=%E8%BF%BD%E6%98%9F%E5%A5%B3%E7%9A%84%E6%89%8B%E6%9C%BA%E5%AF%86%E7%A0%81%E4%BA%BA%E5%B0%BD%E7%9A%86%E7%9F%A5&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时08分 ~ 23时44分]"
+        },
+        {
           "title": "县长当场公布自己手机号",
           "url": "https://www.baidu.com/s?wd=%E5%8E%BF%E9%95%BF%E5%BD%93%E5%9C%BA%E5%85%AC%E5%B8%83%E8%87%AA%E5%B7%B1%E6%89%8B%E6%9C%BA%E5%8F%B7",
           "source": "百度热搜",
@@ -95,6 +107,32 @@
           "time_info": "[02时04分 ~ 08时40分]"
         },
         {
+          "title": "截至3月31日，伯克希尔哈撒韦公司61%的股票投资总公允价值集中于美国运通、苹果、美国银行、雪佛龙和可口可乐。 截至3月31日，伯克希尔哈撒韦旗下的Pacificorp公司因野火预估累计损失约29亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3098157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时08分 ~ 23时44分]"
+        },
+        {
+          "title": "CEO称追觅手机要与苹果三星三分天下",
+          "url": "https://www.toutiao.com/trending/7634483314263212075/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时08分 ~ 23时44分]"
+        },
+        {
           "title": "AI热潮导致供应短缺 苹果公司将Mac Mini的起售价提高至799美元",
           "url": "https://flash.jin10.com/detail/20260502095648869800",
           "source": "金十数据",
@@ -106,42 +144,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时35分 ~ 15时42分]"
-        },
-        {
-          "title": "截至3月31日，伯克希尔哈撒韦公司61%的股票投资总公允价值集中于美国运通、苹果、美国银行、雪佛龙和可口可乐。 截至3月31日，伯克希尔哈撒韦旗下的Pacificorp公司因野火预估累计损失约29亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3098157",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时08分 ~ 22时45分]"
-        },
-        {
-          "title": "CEO称追觅手机要与苹果三星三分天下",
-          "url": "https://www.toutiao.com/trending/7634483314263212075/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时08分 ~ 22时45分]"
-        },
-        {
-          "title": "追星女的手机密码人尽皆知",
-          "url": "https://s.weibo.com/weibo?q=%E8%BF%BD%E6%98%9F%E5%A5%B3%E7%9A%84%E6%89%8B%E6%9C%BA%E5%AF%86%E7%A0%81%E4%BA%BA%E5%B0%BD%E7%9A%86%E7%9F%A5&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时08分 ~ 22时45分]"
         },
         {
           "title": "苹果电话会：营收指引超预期，存储自Q3起拖累利润率，追加千亿回购",
@@ -164,6 +166,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时36分 ~ 17时05分]"
+        },
+        {
+          "title": "媒体：泉州一高校因学生走路看手机劝退学生还辞退4名教师？各方回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33092359",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时08分 ~ 23时44分]"
         },
         {
           "title": "甲亢哥在深圳买的手机掉海里了",
@@ -204,18 +219,6 @@
           "time_info": "[17时05分 ~ 19时44分]"
         },
         {
-          "title": "媒体：泉州一高校因学生走路看手机劝退学生还辞退4名教师？各方回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33092359",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时08分 ~ 22时45分]"
-        },
-        {
           "title": "甲亢哥在深圳买的手机掉海里了",
           "url": "https://www.toutiao.com/trending/7634562119145013294/",
           "source": "今日头条",
@@ -225,6 +228,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时49分"
+        },
+        {
+          "title": "巴菲特称赞苹果CEO库克",
+          "url": "https://wallstreetcn.com/livenews/3098167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "伯克希尔哈撒韦A(BRK.A.N)：截至3月31日的股权投资总公允价值中，61%集中于美国运通、苹果、美国银行、雪佛龙和可口可乐。",
@@ -238,6 +252,17 @@
           "time_info": "21时08分"
         },
         {
+          "title": "巴菲特致意库克 伯克希尔与苹果交接时刻彼此映照",
+          "url": "https://flash.jin10.com/detail/20260502222906636800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
           "title": "苹果电脑到底有什么不可替代性使你放弃 win?",
           "url": "https://www.zhihu.com/question/1953783331201188846",
           "source": "知乎",
@@ -247,6 +272,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时49分"
+        },
+        {
+          "title": "CEO称追觅手机要与苹果三星三分天下",
+          "url": "https://www.baidu.com/s?wd=CEO%E7%A7%B0%E8%BF%BD%E8%A7%85%E6%89%8B%E6%9C%BA%E8%A6%81%E4%B8%8E%E8%8B%B9%E6%9E%9C%E4%B8%89%E6%98%9F%E4%B8%89%E5%88%86%E5%A4%A9%E4%B8%8B",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         }
       ]
     },
@@ -462,8 +498,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时44分 ~ 22时45分]"
+          "appearance_count": 4,
+          "time_info": "[19时44分 ~ 23时44分]"
         },
         {
           "title": "OpenAI：人工智能在一个月内从编写20%的代码提升至80%。",
