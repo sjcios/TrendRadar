@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T02:58:31.662024+08:00",
-  "total_titles_processed": 386,
+  "generated_at": "2026-05-03T03:55:54.532103+08:00",
+  "total_titles_processed": 403,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 02时58分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 03时55分]"
         },
         {
           "title": "CEO称追觅手机要与苹果三星三分天下",
@@ -29,8 +29,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 02时58分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 03时55分]"
         },
         {
           "title": "手欠惹祸,捡手机丢弃倒赔6千",
@@ -40,8 +40,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 02时58分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 03时55分]"
         },
         {
           "title": "媒体：泉州一高校因学生走路看手机劝退学生还辞退4名教师？各方回应",
@@ -52,8 +52,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 02时58分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 03时55分]"
         },
         {
           "title": "CEO称追觅手机要与苹果三星三分天下",
@@ -74,22 +74,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时45分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时45分 ~ 03时55分]"
         },
         {
           "title": "iPhone18Pro最低配或不涨价",
           "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E6%9C%80%E4%BD%8E%E9%85%8D%E6%88%96%E4%B8%8D%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
           "ranks": [
-            10
+            10,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时42分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时42分 ~ 03时55分]"
         },
         {
           "title": "截至3月31日，伯克希尔哈撒韦公司61%的股票投资总公允价值集中于美国运通、苹果、美国银行、雪佛龙和可口可乐。 截至3月31日，伯克希尔哈撒韦旗下的Pacificorp公司因野火预估累计损失约29亿美元。",
@@ -97,11 +99,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             18,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时45分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时45分 ~ 03时55分]"
         },
         {
           "title": "巴菲特致意库克 伯克希尔与苹果交接时刻彼此映照",
@@ -129,8 +132,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 02时58分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 03时55分]"
         },
         {
           "title": "马斯克手撕OpenAI为哪般",
@@ -155,11 +158,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 02时58分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 03时55分]"
         }
       ]
     },
@@ -172,11 +176,12 @@
           "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8E%BB%E5%B9%B4%E5%9C%A8%E7%89%B9%E6%96%AF%E6%8B%89%E6%8C%A3%E4%BA%860%E7%BE%8E%E5%85%83",
           "source": "百度热搜",
           "ranks": [
-            25
+            25,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 03时55分]"
         }
       ]
     }
