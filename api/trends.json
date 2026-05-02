@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T03:55:54.532103+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-05-03T04:41:32.704832+08:00",
+  "total_titles_processed": 432,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 03时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 04时41分]"
         },
         {
           "title": "CEO称追觅手机要与苹果三星三分天下",
@@ -29,8 +29,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 03时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 04时41分]"
         },
         {
           "title": "手欠惹祸,捡手机丢弃倒赔6千",
@@ -40,8 +40,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 03时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 04时41分]"
         },
         {
           "title": "媒体：泉州一高校因学生走路看手机劝退学生还辞退4名教师？各方回应",
@@ -52,8 +52,22 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 03时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 04时41分]"
+        },
+        {
+          "title": "巴菲特称赞苹果CEO库克",
+          "url": "https://wallstreetcn.com/livenews/3098167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            10,
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时45分 ~ 04时41分]"
         },
         {
           "title": "CEO称追觅手机要与苹果三星三分天下",
@@ -69,17 +83,18 @@
           "time_info": "[00时44分 ~ 02时58分]"
         },
         {
-          "title": "巴菲特称赞苹果CEO库克",
-          "url": "https://wallstreetcn.com/livenews/3098167",
+          "title": "截至3月31日，伯克希尔哈撒韦公司61%的股票投资总公允价值集中于美国运通、苹果、美国银行、雪佛龙和可口可乐。 截至3月31日，伯克希尔哈撒韦旗下的Pacificorp公司因野火预估累计损失约29亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3098157",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            10,
-            12
+            18,
+            19,
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时45分 ~ 03时55分]"
+          "appearance_count": 5,
+          "time_info": "[00时45分 ~ 04时41分]"
         },
         {
           "title": "iPhone18Pro最低配或不涨价",
@@ -92,19 +107,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时42分 ~ 03时55分]"
-        },
-        {
-          "title": "截至3月31日，伯克希尔哈撒韦公司61%的股票投资总公允价值集中于美国运通、苹果、美国银行、雪佛龙和可口可乐。 截至3月31日，伯克希尔哈撒韦旗下的Pacificorp公司因野火预估累计损失约29亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3098157",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            19,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时45分 ~ 03时55分]"
         },
         {
           "title": "巴菲特致意库克 伯克希尔与苹果交接时刻彼此映照",
@@ -122,7 +124,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "“我真是个傻瓜”，马斯克大战OpenAI索赔1500亿美元",
@@ -132,8 +134,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 03时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 04时41分]"
+        },
+        {
+          "title": "OpenAI创始人阿尔特曼：我一直在想，相比于让模型变得更聪明，我更希望它们更便宜、更快速。但看来，让模型更聪明一点似乎仍然是最重要的事情。",
+          "url": "https://flash.jin10.com/detail/20260503042107626800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
         },
         {
           "title": "马斯克手撕OpenAI为哪般",
@@ -159,11 +172,12 @@
           "ranks": [
             10,
             14,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 03时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 04时41分]"
         }
       ]
     },
@@ -177,11 +191,12 @@
           "source": "百度热搜",
           "ranks": [
             25,
-            24
+            24,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时58分 ~ 03时55分]"
+          "appearance_count": 3,
+          "time_info": "[02时58分 ~ 04时41分]"
         }
       ]
     }
