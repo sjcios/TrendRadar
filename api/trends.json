@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T17:05:57.285019+08:00",
-  "total_titles_processed": 1052,
+  "generated_at": "2026-05-02T18:51:27.640604+08:00",
+  "total_titles_processed": 1148,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,18 @@
           "time_info": "[02时04分 ~ 05时53分]"
         },
         {
+          "title": "手欠惹祸,捡手机丢弃倒赔6千",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353949&amp;topic_name=%E6%89%8B%E6%AC%A0%E6%83%B9%E7%A5%B8%2C%E6%8D%A1%E6%89%8B%E6%9C%BA%E4%B8%A2%E5%BC%83%E5%80%92%E8%B5%946%E5%8D%83",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时36分 ~ 18时51分]"
+        },
+        {
           "title": "小米手机毛利率跌至 8.3%，卢伟冰称涨价需理解，这会如何影响其性价比策略？",
           "url": "https://www.zhihu.com/question/2020055937386328647",
           "source": "知乎",
@@ -31,18 +43,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时59分 ~ 04时04分]"
-        },
-        {
-          "title": "手欠惹祸,捡手机丢弃倒赔6千",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353949&amp;topic_name=%E6%89%8B%E6%AC%A0%E6%83%B9%E7%A5%B8%2C%E6%8D%A1%E6%89%8B%E6%9C%BA%E4%B8%A2%E5%BC%83%E5%80%92%E8%B5%946%E5%8D%83",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时36分 ~ 17时05分]"
         },
         {
           "title": "伊朗提新谈判方案，美股高开高走，苹果绩后一度涨近6%，美油盘中跌超5%",
@@ -142,6 +142,18 @@
           "time_info": "[05时53分 ~ 08时40分]"
         },
         {
+          "title": "基础款Macmini停售",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9F%BA%E7%A1%80%E6%AC%BEMacmini%E5%81%9C%E5%94%AE%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时05分 ~ 18时51分]"
+        },
+        {
           "title": "甲亢哥在深圳买的手机掉海里了",
           "url": "https://www.toutiao.com/trending/7634562119145013294/",
           "source": "今日头条",
@@ -162,17 +174,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时49分"
-        },
-        {
-          "title": "基础款Macmini停售",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%9F%BA%E7%A1%80%E6%AC%BEMacmini%E5%81%9C%E5%94%AE%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时05分"
         }
       ]
     },
@@ -307,11 +308,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            11
+            11,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时42分 ~ 17时05分]"
+          "appearance_count": 3,
+          "time_info": "[15时42分 ~ 18时51分]"
         },
         {
           "title": "欧洲央行管委Dolenc：中期通胀预期相对稳定。",
@@ -369,6 +371,18 @@
           "time_info": "[13时36分 ~ 15时42分]"
         },
         {
+          "title": "DeepSeek拟人 哇呀啧呜哇",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E6%8B%9F%E4%BA%BA%20%E5%93%87%E5%91%80%E5%95%A7%E5%91%9C%E5%93%87&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时05分 ~ 18时51分]"
+        },
+        {
           "title": "Claude画的DeepSeek蓝胖鱼",
           "url": "https://s.weibo.com/weibo?q=Claude%E7%94%BB%E7%9A%84DeepSeek%E8%93%9D%E8%83%96%E9%B1%BC&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -378,24 +392,25 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
-        },
-        {
-          "title": "DeepSeek拟人 哇呀啧呜哇",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E6%8B%9F%E4%BA%BA%20%E5%93%87%E5%91%80%E5%95%A7%E5%91%9C%E5%93%87&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时05分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
+          "url": "https://wallstreetcn.com/articles/3771463",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时36分 ~ 18时51分]"
+        },
         {
           "title": "马斯克承认蒸馏ChatGPT",
           "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%89%BF%E8%AE%A4%E8%92%B8%E9%A6%8FChatGPT",
@@ -409,27 +424,27 @@
           "time_info": "[13时36分 ~ 15时42分]"
         },
         {
-          "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
-          "url": "https://wallstreetcn.com/articles/3771463",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时36分 ~ 17时05分]"
-        },
-        {
           "title": "OpenAI 称 GPT-5.5 中「哥布林」泛滥是奖励机制所致，这反映了大模型训练的哪些难题？",
           "url": "https://www.zhihu.com/question/2033267772931749457",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时36分 ~ 17时05分]"
+          "appearance_count": 5,
+          "time_info": "[13时36分 ~ 18时51分]"
+        },
+        {
+          "title": "OpenAI：人工智能在一个月内从编写20%的代码提升至80%。",
+          "url": "https://flash.jin10.com/detail/20260502172401507800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         }
       ]
     },
@@ -455,7 +470,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
         },
