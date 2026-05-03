@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-04T02:58:41.861964+08:00",
-  "total_titles_processed": 383,
+  "generated_at": "2026-05-04T03:56:31.854967+08:00",
+  "total_titles_processed": 394,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 03时56分]"
         },
         {
           "title": "手欠惹祸,捡手机丢弃倒赔6千",
@@ -27,8 +27,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 03时56分]"
         }
       ]
     },
@@ -42,11 +42,12 @@
           "source": "今日头条",
           "ranks": [
             17,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 03时56分]"
         }
       ]
     }
