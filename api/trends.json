@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-04T06:40:26.669063+08:00",
-  "total_titles_processed": 474,
+  "generated_at": "2026-05-04T07:44:02.489119+08:00",
+  "total_titles_processed": 516,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时49分 ~ 06时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时49分 ~ 07时44分]"
         },
         {
           "title": "手欠惹祸,捡手机丢弃倒赔6千",
@@ -27,8 +27,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时49分 ~ 06时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时49分 ~ 07时44分]"
         },
         {
           "title": "男子挖坟墓偷走手机报警骚扰警方",
@@ -37,7 +37,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时40分"
         }
