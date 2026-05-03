@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T13:59:16.109413+08:00",
-  "total_titles_processed": 791,
+  "generated_at": "2026-05-03T16:07:48.995176+08:00",
+  "total_titles_processed": 883,
   "failed_sources": [],
   "trends": [
     {
@@ -42,11 +42,12 @@
           "source": "贴吧",
           "ranks": [
             10,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时44分 ~ 13时59分]"
+          "appearance_count": 17,
+          "time_info": "[00时44分 ~ 16时07分]"
         },
         {
           "title": "CEO称追觅手机要与苹果三星三分天下",
@@ -111,11 +112,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            11
+            11,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时46分 ~ 13时59分]"
+          "appearance_count": 3,
+          "time_info": "[10时46分 ~ 16时07分]"
         },
         {
           "title": "iPhone18Pro最低配或不涨价",
@@ -137,8 +139,20 @@
             18
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时46分 ~ 16时07分]"
+        },
+        {
+          "title": "俞浩称追觅要与苹果三星三分天下",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BF%9E%E6%B5%A9%E7%A7%B0%E8%BF%BD%E8%A7%85%E8%A6%81%E4%B8%8E%E8%8B%B9%E6%9E%9C%E4%B8%89%E6%98%9F%E4%B8%89%E5%88%86%E5%A4%A9%E4%B8%8B%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            28
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时46分 ~ 13时59分]"
+          "time_info": "[13时58分 ~ 16时07分]"
         },
         {
           "title": "苹果炖牛肉",
@@ -173,17 +187,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时40分 ~ 07时42分]"
-        },
-        {
-          "title": "俞浩称追觅要与苹果三星三分天下",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BF%9E%E6%B5%A9%E7%A7%B0%E8%BF%BD%E8%A7%85%E8%A6%81%E4%B8%8E%E8%8B%B9%E6%9E%9C%E4%B8%89%E6%98%9F%E4%B8%89%E5%88%86%E5%A4%A9%E4%B8%8B%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时58分 ~ 13时59分]"
         },
         {
           "title": "巴菲特：伯克希尔已从苹果投资中获利1850亿美元",
@@ -242,6 +245,39 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何看待 deepseek v4 pro2.5 折特价延长到 5 月 31 日？",
+          "url": "https://www.zhihu.com/question/2032857350361626424",
+          "source": "知乎",
+          "ranks": [
+            10,
+            14,
+            13,
+            15,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时44分 ~ 10时46分]"
+        },
+        {
+          "title": "DeepSeek员工为何不加班",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%91%98%E5%B7%A5%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%8A%A0%E7%8F%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时07分"
+        }
+      ]
+    },
+    {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
       "match_count": 2,
       "titles": [
@@ -266,33 +302,12 @@
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E8%BF%9B%E5%85%A5%E2%80%9C9%E7%B3%BB%E2%80%9D%E6%97%B6%E4%BB%A3",
           "source": "百度热搜",
           "ranks": [
-            25
+            25,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时58分 ~ 13时59分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何看待 deepseek v4 pro2.5 折特价延长到 5 月 31 日？",
-          "url": "https://www.zhihu.com/question/2032857350361626424",
-          "source": "知乎",
-          "ranks": [
-            10,
-            14,
-            13,
-            15,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时44分 ~ 10时46分]"
+          "appearance_count": 3,
+          "time_info": "[13时58分 ~ 16时07分]"
         }
       ]
     }
