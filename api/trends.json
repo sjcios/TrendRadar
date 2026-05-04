@@ -1,11 +1,94 @@
 {
-  "generated_at": "2026-05-04T10:44:12.417805+08:00",
-  "total_titles_processed": 698,
+  "generated_at": "2026-05-04T14:12:42.352013+08:00",
+  "total_titles_processed": 879,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "央行 抖音 小红书",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "韩国央行高官：通胀风险加大 是时候考虑加息了",
+          "url": "https://flash.jin10.com/detail/20260504102535046800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
+          "title": "国家外汇局局长朱鹤新出席东盟与中日韩财长和央行行长会等系列会议",
+          "url": "https://wallstreetcn.com/livenews/3098364",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
+          "title": "欧洲央行管委Muller：欧洲央行利率出于接近中性的水平，这给了我们可以等待的时间。",
+          "url": "https://wallstreetcn.com/livenews/3098396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
+          "title": "中国人民银行副行长、国家外汇管理局局长朱鹤新出席东盟与中日韩财长和央行行长会等系列会议",
+          "url": "https://flash.jin10.com/detail/20260504100844716800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
+          "title": "欧洲央行管委穆勒：我预计未来几个月通胀将加速。",
+          "url": "https://flash.jin10.com/detail/20260504132047246800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
+          "title": "韩国央行官员称，是时候考虑加息了。（韩联社）",
+          "url": "https://wallstreetcn.com/livenews/3098350",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
+          "title": "欧洲央行管委穆勒：当前利率已大致处于中性水平，具备观望等待的空间。",
+          "url": "https://flash.jin10.com/detail/20260504131641004800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        }
+      ]
+    },
+    {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "校方回应“学生走路看手机被劝退并辞退4名教师”：实际未执行",
@@ -24,11 +107,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353949&amp;topic_name=%E6%89%8B%E6%AC%A0%E6%83%B9%E7%A5%B8%2C%E6%8D%A1%E6%89%8B%E6%9C%BA%E4%B8%A2%E5%BC%83%E5%80%92%E8%B5%946%E5%8D%83",
           "source": "贴吧",
           "ranks": [
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时49分 ~ 10时44分]"
+          "appearance_count": 14,
+          "time_info": "[00时49分 ~ 14时12分]"
         },
         {
           "title": "如何评价福建泉州某职业技术大学，学生因为走路玩手机被劝退？",
@@ -38,8 +122,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时43分 ~ 10时44分]"
+          "appearance_count": 3,
+          "time_info": "[10时43分 ~ 14时12分]"
+        },
+        {
+          "title": "十年来第一次！苹果讨论“涨价”，iPhone 18或将涨价",
+          "url": "https://wallstreetcn.com/articles/3771526",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         },
         {
           "title": "港股苹果概念股震荡走高，丘钛科技(01478.HK)涨超8%，高伟电子(01415.HK)涨超6%，舜宇光学科技(02382.HK)涨超4%，瑞声科技(02018.HK)、蓝思科技(06613.HK)涨超3%，比亚迪电子(00285.HK)涨超2%。",
@@ -48,7 +143,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
         },
@@ -66,75 +161,8 @@
       ]
     },
     {
-      "keyword_group": "央行 抖音 小红书",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "韩国央行高官：通胀风险加大 是时候考虑加息了",
-          "url": "https://flash.jin10.com/detail/20260504102535046800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时44分"
-        },
-        {
-          "title": "国家外汇局局长朱鹤新出席东盟与中日韩财长和央行行长会等系列会议",
-          "url": "https://wallstreetcn.com/livenews/3098364",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时44分"
-        },
-        {
-          "title": "中国人民银行副行长、国家外汇管理局局长朱鹤新出席东盟与中日韩财长和央行行长会等系列会议",
-          "url": "https://flash.jin10.com/detail/20260504100844716800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时44分"
-        },
-        {
-          "title": "韩国央行官员称，是时候考虑加息了。（韩联社）",
-          "url": "https://wallstreetcn.com/livenews/3098350",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek员工为何不加班",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%91%98%E5%B7%A5%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%8A%A0%E7%8F%AD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时43分 ~ 10时44分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "比亚迪大唐EV实车到店",
@@ -150,6 +178,63 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时49分 ~ 06时40分]"
+        },
+        {
+          "title": "4月份特斯拉在挪威的新车注册量同比下降61%。",
+          "url": "https://wallstreetcn.com/livenews/3098391",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
+          "title": "挪威道路联合会（OFV）：特斯拉在挪威4月新车登记量同比下降61%。",
+          "url": "https://flash.jin10.com/detail/20260504130000012800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek员工为何不加班",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%91%98%E5%B7%A5%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%8A%A0%E7%8F%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时43分 ~ 14时12分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价又又又跌了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%8F%88%E5%8F%88%E5%8F%88%E8%B7%8C%E4%BA%86%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         }
       ]
     }
