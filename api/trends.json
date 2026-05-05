@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-06T06:56:23.902258+08:00",
-  "total_titles_processed": 554,
+  "generated_at": "2026-05-06T07:46:42.264572+08:00",
+  "total_titles_processed": 601,
   "failed_sources": [],
   "trends": [
     {
@@ -91,7 +91,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         },
@@ -240,6 +240,17 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "国人吃饭玩手机,日网羡慕哭了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354005&amp;topic_name=%E5%9B%BD%E4%BA%BA%E5%90%83%E9%A5%AD%E7%8E%A9%E6%89%8B%E6%9C%BA%2C%E6%97%A5%E7%BD%91%E7%BE%A1%E6%85%95%E5%93%AD%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时43分 ~ 07时46分]"
+        },
+        {
           "title": "苹果将允许用户在iOS 27各功能中选择使用不同AI模型",
           "url": "https://flash.jin10.com/detail/20260506013420106800",
           "source": "金十数据",
@@ -251,15 +262,16 @@
           "time_info": "01时43分"
         },
         {
-          "title": "国人吃饭玩手机,日网羡慕哭了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354005&amp;topic_name=%E5%9B%BD%E4%BA%BA%E5%90%83%E9%A5%AD%E7%8E%A9%E6%89%8B%E6%9C%BA%2C%E6%97%A5%E7%BD%91%E7%BE%A1%E6%85%95%E5%93%AD%E4%BA%86",
-          "source": "贴吧",
+          "title": "苹果正考虑与英特尔和三星合作，为其生产主要设备芯片",
+          "url": "https://wallstreetcn.com/articles/3771570",
+          "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时43分 ~ 06时56分]"
+          "appearance_count": 2,
+          "time_info": "[06时56分 ~ 07时46分]"
         },
         {
           "title": "苹果(AAPL.O)：将在今年秋季发布的iOS 27中提供更灵活的人工智能方案。",
@@ -282,17 +294,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
-        },
-        {
-          "title": "苹果正考虑与英特尔和三星合作，为其生产主要设备芯片",
-          "url": "https://wallstreetcn.com/articles/3771570",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时56分"
         }
       ]
     },
@@ -320,7 +321,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         }
@@ -340,8 +341,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时43分 ~ 06时56分]"
+          "appearance_count": 4,
+          "time_info": "[01时43分 ~ 07时46分]"
         }
       ]
     },
