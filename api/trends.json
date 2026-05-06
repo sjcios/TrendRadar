@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-05-07T06:54:50.009720+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2026-05-07T07:52:04.484636+08:00",
+  "total_titles_processed": 646,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
       "match_count": 9,
       "titles": [
-        {
-          "title": "中证报：精准投放削峰填谷，央行多措并举呵护流动性",
-          "url": "https://wallstreetcn.com/livenews/3099601",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时54分"
-        },
         {
           "title": "据日经新闻：美国财长贝森特将于下周二分别与日本首相高市早苗、日本财务大臣片山皋月和日本央行行长植田和男进行会谈。贝森特下周将讨论日元疲软问题，除了货币问题，议程还将涵盖经济安全主题，如稀土和能源采购。",
           "url": "https://flash.jin10.com/detail/20260507040712574800",
@@ -28,6 +17,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
+        },
+        {
+          "title": "中证报：精准投放削峰填谷，央行多措并举呵护流动性",
+          "url": "https://wallstreetcn.com/livenews/3099601",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时54分 ~ 07时52分]"
         },
         {
           "title": "加拿大央行行长在参议院证词中表示：即便将政府财政更新报告中的措施纳入考虑，7月《货币政策报告》中的通胀预测也不会发生太大变化。",
@@ -119,11 +120,12 @@
           "source": "百度热搜",
           "ranks": [
             16,
-            10
+            10,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 06时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 07时52分]"
         },
         {
           "title": "中国航天员中心招募卧床实验志愿者：最高拿7万元，但不能玩手机",
@@ -136,8 +138,21 @@
             14
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 07时52分]"
+        },
+        {
+          "title": "海底捞保洁藏顾客手机并试图寄走",
+          "url": "https://www.baidu.com/s?wd=%E6%B5%B7%E5%BA%95%E6%8D%9E%E4%BF%9D%E6%B4%81%E8%97%8F%E9%A1%BE%E5%AE%A2%E6%89%8B%E6%9C%BA%E5%B9%B6%E8%AF%95%E5%9B%BE%E5%AF%84%E8%B5%B0",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            14,
+            30
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时27分 ~ 06时54分]"
+          "time_info": "[02时16分 ~ 07时52分]"
         },
         {
           "title": "美国最高法院拒绝暂缓苹果藐视法庭令，苹果与Epic纠纷再升级",
@@ -149,18 +164,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
-        },
-        {
-          "title": "海底捞保洁藏顾客手机并试图寄走",
-          "url": "https://www.baidu.com/s?wd=%E6%B5%B7%E5%BA%95%E6%8D%9E%E4%BF%9D%E6%B4%81%E8%97%8F%E9%A1%BE%E5%AE%A2%E6%89%8B%E6%9C%BA%E5%B9%B6%E8%AF%95%E5%9B%BE%E5%AF%84%E8%B5%B0",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时16分 ~ 05时56分]"
         },
         {
           "title": "美媒：苹果研发投入对营收的占比已超10%",
@@ -211,11 +214,27 @@
             10,
             7,
             17,
-            13
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 07时52分]"
+        },
+        {
+          "title": "比亚迪员工告别免费充电",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%91%98%E5%B7%A5%E5%91%8A%E5%88%AB%E5%85%8D%E8%B4%B9%E5%85%85%E7%94%B5",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            26,
+            27,
+            15,
+            18
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时27分 ~ 06时54分]"
+          "time_info": "[00时27分 ~ 07时52分]"
         },
         {
           "title": "欧洲汽车制造概念股普遍收涨，德国大陆集团涨8.95%，法雷奥涨6.60%，佛瑞亚涨6.59%，阿斯顿马丁涨6.49%，宝马涨5.41%，斯泰兰蒂斯集团Stellantis涨4.65%，德国大众汽车涨3.92%表现靠后。",
@@ -227,20 +246,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时16分"
-        },
-        {
-          "title": "比亚迪员工告别免费充电",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%91%98%E5%B7%A5%E5%91%8A%E5%88%AB%E5%85%8D%E8%B4%B9%E5%85%85%E7%94%B5",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            26,
-            27,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 06时54分]"
         },
         {
           "title": "比亚迪员工告别免费充电",
@@ -268,38 +273,8 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "UP主优化DeepSeek V4",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BC%98%E5%8C%96DeepSeek%20V4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 06时54分]"
-        },
-        {
-          "title": "梁文锋留住97%员工",
-          "url": "https://www.toutiao.com/trending/7636695860440469034/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI 推出 GPT-5.5 Instant，有哪些值得关注的技术亮点？使用感受如何？",
@@ -315,6 +290,17 @@
           "time_info": "[00时27分 ~ 05时56分]"
         },
         {
+          "title": "OpenAI：Uber(UBER.N)使用OpenAI为人工智能助手和语音功能提供支持。",
+          "url": "https://flash.jin10.com/detail/20260507064154537800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
+        },
+        {
           "title": "OpenAI推出B2B Signals，称是OpenAI Signals的商业扩展版。",
           "url": "https://wallstreetcn.com/livenews/3099536",
           "source": "华尔街见闻-快讯",
@@ -324,6 +310,37 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "UP主优化DeepSeek V4",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BC%98%E5%8C%96DeepSeek%20V4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            14,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 07时52分]"
+        },
+        {
+          "title": "梁文锋留住97%员工",
+          "url": "https://www.toutiao.com/trending/7636695860440469034/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时16分"
         }
       ]
     },
@@ -339,8 +356,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 06时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 07时52分]"
         },
         {
           "title": "金价涨2.8%，逼近4700美元",
