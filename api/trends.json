@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-06T10:42:05.952993+08:00",
-  "total_titles_processed": 783,
+  "generated_at": "2026-05-06T13:57:13.261678+08:00",
+  "total_titles_processed": 964,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时41分 ~ 10时42分]"
+          "appearance_count": 4,
+          "time_info": "[10时41分 ~ 13时57分]"
         },
         {
           "title": "OpenAI或加速手机开发",
@@ -143,7 +143,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "市场消息：苹果(AAPL.O)一直在测试与谷歌和Anthropic的集成。",
@@ -155,6 +155,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "Anthropic推出金融AI代理 谷歌、Meta被曝开发“龙虾”应用 | 环球市场",
+          "url": "https://www.cls.cn/detail/2363224",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时56分 ~ 13时57分]"
         },
         {
           "title": "Anthropic PBC承诺，将在谷歌公司云服务和芯片上投资2000亿美元。（The Information）",
@@ -259,7 +270,7 @@
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "国人吃饭玩手机,日网羡慕哭了",
@@ -267,33 +278,36 @@
           "source": "贴吧",
           "ranks": [
             10,
-            11
+            11,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时43分 ~ 10时42分]"
+          "appearance_count": 10,
+          "time_info": "[01时43分 ~ 13时57分]"
         },
         {
           "title": "7年前丢的手机发回定位 机主找回",
           "url": "https://www.baidu.com/s?wd=7%E5%B9%B4%E5%89%8D%E4%B8%A2%E7%9A%84%E6%89%8B%E6%9C%BA%E5%8F%91%E5%9B%9E%E5%AE%9A%E4%BD%8D+%E6%9C%BA%E4%B8%BB%E6%89%BE%E5%9B%9E",
           "source": "百度热搜",
           "ranks": [
-            1
+            1,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时41分 ~ 10时42分]"
+          "appearance_count": 4,
+          "time_info": "[10时41分 ~ 13时57分]"
         },
         {
           "title": "7年前丢失的手机悄悄发回定位",
           "url": "https://www.toutiao.com/trending/7636433134363918387/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时41分 ~ 10时42分]"
+          "appearance_count": 4,
+          "time_info": "[10时41分 ~ 13时57分]"
         },
         {
           "title": "苹果将允许用户在iOS 27各功能中选择使用不同AI模型",
@@ -318,6 +332,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时56分 ~ 10时42分]"
+        },
+        {
+          "title": "丢失7年手机突然发定位机主找回",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%A2%E5%A4%B17%E5%B9%B4%E6%89%8B%E6%9C%BA%E7%AA%81%E7%84%B6%E5%8F%91%E5%AE%9A%E4%BD%8D%E6%9C%BA%E4%B8%BB%E6%89%BE%E5%9B%9E%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时56分 ~ 13时57分]"
         },
         {
           "title": "“芯荒”制约iPhone销量？苹果据称考虑让英特尔、三星代工设备处理器",
@@ -355,6 +380,67 @@
       ]
     },
     {
+      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "宝马集团第一季度营收为310亿欧元，预期为322亿欧元。 第一季度汽车板块息税前利润率为5.0%，预期为4.7%。 第一季度税前利润为23亿欧元，预期为22亿欧元。 维持2026年展望，继续预计关税相关的不确定性将较高。",
+          "url": "https://wallstreetcn.com/livenews/3099142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
+          "title": "宝马集团：第一季度集团营收310亿欧元，公司预期为322亿欧元；第一季度集团税前利润23亿欧元，公司预期为22亿欧元。",
+          "url": "https://flash.jin10.com/detail/20260506133141277800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
+          "title": "宝马维持2026年展望，继续预期与关税相关的波动性将保持在较高水平。",
+          "url": "https://flash.jin10.com/detail/20260506133111267800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
+          "title": "宝马集团：第一季度汽车板块息税前利润率为5.0%，公司预期为4.7%。",
+          "url": "https://flash.jin10.com/detail/20260506133100043800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
+          "title": "宝马集团：展望假设中东冲突不会持久。",
+          "url": "https://flash.jin10.com/detail/20260506133042907800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 3,
       "titles": [
@@ -378,7 +464,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
         },
@@ -406,7 +492,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
         },
@@ -428,7 +514,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
         }
@@ -446,11 +532,12 @@
             24,
             26,
             12,
-            14
+            14,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时43分 ~ 10时42分]"
+          "appearance_count": 8,
+          "time_info": "[01时43分 ~ 13时57分]"
         }
       ]
     }
