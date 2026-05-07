@@ -1,271 +1,12 @@
 {
-  "generated_at": "2026-05-07T22:07:00.822406+08:00",
-  "total_titles_processed": 1474,
+  "generated_at": "2026-05-08T01:02:27.586897+08:00",
+  "total_titles_processed": 306,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "央行 抖音 小红书",
-      "match_count": 19,
-      "titles": [
-        {
-          "title": "据日经新闻：美国财长贝森特将于下周二分别与日本首相高市早苗、日本财务大臣片山皋月和日本央行行长植田和男进行会谈。贝森特下周将讨论日元疲软问题，除了货币问题，议程还将涵盖经济安全主题，如稀土和能源采购。",
-          "url": "https://flash.jin10.com/detail/20260507040712574800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
-          "title": "白鹿卢昱晓 抖音下沉市场",
-          "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%E5%8D%A2%E6%98%B1%E6%99%93%20%E6%8A%96%E9%9F%B3%E4%B8%8B%E6%B2%89%E5%B8%82%E5%9C%BA&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            12,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时32分 ~ 22时07分]"
-        },
-        {
-          "title": "中证报：精准投放削峰填谷，央行多措并举呵护流动性",
-          "url": "https://wallstreetcn.com/livenews/3099601",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时54分 ~ 07时52分]"
-        },
-        {
-          "title": "加拿大央行行长在参议院证词中表示：即便将政府财政更新报告中的措施纳入考虑，7月《货币政策报告》中的通胀预测也不会发生太大变化。",
-          "url": "https://wallstreetcn.com/livenews/3099571",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时56分 ~ 06时54分]"
-        },
-        {
-          "title": "黄仁俊入驻抖音",
-          "url": "https://www.douyin.com/hot/2490457",
-          "source": "抖音",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 02时16分]"
-        },
-        {
-          "title": "波兰央行行长Glapinski：高燃油价格带来的冲击低于几年前的经历。 汇率保持稳定。 看到核心CPI有所上升。 有多种因素在限制通胀上升。 劳动力市场的紧张程度有所缓解。 很难判断最终的通胀规模会是多少。 外部因素正在推高波兰的通胀。 关于燃油价格相关监管措施是否持续存在不确定性。",
-          "url": "https://wallstreetcn.com/livenews/3100028",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时07分"
-        },
-        {
-          "title": "波兰央行行长：波兰央行目前持有595吨黄金储备，并计划将其增至700吨。",
-          "url": "https://wallstreetcn.com/livenews/3100027",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时07分"
-        },
-        {
-          "title": "加拿大央行行长：（在参议院作证时表示）一旦将政府的财政更新措施纳入考量，7月货币政策报告中的通胀预测将不会有太大变化。",
-          "url": "https://flash.jin10.com/detail/20260507045842077800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时56分"
-        },
-        {
-          "title": "加拿大央行高级副行长：（在参议院作证时表示）针对加拿大境内稳定币的监管规定或将于2027年年中或年底出台。",
-          "url": "https://flash.jin10.com/detail/20260507045729565800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时56分"
-        },
-        {
-          "title": "欧洲央行管委科赫尔：欧洲央行将采取数据驱动、逐次会议决策的模式。",
-          "url": "https://flash.jin10.com/detail/20260507134718544800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时12分"
-        },
-        {
-          "title": "欧洲央行管委科赫尔：如果通胀形势没有改善，欧洲央行将在未来几个月考虑加息。",
-          "url": "https://flash.jin10.com/detail/20260507134702343800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时12分"
-        },
-        {
-          "title": "日本央行货币市场数据显示，日本可能进一步干预外汇市场。",
-          "url": "https://flash.jin10.com/detail/20260507170139692800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时32分"
-        },
-        {
-          "title": "加拿大央行高级副行长在参议院证词中表示：针对总部位于加拿大的稳定币监管规定可能会在2027年中或年末推出。",
-          "url": "https://wallstreetcn.com/livenews/3099565",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时56分"
-        },
-        {
-          "title": "抖音电商报告：国货消费延续增长态势",
-          "url": "https://wallstreetcn.com/livenews/3099748",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时12分"
-        },
-        {
-          "title": "日本央行数据显示，货币市场状况预计将出现4.51万亿日元的资金缺口，而此前的预测为0至5000亿日元的资金盈余。",
-          "url": "https://flash.jin10.com/detail/20260507170115371800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时32分"
-        },
-        {
-          "title": "中国央行连续第18个月增持黄金",
-          "url": "https://wallstreetcn.com/livenews/3099859",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时32分"
-        },
-        {
-          "title": "美国财政部长贝森特下周将在日本讨论日元疲软问题。 贝森特将于下周二分别与日本首相高市早苗、外相片山皋月、日本央行行长植田和男会谈。 除货币问题外，议程还将涵盖稀土和能源采购等经济安全议题。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/3099558",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时56分"
-        },
-        {
-          "title": "美联储Goolsbee：如果低消费者信心转化为消费支出下降，他将警惕需求“过冷”。 对思考通胀的新方式持开放态度。 美联储应尽可能纳入所有数据，但他认为解决通胀问题没有万灵药。 美联储主席提名人凯文·沃什（Kevin Warsh）有一些值得思考的新颖观点。 改革央行的通胀框架“并非易事”。",
-          "url": "https://wallstreetcn.com/livenews/3099556",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时56分"
-        },
-        {
-          "title": "中国央行公开市场开展270亿元7天期逆回购操作，操作利率1.40%，持平上日。今日1262亿元逆回购到期。",
-          "url": "https://wallstreetcn.com/livenews/3099660",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时44分"
-        }
-      ]
-    },
-    {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 12,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "中国航天员中心招募卧床实验志愿者：最高拿7万元，但不能玩手机",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33101875",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            12,
-            13,
-            14,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 14时12分]"
-        },
-        {
-          "title": "中国航天招志愿者最新消息：能玩手机",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E6%8B%9B%E5%BF%97%E6%84%BF%E8%80%85%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF%EF%BC%9A%E8%83%BD%E7%8E%A9%E6%89%8B%E6%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 07时52分]"
-        },
-        {
-          "title": "八千多的手机拍照也不行啊",
-          "url": "https://s.weibo.com/weibo?q=%E5%85%AB%E5%8D%83%E5%A4%9A%E7%9A%84%E6%89%8B%E6%9C%BA%E6%8B%8D%E7%85%A7%E4%B9%9F%E4%B8%8D%E8%A1%8C%E5%95%8A&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时06分 ~ 22时07分]"
-        },
         {
           "title": "等待伊朗回应和平协议，美股小幅高开，苹果股价创新高，美油跌4%，白银大涨5%重回80美元",
           "url": "https://wallstreetcn.com/articles/3771708",
@@ -274,371 +15,58 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时06分 ~ 22时07分]"
-        },
-        {
-          "title": "海底捞保洁藏顾客手机并试图寄走",
-          "url": "https://www.baidu.com/s?wd=%E6%B5%B7%E5%BA%95%E6%8D%9E%E4%BF%9D%E6%B4%81%E8%97%8F%E9%A1%BE%E5%AE%A2%E6%89%8B%E6%9C%BA%E5%B9%B6%E8%AF%95%E5%9B%BE%E5%AF%84%E8%B5%B0",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            14,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时16分 ~ 07时52分]"
-        },
-        {
-          "title": "苹果股价创下历史新高，最高报290.33美元/股，总市值报4.25万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3100042",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时07分"
+          "time_info": "01时02分"
         },
         {
-          "title": "美国最高法院拒绝暂缓苹果藐视法庭令，苹果与Epic纠纷再升级",
-          "url": "https://wallstreetcn.com/livenews/3099546",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
-          "title": "国产手机涨价潮会持续多久",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E4%BA%A7%E6%89%8B%E6%9C%BA%E6%B6%A8%E4%BB%B7%E6%BD%AE%E4%BC%9A%E6%8C%81%E7%BB%AD%E5%A4%9A%E4%B9%85",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时32分 ~ 19时47分]"
-        },
-        {
-          "title": "美媒：苹果研发投入对营收的占比已超10%",
-          "url": "https://flash.jin10.com/detail/20260507051551437800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时56分 ~ 06时54分]"
-        },
-        {
-          "title": "据CNBC：随着苹果(AAPL.O)加大对人工智能的投资力度，截至三月当季，苹果(AAPL.O)的研发支出占营收的比例达到10.3%。",
-          "url": "https://flash.jin10.com/detail/20260507050409862800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时56分 ~ 06时54分]"
-        },
-        {
-          "title": "苹果(AAPL.O)股价创下历史新高，最新上涨0.7%。",
-          "url": "https://flash.jin10.com/detail/20260507213959356800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时07分"
-        },
-        {
-          "title": "苹果研发投入占营收比重突破10%，AI竞赛引发“紧迫感”",
-          "url": "https://wallstreetcn.com/livenews/3099557",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "如何看待有博主直播比亚迪闪充，磷酸铁锂电池单体电芯最高温达到 76℃？",
-          "url": "https://www.zhihu.com/question/2035375161361307626",
-          "source": "知乎",
-          "ranks": [
-            3,
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时12分 ~ 22时07分]"
-        },
-        {
-          "title": "六安一停车场惊现“僵尸宝马”",
-          "url": "https://www.baidu.com/s?wd=%E5%85%AD%E5%AE%89%E4%B8%80%E5%81%9C%E8%BD%A6%E5%9C%BA%E6%83%8A%E7%8E%B0%E2%80%9C%E5%83%B5%E5%B0%B8%E5%AE%9D%E9%A9%AC%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            7,
-            17,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 07时52分]"
-        },
-        {
-          "title": "比亚迪员工告别免费充电",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%91%98%E5%B7%A5%E5%91%8A%E5%88%AB%E5%85%8D%E8%B4%B9%E5%85%85%E7%94%B5",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            26,
-            27,
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 07时52分]"
-        },
-        {
-          "title": "比亚迪正式加入IATF AISBL",
-          "url": "https://www.toutiao.com/trending/7636079480591106111/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时12分"
-        },
-        {
-          "title": "欧洲汽车制造概念股普遍收涨，德国大陆集团涨8.95%，法雷奥涨6.60%，佛瑞亚涨6.59%，阿斯顿马丁涨6.49%，宝马涨5.41%，斯泰兰蒂斯集团Stellantis涨4.65%，德国大众汽车涨3.92%表现靠后。",
-          "url": "https://wallstreetcn.com/livenews/3099510",
-          "source": "华尔街见闻-快讯",
+          "title": "八千多的手机拍照也不行啊",
+          "url": "https://s.weibo.com/weibo?q=%E5%85%AB%E5%8D%83%E5%A4%9A%E7%9A%84%E6%89%8B%E6%9C%BA%E6%8B%8D%E7%85%A7%E4%B9%9F%E4%B8%8D%E8%A1%8C%E5%95%8A&t=31&band_rank=5&Refer=top",
+          "source": "微博",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时16分"
+          "time_info": "01时02分"
         },
         {
-          "title": "浙江一男子新能源车假期停路边自燃",
-          "url": "https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E7%94%B7%E5%AD%90%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E5%81%87%E6%9C%9F%E5%81%9C%E8%B7%AF%E8%BE%B9%E8%87%AA%E7%87%83",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时43分 ~ 14时12分]"
-        },
-        {
-          "title": "比亚迪员工告别免费充电",
-          "url": "https://www.toutiao.com/trending/7635692932594466852/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时16分 ~ 04时22分]"
-        },
-        {
-          "title": "乘联分会：根据月度初步乘联数据综合，2026年4月全国乘用车厂商新能源批发预估122万辆，同比增长7%，环比增长7%。其中特斯拉中国批发销量79478辆。",
-          "url": "https://wallstreetcn.com/livenews/3099885",
+          "title": "Arm控股跌超10.7%，报211.51美元。 高盛看空该公司股价，称将ARM Holdings的评级维持为卖出，目标价125美元，较当前股价隐含逾40%下行空间。高盛称此举的理由是智能手机市场的疲软程度令人震惊，且ARM核心版权费收入已连续两个季度不及预期。",
+          "url": "https://wallstreetcn.com/livenews/3100116",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时32分"
-        },
-        {
-          "title": "深度拆解特斯拉一季度财报",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E6%8B%86%E8%A7%A3%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%80%E5%AD%A3%E5%BA%A6%E8%B4%A2%E6%8A%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时32分"
-        },
-        {
-          "title": "特斯拉将召回美国市场近21.9万辆汽车",
-          "url": "https://wallstreetcn.com/livenews/3099468",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "UP主优化DeepSeek V4",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BC%98%E5%8C%96DeepSeek%20V4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            14,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 07时52分]"
-        },
-        {
-          "title": "国产大模型开启融资热：DeepSeek被曝投后估值或达450亿美元",
-          "url": "https://wallstreetcn.com/articles/3771667",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时43分 ~ 17时32分]"
+          "appearance_count": 1,
+          "time_info": "01时02分"
         },
         {
-          "title": "梁文锋留住97%员工",
-          "url": "https://www.toutiao.com/trending/7636695860440469034/",
-          "source": "今日头条",
+          "title": "你用小拇指当手机支架吗？快改",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%A0%E7%94%A8%E5%B0%8F%E6%8B%87%E6%8C%87%E5%BD%93%E6%89%8B%E6%9C%BA%E6%94%AF%E6%9E%B6%E5%90%97%EF%BC%9F%E5%BF%AB%E6%94%B9",
+          "source": "百度热搜",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "OpenAI 推出 GPT-5.5 Instant，有哪些值得关注的技术亮点？使用感受如何？",
-          "url": "https://www.zhihu.com/question/2035283954274493764",
-          "source": "知乎",
-          "ranks": [
-            15,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 05时56分]"
-        },
-        {
-          "title": "OpenAI：Uber(UBER.N)使用OpenAI为人工智能助手和语音功能提供支持。",
-          "url": "https://flash.jin10.com/detail/20260507064154537800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时52分"
-        },
-        {
-          "title": "OpenAI推出B2B Signals，称是OpenAI Signals的商业扩展版。",
-          "url": "https://wallstreetcn.com/livenews/3099536",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
+          "time_info": "01时02分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "如果有游戏将所有氪金价格变为十分之一，会不会迎来盈利大涨？「1 人充 100 元」和「100 人充 1 元」谁赢？",
-          "url": "https://www.zhihu.com/question/2032416656081802662",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 07时52分]"
-        },
-        {
-          "title": "金价涨2.8%，逼近4700美元",
-          "url": "https://wallstreetcn.com/livenews/3099570",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时56分 ~ 06时54分]"
-        },
-        {
-          "title": "金价今年或涨至5200美元",
-          "url": "https://www.douyin.com/hot/2491112",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
         {
-          "title": "谷歌向欧盟提交整改方案，寻求避免新闻搜索案罚款",
-          "url": "https://wallstreetcn.com/livenews/3099585",
-          "source": "华尔街见闻-快讯",
+          "title": "金价破4700追不追",
+          "url": "https://www.toutiao.com/trending/7637144466515578431/",
+          "source": "今日头条",
           "ranks": [
-            3,
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时56分 ~ 06时54分]"
+          "appearance_count": 1,
+          "time_info": "01时02分"
         }
       ]
     }
