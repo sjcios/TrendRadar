@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T04:14:28.023866+08:00",
-  "total_titles_processed": 436,
+  "generated_at": "2026-05-08T05:57:38.655039+08:00",
+  "total_titles_processed": 506,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "欧洲央行执委施纳贝尔：关键问题是能源价格冲击是否会扩展到经济的其他部分。",
@@ -30,6 +30,17 @@
           "time_info": "02时24分"
         },
         {
+          "title": "阿根廷央行市场预期调查显示，阿根廷2026年底GDP增长率预计为2.8%，较此前预测下调0.5个百分点。",
+          "url": "https://flash.jin10.com/detail/20260508052734134800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时57分"
+        },
+        {
           "title": "欧洲央行执委施纳贝尔：欧洲私营信贷部门目前规模尚小，尚不足以引发系统性风险。",
           "url": "https://flash.jin10.com/detail/20260508020553320800",
           "source": "金十数据",
@@ -39,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
+        },
+        {
+          "title": "阿根廷央行市场预期调查显示，预计阿根廷2026年底通胀率为30.5%，较此前预测上升1.4个百分点。",
+          "url": "https://flash.jin10.com/detail/20260508052717037800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时57分"
         },
         {
           "title": "欧洲央行执委Schnabel：在我看来，伊朗战争造成的某些伤害难以逆转。 股市定价与全球局势似乎存在脱节。",
@@ -59,7 +81,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
         },
@@ -133,8 +155,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时24分 ~ 04时14分]"
+          "appearance_count": 3,
+          "time_info": "[02时24分 ~ 05时57分]"
         },
         {
           "title": "OpenAI：扩展安全警报选项，让所有18岁以上的用户都能选择将自己信任的人设为可信联系人。",
@@ -176,7 +198,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
         }
@@ -194,8 +216,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 04时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 05时57分]"
         },
         {
           "title": "八千多的手机拍照也不行啊",
@@ -207,8 +229,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 04时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 05时57分]"
         },
         {
           "title": "你用小拇指当手机支架吗？快改",
@@ -220,8 +242,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 04时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 05时57分]"
         },
         {
           "title": "Arm控股跌超10.7%，报211.51美元。 高盛看空该公司股价，称将ARM Holdings的评级维持为卖出，目标价125美元，较当前股价隐含逾40%下行空间。高盛称此举的理由是智能手机市场的疲软程度令人震惊，且ARM核心版权费收入已连续两个季度不及预期。",
@@ -256,11 +278,12 @@
           "url": "https://www.zhihu.com/question/2035375161361307626",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
+          "appearance_count": 2,
+          "time_info": "[02时24分 ~ 05时57分]"
         }
       ]
     },
