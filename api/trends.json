@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T19:13:48.669291+08:00",
-  "total_titles_processed": 1340,
+  "generated_at": "2026-05-08T21:46:06.950328+08:00",
+  "total_titles_processed": 1511,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "欧洲央行执委施纳贝尔：关键问题是能源价格冲击是否会扩展到经济的其他部分。",
@@ -94,7 +94,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -196,12 +196,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
+        },
+        {
+          "title": "经济学家：加拿大就业转弱强化加央行观望预期",
+          "url": "https://flash.jin10.com/detail/20260508212110014800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
         }
       ]
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "等待伊朗回应和平协议，美股小幅高开，苹果股价创新高，美油跌4%，白银大涨5%重回80美元",
@@ -240,6 +251,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时02分 ~ 10时48分]"
+        },
+        {
+          "title": "苹果股价上涨2%，报293.2美元/股，股价刷新记录新高，总市值报4.31万亿美元。",
+          "url": "https://flash.jin10.com/detail/20260508213729601800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
         },
         {
           "title": "机构：2026年全球折叠手机面板出货量有望达到2800万片，同比增长51%",
@@ -339,7 +361,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         }
@@ -445,7 +467,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "全球最大黄金买家之一波兰央行：计划增持105吨黄金，金价短线拉升",
@@ -477,11 +499,23 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时26分 ~ 21时46分]"
+        },
+        {
+          "title": "金价狂飙为何周大福却关了969家店",
+          "url": "https://www.toutiao.com/trending/7637449974279573028/",
+          "source": "今日头条",
+          "ranks": [
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时26分 ~ 19时13分]"
+          "appearance_count": 2,
+          "time_info": "[21时45分 ~ 21时46分]"
         },
         {
           "title": "亚太盘初，标普500股指期货跌0.3%，纳指期货跌0.4%。黄金价格大致持平，暂报4690美元/盎司，WTI原油期货持平，暂报97.77美元/桶，布伦特原油期货涨0.2%，暂报103.50美元。据新华社报道，伊朗南部一海军基地遭美以袭击，美媒称美军空袭伊朗港口。",
@@ -548,6 +582,18 @@
           "time_info": "[02时24分 ~ 07时01分]"
         },
         {
+          "title": "女子买奔驰电车提车5小时就报故障",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B0%E5%A5%94%E9%A9%B0%E7%94%B5%E8%BD%A6%E6%8F%90%E8%BD%A65%E5%B0%8F%E6%97%B6%E5%B0%B1%E6%8A%A5%E6%95%85%E9%9A%9C",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时13分 ~ 21时46分]"
+        },
+        {
           "title": "投资者提问公司有没有和特斯拉接触？拉普拉斯回应",
           "url": "https://flash.jin10.com/detail/20260508165951277800",
           "source": "金十数据",
@@ -557,17 +603,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
-        },
-        {
-          "title": "女子买奔驰电车提车5小时就报故障",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B0%E5%A5%94%E9%A9%B0%E7%94%B5%E8%BD%A6%E6%8F%90%E8%BD%A65%E5%B0%8F%E6%97%B6%E5%B0%B1%E6%8A%A5%E6%95%85%E9%9A%9C",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时13分"
         }
       ]
     },
@@ -582,7 +617,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -604,7 +639,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
