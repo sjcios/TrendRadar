@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T04:59:35.134513+08:00",
-  "total_titles_processed": 457,
+  "generated_at": "2026-05-09T06:03:32.843785+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 04时59分]"
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 06时03分]"
         },
         {
           "title": "据华尔街日报，苹果与英特尔达成初步的芯片制造协议。 英特尔涨幅扩大至18.9%，盘中市值突破6500亿美元。",
@@ -82,7 +83,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
         }
@@ -171,7 +172,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
         }
@@ -187,11 +188,12 @@
           "source": "微博",
           "ranks": [
             2,
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 04时59分]"
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 06时03分]"
         },
         {
           "title": "女子买奔驰电车提车5小时就报故障",
@@ -203,8 +205,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 04时59分]"
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 06时03分]"
         },
         {
           "title": "纳斯达克100指数指数涨幅扩大至2.1%，成分股英特尔一度涨18.8%，MNST涨14.6%，美光科技涨13.3%，闪迪涨12.2%，高通涨9.5%，AMD、应用材料、科磊至少涨约6%，思科涨5.2%，阿斯麦ADR涨4.2%，特斯拉涨3.6%，铿腾电子涨1.9%，英伟达涨1.9%，吉利德科学、Workday跌超2.5%，微芯科技跌3.1%，AppLovin跌6.2%，Axon跌7.6%，南美电商MercadoLibre跌12.8%。 半导体指数涨5.2%。标普500指数涨0.8%。",
