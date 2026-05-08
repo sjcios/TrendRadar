@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T13:31:33.868224+08:00",
-  "total_titles_processed": 908,
+  "generated_at": "2026-05-08T15:29:42.609151+08:00",
+  "total_titles_processed": 1045,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "欧洲央行执委施纳贝尔：关键问题是能源价格冲击是否会扩展到经济的其他部分。",
@@ -121,6 +121,17 @@
           "time_info": "02时24分"
         },
         {
+          "title": "欧洲央行行长拉加德：推动以欧元计价的稳定币的理由远不如表面上看起来那么强烈。",
+          "url": "https://flash.jin10.com/detail/20260508150030049800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        },
+        {
           "title": "欧洲央行执委施纳贝尔：我认为伊朗战争造成的一些损害将难以逆转。",
           "url": "https://flash.jin10.com/detail/20260508015111579800",
           "source": "金十数据",
@@ -130,6 +141,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：大规模的稳定币存款替代将削弱贷款和货币政策的传导。",
+          "url": "https://flash.jin10.com/detail/20260508150024487800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
         },
         {
           "title": "欧洲央行执委会成员Isabel Schnabel：呼吁（欧元区）各国政府和立法者在遏制通胀方面发挥作用，敦促他们将公共债务置于可持续轨道，并保留金融危机后建立的审慎规则。 另一种选择是，在职责模糊的情况下，听任财政和金融主导权悄然侵蚀货币政策空间——这将逐渐削弱独立性，并最终导致更高的通胀和更低的增长。",
@@ -215,7 +237,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         },
@@ -247,11 +269,12 @@
           "url": "https://www.zhihu.com/question/34937519",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时30分 ~ 13时31分]"
+          "appearance_count": 3,
+          "time_info": "[13时30分 ~ 15时29分]"
         },
         {
           "title": "Arm控股跌超10.7%，报211.51美元。 高盛看空该公司股价，称将ARM Holdings的评级维持为卖出，目标价125美元，较当前股价隐含逾40%下行空间。高盛称此举的理由是智能手机市场的疲软程度令人震惊，且ARM核心版权费收入已连续两个季度不及预期。",
@@ -271,7 +294,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         },
@@ -282,7 +305,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         }
@@ -290,7 +313,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "全球AI新王诞生！Anthropic估值冲爆1.2万亿，首次反超OpenAI",
@@ -299,11 +322,12 @@
           "ranks": [
             10,
             9,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时24分 ~ 13时31分]"
+          "appearance_count": 8,
+          "time_info": "[02时24分 ~ 15时29分]"
         },
         {
           "title": "OpenAI发布三款实时音频模型",
@@ -321,11 +345,23 @@
           "url": "https://www.cls.cn/detail/2365554",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时30分 ~ 13时31分]"
+          "appearance_count": 3,
+          "time_info": "[13时30分 ~ 15时29分]"
+        },
+        {
+          "title": "软银将OpenAI保证金贷款目标削减40%，至60亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3100476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
         },
         {
           "title": "OpenAI：扩展安全警报选项，让所有18岁以上的用户都能选择将自己信任的人设为可信联系人。",
@@ -375,8 +411,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "金十图示：2026年05月08日（周五）上海金午盘价为1036.11元/克，较国际金价(1033.24元/克)高2.87元/克",
+          "url": "https://flash.jin10.com/detail/20260508150601013800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        },
         {
           "title": "全球最大黄金买家之一波兰央行：计划增持105吨黄金，金价短线拉升",
           "url": "https://wallstreetcn.com/articles/3771769",
@@ -386,8 +433,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时48分 ~ 13时31分]"
+          "appearance_count": 4,
+          "time_info": "[10时48分 ~ 15时29分]"
         },
         {
           "title": "亚太盘初，标普500股指期货跌0.3%，纳指期货跌0.4%。黄金价格大致持平，暂报4690美元/盎司，WTI原油期货持平，暂报97.77美元/桶，布伦特原油期货涨0.2%，暂报103.50美元。据新华社报道，伊朗南部一海军基地遭美以袭击，美媒称美军空袭伊朗港口。",
@@ -415,7 +462,7 @@
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美国国家公路交通安全管理局表示，特斯拉(TSLA.O)Model Y是首款通过该机构新推出的“高级驾驶辅助系统”测试的车型。",
@@ -440,12 +487,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时24分 ~ 07时01分]"
+        },
+        {
+          "title": "8家新能源车企远程“锁电”被约谈",
+          "url": "https://www.baidu.com/s?wd=8%E5%AE%B6%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E4%BC%81%E8%BF%9C%E7%A8%8B%E2%80%9C%E9%94%81%E7%94%B5%E2%80%9D%E8%A2%AB%E7%BA%A6%E8%B0%88",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "DeepSeek估值450亿美元",
@@ -457,6 +515,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时30分 ~ 13时31分]"
+        },
+        {
+          "title": "DeepSeek估值450亿美元",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E4%BC%B0%E5%80%BC450%E4%BA%BF%E7%BE%8E%E5%85%83&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
         }
       ]
     }
