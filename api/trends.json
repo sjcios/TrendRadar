@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T10:48:25.139708+08:00",
-  "total_titles_processed": 741,
+  "generated_at": "2026-05-08T13:31:33.868224+08:00",
+  "total_titles_processed": 908,
   "failed_sources": [],
   "trends": [
     {
@@ -94,7 +94,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
@@ -160,27 +160,138 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "keyword_group": "苹果 Apple Mac iPhone 手机",
+      "match_count": 10,
       "titles": [
         {
-          "title": "OpenAI发布三款实时音频模型",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83%E4%B8%89%E6%AC%BE%E5%AE%9E%E6%97%B6%E9%9F%B3%E9%A2%91%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
+          "title": "等待伊朗回应和平协议，美股小幅高开，苹果股价创新高，美油跌4%，白银大涨5%重回80美元",
+          "url": "https://wallstreetcn.com/articles/3771708",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 05时57分]"
+        },
+        {
+          "title": "八千多的手机拍照也不行啊",
+          "url": "https://s.weibo.com/weibo?q=%E5%85%AB%E5%8D%83%E5%A4%9A%E7%9A%84%E6%89%8B%E6%9C%BA%E6%8B%8D%E7%85%A7%E4%B9%9F%E4%B8%8D%E8%A1%8C%E5%95%8A&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 07时01分]"
+        },
+        {
+          "title": "你用小拇指当手机支架吗？快改",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%A0%E7%94%A8%E5%B0%8F%E6%8B%87%E6%8C%87%E5%BD%93%E6%89%8B%E6%9C%BA%E6%94%AF%E6%9E%B6%E5%90%97%EF%BC%9F%E5%BF%AB%E6%94%B9",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            8,
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 10时48分]"
+        },
+        {
+          "title": "机构：2026年全球折叠手机面板出货量有望达到2800万片，同比增长51%",
+          "url": "https://wallstreetcn.com/livenews/3100410",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "刷手机 刻板行为",
+          "url": "https://s.weibo.com/weibo?q=%E5%88%B7%E6%89%8B%E6%9C%BA%20%E5%88%BB%E6%9D%BF%E8%A1%8C%E4%B8%BA&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
           "time_info": "10时48分"
         },
+        {
+          "title": "知名爆料人：苹果首款AI视觉TWS设备已进入开发后期阶段",
+          "url": "https://www.cls.cn/detail/2365476",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时48分 ~ 13时31分]"
+        },
+        {
+          "title": "Mac 为什么要把鼠标滚轮设计成反向的？",
+          "url": "https://www.zhihu.com/question/34937519",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时30分 ~ 13时31分]"
+        },
+        {
+          "title": "Arm控股跌超10.7%，报211.51美元。 高盛看空该公司股价，称将ARM Holdings的评级维持为卖出，目标价125美元，较当前股价隐含逾40%下行空间。高盛称此举的理由是智能手机市场的疲软程度令人震惊，且ARM核心版权费收入已连续两个季度不及预期。",
+          "url": "https://wallstreetcn.com/livenews/3100116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "机构：2026年全球折叠手机面板出货量有望达到2800万片，同比增长51%",
+          "url": "https://flash.jin10.com/detail/20260508130315981800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "报告：2026年第一季度全球智能手机营收年增8%",
+          "url": "https://flash.jin10.com/detail/20260508125601953800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 7,
+      "titles": [
         {
           "title": "全球AI新王诞生！Anthropic估值冲爆1.2万亿，首次反超OpenAI",
           "url": "https://wallstreetcn.com/articles/3771759",
@@ -191,8 +302,30 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时24分 ~ 10时48分]"
+          "appearance_count": 7,
+          "time_info": "[02时24分 ~ 13时31分]"
+        },
+        {
+          "title": "OpenAI发布三款实时音频模型",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83%E4%B8%89%E6%AC%BE%E5%AE%9E%E6%97%B6%E9%9F%B3%E9%A2%91%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "存储超级周期重塑韩国婚恋市场 OpenAI芯片项目据传陷入融资困境 | 环球市场",
+          "url": "https://www.cls.cn/detail/2365554",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时30分 ~ 13时31分]"
         },
         {
           "title": "OpenAI：扩展安全警报选项，让所有18岁以上的用户都能选择将自己信任的人设为可信联系人。",
@@ -241,83 +374,6 @@
       ]
     },
     {
-      "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "等待伊朗回应和平协议，美股小幅高开，苹果股价创新高，美油跌4%，白银大涨5%重回80美元",
-          "url": "https://wallstreetcn.com/articles/3771708",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时57分]"
-        },
-        {
-          "title": "八千多的手机拍照也不行啊",
-          "url": "https://s.weibo.com/weibo?q=%E5%85%AB%E5%8D%83%E5%A4%9A%E7%9A%84%E6%89%8B%E6%9C%BA%E6%8B%8D%E7%85%A7%E4%B9%9F%E4%B8%8D%E8%A1%8C%E5%95%8A&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 07时01分]"
-        },
-        {
-          "title": "你用小拇指当手机支架吗？快改",
-          "url": "https://www.baidu.com/s?wd=%E4%BD%A0%E7%94%A8%E5%B0%8F%E6%8B%87%E6%8C%87%E5%BD%93%E6%89%8B%E6%9C%BA%E6%94%AF%E6%9E%B6%E5%90%97%EF%BC%9F%E5%BF%AB%E6%94%B9",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            8,
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 10时48分]"
-        },
-        {
-          "title": "刷手机 刻板行为",
-          "url": "https://s.weibo.com/weibo?q=%E5%88%B7%E6%89%8B%E6%9C%BA%20%E5%88%BB%E6%9D%BF%E8%A1%8C%E4%B8%BA&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
-          "title": "Arm控股跌超10.7%，报211.51美元。 高盛看空该公司股价，称将ARM Holdings的评级维持为卖出，目标价125美元，较当前股价隐含逾40%下行空间。高盛称此举的理由是智能手机市场的疲软程度令人震惊，且ARM核心版权费收入已连续两个季度不及预期。",
-          "url": "https://wallstreetcn.com/livenews/3100116",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "知名爆料人：苹果首款AI视觉TWS设备已进入开发后期阶段",
-          "url": "https://www.cls.cn/detail/2365476",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 3,
       "titles": [
@@ -326,11 +382,12 @@
           "url": "https://wallstreetcn.com/articles/3771769",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时48分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时48分 ~ 13时31分]"
         },
         {
           "title": "亚太盘初，标普500股指期货跌0.3%，纳指期货跌0.4%。黄金价格大致持平，暂报4690美元/盎司，WTI原油期货持平，暂报97.77美元/桶，布伦特原油期货涨0.2%，暂报103.50美元。据新华社报道，伊朗南部一海军基地遭美以袭击，美媒称美军空袭伊朗港口。",
@@ -383,6 +440,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时24分 ~ 07时01分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek估值450亿美元",
+          "url": "https://www.toutiao.com/trending/7637337504823119387/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时30分 ~ 13时31分]"
         }
       ]
     }
