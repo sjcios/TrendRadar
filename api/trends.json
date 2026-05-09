@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-09T22:50:33.444591+08:00",
-  "total_titles_processed": 1463,
+  "generated_at": "2026-05-09T23:51:51.454126+08:00",
+  "total_titles_processed": 1510,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "车主提宝马不久引擎盖里发现一窝猫",
@@ -70,8 +70,31 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时15分 ~ 23时51分]"
+        },
+        {
+          "title": "同价位该买奥迪还是买小米",
+          "url": "https://www.baidu.com/s?wd=%E5%90%8C%E4%BB%B7%E4%BD%8D%E8%AF%A5%E4%B9%B0%E5%A5%A5%E8%BF%AA%E8%BF%98%E6%98%AF%E4%B9%B0%E5%B0%8F%E7%B1%B3",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时18分 ~ 23时51分]"
+        },
+        {
+          "title": "交通运输部：加快推动新能源重卡规模化应用 建设零碳运输走廊",
+          "url": "https://wallstreetcn.com/livenews/3101079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时15分 ~ 22时50分]"
+          "time_info": "[22时50分 ~ 23时51分]"
         },
         {
           "title": "女子买奔驰电车提车5小时就报故障",
@@ -87,27 +110,15 @@
           "time_info": "[01时16分 ~ 07时56分]"
         },
         {
-          "title": "同价位该买奥迪还是买小米",
-          "url": "https://www.baidu.com/s?wd=%E5%90%8C%E4%BB%B7%E4%BD%8D%E8%AF%A5%E4%B9%B0%E5%A5%A5%E8%BF%AA%E8%BF%98%E6%98%AF%E4%B9%B0%E5%B0%8F%E7%B1%B3",
-          "source": "百度热搜",
+          "title": "比亚迪与神州租车签署10万台采购框架协议",
+          "url": "https://flash.jin10.com/detail/20260509223649854800",
+          "source": "金十数据",
           "ranks": [
-            30,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时18分 ~ 22时50分]"
-        },
-        {
-          "title": "交通运输部：加快推动新能源重卡规模化应用 建设零碳运输走廊",
-          "url": "https://wallstreetcn.com/livenews/3101079",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时50分"
+          "time_info": "23时51分"
         },
         {
           "title": "比亚迪、特斯拉、小鹏、理想等车企否认被约谈",
@@ -119,6 +130,33 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
+        },
+        {
+          "title": "被AI造谣？比亚迪、特斯拉、蔚小理等辟谣“被约谈”：不实！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33139979",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时57分 ~ 23时51分]"
+        },
+        {
+          "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
+          "url": "https://flash.jin10.com/detail/20260509210146377800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时15分 ~ 23时51分]"
         },
         {
           "title": "比亚迪、特斯拉、小鹏、理想否认被约谈",
@@ -134,18 +172,6 @@
           "time_info": "[13时48分 ~ 17时19分]"
         },
         {
-          "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
-          "url": "https://flash.jin10.com/detail/20260509210146377800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时15分 ~ 22时50分]"
-        },
-        {
           "title": "比亚迪否认“被约谈、立案”：相关内容纯属虚假谣言，已启动法律程序",
           "url": "https://wallstreetcn.com/livenews/3101009",
           "source": "华尔街见闻-快讯",
@@ -157,20 +183,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时48分 ~ 17时19分]"
-        },
-        {
-          "title": "被AI造谣？比亚迪、特斯拉、蔚小理等辟谣“被约谈”：不实！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33139979",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时57分 ~ 22时50分]"
         },
         {
           "title": "奥迪E7X预售28.98万起",
@@ -214,11 +226,23 @@
           "source": "百度热搜",
           "ranks": [
             10,
-            25
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时15分 ~ 23时51分]"
+        },
+        {
+          "title": "比亚迪、小鹏等多家车企辟谣网传约谈名单，该名单为何能快速刷屏？问题根源到底在哪？",
+          "url": "https://www.zhihu.com/question/2036439996056457663",
+          "source": "知乎",
+          "ranks": [
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时15分 ~ 22时50分]"
+          "time_info": "[22时50分 ~ 23时51分]"
         },
         {
           "title": "8家新能源车企被约谈",
@@ -276,15 +300,15 @@
           "time_info": "10时43分"
         },
         {
-          "title": "比亚迪、小鹏等多家车企辟谣网传约谈名单，该名单为何能快速刷屏？问题根源到底在哪？",
-          "url": "https://www.zhihu.com/question/2036439996056457663",
-          "source": "知乎",
+          "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33144435",
+          "source": "澎湃新闻",
           "ranks": [
-            16
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时50分"
+          "time_info": "23时51分"
         },
         {
           "title": "纳斯达克100指数指数涨幅扩大至2.1%，成分股英特尔一度涨18.8%，MNST涨14.6%，美光科技涨13.3%，闪迪涨12.2%，高通涨9.5%，AMD、应用材料、科磊至少涨约6%，思科涨5.2%，阿斯麦ADR涨4.2%，特斯拉涨3.6%，铿腾电子涨1.9%，英伟达涨1.9%，吉利德科学、Workday跌超2.5%，微芯科技跌3.1%，AppLovin跌6.2%，Axon跌7.6%，南美电商MercadoLibre跌12.8%。 半导体指数涨5.2%。标普500指数涨0.8%。",
@@ -304,7 +328,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时50分"
         }
@@ -326,8 +350,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时42分 ~ 22时50分]"
+          "appearance_count": 12,
+          "time_info": "[10时42分 ~ 23时51分]"
         },
         {
           "title": "近60万买家斥资6000万美元预购特朗普手机，却没人知道发货时间",
@@ -352,19 +376,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时55分 ~ 22时50分]"
-        },
-        {
-          "title": "国安部：某手机芯片厂漏洞被非法利用",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%89%E9%83%A8%EF%BC%9A%E6%9F%90%E6%89%8B%E6%9C%BA%E8%8A%AF%E7%89%87%E5%8E%82%E6%BC%8F%E6%B4%9E%E8%A2%AB%E9%9D%9E%E6%B3%95%E5%88%A9%E7%94%A8",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时42分 ~ 10时43分]"
+          "appearance_count": 9,
+          "time_info": "[15时55分 ~ 23时51分]"
         },
         {
           "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
@@ -376,8 +389,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时55分 ~ 22时50分]"
+          "appearance_count": 7,
+          "time_info": "[15时55分 ~ 23时51分]"
+        },
+        {
+          "title": "国安部：某手机芯片厂漏洞被非法利用",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%89%E9%83%A8%EF%BC%9A%E6%9F%90%E6%89%8B%E6%9C%BA%E8%8A%AF%E7%89%87%E5%8E%82%E6%BC%8F%E6%B4%9E%E8%A2%AB%E9%9D%9E%E6%B3%95%E5%88%A9%E7%94%A8",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时42分 ~ 10时43分]"
         },
         {
           "title": "苹果与英特尔达成芯片制造初步协议",
@@ -496,8 +520,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时15分 ~ 22时50分]"
+          "appearance_count": 3,
+          "time_info": "[21时15分 ~ 23时51分]"
         },
         {
           "title": "中国央行就《城市商业银行银行汇票业务依托大额支付系统处理办法（征求意见稿）》等4件规范性文件公开征求意见。",
@@ -529,11 +553,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时15分 ~ 22时50分]"
+          "appearance_count": 3,
+          "time_info": "[21时15分 ~ 23时51分]"
         },
         {
           "title": "拉加德表示欧洲央行在“行动过早”和“行动过晚”的风险中左右为难",
@@ -657,6 +682,22 @@
           "time_info": "[10时42分 ~ 21时15分]"
         },
         {
+          "title": "DeepSeek睁眼,开放识图模式",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354128&amp;topic_name=DeepSeek%E7%9D%81%E7%9C%BC%2C%E5%BC%80%E6%94%BE%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            5,
+            6,
+            8,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时55分 ~ 23时51分]"
+        },
+        {
           "title": "DeepSeek识图模式大范围开放",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F%E5%A4%A7%E8%8C%83%E5%9B%B4%E5%BC%80%E6%94%BE",
           "source": "bilibili 热搜",
@@ -670,22 +711,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[13时48分 ~ 21时15分]"
-        },
-        {
-          "title": "DeepSeek睁眼,开放识图模式",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354128&amp;topic_name=DeepSeek%E7%9D%81%E7%9C%BC%2C%E5%BC%80%E6%94%BE%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            5,
-            6,
-            8,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时55分 ~ 22时50分]"
         },
         {
           "title": "阿里未参与DeepSeek融资谈判，市场人士否认“谈崩”传闻",
@@ -791,8 +816,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时55分 ~ 22时50分]"
+          "appearance_count": 9,
+          "time_info": "[15时55分 ~ 23时51分]"
+        },
+        {
+          "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
+          "url": "https://wallstreetcn.com/articles/3771878",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时18分 ~ 23时51分]"
         },
         {
           "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
@@ -807,27 +844,15 @@
           "time_info": "[13时48分 ~ 19时52分]"
         },
         {
-          "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
-          "url": "https://wallstreetcn.com/articles/3771878",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时18分 ~ 22时50分]"
-        },
-        {
           "title": "为什么 ChatGPT 跟中文用户对话时，「我会稳稳地接住你」常会莫名其妙冒出来？你还发现 AI 的哪些怪癖？",
           "url": "https://www.zhihu.com/question/2036152296388523178",
           "source": "知乎",
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 23时51分]"
         }
       ]
     }
