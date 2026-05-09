@@ -1,11 +1,190 @@
 {
-  "generated_at": "2026-05-09T10:43:02.511658+08:00",
-  "total_titles_processed": 719,
+  "generated_at": "2026-05-09T13:48:50.905892+08:00",
+  "total_titles_processed": 886,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "同价买奥迪还是买小米",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%90%8C%E4%BB%B7%E4%B9%B0%E5%A5%A5%E8%BF%AA%E8%BF%98%E6%98%AF%E4%B9%B0%E5%B0%8F%E7%B1%B3%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            6,
+            11,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时16分 ~ 10时43分]"
+        },
+        {
+          "title": "八家新能源车企远程「锁电」被约谈，续航最高缩水 200 公里，此举有哪些实际影响？法律上如何定性车企行为？",
+          "url": "https://www.zhihu.com/question/2036053539319804953",
+          "source": "知乎",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时42分 ~ 13时48分]"
+        },
+        {
+          "title": "女子买奔驰电车提车5小时就报故障",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B0%E5%A5%94%E9%A9%B0%E7%94%B5%E8%BD%A6%E6%8F%90%E8%BD%A65%E5%B0%8F%E6%97%B6%E5%B0%B1%E6%8A%A5%E6%95%85%E9%9A%9C",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时16分 ~ 07时56分]"
+        },
+        {
+          "title": "比亚迪、特斯拉、小鹏、理想否认被约谈",
+          "url": "https://wallstreetcn.com/livenews/3101013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
+          "title": "比亚迪、特斯拉、小鹏、理想等车企否认被约谈",
+          "url": "https://flash.jin10.com/detail/20260509131404424800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
+          "title": "比亚迪否认“被约谈、立案”：相关内容纯属虚假谣言，已启动法律程序",
+          "url": "https://wallstreetcn.com/livenews/3101009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
+          "title": "奥迪E7X预售28.98万起",
+          "url": "https://www.toutiao.com/trending/7637689295448378907/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时42分 ~ 13时48分]"
+        },
+        {
+          "title": "8家新能源车企被约谈",
+          "url": "https://www.baidu.com/s?wd=8%E5%AE%B6%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E4%BC%81%E8%A2%AB%E7%BA%A6%E8%B0%88",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时42分 ~ 10时43分]"
+        },
+        {
+          "title": "新能源车企锁电坑惨车主",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E4%BC%81%E9%94%81%E7%94%B5%E5%9D%91%E6%83%A8%E8%BD%A6%E4%B8%BB%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时42分 ~ 10时43分]"
+        },
+        {
+          "title": "奥迪高管回应买奥迪还是买小米",
+          "url": "https://www.toutiao.com/trending/7636695888820961289/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
+          "title": "上汽奥迪高管炮轰行业乱象",
+          "url": "https://www.toutiao.com/trending/7637698735778643994/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
+          "title": "比亚迪辟谣：网传“比亚迪被约谈”是不实传言",
+          "url": "https://flash.jin10.com/detail/20260509125645099800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
+          "title": "特斯拉召回173辆Cybertruck",
+          "url": "https://flash.jin10.com/detail/20260509094713509800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
+          "title": "车主提宝马不久引擎盖里发现一窝猫",
+          "url": "https://www.baidu.com/s?wd=%E8%BD%A6%E4%B8%BB%E6%8F%90%E5%AE%9D%E9%A9%AC%E4%B8%8D%E4%B9%85%E5%BC%95%E6%93%8E%E7%9B%96%E9%87%8C%E5%8F%91%E7%8E%B0%E4%B8%80%E7%AA%9D%E7%8C%AB",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
+          "title": "纳斯达克100指数指数涨幅扩大至2.1%，成分股英特尔一度涨18.8%，MNST涨14.6%，美光科技涨13.3%，闪迪涨12.2%，高通涨9.5%，AMD、应用材料、科磊至少涨约6%，思科涨5.2%，阿斯麦ADR涨4.2%，特斯拉涨3.6%，铿腾电子涨1.9%，英伟达涨1.9%，吉利德科学、Workday跌超2.5%，微芯科技跌3.1%，AppLovin跌6.2%，Axon跌7.6%，南美电商MercadoLibre跌12.8%。 半导体指数涨5.2%。标普500指数涨0.8%。",
+          "url": "https://wallstreetcn.com/livenews/3100859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "国安部：某手机芯片厂漏洞被非法利用",
@@ -43,6 +222,29 @@
           "time_info": "[01时16分 ~ 06时03分]"
         },
         {
+          "title": "英特尔、苹果据传达成芯片制造初步协议 任天堂Switch全面涨价 | 环球市场",
+          "url": "https://www.cls.cn/detail/2366646",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时42分 ~ 13时48分]"
+        },
+        {
+          "title": "近60万买家斥资6000万美元预购特朗普手机，却没人知道发货时间",
+          "url": "https://news.ifeng.com/c/8sytAKXfO4y",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时42分 ~ 13时48分]"
+        },
+        {
           "title": "据华尔街日报，苹果与英特尔达成初步的芯片制造协议。 英特尔涨幅扩大至18.9%，盘中市值突破6500亿美元。",
           "url": "https://wallstreetcn.com/livenews/3100847",
           "source": "华尔街见闻-快讯",
@@ -53,28 +255,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时16分 ~ 03时16分]"
-        },
-        {
-          "title": "英特尔、苹果据传达成芯片制造初步协议 任天堂Switch全面涨价 | 环球市场",
-          "url": "https://www.cls.cn/detail/2366646",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时42分 ~ 10时43分]"
-        },
-        {
-          "title": "近60万买家斥资6000万美元预购特朗普手机，却没人知道发货时间",
-          "url": "https://news.ifeng.com/c/8sytAKXfO4y",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时42分 ~ 10时43分]"
         },
         {
           "title": "苹果公司：经巴西博彩监管部门调整政策，那些具备博彩功能的APP可以上架APP Store。",
@@ -99,6 +279,17 @@
           "time_info": "01时16分"
         },
         {
+          "title": "iPhone18Pro七大升级",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E4%B8%83%E5%A4%A7%E5%8D%87%E7%BA%A7%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
           "title": "据华尔街日报：消息人士透露，苹果(AAPL.O)与英特尔(INTC.O)达成协议，后者将为苹果设备生产芯片。",
           "url": "https://flash.jin10.com/detail/20260509004938678800",
           "source": "金十数据",
@@ -119,106 +310,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 8,
-      "titles": [
+        },
         {
-          "title": "同价买奥迪还是买小米",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%90%8C%E4%BB%B7%E4%B9%B0%E5%A5%A5%E8%BF%AA%E8%BF%98%E6%98%AF%E4%B9%B0%E5%B0%8F%E7%B1%B3%23&t=31&band_rank=2&Refer=top",
+          "title": "李想称汽车不能像手机一样换代",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%83%B3%E7%A7%B0%E6%B1%BD%E8%BD%A6%E4%B8%8D%E8%83%BD%E5%83%8F%E6%89%8B%E6%9C%BA%E4%B8%80%E6%A0%B7%E6%8D%A2%E4%BB%A3%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
           "ranks": [
-            2,
-            6,
-            11,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时16分 ~ 10时43分]"
-        },
-        {
-          "title": "八家新能源车企远程「锁电」被约谈，续航最高缩水 200 公里，此举有哪些实际影响？法律上如何定性车企行为？",
-          "url": "https://www.zhihu.com/question/2036053539319804953",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时42分 ~ 10时43分]"
-        },
-        {
-          "title": "女子买奔驰电车提车5小时就报故障",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B0%E5%A5%94%E9%A9%B0%E7%94%B5%E8%BD%A6%E6%8F%90%E8%BD%A65%E5%B0%8F%E6%97%B6%E5%B0%B1%E6%8A%A5%E6%95%85%E9%9A%9C",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时16分 ~ 07时56分]"
-        },
-        {
-          "title": "奥迪E7X预售28.98万起",
-          "url": "https://www.toutiao.com/trending/7637689295448378907/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时42分 ~ 10时43分]"
-        },
-        {
-          "title": "8家新能源车企被约谈",
-          "url": "https://www.baidu.com/s?wd=8%E5%AE%B6%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E4%BC%81%E8%A2%AB%E7%BA%A6%E8%B0%88",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时42分 ~ 10时43分]"
-        },
-        {
-          "title": "新能源车企锁电坑惨车主",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E4%BC%81%E9%94%81%E7%94%B5%E5%9D%91%E6%83%A8%E8%BD%A6%E4%B8%BB%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时42分 ~ 10时43分]"
-        },
-        {
-          "title": "特斯拉召回173辆Cybertruck",
-          "url": "https://flash.jin10.com/detail/20260509094713509800",
-          "source": "金十数据",
-          "ranks": [
-            13
+            29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
-          "title": "纳斯达克100指数指数涨幅扩大至2.1%，成分股英特尔一度涨18.8%，MNST涨14.6%，美光科技涨13.3%，闪迪涨12.2%，高通涨9.5%，AMD、应用材料、科磊至少涨约6%，思科涨5.2%，阿斯麦ADR涨4.2%，特斯拉涨3.6%，铿腾电子涨1.9%，英伟达涨1.9%，吉利德科学、Workday跌超2.5%，微芯科技跌3.1%，AppLovin跌6.2%，Axon跌7.6%，南美电商MercadoLibre跌12.8%。 半导体指数涨5.2%。标普500指数涨0.8%。",
-          "url": "https://wallstreetcn.com/livenews/3100859",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时16分"
+          "time_info": "13时48分"
         }
       ]
     },
@@ -233,7 +335,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
         },
@@ -255,7 +357,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
         },
@@ -266,7 +368,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
         },
@@ -357,18 +459,58 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "DeepSeek识图模式大范围开放",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F%E5%A4%A7%E8%8C%83%E5%9B%B4%E5%BC%80%E6%94%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
         {
           "title": "冲击中国AI融资王！报道：DeepSeek首轮融资目标500亿元，估值或突破3500亿元",
           "url": "https://wallstreetcn.com/articles/3771864",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时42分 ~ 10时43分]"
+          "appearance_count": 3,
+          "time_info": "[10时42分 ~ 13时48分]"
+        },
+        {
+          "title": "DeepSeek正式跨入图文交互时代",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%AD%A3%E5%BC%8F%E8%B7%A8%E5%85%A5%E5%9B%BE%E6%96%87%E4%BA%A4%E4%BA%92%E6%97%B6%E4%BB%A3%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
+          "url": "https://www.cls.cn/detail/2366733",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
         }
       ]
     }
