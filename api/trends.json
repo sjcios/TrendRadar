@@ -1,34 +1,12 @@
 {
-  "generated_at": "2026-05-10T04:00:58.416854+08:00",
-  "total_titles_processed": 422,
+  "generated_at": "2026-05-10T04:55:53.801120+08:00",
+  "total_titles_processed": 450,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
       "match_count": 9,
       "titles": [
-        {
-          "title": "交通运输部：加快推动新能源重卡规模化应用 建设零碳运输走廊",
-          "url": "https://wallstreetcn.com/livenews/3101079",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 04时00分]"
-        },
-        {
-          "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
-          "url": "https://wallstreetcn.com/livenews/3101076",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 04时00分]"
-        },
         {
           "title": "比亚迪、小鹏等多家车企辟谣网传约谈名单，该名单为何能快速刷屏？问题根源到底在哪？",
           "url": "https://www.zhihu.com/question/2036439996056457663",
@@ -39,8 +17,32 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 04时55分]"
+        },
+        {
+          "title": "交通运输部：加快推动新能源重卡规模化应用 建设零碳运输走廊",
+          "url": "https://wallstreetcn.com/livenews/3101079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时00分]"
+          "time_info": "[00时54分 ~ 04时55分]"
+        },
+        {
+          "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
+          "url": "https://wallstreetcn.com/livenews/3101076",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 04时55分]"
         },
         {
           "title": "被AI造谣？比亚迪、特斯拉、蔚小理等辟谣“被约谈”：不实！",
@@ -51,8 +53,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时00分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 04时55分]"
         },
         {
           "title": "同价位该买奥迪还是买小米",
@@ -64,8 +66,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时00分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 04时55分]"
         },
         {
           "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
@@ -78,19 +80,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时00分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 04时55分]"
         },
         {
           "title": "中汽协：8家新能源车企锁电被约谈不实",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%B1%BD%E5%8D%8F%EF%BC%9A8%E5%AE%B6%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E4%BC%81%E9%94%81%E7%94%B5%E8%A2%AB%E7%BA%A6%E8%B0%88%E4%B8%8D%E5%AE%9E",
           "source": "百度热搜",
           "ranks": [
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时59分 ~ 04时00分]"
+          "appearance_count": 4,
+          "time_info": "[02时59分 ~ 04时55分]"
         },
         {
           "title": "比亚迪与神州租车签署10万台采购框架协议",
@@ -129,8 +132,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时00分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 04时55分]"
         },
         {
           "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
@@ -140,8 +143,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时00分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 04时55分]"
         },
         {
           "title": "为什么 ChatGPT 跟中文用户对话时，「我会稳稳地接住你」常会莫名其妙冒出来？你还发现 AI 的哪些怪癖？",
@@ -150,11 +153,12 @@
           "ranks": [
             15,
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时00分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 04时55分]"
         },
         {
           "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
@@ -164,8 +168,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时59分 ~ 04时00分]"
+          "appearance_count": 3,
+          "time_info": "[03时59分 ~ 04时55分]"
         }
       ]
     },
@@ -179,11 +183,12 @@
           "source": "今日头条",
           "ranks": [
             8,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时00分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 04时55分]"
         },
         {
           "title": "英特尔、苹果据传达成芯片制造初步协议 任天堂Switch全面涨价 | 环球市场",
@@ -194,8 +199,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时00分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 04时55分]"
         },
         {
           "title": "6万元买的888888手机靓号竟变哑号",
@@ -204,11 +209,12 @@
           "ranks": [
             23,
             14,
-            22
+            22,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时51分 ~ 04时00分]"
+          "appearance_count": 5,
+          "time_info": "[01时51分 ~ 04时55分]"
         },
         {
           "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
@@ -232,11 +238,12 @@
           "url": "https://wallstreetcn.com/livenews/3101077",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 04时00分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 04时55分]"
         },
         {
           "title": "小红书电商：调整商家扶持策略，重点扶持100万个好货商家",
@@ -263,8 +270,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时00分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 04时55分]"
         }
       ]
     }
