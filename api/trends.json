@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T05:42:37.318788+08:00",
-  "total_titles_processed": 464,
+  "generated_at": "2026-05-10T06:42:16.365065+08:00",
+  "total_titles_processed": 486,
   "failed_sources": [],
   "trends": [
     {
@@ -18,34 +18,23 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 05时42分]"
-        },
-        {
-          "title": "交通运输部：加快推动新能源重卡规模化应用 建设零碳运输走廊",
-          "url": "https://wallstreetcn.com/livenews/3101079",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 05时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 06时42分]"
         },
         {
           "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
-          "url": "https://wallstreetcn.com/livenews/3101076",
-          "source": "华尔街见闻-快讯",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33144435",
+          "source": "澎湃新闻",
           "ranks": [
-            5,
-            13,
-            14
+            18,
+            17,
+            16,
+            14,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 05时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 06时42分]"
         },
         {
           "title": "被AI造谣？比亚迪、特斯拉、蔚小理等辟谣“被约谈”：不实！",
@@ -53,11 +42,12 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 05时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 06时42分]"
         },
         {
           "title": "同价位该买奥迪还是买小米",
@@ -69,22 +59,36 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 05时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 06时42分]"
         },
         {
-          "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33144435",
-          "source": "澎湃新闻",
+          "title": "交通运输部：加快推动新能源重卡规模化应用 建设零碳运输走廊",
+          "url": "https://wallstreetcn.com/livenews/3101079",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18,
-            17,
-            16,
-            14
+            2,
+            10,
+            11,
+            12
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[00时54分 ~ 05时42分]"
+          "time_info": "[00时54分 ~ 06时42分]"
+        },
+        {
+          "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
+          "url": "https://wallstreetcn.com/livenews/3101076",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 06时42分]"
         },
         {
           "title": "中汽协：8家新能源车企锁电被约谈不实",
@@ -135,8 +139,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 05时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 06时42分]"
         },
         {
           "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
@@ -146,8 +150,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 05时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 06时42分]"
         },
         {
           "title": "为什么 ChatGPT 跟中文用户对话时，「我会稳稳地接住你」常会莫名其妙冒出来？你还发现 AI 的哪些怪癖？",
@@ -160,8 +164,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 05时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 06时42分]"
         },
         {
           "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
@@ -171,8 +175,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时59分 ~ 05时42分]"
+          "appearance_count": 6,
+          "time_info": "[03时59分 ~ 06时42分]"
         }
       ]
     },
@@ -188,11 +192,12 @@
             8,
             5,
             9,
-            10
+            10,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 05时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 06时42分]"
         },
         {
           "title": "英特尔、苹果据传达成芯片制造初步协议 任天堂Switch全面涨价 | 环球市场",
@@ -203,8 +208,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 05时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 06时42分]"
         },
         {
           "title": "6万元买的888888手机靓号竟变哑号",
@@ -214,11 +219,12 @@
             23,
             14,
             22,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时51分 ~ 05时42分]"
+          "appearance_count": 8,
+          "time_info": "[01时51分 ~ 06时42分]"
         },
         {
           "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
@@ -244,11 +250,12 @@
           "ranks": [
             4,
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 05时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 06时42分]"
         },
         {
           "title": "小红书电商：调整商家扶持策略，重点扶持100万个好货商家",
@@ -275,8 +282,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 05时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 06时42分]"
         }
       ]
     }
