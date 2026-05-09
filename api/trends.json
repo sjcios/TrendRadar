@@ -1,90 +1,12 @@
 {
-  "generated_at": "2026-05-09T23:51:51.454126+08:00",
-  "total_titles_processed": 1510,
+  "generated_at": "2026-05-10T00:54:38.140641+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 27,
+      "match_count": 8,
       "titles": [
-        {
-          "title": "车主提宝马不久引擎盖里发现一窝猫",
-          "url": "https://www.baidu.com/s?wd=%E8%BD%A6%E4%B8%BB%E6%8F%90%E5%AE%9D%E9%A9%AC%E4%B8%8D%E4%B9%85%E5%BC%95%E6%93%8E%E7%9B%96%E9%87%8C%E5%8F%91%E7%8E%B0%E4%B8%80%E7%AA%9D%E7%8C%AB",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            4,
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时48分 ~ 19时52分]"
-        },
-        {
-          "title": "同价买奥迪还是买小米",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%90%8C%E4%BB%B7%E4%B9%B0%E5%A5%A5%E8%BF%AA%E8%BF%98%E6%98%AF%E4%B9%B0%E5%B0%8F%E7%B1%B3%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            6,
-            11,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时16分 ~ 10时43分]"
-        },
-        {
-          "title": "比亚迪否认被约谈",
-          "url": "https://www.douyin.com/hot/2493279",
-          "source": "抖音",
-          "ranks": [
-            9,
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时18分 ~ 21时15分]"
-        },
-        {
-          "title": "八家新能源车企远程「锁电」被约谈，续航最高缩水 200 公里，此举有哪些实际影响？法律上如何定性车企行为？",
-          "url": "https://www.zhihu.com/question/2036053539319804953",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时42分 ~ 13时48分]"
-        },
-        {
-          "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
-          "url": "https://wallstreetcn.com/livenews/3101076",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时15分 ~ 23时51分]"
-        },
-        {
-          "title": "同价位该买奥迪还是买小米",
-          "url": "https://www.baidu.com/s?wd=%E5%90%8C%E4%BB%B7%E4%BD%8D%E8%AF%A5%E4%B9%B0%E5%A5%A5%E8%BF%AA%E8%BF%98%E6%98%AF%E4%B9%B0%E5%B0%8F%E7%B1%B3",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时18分 ~ 23时51分]"
-        },
         {
           "title": "交通运输部：加快推动新能源重卡规模化应用 建设零碳运输走廊",
           "url": "https://wallstreetcn.com/livenews/3101079",
@@ -93,211 +15,63 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时50分 ~ 23时51分]"
-        },
-        {
-          "title": "女子买奔驰电车提车5小时就报故障",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B0%E5%A5%94%E9%A9%B0%E7%94%B5%E8%BD%A6%E6%8F%90%E8%BD%A65%E5%B0%8F%E6%97%B6%E5%B0%B1%E6%8A%A5%E6%95%85%E9%9A%9C",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时16分 ~ 07时56分]"
-        },
-        {
-          "title": "比亚迪与神州租车签署10万台采购框架协议",
-          "url": "https://flash.jin10.com/detail/20260509223649854800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时51分"
-        },
-        {
-          "title": "比亚迪、特斯拉、小鹏、理想等车企否认被约谈",
-          "url": "https://flash.jin10.com/detail/20260509131404424800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时48分"
-        },
-        {
-          "title": "被AI造谣？比亚迪、特斯拉、蔚小理等辟谣“被约谈”：不实！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33139979",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时57分 ~ 23时51分]"
+          "time_info": "00时54分"
         },
         {
           "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
-          "url": "https://flash.jin10.com/detail/20260509210146377800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时15分 ~ 23时51分]"
-        },
-        {
-          "title": "比亚迪、特斯拉、小鹏、理想否认被约谈",
-          "url": "https://wallstreetcn.com/livenews/3101013",
+          "url": "https://wallstreetcn.com/livenews/3101076",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            13,
-            26
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时48分 ~ 17时19分]"
-        },
-        {
-          "title": "比亚迪否认“被约谈、立案”：相关内容纯属虚假谣言，已启动法律程序",
-          "url": "https://wallstreetcn.com/livenews/3101009",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            17,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时48分 ~ 17时19分]"
-        },
-        {
-          "title": "奥迪E7X预售28.98万起",
-          "url": "https://www.toutiao.com/trending/7637689295448378907/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时42分 ~ 13时48分]"
-        },
-        {
-          "title": "奥迪高管回应买奥迪还是买小米",
-          "url": "https://www.toutiao.com/trending/7636695888820961289/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时48分 ~ 15时56分]"
-        },
-        {
-          "title": "上汽奥迪高管炮轰行业乱象",
-          "url": "https://www.toutiao.com/trending/7637698735778643994/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时48分 ~ 15时56分]"
-        },
-        {
-          "title": "中汽协：8家新能源车企锁电被约谈不实",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%B1%BD%E5%8D%8F%EF%BC%9A8%E5%AE%B6%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E4%BC%81%E9%94%81%E7%94%B5%E8%A2%AB%E7%BA%A6%E8%B0%88%E4%B8%8D%E5%AE%9E",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时15分 ~ 23时51分]"
+          "appearance_count": 1,
+          "time_info": "00时54分"
         },
         {
           "title": "比亚迪、小鹏等多家车企辟谣网传约谈名单，该名单为何能快速刷屏？问题根源到底在哪？",
           "url": "https://www.zhihu.com/question/2036439996056457663",
           "source": "知乎",
           "ranks": [
-            16
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时50分 ~ 23时51分]"
+          "appearance_count": 1,
+          "time_info": "00时54分"
         },
         {
-          "title": "8家新能源车企被约谈",
-          "url": "https://www.baidu.com/s?wd=8%E5%AE%B6%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E4%BC%81%E8%A2%AB%E7%BA%A6%E8%B0%88",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时42分 ~ 10时43分]"
-        },
-        {
-          "title": "新能源车企锁电坑惨车主",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E4%BC%81%E9%94%81%E7%94%B5%E5%9D%91%E6%83%A8%E8%BD%A6%E4%B8%BB%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时42分 ~ 10时43分]"
-        },
-        {
-          "title": "奥迪E7X把家装进车里了",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%A5%E8%BF%AAE7X%E6%8A%8A%E5%AE%B6%E8%A3%85%E8%BF%9B%E8%BD%A6%E9%87%8C%E4%BA%86%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时55分 ~ 15时56分]"
-        },
-        {
-          "title": "比亚迪辟谣：网传“比亚迪被约谈”是不实传言",
-          "url": "https://flash.jin10.com/detail/20260509125645099800",
-          "source": "金十数据",
+          "title": "被AI造谣？比亚迪、特斯拉、蔚小理等辟谣“被约谈”：不实！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33139979",
+          "source": "澎湃新闻",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时48分"
+          "time_info": "00时54分"
         },
         {
-          "title": "特斯拉召回173辆Cybertruck",
-          "url": "https://flash.jin10.com/detail/20260509094713509800",
+          "title": "比亚迪与神州租车签署10万台采购框架协议",
+          "url": "https://flash.jin10.com/detail/20260509223649854800",
           "source": "金十数据",
           "ranks": [
-            13
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时43分"
+          "time_info": "00时54分"
+        },
+        {
+          "title": "同价位该买奥迪还是买小米",
+          "url": "https://www.baidu.com/s?wd=%E5%90%8C%E4%BB%B7%E4%BD%8D%E8%AF%A5%E4%B9%B0%E5%A5%A5%E8%BF%AA%E8%BF%98%E6%98%AF%E4%B9%B0%E5%B0%8F%E7%B1%B3",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时54分"
         },
         {
           "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
@@ -306,553 +80,143 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时51分"
-        },
-        {
-          "title": "纳斯达克100指数指数涨幅扩大至2.1%，成分股英特尔一度涨18.8%，MNST涨14.6%，美光科技涨13.3%，闪迪涨12.2%，高通涨9.5%，AMD、应用材料、科磊至少涨约6%，思科涨5.2%，阿斯麦ADR涨4.2%，特斯拉涨3.6%，铿腾电子涨1.9%，英伟达涨1.9%，吉利德科学、Workday跌超2.5%，微芯科技跌3.1%，AppLovin跌6.2%，Axon跌7.6%，南美电商MercadoLibre跌12.8%。 半导体指数涨5.2%。标普500指数涨0.8%。",
-          "url": "https://wallstreetcn.com/livenews/3100859",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时16分"
+          "time_info": "00时54分"
         },
         {
-          "title": "中汽协辟谣新能源车企被约谈",
-          "url": "https://www.toutiao.com/trending/7637639591230701574/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "英特尔、苹果据传达成芯片制造初步协议 任天堂Switch全面涨价 | 环球市场",
-          "url": "https://www.cls.cn/detail/2366646",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            9,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时42分 ~ 23时51分]"
-        },
-        {
-          "title": "近60万买家斥资6000万美元预购特朗普手机，却没人知道发货时间",
-          "url": "https://news.ifeng.com/c/8sytAKXfO4y",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时42分 ~ 21时15分]"
-        },
-        {
-          "title": "国安部：某手机芯片厂漏洞被不法分子利用",
-          "url": "https://www.toutiao.com/trending/7637696506077875758/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            24,
-            20,
-            29,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时55分 ~ 23时51分]"
-        },
-        {
-          "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
-          "url": "https://wallstreetcn.com/articles/3771870",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时55分 ~ 23时51分]"
-        },
-        {
-          "title": "国安部：某手机芯片厂漏洞被非法利用",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%89%E9%83%A8%EF%BC%9A%E6%9F%90%E6%89%8B%E6%9C%BA%E8%8A%AF%E7%89%87%E5%8E%82%E6%BC%8F%E6%B4%9E%E8%A2%AB%E9%9D%9E%E6%B3%95%E5%88%A9%E7%94%A8",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时42分 ~ 10时43分]"
-        },
-        {
-          "title": "苹果与英特尔达成芯片制造初步协议",
-          "url": "https://flash.jin10.com/detail/20260509005945809800",
+          "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
+          "url": "https://flash.jin10.com/detail/20260509210146377800",
           "source": "金十数据",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
-        },
-        {
-          "title": "非农缓解“滞胀”担忧，苹果、英伟达股价续刷新高，伊朗局势恶化，布油重返百元关口，现货白银涨3%",
-          "url": "https://wallstreetcn.com/articles/3771825",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 06时03分]"
-        },
-        {
-          "title": "据华尔街日报，苹果与英特尔达成初步的芯片制造协议。 英特尔涨幅扩大至18.9%，盘中市值突破6500亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3100847",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 03时16分]"
-        },
-        {
-          "title": "苹果公司：经巴西博彩监管部门调整政策，那些具备博彩功能的APP可以上架APP Store。",
-          "url": "https://wallstreetcn.com/livenews/3100875",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时16分"
-        },
-        {
-          "title": "据华尔街日报：消息人士称，苹果(AAPL.O)与英特尔(INTC.O)已达成初步芯片制造协议，双方的讨论已持续超过一年。",
-          "url": "https://flash.jin10.com/detail/20260509005113021800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
-        },
-        {
-          "title": "iPhone18Pro七大升级",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E4%B8%83%E5%A4%A7%E5%8D%87%E7%BA%A7%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时48分"
-        },
-        {
-          "title": "据华尔街日报：消息人士透露，苹果(AAPL.O)与英特尔(INTC.O)达成协议，后者将为苹果设备生产芯片。",
-          "url": "https://flash.jin10.com/detail/20260509004938678800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
-        },
-        {
-          "title": "本周，标普累涨2.2%，连涨六周；道指累涨0.1%，纳指累涨0.1%，半导体指数累涨约11%。 标普500指数初步收涨0.8%，科技板块涨2.6%，能源板块跌0.8%。 纳斯达克100指数初步收涨2.3%，成分股中，闪迪初步收涨16.3%，美光科技涨14.9%，英特尔涨14.1%，AMD涨11.5%，高通涨8.3%，阿斯麦ADR涨4.3%，特斯拉涨3.6%，西部数据涨3.3%，苹果涨2.1%，Doordash跌3.2%，Axon跌5.8%，CSGP跌6.1%，AppLovin跌6.3%，MercadoLibre跌12.5%。 麦当劳初步收跌3%，Salesforce跌2.6%，摩根大通跌1.5%，领跌道指成分股，英伟达涨1.7%，联合健康涨2.5%，波音涨2.9%，思科涨4.8%，与苹果领跑。",
-          "url": "https://wallstreetcn.com/livenews/3100901",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时59分"
-        },
-        {
-          "title": "李想称汽车不能像手机一样换代",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%83%B3%E7%A7%B0%E6%B1%BD%E8%BD%A6%E4%B8%8D%E8%83%BD%E5%83%8F%E6%89%8B%E6%9C%BA%E4%B8%80%E6%A0%B7%E6%8D%A2%E4%BB%A3%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "央行 抖音 小红书",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "小红书电商调整商家扶持策略，重点扶持100万个好货商家",
-          "url": "https://wallstreetcn.com/livenews/3101077",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时15分 ~ 23时51分]"
-        },
-        {
-          "title": "中国央行就《城市商业银行银行汇票业务依托大额支付系统处理办法（征求意见稿）》等4件规范性文件公开征求意见。",
-          "url": "https://wallstreetcn.com/livenews/3101037",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 18时57分]"
-        },
-        {
-          "title": "中国央行就《全国统一集中账户管理系统业务处理办法（征求意见稿）》公开征求意见。",
-          "url": "https://wallstreetcn.com/livenews/3101036",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 18时57分]"
-        },
-        {
-          "title": "小红书电商：调整商家扶持策略，重点扶持100万个好货商家",
-          "url": "https://flash.jin10.com/detail/20260509203046098800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时15分 ~ 23时51分]"
-        },
-        {
-          "title": "拉加德表示欧洲央行在“行动过早”和“行动过晚”的风险中左右为难",
-          "url": "https://wallstreetcn.com/livenews/3101043",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时57分 ~ 19时52分]"
-        },
-        {
-          "title": "欧洲央行行长拉加德：欧洲央行的行动将取决于战争的持续时间和影响。 欧洲央行需要更多数据来判断战争对通胀的影响。",
-          "url": "https://wallstreetcn.com/livenews/3101026",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 18时57分]"
-        },
-        {
-          "title": "中国央行公开市场开展5亿元7天期逆回购操作，操作利率1.40%，持平上日。今日无逆回购到期。",
-          "url": "https://wallstreetcn.com/livenews/3100973",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
-          "title": "冰岛央行：已决定在银行间市场恢复常规外汇购买。",
-          "url": "https://flash.jin10.com/detail/20260509003658741800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
-        },
-        {
-          "title": "中国央行逆回购操作当日实现净投放5亿元",
-          "url": "https://flash.jin10.com/detail/20260509092718695800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
-          "title": "中国央行：今日开展5亿元7天逆回购操作，投标量5亿元，中标量5亿元，操作利率为1.40%，与此前持平。",
-          "url": "https://flash.jin10.com/detail/20260509092413930800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
-          "title": "欧洲央行管委内格尔：欧洲央行将采取必要措施控制能源价格上涨。",
-          "url": "https://flash.jin10.com/detail/20260509001946321800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
-        },
-        {
-          "title": "欧洲央行管委内格尔：欧洲央行对通胀威胁保持高度警惕。",
-          "url": "https://flash.jin10.com/detail/20260509001920995800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
-        },
-        {
-          "title": "加拿大央行：加拿大各港口面临吞吐能力瓶颈。",
-          "url": "https://flash.jin10.com/detail/20260509015419674800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "冲击中国AI融资王！报道：DeepSeek首轮融资目标500亿元，估值或突破3500亿元",
-          "url": "https://wallstreetcn.com/articles/3771864",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时42分 ~ 21时15分]"
-        },
-        {
-          "title": "DeepSeek睁眼,开放识图模式",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354128&amp;topic_name=DeepSeek%E7%9D%81%E7%9C%BC%2C%E5%BC%80%E6%94%BE%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            5,
-            6,
-            8,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时55分 ~ 23时51分]"
-        },
-        {
-          "title": "DeepSeek识图模式大范围开放",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F%E5%A4%A7%E8%8C%83%E5%9B%B4%E5%BC%80%E6%94%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            2,
-            11,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时48分 ~ 21时15分]"
-        },
-        {
-          "title": "阿里未参与DeepSeek融资谈判，市场人士否认“谈崩”传闻",
-          "url": "https://flash.jin10.com/detail/20260509183702634800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            16,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时57分 ~ 21时15分]"
-        },
-        {
-          "title": "DeepSeek正式跨入图文交互时代",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%AD%A3%E5%BC%8F%E8%B7%A8%E5%85%A5%E5%9B%BE%E6%96%87%E4%BA%A4%E4%BA%92%E6%97%B6%E4%BB%A3%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时48分 ~ 15时56分]"
-        },
-        {
-          "title": "Deepseek和阿里谈崩了？市场人士：双方应该没有进行谈判",
-          "url": "https://wallstreetcn.com/livenews/3101032",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 18时57分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "谷歌旗下Isomorphic Labs将筹集超20亿美元新资金",
-          "url": "https://flash.jin10.com/detail/20260509030041580800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时16分"
-        },
-        {
-          "title": "谷歌(GOOG.O)旗下的Isomorphic Labs将筹集超过20亿美元的新资金。",
-          "url": "https://flash.jin10.com/detail/20260509024606066800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时16分"
-        },
-        {
-          "title": "AMD收涨超11%，今年股价已经翻倍，苹果收涨2%，谷歌A涨0.7%",
-          "url": "https://wallstreetcn.com/livenews/3100943",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时56分"
-        },
-        {
-          "title": "谷歌旗下Isomorphic Labs拟在新一轮融资中筹集逾20亿美元",
-          "url": "https://wallstreetcn.com/livenews/3100893",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时59分"
+          "time_info": "00时54分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
-          "url": "https://www.cls.cn/detail/2366815",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时55分 ~ 23时51分]"
-        },
         {
           "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
           "url": "https://wallstreetcn.com/articles/3771878",
           "source": "华尔街见闻",
           "ranks": [
-            10,
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时18分 ~ 23时51分]"
+          "appearance_count": 1,
+          "time_info": "00时54分"
         },
         {
-          "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
-          "url": "https://www.cls.cn/detail/2366733",
+          "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
+          "url": "https://www.cls.cn/detail/2366815",
           "source": "财联社热门",
           "ranks": [
-            13,
-            11
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时48分 ~ 19时52分]"
+          "appearance_count": 1,
+          "time_info": "00时54分"
         },
         {
           "title": "为什么 ChatGPT 跟中文用户对话时，「我会稳稳地接住你」常会莫名其妙冒出来？你还发现 AI 的哪些怪癖？",
           "url": "https://www.zhihu.com/question/2036152296388523178",
           "source": "知乎",
           "ranks": [
-            18
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时50分 ~ 23时51分]"
+          "appearance_count": 1,
+          "time_info": "00时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 Apple Mac iPhone 手机",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "国安部：某手机芯片厂漏洞被不法分子利用",
+          "url": "https://www.toutiao.com/trending/7637696506077875758/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时54分"
+        },
+        {
+          "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
+          "url": "https://wallstreetcn.com/articles/3771870",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时54分"
+        },
+        {
+          "title": "英特尔、苹果据传达成芯片制造初步协议 任天堂Switch全面涨价 | 环球市场",
+          "url": "https://www.cls.cn/detail/2366646",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "央行 抖音 小红书",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "小红书电商调整商家扶持策略，重点扶持100万个好货商家",
+          "url": "https://wallstreetcn.com/livenews/3101077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时54分"
+        },
+        {
+          "title": "小红书电商：调整商家扶持策略，重点扶持100万个好货商家",
+          "url": "https://flash.jin10.com/detail/20260509203046098800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek睁眼,开放识图模式",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354128&amp;topic_name=DeepSeek%E7%9D%81%E7%9C%BC%2C%E5%BC%80%E6%94%BE%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F",
+          "source": "贴吧",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时54分"
         }
       ]
     }
