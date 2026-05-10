@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T18:14:20.983486+08:00",
-  "total_titles_processed": 1032,
+  "generated_at": "2026-05-10T19:51:11.733576+08:00",
+  "total_titles_processed": 1137,
   "failed_sources": [],
   "trends": [
     {
@@ -22,8 +22,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时54分 ~ 18时14分]"
+          "appearance_count": 17,
+          "time_info": "[00时54分 ~ 19时51分]"
         },
         {
           "title": "比亚迪、小鹏等多家车企辟谣网传约谈名单，该名单为何能快速刷屏？问题根源到底在哪？",
@@ -184,7 +184,7 @@
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "国安部：某手机芯片厂漏洞被不法分子利用",
@@ -240,8 +240,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时48分 ~ 18时14分]"
+          "appearance_count": 7,
+          "time_info": "[10时48分 ~ 19时51分]"
         },
         {
           "title": "如何看待消息称华为 Pura X Max 首销超越所有折叠屏手机，10 天累计激活超 20 万？",
@@ -253,8 +253,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时11分 ~ 18时14分]"
+          "appearance_count": 5,
+          "time_info": "[14时11分 ~ 19时51分]"
         },
         {
           "title": "婆婆以为儿媳手机坏了 塞了1万现金",
@@ -281,6 +281,17 @@
           "time_info": "[00时54分 ~ 02时59分]"
         },
         {
+          "title": "苹果被曝支付巨额溢价以确保 A18 Pro 芯片的供应，反映了哪些问题？成本会转嫁给用户吗？",
+          "url": "https://www.zhihu.com/question/2035848170890948934",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时50分 ~ 19时51分]"
+        },
+        {
           "title": "婆婆以为儿媳手机坏了 塞了一万现金",
           "url": "https://www.baidu.com/s?wd=%E5%A9%86%E5%A9%86%E4%BB%A5%E4%B8%BA%E5%84%BF%E5%AA%B3%E6%89%8B%E6%9C%BA%E5%9D%8F%E4%BA%86+%E5%A1%9E%E4%BA%86%E4%B8%80%E4%B8%87%E7%8E%B0%E9%87%91",
           "source": "百度热搜",
@@ -295,7 +306,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "DeepSeek睁眼,开放识图模式",
@@ -305,11 +316,12 @@
             11,
             13,
             16,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时54分 ~ 18时14分]"
+          "appearance_count": 17,
+          "time_info": "[00时54分 ~ 19时51分]"
         },
         {
           "title": "deepseek 首轮融资估值近 450 亿美元，将对 AI 领域产生哪些影响？",
@@ -349,6 +361,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时11分 ~ 18时14分]"
+        },
+        {
+          "title": "DeepSeek 被曝融资 500 亿美元，将对 AI 领域产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2035400318624733173",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时50分 ~ 19时51分]"
         }
       ]
     },
