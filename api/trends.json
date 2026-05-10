@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11T05:46:34.984421+08:00",
-  "total_titles_processed": 475,
+  "generated_at": "2026-05-11T06:45:26.346448+08:00",
+  "total_titles_processed": 521,
   "failed_sources": [],
   "trends": [
     {
@@ -17,19 +17,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 05时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 06时45分]"
         },
         {
           "title": "周末要闻汇总：DeepSeek据悉拟募资最高500亿元人民币；证监会查处2起财务造假案件",
           "url": "https://www.cls.cn/detail/2367192",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 05时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 06时45分]"
         },
         {
           "title": "DeepSeek睁眼,开放识图模式",
@@ -40,8 +41,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 05时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 06时45分]"
         },
         {
           "title": "Kimi与DeepSeek到底谁更值钱",
@@ -68,11 +69,12 @@
           "ranks": [
             5,
             3,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 05时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 06时45分]"
         },
         {
           "title": "如何看待消息称华为 Pura X Max 首销超越所有折叠屏手机，10 天累计激活超 20 万？",
@@ -93,11 +95,12 @@
           "source": "百度热搜",
           "ranks": [
             23,
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时44分 ~ 05时46分]"
+          "appearance_count": 3,
+          "time_info": "[04时44分 ~ 06时45分]"
         }
       ]
     },
@@ -117,8 +120,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 05时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 06时45分]"
         },
         {
           "title": "新能源车被“锁电”了怎么办",
@@ -130,8 +133,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 05时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 06时45分]"
         }
       ]
     },
