@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T02:59:03.565264+08:00",
-  "total_titles_processed": 396,
+  "generated_at": "2026-05-12T04:48:43.765272+08:00",
+  "total_titles_processed": 471,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "原特斯拉CFO Deepak Ahuja加盟Redwood Materials。（CNBC）",
@@ -24,22 +24,63 @@
           "source": "知乎",
           "ranks": [
             13,
-            10
+            10,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 04时48分]"
         },
         {
           "title": "比亚迪已建成 5924 座闪充站，累计充电量破 2100 万度，此举将如何提升其市场竞争力？",
           "url": "https://www.zhihu.com/question/2036182709417005583",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 04时48分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨1.03%，报7067.16点。 热门中概股里，再鼎医药初步收涨5.1%，晶科能源、理想至少涨4.6%，大全新能源、小鹏、百度、蔚来至多涨3.8%，阿里跌2.2%，新东方跌2.7%。 ETF中，中国科技指数ETF（CQQQ）收涨2.07%，中概互联网指数ETF（KWEB）收涨0.14%。 德银嘉实沪深300指数ETF（ASHR）收涨2.18%，XtrackersHarvest中证50（ASHS）收涨1.81%，MSCI新兴市场ex中国ETF（EMXC）收跌0.08%。",
+          "url": "https://wallstreetcn.com/livenews/3101842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股七巨头收盘播报｜周一（5月11日），美国科技股七巨头（Magnificent 7）指数跌0.29%，报223.79点。成分股谷歌母公司Alphabet收跌3%，创3月份以来最大单日跌幅。 “超大”市值科技股指数跌0.13%，报454.22点。",
+          "url": "https://wallstreetcn.com/livenews/3101843",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "谷歌：首次发现黑客借助AI开发“零日”漏洞攻击工具",
+          "url": "https://wallstreetcn.com/livenews/3101797",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时59分"
         }
       ]
     },
@@ -66,7 +107,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         }
@@ -84,8 +125,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 04时48分]"
         },
         {
           "title": "中国央行Q1货币政策执行报告：继续实施好适度宽松的货币政策，密切关注外部输入型通胀影响",
@@ -96,25 +137,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时59分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌：首次发现黑客借助AI开发“零日”漏洞攻击工具",
-          "url": "https://wallstreetcn.com/livenews/3101797",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时59分"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 04时48分]"
         }
       ]
     },
@@ -129,7 +153,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         }
