@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-12T19:56:35.477504+08:00",
-  "total_titles_processed": 1299,
+  "generated_at": "2026-05-12T22:26:09.690248+08:00",
+  "total_titles_processed": 1450,
   "failed_sources": [],
   "trends": [
     {
@@ -65,8 +65,32 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时37分 ~ 19时56分]"
+          "appearance_count": 4,
+          "time_info": "[17时37分 ~ 22时26分]"
+        },
+        {
+          "title": "引导隔夜利率在政策利率水平附近运行，央行最新报告释放了哪些信号",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33157154",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时56分 ~ 22时26分]"
+        },
+        {
+          "title": "抖音评论区 陈赫眼中含泪",
+          "url": "https://s.weibo.com/weibo?q=%E6%8A%96%E9%9F%B3%E8%AF%84%E8%AE%BA%E5%8C%BA%20%E9%99%88%E8%B5%AB%E7%9C%BC%E4%B8%AD%E5%90%AB%E6%B3%AA&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时56分 ~ 22时26分]"
         },
         {
           "title": "俄罗斯副总理诺瓦克：俄罗斯预计2026年通胀率为5.2%，2027年将回归俄罗斯央行4%的目标。",
@@ -86,7 +110,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时56分"
         },
@@ -124,17 +148,6 @@
           "time_info": "14时45分"
         },
         {
-          "title": "抖音评论区 陈赫眼中含泪",
-          "url": "https://s.weibo.com/weibo?q=%E6%8A%96%E9%9F%B3%E8%AF%84%E8%AE%BA%E5%8C%BA%20%E9%99%88%E8%B5%AB%E7%9C%BC%E4%B8%AD%E5%90%AB%E6%B3%AA&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时56分"
-        },
-        {
           "title": "货币市场目前定价显示，预计欧洲央行今年将加息三次。",
           "url": "https://flash.jin10.com/detail/20260512142845390800",
           "source": "金十数据",
@@ -144,17 +157,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
-        },
-        {
-          "title": "引导隔夜利率在政策利率水平附近运行，央行最新报告释放了哪些信号",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33157154",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时56分"
         },
         {
           "title": "交易员已完全计入英国央行在2026年将加息三次，每次25个基点。",
@@ -390,7 +392,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时56分"
         }
