@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-13T18:26:37.332366+08:00",
-  "total_titles_processed": 1223,
+  "generated_at": "2026-05-13T21:28:40.009671+08:00",
+  "total_titles_processed": 1397,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "瑞典央行行长特登：中东冲突正在对全球及瑞典的经济活动和通胀前景造成相当大的不确定性。",
@@ -41,6 +41,30 @@
           "time_info": "[01时21分 ~ 07时09分]"
         },
         {
+          "title": "抖音集团超15亿扶持真人短剧",
+          "url": "https://www.douyin.com/hot/2497347",
+          "source": "抖音",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 21时28分]"
+        },
+        {
+          "title": "塔菲抖音爆红,bw展位被砍",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354242&amp;topic_name=%E5%A1%94%E8%8F%B2%E6%8A%96%E9%9F%B3%E7%88%86%E7%BA%A2%2Cbw%E5%B1%95%E4%BD%8D%E8%A2%AB%E7%A0%8D",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 21时28分]"
+        },
+        {
           "title": "韩寒发抖音推荐给阿嬷的情书",
           "url": "https://www.douyin.com/hot/2497143",
           "source": "抖音",
@@ -64,28 +88,6 @@
           "time_info": "15时49分"
         },
         {
-          "title": "抖音集团超15亿扶持真人短剧",
-          "url": "https://www.douyin.com/hot/2497347",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        },
-        {
-          "title": "塔菲抖音爆红,bw展位被砍",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354242&amp;topic_name=%E5%A1%94%E8%8F%B2%E6%8A%96%E9%9F%B3%E7%88%86%E7%BA%A2%2Cbw%E5%B1%95%E4%BD%8D%E8%A2%AB%E7%A0%8D",
-          "source": "贴吧",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        },
-        {
           "title": "匈牙利央行：标准外汇掉期工具的定价将从现在起重新设定为比现行基准利率低100个基点。",
           "url": "https://flash.jin10.com/detail/20260513152333675800",
           "source": "金十数据",
@@ -103,9 +105,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
+        },
+        {
+          "title": "欧洲央行管委Kocher：我们仍然最接近基线情景。",
+          "url": "https://wallstreetcn.com/livenews/3103039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "泰国央行：不急于加息。",
@@ -119,6 +132,17 @@
           "time_info": "12时44分"
         },
         {
+          "title": "全球能源价格冲击仍在发酵 土耳其央行或调整年末通胀目标",
+          "url": "https://flash.jin10.com/detail/20260513210008533800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
           "title": "欧洲央行管委Rehn：通胀预期依然稳定。 数据显示出现滞胀冲击的初步迹象。 已更接近一个不太有利的情景。 关键因素是能源冲击的强度和持续时间。 目前能源冲击“尚未像2022年那样严重”。 迄今工资数据令人放心。 欧洲央行将在6月会议上发布全面的预测更新。 欧洲央行将以稳健的方式执行货币政策。",
           "url": "https://wallstreetcn.com/livenews/3102799",
           "source": "华尔街见闻-快讯",
@@ -128,13 +152,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
+        },
+        {
+          "title": "DeepTalk：央行疯扫背景下，黄金这场牛市注定与1970年代不一样？",
+          "url": "https://flash.jin10.com/detail/20260513205312661800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         }
       ]
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "如何看待沈阳外卖单王买奥迪？",
+          "url": "https://www.zhihu.com/question/2036185311252845010",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时49分 ~ 21时28分]"
+        },
         {
           "title": "新能源车零售渗透率达到 61.4%，首次突破 60% 大关，如何看待这一数据？燃油车还有未来吗？",
           "url": "https://www.zhihu.com/question/2037167038641198584",
@@ -147,17 +193,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时10分 ~ 15时49分]"
-        },
-        {
-          "title": "如何看待沈阳外卖单王买奥迪？",
-          "url": "https://www.zhihu.com/question/2036185311252845010",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时49分 ~ 18时26分]"
         },
         {
           "title": "数看4月新能源汽车产业成绩单",
@@ -187,11 +222,12 @@
           "source": "知乎",
           "ranks": [
             20,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时49分 ~ 18时26分]"
+          "appearance_count": 3,
+          "time_info": "[15时49分 ~ 21时28分]"
         },
         {
           "title": "比亚迪第三代元PLUS将于5月21日上市",
@@ -205,13 +241,24 @@
           "time_info": "[12时43分 ~ 12时44分]"
         },
         {
+          "title": "比亚迪方程豹豹8/豹5闪充版上市",
+          "url": "https://www.toutiao.com/trending/7638890947837411378/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
           "title": "比亚迪高管称正与Stellantis等洽谈接手欧洲工厂",
           "url": "https://wallstreetcn.com/livenews/3102891",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -279,6 +326,56 @@
       ]
     },
     {
+      "keyword_group": "苹果 Apple Mac iPhone 手机",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "百度智能云：已服务超1000家AI硬件公司，全球Top10手机厂商全部在列",
+          "url": "https://wallstreetcn.com/livenews/3102702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "如何看待辽宁一女子因感谢弟弟照顾，立遗嘱将全部遗产给弟弟，其女儿起诉返还 857 万被拒，仅得到一部手机？",
+          "url": "https://www.zhihu.com/question/2037839972808517106",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
+          "title": "报道：苹果计划升级相机应用并对iOS 27进行设计大改",
+          "url": "https://wallstreetcn.com/livenews/3102485",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "你刚想啥手机就推啥？当心这些设置",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%A0%E5%88%9A%E6%83%B3%E5%95%A5%E6%89%8B%E6%9C%BA%E5%B0%B1%E6%8E%A8%E5%95%A5%EF%BC%9F%E5%BD%93%E5%BF%83%E8%BF%99%E4%BA%9B%E8%AE%BE%E7%BD%AE",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "英雄联盟 LOL",
       "match_count": 3,
       "titles": [
@@ -287,11 +384,12 @@
           "url": "https://search.bilibili.com/all?keyword=LOL%E6%96%B0%E7%89%88%E6%9C%AC%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E8%B5%9B%E4%BA%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 21时28分]"
         },
         {
           "title": "英雄联盟飞天意面 维克兹",
@@ -312,48 +410,9 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "百度智能云：已服务超1000家AI硬件公司，全球Top10手机厂商全部在列",
-          "url": "https://wallstreetcn.com/livenews/3102702",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时44分"
-        },
-        {
-          "title": "如何看待辽宁一女子因感谢弟弟照顾，立遗嘱将全部遗产给弟弟，其女儿起诉返还 857 万被拒，仅得到一部手机？",
-          "url": "https://www.zhihu.com/question/2037839972808517106",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
           "time_info": "18时26分"
-        },
-        {
-          "title": "报道：苹果计划升级相机应用并对iOS 27进行设计大改",
-          "url": "https://wallstreetcn.com/livenews/3102485",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时20分"
         }
       ]
     },
