@@ -1,94 +1,23 @@
 {
-  "generated_at": "2026-05-14T04:46:04.979722+08:00",
-  "total_titles_processed": 469,
+  "generated_at": "2026-05-14T06:18:43.294925+08:00",
+  "total_titles_processed": 528,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "如何看待沈阳外卖单王买奥迪？",
-          "url": "https://www.zhihu.com/question/2036185311252845010",
-          "source": "知乎",
-          "ranks": [
-            3,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时46分]"
-        },
-        {
-          "title": "比亚迪鲨鱼皮卡今年将在国内销售",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E9%B2%A8%E9%B1%BC%E7%9A%AE%E5%8D%A1%E4%BB%8A%E5%B9%B4%E5%B0%86%E5%9C%A8%E5%9B%BD%E5%86%85%E9%94%80%E5%94%AE",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时46分]"
-        },
-        {
-          "title": "比亚迪鲨鱼皮卡今年将在国内销售",
-          "url": "https://www.toutiao.com/trending/7639359418274512902/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时46分]"
-        },
-        {
-          "title": "不少车主反映停车位「缩水」，而新能源车身普遍变宽停车越来越难，停车位真的缩水了吗？宽度标准该调整了吗？",
-          "url": "https://www.zhihu.com/question/2037631560241739641",
-          "source": "知乎",
-          "ranks": [
-            8,
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时46分]"
-        },
-        {
-          "title": "比亚迪方程豹豹8/豹5闪充版上市",
-          "url": "https://www.toutiao.com/trending/7638890947837411378/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时46分]"
-        },
-        {
-          "title": "特斯拉推出“轻松贷”",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E6%8E%A8%E5%87%BA%E2%80%9C%E8%BD%BB%E6%9D%BE%E8%B4%B7%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            17,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时46分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "欧洲央行行长呼吁欧洲领导人打破自满、推进改革",
+          "url": "https://flash.jin10.com/detail/20260514050014014800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
         {
           "title": "抖音集团超15亿扶持真人短剧",
           "url": "https://www.douyin.com/hot/2497347",
@@ -98,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时46分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 06时18分]"
         },
         {
           "title": "塔菲抖音爆红,bw展位被砍",
@@ -109,8 +38,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时46分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 06时18分]"
         },
         {
           "title": "美国参议院民主党领导人Schumer谴责总统特朗普，称：任命新的美联储主席将破坏央行独立性。",
@@ -155,6 +84,168 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "韩寒发抖音推荐给阿嬷的情书",
+          "url": "https://www.douyin.com/hot/2497143",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "如何看待沈阳外卖单王买奥迪？",
+          "url": "https://www.zhihu.com/question/2036185311252845010",
+          "source": "知乎",
+          "ranks": [
+            3,
+            18,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 06时18分]"
+        },
+        {
+          "title": "比亚迪鲨鱼皮卡今年将在国内销售",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E9%B2%A8%E9%B1%BC%E7%9A%AE%E5%8D%A1%E4%BB%8A%E5%B9%B4%E5%B0%86%E5%9C%A8%E5%9B%BD%E5%86%85%E9%94%80%E5%94%AE",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 06时18分]"
+        },
+        {
+          "title": "比亚迪鲨鱼皮卡今年将在国内销售",
+          "url": "https://www.toutiao.com/trending/7639359418274512902/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            17,
+            23,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 06时18分]"
+        },
+        {
+          "title": "特斯拉推出“轻松贷”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E6%8E%A8%E5%87%BA%E2%80%9C%E8%BD%BB%E6%9D%BE%E8%B4%B7%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            17,
+            28,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 06时18分]"
+        },
+        {
+          "title": "不少车主反映停车位「缩水」，而新能源车身普遍变宽停车越来越难，停车位真的缩水了吗？宽度标准该调整了吗？",
+          "url": "https://www.zhihu.com/question/2037631560241739641",
+          "source": "知乎",
+          "ranks": [
+            8,
+            12,
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 06时18分]"
+        },
+        {
+          "title": "比亚迪方程豹豹8/豹5闪充版上市",
+          "url": "https://www.toutiao.com/trending/7638890947837411378/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 06时18分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "微软为OpenAI相关交易合作未雨绸缪，考虑达成多笔AI交易。 此前，该公司考虑收购Cursor。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3103215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时46分"
+        },
+        {
+          "title": "消息人士：微软正探索与人工智能初创公司达成交易，以为“后OpenAI时代”做准备。微软曾考虑收购Cursor，但因反垄断担忧而放弃。微软已与人工智能初创公司Inception讨论交易事宜。Inception已聘请一家银行，就至少10亿美元的交易进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260514041348939800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 06时18分]"
+        },
+        {
+          "title": "美国佛州枪击案律师：ChatGPT为枪手作案“出谋划策”",
+          "url": "https://wallstreetcn.com/livenews/3103184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时57分 ~ 04时46分]"
+        },
+        {
+          "title": "微软寻求收购AI公司以摆脱对OpenAI依赖",
+          "url": "https://flash.jin10.com/detail/20260514043922541800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "报道：微软寻求AI交易，为“后OpenAI时代”做准备",
+          "url": "https://wallstreetcn.com/livenews/3103215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
         }
       ]
     },
@@ -167,11 +258,12 @@
           "url": "https://wallstreetcn.com/livenews/3103212",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 06时18分]"
         },
         {
           "title": "谷歌公司、微软、马斯克旗下X（原名推特）、Anthropic、Perplexity因大语言模型（LLM）问题而被美国议员们质询。（PunchBowl）",
@@ -194,46 +286,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "微软为OpenAI相关交易合作未雨绸缪，考虑达成多笔AI交易。 此前，该公司考虑收购Cursor。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3103215",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "美国佛州枪击案律师：ChatGPT为枪手作案“出谋划策”",
-          "url": "https://wallstreetcn.com/livenews/3103184",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时57分 ~ 04时46分]"
-        },
-        {
-          "title": "消息人士：微软正探索与人工智能初创公司达成交易，以为“后OpenAI时代”做准备。微软曾考虑收购Cursor，但因反垄断担忧而放弃。微软已与人工智能初创公司Inception讨论交易事宜。Inception已聘请一家银行，就至少10亿美元的交易进行谈判。",
-          "url": "https://flash.jin10.com/detail/20260514041348939800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时46分"
         }
       ]
     },
@@ -278,8 +330,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时57分"
+          "appearance_count": 2,
+          "time_info": "[02时57分 ~ 06时18分]"
         }
       ]
     }
