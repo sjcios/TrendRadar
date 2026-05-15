@@ -1,625 +1,94 @@
 {
-  "generated_at": "2026-05-15T22:04:49.434460+08:00",
-  "total_titles_processed": 1452,
+  "generated_at": "2026-05-16T00:51:24.254561+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 18,
+      "match_count": 5,
       "titles": [
         {
           "title": "特朗普Q1交易：大幅减持亚马逊、Meta和微软，买入英伟达、博通和苹果，抄底甲骨文、Adobe等软件股",
           "url": "https://wallstreetcn.com/articles/3772311",
           "source": "华尔街见闻",
           "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时34分 ~ 22时04分]"
-        },
-        {
-          "title": "苹果深夜降价：iPhone17上市后首次降价",
-          "url": "https://www.cls.cn/detail/2371883",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时34分 ~ 14时57分]"
-        },
-        {
-          "title": "曝苹果iPhone 18全系采用自研5G基带",
-          "url": "https://www.toutiao.com/trending/7639594976166772778/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时56分 ~ 14时57分]"
-        },
-        {
-          "title": "第一批iPhone17降价受害者发声",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9iPhone17%E9%99%8D%E4%BB%B7%E5%8F%97%E5%AE%B3%E8%80%85%E5%8F%91%E5%A3%B0%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时56分 ~ 14时57分]"
-        },
-        {
-          "title": "跳票近一年 特朗普“土豪金”T1手机开始发货",
-          "url": "https://flash.jin10.com/detail/20260515044047642800",
-          "source": "金十数据",
-          "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时10分"
+          "time_info": "00时51分"
+        },
+        {
+          "title": "部分降价千元！苹果华为开启促销，iPhone17Pro最低6999元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33181501",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时51分"
         },
         {
           "title": "苹果手机为何宣布大降价",
           "url": "https://www.toutiao.com/trending/7640011427918384646/",
           "source": "今日头条",
           "ranks": [
-            6,
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时47分 ~ 22时04分]"
-        },
-        {
-          "title": "苹果深夜降价，17 Pro 系列首次进入 6000 元档位，17 到手 4499 元，怎样看待此次调价？",
-          "url": "https://www.zhihu.com/question/2038548921241359825",
-          "source": "知乎",
-          "ranks": [
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时47分 ~ 20时08分]"
-        },
-        {
-          "title": "iPhone17系列大降价",
-          "url": "https://search.bilibili.com/all?keyword=iPhone17%E7%B3%BB%E5%88%97%E5%A4%A7%E9%99%8D%E4%BB%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时56分 ~ 14时57分]"
-        },
-        {
-          "title": "iPhone17官宣降价",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone17%E5%AE%98%E5%AE%A3%E9%99%8D%E4%BB%B7%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时56分 ~ 14时57分]"
-        },
-        {
-          "title": "苹果为什么要开始“去台积电”化",
-          "url": "https://www.toutiao.com/trending/7639988378078809650/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时47分 ~ 17时48分]"
-        },
-        {
-          "title": "iPhone17Pro降价2000",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone17Pro%E9%99%8D%E4%BB%B72000%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时34分 ~ 11时35分]"
-        },
-        {
-          "title": "iPhone18Pro配色是夯还是拉",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E9%85%8D%E8%89%B2%E6%98%AF%E5%A4%AF%E8%BF%98%E6%98%AF%E6%8B%89%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时34分 ~ 11时35分]"
-        },
-        {
-          "title": "高端手机市场战事升级",
-          "url": "https://www.toutiao.com/trending/7639957191817956891/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时47分 ~ 17时48分]"
+          "appearance_count": 1,
+          "time_info": "00时51分"
         },
         {
           "title": "iPhone一年一换比三年一换更省钱",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone%E4%B8%80%E5%B9%B4%E4%B8%80%E6%8D%A2%E6%AF%94%E4%B8%89%E5%B9%B4%E4%B8%80%E6%8D%A2%E6%9B%B4%E7%9C%81%E9%92%B1%23&t=31&band_rank=7&Refer=top",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone%E4%B8%80%E5%B9%B4%E4%B8%80%E6%8D%A2%E6%AF%94%E4%B8%89%E5%B9%B4%E4%B8%80%E6%8D%A2%E6%9B%B4%E7%9C%81%E9%92%B1%23&t=31&band_rank=23&Refer=top",
           "source": "微博",
           "ranks": [
-            7
+            23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时04分"
+          "time_info": "00时51分"
         },
         {
-          "title": "女子好心救人却损失一部手机",
-          "url": "https://www.toutiao.com/trending/7639728933376458806/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时04分"
-        },
-        {
-          "title": "郭明錤：Apple正系统性培养Intel成为长期关键供应商",
-          "url": "https://wallstreetcn.com/livenews/3104141",
+          "title": "苹果公司股价涨幅扩大至1%。Workday涨3.9%，Salesforce涨3.5%，Adobe涨3.2%，Zscaler涨3%。 标普500指数目前跌1%，道指跌450点、跌幅0.9%，纳指跌362点、跌幅1.4%，纳斯达克100指数跌407点、跌幅1.4%，费城半导体指数跌460点、跌幅3.8%。",
+          "url": "https://wallstreetcn.com/livenews/3104532",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时57分"
-        },
-        {
-          "title": "20周年iPhone或放弃四曲面方案",
-          "url": "https://s.weibo.com/weibo?q=%2320%E5%91%A8%E5%B9%B4iPhone%E6%88%96%E6%94%BE%E5%BC%83%E5%9B%9B%E6%9B%B2%E9%9D%A2%E6%96%B9%E6%A1%88%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "俄外长讲话被手机铃声干扰斥责记者",
-          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E5%A4%96%E9%95%BF%E8%AE%B2%E8%AF%9D%E8%A2%AB%E6%89%8B%E6%9C%BA%E9%93%83%E5%A3%B0%E5%B9%B2%E6%89%B0%E6%96%A5%E8%B4%A3%E8%AE%B0%E8%80%85",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "央行 抖音 小红书",
-      "match_count": 18,
-      "titles": [
-        {
-          "title": "中美关系的潜力、张力、角力｜中美青年需要比“小红书对账”更宽广的天地",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33172855",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 06时56分]"
-        },
-        {
-          "title": "“2026年抖音商城618”于5月15日正式开启",
-          "url": "https://wallstreetcn.com/livenews/3104324",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时48分"
-        },
-        {
-          "title": "央行行长：债务重组将使委内瑞拉“走出阴影”",
-          "url": "https://wallstreetcn.com/livenews/3103862",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时44分 ~ 05时10分]"
-        },
-        {
-          "title": "美国至5月8日当周外国央行持有美国国债 -392.39亿美元，前值-87.4亿美元。",
-          "url": "https://flash.jin10.com/detail/20260515043113531800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时10分"
-        },
-        {
-          "title": "委内瑞拉央行代理行长：2026年第一季度国内生产总值增长2.51%，预计到2026年底GDP将增长约8%。",
-          "url": "https://flash.jin10.com/detail/20260515023026512800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
-          "title": "秘鲁央行维持参考利率在4.25%不变。",
-          "url": "https://wallstreetcn.com/livenews/3103945",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "委内瑞拉央行代理行长：与美国财政部保持每日对话，关系密切。",
-          "url": "https://flash.jin10.com/detail/20260515023013964800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
-          "title": "委内瑞拉央行代理行长：2026年第一季度，石油行业GDP下降2.1%，非石油行业GDP增长3.1%。",
-          "url": "https://flash.jin10.com/detail/20260515023006519800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
-          "title": "韩国央行数据显示，4月韩国国内股票外资净流出金额为26.8亿美元，3月为净流出297.8亿美元。",
-          "url": "https://flash.jin10.com/detail/20260515110229769800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时35分"
-        },
-        {
-          "title": "秘鲁央行将基准利率维持在4.25%不变。",
-          "url": "https://flash.jin10.com/detail/20260515070119933800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "韩国央行数据显示，4月韩国国内债券外资净流入为5.5亿美元，3月为净流出67.7亿美元。",
-          "url": "https://flash.jin10.com/detail/20260515110146355800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时35分"
-        },
-        {
-          "title": "日本央行警告投资基金活动或引发金融体系风险",
-          "url": "https://flash.jin10.com/detail/20260515142328614800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时57分"
-        },
-        {
-          "title": "英国央行首席经济学家Pill：企业和家庭比以往对价格更加敏感。",
-          "url": "https://wallstreetcn.com/livenews/3103822",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
-        },
-        {
-          "title": "英国央行首席经济学家：呼吁采取“及时但适度”的加息措施，从而缓解通胀压力",
-          "url": "https://wallstreetcn.com/livenews/3103846",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
-          "title": "英国央行首席经济学家Huw Pill：通胀失速趋势已经在伊朗战争之前陷入停滞。 能源价格前景存在不确定性。 应该侧重于二次（通胀）效应。 无法容忍通胀动能失控。 面对不确定性时，政策必须让央行处于最佳状态。 预计不会重演2022年那样的二次效应。 劳动力市场比2022年更加松弛。 2022年存在过剩资金。",
-          "url": "https://wallstreetcn.com/livenews/3103809",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
-        },
-        {
-          "title": "英国央行首席经济学家皮尔：如果英国长期国债收益率上升是由于暂时性的政治不确定性所致，那么或许应该对其进行对冲；但如果是由通胀驱动的，则不然。",
-          "url": "https://flash.jin10.com/detail/20260515000232937800",
-          "source": "金十数据",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时04分"
-        },
-        {
-          "title": "央行发布关于《中国人民银行管理领域严重失信主体名单管理办法（征求意见稿）》公开征求意见的通知",
-          "url": "https://flash.jin10.com/detail/20260515170238076800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时48分"
-        },
-        {
-          "title": "欧洲央行管委武伊契奇：6月是否加息取决于即将公布的数据。",
-          "url": "https://flash.jin10.com/detail/20260515191351003800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时08分"
+          "time_info": "00时51分"
         }
       ]
     },
     {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "新能源车开启涨价潮",
-          "url": "https://www.douyin.com/hot/2498907",
-          "source": "抖音",
-          "ranks": [
-            10,
-            11,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时04分 ~ 11时35分]"
-        },
-        {
-          "title": "比亚迪首款皮卡「鲨鱼」将在国内销售，能否改变现有市场格局？",
-          "url": "https://www.zhihu.com/question/2038053798040576268",
-          "source": "知乎",
-          "ranks": [
-            13,
-            12,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时56分 ~ 22时04分]"
-        },
-        {
-          "title": "2026 年了，如果你今年换车，你会选新能源车吗？",
-          "url": "https://www.zhihu.com/question/2032194954789909616",
-          "source": "知乎",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时09分 ~ 06时56分]"
-        },
-        {
-          "title": "新能源车开启涨价潮",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E5%BC%80%E5%90%AF%E6%B6%A8%E4%BB%B7%E6%BD%AE%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时34分 ~ 11时35分]"
-        },
-        {
-          "title": "比亚迪证实计划收购欧洲车企闲置工厂",
-          "url": "https://www.toutiao.com/trending/7639510255705735210/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时56分 ~ 14时57分]"
-        },
-        {
-          "title": "长续航Model Y价格上调1.8万元？特斯拉中国回应：假消息",
-          "url": "https://wallstreetcn.com/livenews/3104139",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时57分"
-        },
-        {
-          "title": "王传福：比亚迪电池产能紧张",
-          "url": "https://wallstreetcn.com/livenews/3104379",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "苹果与OpenAI合作关系紧张 潜在法律纠纷一触即发",
-          "url": "https://flash.jin10.com/detail/20260515004813773800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
-        },
-        {
-          "title": "据科技媒体TechCrunsh：OpenAI表示，黑客在最新的代码安全问题发生后窃取了一些数据。",
-          "url": "https://flash.jin10.com/detail/20260515002730015800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
-        },
-        {
-          "title": "OpenAI：ChatGPT移动应用中的Codex功能预览版正开始在iOS和Android平台向所有套餐用户推出，包括免费版和Go套餐，将在所有支持地区上线。",
-          "url": "https://flash.jin10.com/detail/20260515040418915800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时10分"
-        },
-        {
-          "title": "如何看待 Anthropic 估值反超 OpenAI ？",
-          "url": "https://www.zhihu.com/question/2038588162453104310",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时08分"
-        },
-        {
-          "title": "苹果与OpenAI关系恶化，恐引发法律诉讼",
-          "url": "https://wallstreetcn.com/livenews/3103841",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
+      "keyword_group": "央行 抖音 小红书",
       "match_count": 2,
       "titles": [
         {
-          "title": "澳新银行：金价预计迈向6,000美元 能源危机将打击经济增长",
-          "url": "https://wallstreetcn.com/livenews/3104170",
+          "title": "据国际文传电讯社IFX报道，EuroClear律师称，俄罗斯法院支持俄央行的诉求，命令EuroClear支付2000亿欧元。 塔斯社称，2025年12月15日，俄罗斯在莫斯科就2290亿美元（资产问题）起诉EuroClear。",
+          "url": "https://wallstreetcn.com/livenews/3104558",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时57分"
+          "time_info": "00时51分"
         },
         {
-          "title": "“逆风”来袭！通胀爆表引发美联储“更高更久”预期，金价本周或收跌",
-          "url": "https://flash.jin10.com/detail/20260515143128442800",
+          "title": "欧清银行律师：莫斯科法院支持央行就冻结资产向欧清银行追偿损失，涉案金额达18.17万亿卢布。",
+          "url": "https://flash.jin10.com/detail/20260515235918706800",
           "source": "金十数据",
           "ranks": [
-            9
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "英雄联盟 LOL",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "如何评价 LoL 设计师在 26.10 版本突然发布的兵线改动？",
-          "url": "https://www.zhihu.com/question/2038269362247836045",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时34分 ~ 11时35分]"
-        },
-        {
-          "title": "LOL小兵仇恨机制改动",
-          "url": "https://search.bilibili.com/all?keyword=LOL%E5%B0%8F%E5%85%B5%E4%BB%87%E6%81%A8%E6%9C%BA%E5%88%B6%E6%94%B9%E5%8A%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时47分 ~ 17时48分]"
+          "time_info": "00时51分"
         }
       ]
     },
@@ -628,15 +97,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "Gemini Space Station Inc.（GEMI）获得1亿美元投资。 公司一季度营收5030万美元，分析师预期4870万美元。",
-          "url": "https://wallstreetcn.com/livenews/3103894",
+          "title": "对冲基金潘兴广场创始人兼经理比尔·阿克曼：我们卖出谷歌，买入微软。",
+          "url": "https://wallstreetcn.com/livenews/3104544",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时10分"
+          "time_info": "00时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI联手Plaid，为大众提供量身定制的财务咨询",
+          "url": "https://wallstreetcn.com/livenews/3104554",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时51分"
         }
       ]
     }
