@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-15T07:57:28.494678+08:00",
-  "total_titles_processed": 626,
+  "generated_at": "2026-05-15T11:35:11.844914+08:00",
+  "total_titles_processed": 821,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "中美关系的潜力、张力、角力｜中美青年需要比“小红书对账”更宽广的天地",
@@ -60,7 +60,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         },
@@ -87,15 +87,37 @@
           "time_info": "03时44分"
         },
         {
+          "title": "韩国央行数据显示，4月韩国国内股票外资净流出金额为26.8亿美元，3月为净流出297.8亿美元。",
+          "url": "https://flash.jin10.com/detail/20260515110229769800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
           "title": "秘鲁央行将基准利率维持在4.25%不变。",
           "url": "https://flash.jin10.com/detail/20260515070119933800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        },
+        {
+          "title": "韩国央行数据显示，4月韩国国内债券外资净流入为5.5亿美元，3月为净流出67.7亿美元。",
+          "url": "https://flash.jin10.com/detail/20260515110146355800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
         },
         {
           "title": "英国央行首席经济学家Pill：企业和家庭比以往对价格更加敏感。",
@@ -140,6 +162,78 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 Apple Mac iPhone 手机",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "苹果深夜降价：iPhone17上市后首次降价",
+          "url": "https://www.cls.cn/detail/2371883",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时34分 ~ 11时35分]"
+        },
+        {
+          "title": "特朗普Q1交易：大幅减持亚马逊、Meta和微软，买入英伟达、博通和苹果，抄底甲骨文、Adobe等软件股",
+          "url": "https://wallstreetcn.com/articles/3772311",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时34分 ~ 11时35分]"
+        },
+        {
+          "title": "跳票近一年 特朗普“土豪金”T1手机开始发货",
+          "url": "https://flash.jin10.com/detail/20260515044047642800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时10分"
+        },
+        {
+          "title": "iPhone17Pro降价2000",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone17Pro%E9%99%8D%E4%BB%B72000%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时34分 ~ 11时35分]"
+        },
+        {
+          "title": "iPhone18Pro配色是夯还是拉",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E9%85%8D%E8%89%B2%E6%98%AF%E5%A4%AF%E8%BF%98%E6%98%AF%E6%8B%89%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时34分 ~ 11时35分]"
+        },
+        {
+          "title": "20周年iPhone或放弃四曲面方案",
+          "url": "https://s.weibo.com/weibo?q=%2320%E5%91%A8%E5%B9%B4iPhone%E6%88%96%E6%94%BE%E5%BC%83%E5%9B%9B%E6%9B%B2%E9%9D%A2%E6%96%B9%E6%A1%88%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时57分"
         }
       ]
     },
@@ -194,36 +288,8 @@
       ]
     },
     {
-      "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "跳票近一年 特朗普“土豪金”T1手机开始发货",
-          "url": "https://flash.jin10.com/detail/20260515044047642800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时10分"
-        },
-        {
-          "title": "20周年iPhone或放弃四曲面方案",
-          "url": "https://s.weibo.com/weibo?q=%2320%E5%91%A8%E5%B9%B4iPhone%E6%88%96%E6%94%BE%E5%BC%83%E5%9B%9B%E6%9B%B2%E9%9D%A2%E6%96%B9%E6%A1%88%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        }
-      ]
-    },
-    {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "新能源车开启涨价潮",
@@ -236,8 +302,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 07时57分]"
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 11时35分]"
         },
         {
           "title": "2026 年了，如果你今年换车，你会选新能源车吗？",
@@ -250,6 +316,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时09分 ~ 06时56分]"
+        },
+        {
+          "title": "新能源车开启涨价潮",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E5%BC%80%E5%90%AF%E6%B6%A8%E4%BB%B7%E6%BD%AE%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时34分 ~ 11时35分]"
         }
       ]
     },
@@ -267,6 +344,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英雄联盟 LOL",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价 LoL 设计师在 26.10 版本突然发布的兵线改动？",
+          "url": "https://www.zhihu.com/question/2038269362247836045",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时34分 ~ 11时35分]"
         }
       ]
     }
