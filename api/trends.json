@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T05:48:02.558778+08:00",
-  "total_titles_processed": 428,
+  "generated_at": "2026-05-17T06:43:44.135334+08:00",
+  "total_titles_processed": 441,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 05时48分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 06时43分]"
         },
         {
           "title": "苹果、华为、小米集体官宣：降价",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 05时48分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 06时43分]"
         },
         {
           "title": "iPhone17降价,安卓被打懵",
@@ -37,8 +37,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 05时48分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 06时43分]"
         },
         {
           "title": "华为 Mate90 系列提档 9 月，这对高端手机市场意味着什么？",
@@ -46,11 +46,12 @@
           "source": "知乎",
           "ranks": [
             20,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时44分 ~ 05时48分]"
+          "appearance_count": 4,
+          "time_info": "[04时44分 ~ 06时43分]"
         },
         {
           "title": "苹果华为抢着降价 谁怕了",
@@ -77,11 +78,12 @@
           "ranks": [
             7,
             5,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 05时48分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 06时43分]"
         },
         {
           "title": "多款燃油车降价 降幅最大近30%",
@@ -89,11 +91,12 @@
           "source": "百度热搜",
           "ranks": [
             9,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 05时48分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 06时43分]"
         },
         {
           "title": "比亚迪4月销量背后的行业变化",
@@ -122,8 +125,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 05时48分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 06时43分]"
         }
       ]
     },
@@ -139,8 +142,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 05时48分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 06时43分]"
         }
       ]
     },
@@ -158,8 +161,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时48分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 06时43分]"
         }
       ]
     },
@@ -172,11 +175,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E5%A4%9A%E4%B9%B0%E5%B0%8F%E8%B7%8C%E5%B0%91%E4%B9%B0%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
           "ranks": [
-            30
+            30,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 06时43分]"
         }
       ]
     },
@@ -191,11 +195,12 @@
           "ranks": [
             19,
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时02分 ~ 05时48分]"
+          "appearance_count": 6,
+          "time_info": "[03时02分 ~ 06时43分]"
         }
       ]
     },
@@ -213,8 +218,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时48分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 06时43分]"
         }
       ]
     }
