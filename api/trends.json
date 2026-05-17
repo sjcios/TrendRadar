@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-18T06:53:13.238485+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2026-05-18T07:57:30.603873+08:00",
+  "total_titles_processed": 553,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             10,
             13,
             26,
-            15
+            15,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 06时53分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 07时57分]"
         },
         {
           "title": "iPhone17降价,安卓被打懵",
@@ -30,8 +31,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 06时53分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 07时57分]"
         },
         {
           "title": "宝宝趁妈妈睡觉拿妈妈手指解锁手机",
@@ -40,11 +41,12 @@
           "ranks": [
             20,
             22,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时06分 ~ 06时53分]"
+          "appearance_count": 6,
+          "time_info": "[03时06分 ~ 07时57分]"
         },
         {
           "title": "苹果华为小米集体降价",
@@ -53,11 +55,12 @@
           "ranks": [
             18,
             19,
-            6
+            6,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时49分 ~ 06时53分]"
+          "appearance_count": 5,
+          "time_info": "[04时49分 ~ 07时57分]"
         },
         {
           "title": "胖东来回应主动退顾客iPhone差价",
@@ -84,8 +87,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 06时53分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 07时57分]"
         }
       ]
     },
@@ -102,11 +105,12 @@
             4,
             7,
             6,
-            9
+            9,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 06时53分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 07时57分]"
         }
       ]
     }
