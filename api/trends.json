@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-18T05:54:54.079786+08:00",
-  "total_titles_processed": 442,
+  "generated_at": "2026-05-18T06:53:13.238485+08:00",
+  "total_titles_processed": 468,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "店员回应降价iPhone17被疯抢",
@@ -15,11 +15,12 @@
             8,
             10,
             13,
-            26
+            26,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 05时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时02分 ~ 06时53分]"
         },
         {
           "title": "iPhone17降价,安卓被打懵",
@@ -29,8 +30,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 05时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时02分 ~ 06时53分]"
         },
         {
           "title": "宝宝趁妈妈睡觉拿妈妈手指解锁手机",
@@ -38,11 +39,12 @@
           "source": "今日头条",
           "ranks": [
             20,
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时06分 ~ 05时54分]"
+          "appearance_count": 5,
+          "time_info": "[03时06分 ~ 06时53分]"
         },
         {
           "title": "苹果华为小米集体降价",
@@ -50,11 +52,23 @@
           "source": "今日头条",
           "ranks": [
             18,
-            19
+            19,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时49分 ~ 06时53分]"
+        },
+        {
+          "title": "胖东来回应主动退顾客iPhone差价",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E5%9B%9E%E5%BA%94%E4%B8%BB%E5%8A%A8%E9%80%80%E9%A1%BE%E5%AE%A2iPhone%E5%B7%AE%E4%BB%B7%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时49分 ~ 05时54分]"
+          "time_info": "[06时52分 ~ 06时53分]"
         }
       ]
     },
@@ -70,8 +84,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 05时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时02分 ~ 06时53分]"
         }
       ]
     },
@@ -87,11 +101,12 @@
             5,
             4,
             7,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 05时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时02分 ~ 06时53分]"
         }
       ]
     }
