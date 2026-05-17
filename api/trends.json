@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-05-18T01:03:10.583493+08:00",
-  "total_titles_processed": 324,
+  "generated_at": "2026-05-18T03:07:11.542599+08:00",
+  "total_titles_processed": 385,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "店员回应降价iPhone17被疯抢",
           "url": "https://s.weibo.com/weibo?q=%23%E5%BA%97%E5%91%98%E5%9B%9E%E5%BA%94%E9%99%8D%E4%BB%B7iPhone17%E8%A2%AB%E7%96%AF%E6%8A%A2%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 03时07分]"
         },
         {
           "title": "iPhone17降价,安卓被打懵",
@@ -26,8 +27,19 @@
             18
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 03时07分]"
+        },
+        {
+          "title": "宝宝趁妈妈睡觉拿妈妈手指解锁手机",
+          "url": "https://www.toutiao.com/trending/7640753961727606838/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
+          "time_info": "[03时06分 ~ 03时07分]"
         }
       ]
     },
@@ -43,8 +55,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 03时07分]"
         }
       ]
     },
@@ -58,11 +70,12 @@
           "source": "抖音",
           "ranks": [
             5,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 03时07分]"
         }
       ]
     }
