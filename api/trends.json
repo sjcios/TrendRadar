@@ -1,456 +1,94 @@
 {
-  "generated_at": "2026-05-19T20:09:32.470472+08:00",
-  "total_titles_processed": 1231,
+  "generated_at": "2026-05-20T00:19:03.895171+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 13,
+      "match_count": 4,
       "titles": [
         {
-          "title": "苹果、华为、小米集体官宣降价，如何看待这波降价促销？降价策略还能像以前那样有效拉动销量吗？",
-          "url": "https://www.zhihu.com/question/2038622939864461547",
-          "source": "知乎",
+          "title": "苹果新任硬件总监调整产品设计监管架构，引发高层大洗牌，涉及自研芯片工程",
+          "url": "https://wallstreetcn.com/livenews/3106164",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            16,
-            19,
-            15,
-            17
+            4
           ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 08时05分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时19分"
         },
         {
-          "title": "手机店老板称线下基本不卖新机了",
-          "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E5%BA%97%E8%80%81%E6%9D%BF%E7%A7%B0%E7%BA%BF%E4%B8%8B%E5%9F%BA%E6%9C%AC%E4%B8%8D%E5%8D%96%E6%96%B0%E6%9C%BA%E4%BA%86",
-          "source": "百度热搜",
+          "title": "iPhone或重回钛金属",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone%E6%88%96%E9%87%8D%E5%9B%9E%E9%92%9B%E9%87%91%E5%B1%9E%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
           "ranks": [
-            19,
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 08时05分]"
-        },
-        {
-          "title": "手机集体大降价 门店发声",
-          "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E9%9B%86%E4%BD%93%E5%A4%A7%E9%99%8D%E4%BB%B7+%E9%97%A8%E5%BA%97%E5%8F%91%E5%A3%B0",
-          "source": "百度热搜",
-          "ranks": [
-            5
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时00分 ~ 13时01分]"
-        },
-        {
-          "title": "标普500指数初步收跌0.1%，科技板块跌约1%，工业板块跌0.4%，房地产、金融、日用消费品板块至多涨超1.3%，能源板块涨超1.4%。 纳斯达克100指数初步收跌0.4%，成分股中，再生元制药初步收跌9.6%，希捷科技、Strategy、美光、闪迪至多跌7.1%，汤森路透则涨8.5%，Zscaler涨9%，特许通讯涨9.9%。 3M初步收涨4.2%，Salesforce涨3.2%，雪佛龙涨2.6%，领跑道指成分股，苹果则跌0.8%，英伟达跌1.4%，卡特彼勒跌2.8%。",
-          "url": "https://wallstreetcn.com/livenews/3105587",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时24分"
-        },
-        {
-          "title": "男子腿绑1378个旧手机摄像头入境",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%85%BF%E7%BB%911378%E4%B8%AA%E6%97%A7%E6%89%8B%E6%9C%BA%E6%91%84%E5%83%8F%E5%A4%B4%E5%85%A5%E5%A2%83",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时00分 ~ 16时36分]"
+          "time_info": "[00时18分 ~ 00时19分]"
         },
         {
           "title": "手机店老板称线下基本不卖新机了，随着线上线下价格逐渐倒挂，实体店会消失吗？",
           "url": "https://www.zhihu.com/question/2040003854213850274",
           "source": "知乎",
           "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时35分 ~ 20时09分]"
-        },
-        {
-          "title": "汤唯手机壳",
-          "url": "https://s.weibo.com/weibo?q=%E6%B1%A4%E5%94%AF%E6%89%8B%E6%9C%BA%E5%A3%B3&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "time_info": "[00时18分 ~ 00时19分]"
         },
         {
-          "title": "第一次见给手机放双休的人",
-          "url": "https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E7%BB%99%E6%89%8B%E6%9C%BA%E6%94%BE%E5%8F%8C%E4%BC%91%E7%9A%84%E4%BA%BA&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时00分 ~ 13时01分]"
-        },
-        {
-          "title": "iPhone 18 Pro最新爆料来了",
-          "url": "https://www.douyin.com/hot/2503684",
-          "source": "抖音",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时00分 ~ 13时01分]"
-        },
-        {
-          "title": "iPhone 18 Pro Max配置曝光",
-          "url": "https://www.toutiao.com/trending/7639964938291691526/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时01分 ~ 06时02分]"
-        },
-        {
-          "title": "男子腿绑1378个旧手机摄像头进境被查",
-          "url": "https://www.toutiao.com/trending/7641404056133320746/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时00分"
-        },
-        {
-          "title": "报道：苹果计划为iOS 27推出AI写作助手、快捷指令及壁纸功能",
-          "url": "https://wallstreetcn.com/livenews/3105548",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时51分"
-        },
-        {
-          "title": "苹果iOS 27将引入AI写作与新的快捷功能",
-          "url": "https://flash.jin10.com/detail/20260519013819455800",
+          "title": "苹果(AAPL.O)新任硬件负责人正调整产品设计监管架构，以加快设备开发速度。",
+          "url": "https://flash.jin10.com/detail/20260519234225644800",
           "source": "金十数据",
           "ranks": [
-            22
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "马斯克对OpenAI诉讼被驳回",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AF%B9OpenAI%E8%AF%89%E8%AE%BC%E8%A2%AB%E9%A9%B3%E5%9B%9E%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时04分 ~ 08时05分]"
-        },
-        {
-          "title": "OpenAI 律师：（关于OpenAI与埃隆·马斯克的诉讼判决）即使有上诉，对我们的立场也非常有信心。",
-          "url": "https://flash.jin10.com/detail/20260519021820181800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时51分"
-        },
-        {
-          "title": "马斯克起诉Altman案败诉，强制OpenAI重组的企图落空",
-          "url": "https://wallstreetcn.com/livenews/3105549",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时51分"
-        },
-        {
-          "title": "马斯克：将针对美国陪审团的OpenAI判决结果向第九巡回法庭提出上诉。",
-          "url": "https://wallstreetcn.com/livenews/3105609",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "马斯克：（关于OpenAI 裁决）法官和陪审团实际上从未对案件的是非曲直做出裁决，只是针对日程上的一个技术性问题进行了裁定。",
-          "url": "https://flash.jin10.com/detail/20260519044502123800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "马斯克：（关于OpenAI 裁决）我将向第九巡回法院提出上诉。",
-          "url": "https://flash.jin10.com/detail/20260519044208799800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "马斯克：（关于OpenAI 裁决）奥克兰法官的裁决创造了可怕的先例。",
-          "url": "https://flash.jin10.com/detail/20260519043702372800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
+          "time_info": "00时19分"
         }
       ]
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 7,
+      "match_count": 3,
       "titles": [
         {
-          "title": "王力宏回应用代言费买比亚迪股票",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E5%8A%9B%E5%AE%8F%E5%9B%9E%E5%BA%94%E7%94%A8%E4%BB%A3%E8%A8%80%E8%B4%B9%E4%B9%B0%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%82%A1%E7%A5%A8",
+          "title": "“叫的特斯拉来的比亚迪” 平台回应",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8F%AB%E7%9A%84%E7%89%B9%E6%96%AF%E6%8B%89%E6%9D%A5%E7%9A%84%E6%AF%94%E4%BA%9A%E8%BF%AA%E2%80%9D+%E5%B9%B3%E5%8F%B0%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
           "ranks": [
-            28,
-            17,
-            23,
-            22
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 08时05分]"
-        },
-        {
-          "title": "如何看待才神道直播拆解比亚迪闪充电池组？",
-          "url": "https://www.zhihu.com/question/2039014779122136217",
-          "source": "知乎",
-          "ranks": [
-            8,
-            5,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 06时02分]"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 00时19分]"
         },
         {
           "title": "特斯拉正式放弃印度建厂计划",
-          "url": "https://www.toutiao.com/trending/7640835417427673130/",
-          "source": "今日头条",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E6%AD%A3%E5%BC%8F%E6%94%BE%E5%BC%83%E5%8D%B0%E5%BA%A6%E5%BB%BA%E5%8E%82%E8%AE%A1%E5%88%92",
+          "source": "百度热搜",
           "ranks": [
-            19
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 00时19分]"
         },
         {
-          "title": "工信部：深入实施“人工智能+制造”专项行动 加力智能网联新能源汽车、高端装备、航空航天等新兴产业领域挖潜扩容",
-          "url": "https://wallstreetcn.com/livenews/3105892",
-          "source": "华尔街见闻-快讯",
+          "title": "特斯拉放弃印度建厂",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E6%94%BE%E5%BC%83%E5%8D%B0%E5%BA%A6%E5%BB%BA%E5%8E%82%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        },
-        {
-          "title": "男子打车叫到特斯拉来的却是比亚迪",
-          "url": "https://www.toutiao.com/trending/7641417563985231918/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时09分"
-        },
-        {
-          "title": "锦富技术：股东赛尔新能源拟减持不超过3%股份",
-          "url": "https://flash.jin10.com/detail/20260519193622216800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时09分"
-        },
-        {
-          "title": "纳斯达克100指数跌1.28%，希捷科技跌8.8%，Strategy跌8.3%，闪迪跌7.7%，西部数据跌7.5%，美光科技跌5.9%，特斯拉跌3.1%，阿斯麦ADR跌2.9%。 半导体指数跌3.5%。 标普500指数跌幅扩大至0.6%，纳斯达克综合指数（纳指）跌1.2%。",
-          "url": "https://wallstreetcn.com/livenews/3105527",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "央行 抖音 小红书",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "罗马尼亚央行行长：外汇储备指标处于最佳参数范围内。",
-          "url": "https://flash.jin10.com/detail/20260519162525588800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        },
-        {
-          "title": "英国央行副行长Breeden：代币化可以改善零售和批发金融业务。 在零售业，我们希望建立一个竞争激烈的多元化货币体系。 代币化可以解决企业的延迟付款问题。",
-          "url": "https://wallstreetcn.com/livenews/3105919",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        },
-        {
-          "title": "英国央行副行长布里登：正在考虑对超出持有限额的稳定币总发行量设置“临时护栏”。",
-          "url": "https://flash.jin10.com/detail/20260519162256256800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        },
-        {
-          "title": "韩国央行：预计三星电子罢工将造成GDP增速被削弱0.5个百分点。",
-          "url": "https://wallstreetcn.com/livenews/3105659",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
-          "title": "IMF：英国央行无需加息，甚至可能需要降息",
-          "url": "https://wallstreetcn.com/livenews/3105555",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时51分"
-        },
-        {
-          "title": "智利央行将风险资产资本充足率要求提高至1.0%",
-          "url": "https://wallstreetcn.com/livenews/3105636",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
-          "title": "智利央行将风险资产的资本金要求提高至1.0%。",
-          "url": "https://flash.jin10.com/detail/20260519060704057800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "现货黄金一度跌破4500美元，机构现分歧：摩根大通下调金价预测、高盛仍唱多",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33194540",
-          "source": "澎湃新闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时00分 ~ 20时09分]"
-        },
-        {
-          "title": "近期金价持续回调的原因找到了",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%91%E6%9C%9F%E9%87%91%E4%BB%B7%E6%8C%81%E7%BB%AD%E5%9B%9E%E8%B0%83%E7%9A%84%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时35分 ~ 16时36分]"
-        },
-        {
-          "title": "美暂缓对伊袭击，为何金价反弹仍有气无力？｜黄金头条",
-          "url": "https://flash.jin10.com/detail/20260519120651247800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
+          "time_info": "[00时18分 ~ 00时19分]"
         }
       ]
     },
@@ -459,27 +97,26 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "九大看点梳理！谷歌I/O大会前瞻：“AI全栈霸主”能否再度惊艳华尔街？",
-          "url": "https://www.cls.cn/detail/2374982",
+          "title": "谷歌年度开发者大会揭幕 半导体板块不振美股持续调整 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2375879",
           "source": "财联社热门",
           "ranks": [
-            7,
-            5
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时35分 ~ 20时09分]"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 00时19分]"
         },
         {
-          "title": "周一（5月18日），美股人工智能（AI）赢家指数跌3.21%，报377.39点。 成分股Nebius集团收跌9.13%，摩丁制造MOD跌8.90%，Lumentum跌8.83%跌幅第三大，康宁公司、美光科技进入跌幅前十大，在收涨的七只成分股中，谷歌A、亚马逊涨幅最小，微软涨0.38%，Palantir涨0.86%，Arm控股涨2.85%。",
-          "url": "https://wallstreetcn.com/livenews/3105604",
+          "title": "谷歌母公司Alphabet的投资者们在谷歌广告诉讼中获得集体诉讼地位。（彭博法律Blaw）",
+          "url": "https://wallstreetcn.com/livenews/3106144",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            23
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时02分"
+          "time_info": "00时19分"
         }
       ]
     },
@@ -488,15 +125,66 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "DeepSeek：输入“”等字符触发返回异常内容属于特殊字符引发的模型幻觉，不涉及安全问题或隐私泄露",
-          "url": "https://wallstreetcn.com/livenews/3105984",
+          "title": "DeepSeek：特殊字符引发模型幻觉，不涉及安全问题或隐私泄露",
+          "url": "https://www.cls.cn/detail/2375756",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 00时19分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI创始成员Karpathy宣布，跳槽至Anthropic。",
+          "url": "https://wallstreetcn.com/livenews/3106163",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时09分"
+          "time_info": "00时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "机构：黄金价格因美元的走强及利率担忧而下跌",
+          "url": "https://flash.jin10.com/detail/20260519235653385800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "央行 抖音 小红书",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国财长贝森特：相信日本央行行长植田和男会采取“他所需要的行动”。 如果日本央行给予植田和男（操作）空间，将有“伟大的”政策。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3106136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时19分"
         }
       ]
     }
