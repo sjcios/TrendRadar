@@ -1,774 +1,188 @@
 {
-  "generated_at": "2026-05-20T20:31:56.048000+08:00",
-  "total_titles_processed": 1254,
+  "generated_at": "2026-05-21T00:35:24.514772+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 30,
+      "keyword_group": "央行 抖音 小红书",
+      "match_count": 6,
       "titles": [
         {
-          "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
-          "url": "https://wallstreetcn.com/articles/3772658",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时05分 ~ 20时31分]"
-        },
-        {
-          "title": "谷歌年度开发者大会揭幕 半导体板块不振美股持续调整 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2375879",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 08时05分]"
-        },
-        {
-          "title": "谷歌I/O大会今夜揭幕： Gemini 4.0悬念、全栈智能体与AI购物",
-          "url": "https://wallstreetcn.com/articles/3772609",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时59分 ~ 13时04分]"
-        },
-        {
-          "title": "谷歌展示Google Flow Music。",
-          "url": "https://wallstreetcn.com/livenews/3106211",
+          "title": "瑞银集团：建议投资者为“英国央行加息可能性将在未来数月继续消退”做好准备。",
+          "url": "https://wallstreetcn.com/livenews/3106844",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时00分"
-        },
-        {
-          "title": "谷歌开发者大会火力全开：AI搜索、代码生成、视频模型齐发",
-          "url": "https://www.cls.cn/detail/2376057",
-          "source": "财联社热门",
-          "ranks": [
-            8,
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时05分 ~ 13时04分]"
-        },
-        {
-          "title": "对谈谷歌开发者社区核心成员",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AF%B9%E8%B0%88%E8%B0%B7%E6%AD%8C%E5%BC%80%E5%8F%91%E8%80%85%E7%A4%BE%E5%8C%BA%E6%A0%B8%E5%BF%83%E6%88%90%E5%91%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时31分"
+          "time_info": "00时35分"
         },
         {
-          "title": "谷歌Gemini：新的语音功能和 Gemini Spark 将于今夏在 macOS 的 Gemini 应用上推出。",
-          "url": "https://flash.jin10.com/detail/20260520022605113800",
-          "source": "金十数据",
+          "title": "抖音封了打焦赞直播间",
+          "url": "https://s.weibo.com/weibo?q=%E6%8A%96%E9%9F%B3%E5%B0%81%E4%BA%86%E6%89%93%E7%84%A6%E8%B5%9E%E7%9B%B4%E6%92%AD%E9%97%B4&t=31&band_rank=5&Refer=top",
+          "source": "微博",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时00分"
-        },
-        {
-          "title": "Token消耗一年暴增7倍！谷歌步入Agent驱动时代 带来什么启示？",
-          "url": "https://www.cls.cn/detail/2376249",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时03分 ~ 17时37分]"
-        },
-        {
-          "title": "英伟达：与谷歌云助力下一波人工智能开发者。",
-          "url": "https://wallstreetcn.com/livenews/3106251",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时48分 ~ 06时16分]"
-        },
-        {
-          "title": "万斯称美伊谈判取得“很大进展”谷歌推出Gemini 3.5系列模型 | 环球市场",
-          "url": "https://www.cls.cn/detail/2376118",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时05分 ~ 13时04分]"
-        },
-        {
-          "title": "谷歌推出Gemini 3.5系列模型 Omni视频生成迎来关键突破",
-          "url": "https://www.cls.cn/detail/2376047",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时03分 ~ 13时04分]"
-        },
-        {
-          "title": "2026 年 Google I/O 大会有哪些值得关注的信息？",
-          "url": "https://www.zhihu.com/question/2040145697911956151",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时03分 ~ 13时04分]"
-        },
-        {
-          "title": "谷歌Gemini：上个月我们发布了适用于macOS的Gemini应用。在接下来的几周里，我们将把 Gemini Spar 引入Gemini 桌面应用，以帮助处理本地文件整理或将PDF数据直接提取到Google Sheets中。",
-          "url": "https://flash.jin10.com/detail/20260520022256133800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时00分"
-        },
-        {
-          "title": "谷歌公司将根据许可协议招聘AI初创公司Contextual的员工。",
-          "url": "https://wallstreetcn.com/livenews/3106205",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时00分"
-        },
-        {
-          "title": "谷歌发布通用购物车Universal Intelligent Shopping Cart，今年夏季将在美国推出。 将出现在搜索与Gemini APP。",
-          "url": "https://wallstreetcn.com/livenews/3106204",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时00分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：Gemini Omni 今天将上线 Gemini应用，面向付费用户。用户可以通过任意组合的文本、图片和视频输入来实现创意。只需打开 Gemini，从相册中附加一个视频，然后进行修改。就是这么简单。",
-          "url": "https://flash.jin10.com/detail/20260520021523065800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时00分"
-        },
-        {
-          "title": "谷歌公司将在美国面向AI Ultra订阅用户推出Gemini Spark测试版。",
-          "url": "https://wallstreetcn.com/livenews/3106203",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时00分"
-        },
-        {
-          "title": "谷歌新增Android Vibe编程支持到Google AI Studio。",
-          "url": "https://wallstreetcn.com/livenews/3106201",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时00分"
-        },
-        {
-          "title": "沃比·帕克（warby Parker）股价上涨2.7%，此前该公司与谷歌及三星达成合作，联手开发智能眼镜。",
-          "url": "https://wallstreetcn.com/livenews/3106200",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时00分"
-        },
-        {
-          "title": "标普500指数初步收跌0.7%，原材料板块跌2.3%，电信、可选消费、金融板块至多跌1.7%，科技板块跌0.9%，能源板块涨1.2%。 纳斯达克100指数初步收跌0.6%，成分股中，Doordash初步收跌4.9%，高通、思科、AppLovin、派拓网络PANW、汤森路透、博通、谷歌A、铿腾电子至多跌3.5%，拼多多涨2.5%，闪迪涨3.4%，Arm控股涨3.8%，迈威尔科技涨4%。 思科初步收跌3%，波音、3M、亚马逊跌超2%，领跌道指成分股，雪佛龙涨1.5%。 半导体指数跌0.1%，银行指数跌0.9%。",
-          "url": "https://wallstreetcn.com/livenews/3106235",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时48分"
-        },
-        {
-          "title": "英伟达(NVDA.O)：与谷歌云助力下一波人工智能开发者。",
-          "url": "https://flash.jin10.com/detail/20260520043717324800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时16分"
-        },
-        {
-          "title": "谷歌高管坚持其“登月级”清洁能源愿景绝不动摇",
-          "url": "https://wallstreetcn.com/livenews/3106253",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时16分"
-        },
-        {
-          "title": "谷歌发布Gemini 3.5系列模型",
-          "url": "https://wallstreetcn.com/livenews/3106192",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时00分"
-        },
-        {
-          "title": "谷歌(GOOG.O)： 推出谷歌图片图像创作与编辑应用程序。",
-          "url": "https://flash.jin10.com/detail/20260520020115209800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时00分"
-        },
-        {
-          "title": "谷歌I/O大会要点总结",
-          "url": "https://wallstreetcn.com/livenews/3106229",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时48分"
-        },
-        {
-          "title": "Gemini Omni亮相 谷歌强化视频生成与编辑能力",
-          "url": "https://flash.jin10.com/detail/20260520015749647800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时00分"
-        },
-        {
-          "title": "谷歌母公司Alphabet的投资者们在谷歌广告诉讼中获得集体诉讼地位。（彭博法律Blaw）",
-          "url": "https://wallstreetcn.com/livenews/3106144",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        },
-        {
-          "title": "谷歌CEO Pichai：AI概览功能月活用户数25亿。 Gemini APP月活用户数一年翻倍，至超过9亿。 公司一个月处理3200万亿Token。 今年夏季，在美国推出“Ask YouTube”AI搜索功能。 “Docs Live”允许用户创作利用语音指令来创建Docs。",
-          "url": "https://wallstreetcn.com/livenews/3106187",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时00分"
-        },
-        {
-          "title": "耐克(NKE.N)：美国消费者将能够通过Gemini应用程序和谷歌搜索中的人工智能模式直接发现并购买耐克产品。",
-          "url": "https://flash.jin10.com/detail/20260520015223072800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时00分"
-        },
-        {
-          "title": "三星与谷歌首次展示新款智能眼镜",
-          "url": "https://flash.jin10.com/detail/20260520071733734800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "央行 抖音 小红书",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "欧洲央行管委：若霍尔木兹海峡持续关闭 6月加息将不可避免",
-          "url": "https://flash.jin10.com/detail/20260520055501543800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时16分"
-        },
-        {
-          "title": "印度央行：将通过长期美元兑印度卢比买入/卖出掉期拍卖注入流动性。",
-          "url": "https://flash.jin10.com/detail/20260520200633799800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
-        },
-        {
-          "title": "张雪机车车手卡里卡苏洛开抖音了",
-          "url": "https://www.douyin.com/hot/2505142",
-          "source": "抖音",
-          "ranks": [
-            13,
-            17,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时03分 ~ 20时31分]"
+          "time_info": "00时35分"
         },
         {
           "title": "抖音全民写作大赛开赛",
           "url": "https://www.douyin.com/hot/2505564",
           "source": "抖音",
           "ranks": [
-            10,
-            7
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时37分 ~ 20时31分]"
+          "appearance_count": 1,
+          "time_info": "00时35分"
         },
         {
-          "title": "英国央行副行长Breeden：英国央行发行数字金边债券将有助于降低政府借贷成本。 英国央行计划允许政府通过区块链发行债券。",
-          "url": "https://wallstreetcn.com/livenews/3106455",
+          "title": "英国央行行长：食品价格管制“不可持续”",
+          "url": "https://wallstreetcn.com/livenews/3106834",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时04分"
+          "time_info": "00时35分"
         },
         {
-          "title": "欧洲央行管委Kocher：如果伊朗战争没有改善，预计央行将在6月加息。",
-          "url": "https://wallstreetcn.com/livenews/3106242",
+          "title": "英国央行副行长Breeden：金融稳定性风险是实质性的，且水平偏高。",
+          "url": "https://wallstreetcn.com/livenews/3106819",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时48分"
+          "time_info": "00时35分"
         },
         {
-          "title": "主角热度 反抖音营销第一枪",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%BB%E8%A7%92%E7%83%AD%E5%BA%A6%20%E5%8F%8D%E6%8A%96%E9%9F%B3%E8%90%A5%E9%94%80%E7%AC%AC%E4%B8%80%E6%9E%AA&t=31&band_rank=14&Refer=top",
-          "source": "微博",
+          "title": "英国央行行长贝利：抵押贷款利率上涨，但还没有与市场利率脱节。",
+          "url": "https://wallstreetcn.com/livenews/3106817",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时31分"
+          "time_info": "00时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
+          "url": "https://wallstreetcn.com/articles/3772658",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
         },
         {
-          "title": "欧洲央行管委科赫尔：如果伊朗战争局面没有改善，预计将在6月加息。",
-          "url": "https://flash.jin10.com/detail/20260520041238784800",
+          "title": "谷歌推出通用商业协议功能和零售商人工智能工具。",
+          "url": "https://flash.jin10.com/detail/20260521000514109800",
           "source": "金十数据",
           "ranks": [
-            14
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时48分"
+          "time_info": "00时35分"
         },
         {
-          "title": "法国议会批准马克龙提名的候选人执掌法国央行",
-          "url": "https://wallstreetcn.com/livenews/3106702",
+          "title": "谷歌(GOOG.O)将在人工智能模式中推出更有帮助的广告。",
+          "url": "https://flash.jin10.com/detail/20260521000207884800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
+        },
+        {
+          "title": "谷歌在AI模型推出更有用的广告。",
+          "url": "https://wallstreetcn.com/livenews/3106842",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时31分"
+          "time_info": "00时35分"
         },
         {
-          "title": "据英国金融时报：欧盟各国政府正在讨论，由前欧洲央行行长德拉基还是前德国总理默克尔来代表欧盟与俄罗斯总统普京进行潜在谈判。",
-          "url": "https://flash.jin10.com/detail/20260520120456182800",
-          "source": "金十数据",
+          "title": "如何评价 gemini 于 26 年 5 月 17 日实行的新限额形式？",
+          "url": "https://www.zhihu.com/question/2040264998916712429",
+          "source": "知乎",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时04分"
-        },
-        {
-          "title": "欧洲央行管委Kocher：如果伊朗战争局势没有改善，6月可能不得不加息",
-          "url": "https://wallstreetcn.com/livenews/3106242",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时16分"
-        },
-        {
-          "title": "美国财长贝森特：相信日本央行行长植田和男会采取“他所需要的行动”。 如果日本央行给予植田和男（操作）空间，将有“伟大的”政策。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3106136",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        },
-        {
-          "title": "日本央行行长植田和男：将在日本国债市场形势上配合政府。",
-          "url": "https://wallstreetcn.com/livenews/3106181",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时00分"
+          "time_info": "00时35分"
         }
       ]
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 10,
+      "match_count": 4,
       "titles": [
         {
-          "title": "“叫的特斯拉来的比亚迪” 平台回应",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8F%AB%E7%9A%84%E7%89%B9%E6%96%AF%E6%8B%89%E6%9D%A5%E7%9A%84%E6%AF%94%E4%BA%9A%E8%BF%AA%E2%80%9D+%E5%B9%B3%E5%8F%B0%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 08时05分]"
-        },
-        {
-          "title": "王力宏腾势发布会现场承认用代言费买比亚迪股票，直言若十年前入手早已翻倍，「代言变股东」的操作你怎么看？",
-          "url": "https://www.zhihu.com/question/2039837853883031925",
-          "source": "知乎",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时03分 ~ 20时31分]"
-        },
-        {
-          "title": "特斯拉放弃印度建厂",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E6%94%BE%E5%BC%83%E5%8D%B0%E5%BA%A6%E5%BB%BA%E5%8E%82%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            27,
-            29,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 08时05分]"
-        },
-        {
-          "title": "特斯拉正式放弃印度建厂计划",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E6%AD%A3%E5%BC%8F%E6%94%BE%E5%BC%83%E5%8D%B0%E5%BA%A6%E5%BB%BA%E5%8E%82%E8%AE%A1%E5%88%92",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 08时05分]"
-        },
-        {
-          "title": "特斯拉正式放弃印度建厂计划",
-          "url": "https://www.toutiao.com/trending/7640835417427673130/",
+          "title": "特斯拉印度工厂项目为何被叫停",
+          "url": "https://www.toutiao.com/trending/7641938094068878902/",
           "source": "今日头条",
           "ranks": [
-            17,
-            27
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时59分 ~ 04时48分]"
+          "appearance_count": 1,
+          "time_info": "00时35分"
         },
         {
-          "title": "自媒体黑比亚迪被罚200W",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354453&amp;topic_name=%E8%87%AA%E5%AA%92%E4%BD%93%E9%BB%91%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%A2%AB%E7%BD%9A200W",
-          "source": "贴吧",
+          "title": "特斯拉与印度关税谈判陷僵局，已放弃在印度建厂的计划，印度为什么没留住特斯拉？对中国新能源产业有影响吗？",
+          "url": "https://www.zhihu.com/question/2040337402904797465",
+          "source": "知乎",
           "ranks": [
-            7,
-            10
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时37分 ~ 20时31分]"
+          "appearance_count": 1,
+          "time_info": "00时35分"
         },
         {
           "title": "段永平最新美股持仓曝光！豪掷12亿美元重仓特斯拉，大举加仓英伟达、拼多多",
           "url": "https://wallstreetcn.com/articles/3772698",
           "source": "华尔街见闻",
           "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
-        },
-        {
-          "title": "超10家主流车企部分车型涨价，新能源车市转向价值竞争新阶段",
-          "url": "https://wallstreetcn.com/livenews/3106295",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时05分"
+          "time_info": "00时35分"
         },
         {
-          "title": "费城半导体指数涨超1.1%，纳斯达克100指数几乎完全收复日内稍早失地。迈威尔科技涨5.9%，美光涨5.4%，闪迪涨3.3%，英特尔涨2.7%，拼多多涨2.4%，Lumentum涨1.9%，恩智浦涨1.6%。特斯拉跌1.8%，汤森路透跌2.8%，Doordash跌4.9%。",
-          "url": "https://wallstreetcn.com/livenews/3106188",
-          "source": "华尔街见闻-快讯",
+          "title": "自媒体黑比亚迪被罚200W",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354453&amp;topic_name=%E8%87%AA%E5%AA%92%E4%BD%93%E9%BB%91%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%A2%AB%E7%BD%9A200W",
+          "source": "贴吧",
           "ranks": [
-            22
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时00分"
-        },
-        {
-          "title": "禾赛成为奔驰L3激光雷达战略合作伙伴，将于泰国工厂投产",
-          "url": "https://wallstreetcn.com/livenews/3106615",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "手机店老板称线下基本不卖新机了，随着线上线下价格逐渐倒挂，实体店会消失吗？",
-          "url": "https://www.zhihu.com/question/2040003854213850274",
-          "source": "知乎",
-          "ranks": [
-            7,
-            4,
-            6,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 08时05分]"
-        },
-        {
-          "title": "印度尼西亚总统：我们不能仅仅成为他人的市场，我们必须生产自己的汽车和手机。",
-          "url": "https://flash.jin10.com/detail/20260520123818385800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时04分"
-        },
-        {
-          "title": "苹果新任硬件总监调整产品设计监管架构，引发高层大洗牌，涉及自研芯片工程",
-          "url": "https://wallstreetcn.com/livenews/3106164",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        },
-        {
-          "title": "iPhone或重回钛金属",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone%E6%88%96%E9%87%8D%E5%9B%9E%E9%92%9B%E9%87%91%E5%B1%9E%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
-        },
-        {
-          "title": "iPhone绝版配件回归 定价448元",
-          "url": "https://www.baidu.com/s?wd=iPhone%E7%BB%9D%E7%89%88%E9%85%8D%E4%BB%B6%E5%9B%9E%E5%BD%92+%E5%AE%9A%E4%BB%B7448%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时03分 ~ 13时04分]"
-        },
-        {
-          "title": "iPhone绝版配件回归",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone%E7%BB%9D%E7%89%88%E9%85%8D%E4%BB%B6%E5%9B%9E%E5%BD%92%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时03分 ~ 13时04分]"
-        },
-        {
-          "title": "苹果(AAPL.O)新任硬件负责人正调整产品设计监管架构，以加快设备开发速度。",
-          "url": "https://flash.jin10.com/detail/20260519234225644800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        },
-        {
-          "title": "苹果官宣WWDC26",
-          "url": "https://www.douyin.com/hot/2504776",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "OpenAI创始成员Karpathy宣布，跳槽至Anthropic。",
-          "url": "https://wallstreetcn.com/livenews/3106163",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        },
-        {
-          "title": "OpenAI 推出“保证算力容量”服务，打响锁定长期客户续约战",
-          "url": "https://wallstreetcn.com/livenews/3106231",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时48分"
-        },
-        {
-          "title": "知情人士：软银CEO孙正义曾表示相信OpenAI创始人Sam Altman正引领着本世纪最重要的技术变革。",
-          "url": "https://flash.jin10.com/detail/20260520165930678800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时37分"
-        },
-        {
-          "title": "OpenAI投2.34亿美元在新加坡设立新AI实验室",
-          "url": "https://flash.jin10.com/detail/20260520115552905800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时04分"
+          "time_info": "00时35分"
         }
       ]
     },
@@ -777,91 +191,26 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "DeepSeek：特殊字符引发模型幻觉，不涉及安全问题或隐私泄露",
-          "url": "https://www.cls.cn/detail/2375756",
-          "source": "财联社热门",
+          "title": "如何看待 DeepSeek 组建 Harness 团队对标 Claude Code？",
+          "url": "https://www.zhihu.com/question/2040450519303288568",
+          "source": "知乎",
           "ranks": [
-            12,
-            10
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 08时05分]"
+          "appearance_count": 1,
+          "time_info": "00时35分"
         },
         {
-          "title": "DeepSeek最新回应",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%9C%80%E6%96%B0%E5%9B%9E%E5%BA%94%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
+          "title": "对标Claude Code！DeepSeek组建Harness团队 入局编程智能体",
+          "url": "https://www.cls.cn/detail/2376780",
+          "source": "财联社热门",
           "ranks": [
-            5,
-            16,
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时59分 ~ 08时05分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "机构：黄金价格因美元的走强及利率担忧而下跌",
-          "url": "https://flash.jin10.com/detail/20260519235653385800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时19分"
-        },
-        {
-          "title": "高盛：金价回调不改长期涨势",
-          "url": "https://www.douyin.com/hot/2504515",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "印度尼西亚总统：我不希望我们的棕榈油价格受到其他国家的影响。我已要求内阁确保我们的商品价格，如镍和黄金，由我们自己决定。",
-          "url": "https://flash.jin10.com/detail/20260520120514918800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "英雄联盟 LOL",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "LOL赵信吸血削弱",
-          "url": "https://search.bilibili.com/all?keyword=LOL%E8%B5%B5%E4%BF%A1%E5%90%B8%E8%A1%80%E5%89%8A%E5%BC%B1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时37分"
+          "time_info": "00时35分"
         }
       ]
     }
