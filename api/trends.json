@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23T00:25:29.706679+08:00",
-  "total_titles_processed": 305,
+  "generated_at": "2026-05-23T02:54:09.587150+08:00",
+  "total_titles_processed": 403,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 02时54分]"
         },
         {
           "title": "雷军余承东预警：手机只会越来越贵",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 02时54分]"
         },
         {
           "title": "小米 17Max 手机正式发布，起售价 4799 元，有哪些亮点？你认为值得购买吗？",
@@ -37,19 +37,20 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 02时54分]"
         },
         {
           "title": "iPhone17系列降价后销量",
           "url": "https://s.weibo.com/weibo?q=%23iPhone17%E7%B3%BB%E5%88%97%E9%99%8D%E4%BB%B7%E5%90%8E%E9%94%80%E9%87%8F%23&t=31&band_rank=23&Refer=top",
           "source": "微博",
           "ranks": [
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 02时54分]"
         }
       ]
     },
@@ -65,8 +66,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 02时54分]"
         },
         {
           "title": "欧洲央行管委Muller：鉴于能源价格飙涨，6月加息可能性很高。",
@@ -104,19 +105,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 02时54分]"
         },
         {
           "title": "如何看待达摩院、北大最新 Nature 成果，AI 绘制中国首张高精度风光分布图，这对新能源行业有何价值？",
           "url": "https://www.zhihu.com/question/2040809853350831319",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 02时54分]"
         }
       ]
     },
@@ -132,8 +134,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 02时54分]"
         }
       ]
     },
@@ -149,8 +151,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 02时54分]"
         }
       ]
     },
@@ -163,11 +165,12 @@
           "url": "https://search.bilibili.com/all?keyword=JDG%20WBG",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 02时54分]"
         }
       ]
     }
