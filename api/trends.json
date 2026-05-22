@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23T02:54:09.587150+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-05-23T04:43:39.444058+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2040917243547105108",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 04时43分]"
         },
         {
           "title": "雷军余承东预警：手机只会越来越贵",
@@ -26,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 04时43分]"
         },
         {
           "title": "小米 17Max 手机正式发布，起售价 4799 元，有哪些亮点？你认为值得购买吗？",
@@ -37,8 +38,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 04时43分]"
         },
         {
           "title": "iPhone17系列降价后销量",
@@ -66,8 +67,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 04时43分]"
         },
         {
           "title": "欧洲央行管委Muller：鉴于能源价格飙涨，6月加息可能性很高。",
@@ -105,8 +106,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 04时43分]"
         },
         {
           "title": "如何看待达摩院、北大最新 Nature 成果，AI 绘制中国首张高精度风光分布图，这对新能源行业有何价值？",
@@ -114,11 +115,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 04时43分]"
         }
       ]
     },
@@ -134,8 +136,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 04时43分]"
         }
       ]
     },
@@ -151,8 +153,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 04时43分]"
         }
       ]
     },
@@ -169,8 +171,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 04时43分]"
         }
       ]
     }
