@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T06:53:05.800881+08:00",
-  "total_titles_processed": 509,
+  "generated_at": "2026-05-24T07:57:06.664855+08:00",
+  "total_titles_processed": 541,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时08分 ~ 06时53分]"
+          "appearance_count": 11,
+          "time_info": "[00时08分 ~ 07时57分]"
         },
         {
           "title": "DeepSeek宣布：永久降价",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时08分 ~ 06时53分]"
+          "appearance_count": 11,
+          "time_info": "[00时08分 ~ 07时57分]"
         },
         {
           "title": "永久2.5折！DeepSeek宣布V4-Pro模型API降价",
@@ -36,11 +36,12 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时01分 ~ 06时53分]"
+          "appearance_count": 10,
+          "time_info": "[02时01分 ~ 07时57分]"
         },
         {
           "title": "DeepSeek宣布，DeepSeek-V4-Pro模型API价格将于2026年5月31日结束2.5折优惠活动后，正式调整为原定价的1/4。DeepSeek在社交媒体上表示，“将把折扣永久化！”根据官方介绍，百万tokens输入（缓存命中）价格将为0.025元，百万tokens输入（缓存未命中）价格为3元，百万tokens输出价格为6元。（澎湃新闻）",
@@ -54,8 +55,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 06时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 07时57分]"
         }
       ]
     },
@@ -70,11 +71,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时08分 ~ 06时53分]"
+          "appearance_count": 11,
+          "time_info": "[00时08分 ~ 07时57分]"
         },
         {
           "title": "SpaceX抢跑 OpenAI追击",
@@ -135,11 +137,12 @@
           "ranks": [
             4,
             3,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时08分 ~ 06时53分]"
+          "appearance_count": 11,
+          "time_info": "[00时08分 ~ 07时57分]"
         }
       ]
     }
