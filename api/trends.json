@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-23T21:22:25.754999+08:00",
-  "total_titles_processed": 1253,
+  "generated_at": "2026-05-23T23:02:13.733000+08:00",
+  "total_titles_processed": 1363,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "雷军说手机可能会越来越贵，若计划未来一年换手机，强烈推荐现在就换，现在真是最佳抄底时机吗？",
@@ -95,6 +95,17 @@
           "time_info": "[00时25分 ~ 02时54分]"
         },
         {
+          "title": "「脑瘫诗人」余秀华称遭粉丝霸凌，不开门就拿手机对着大门直播，每天被纠缠到无法写作，这种情况该怎么办？",
+          "url": "https://www.zhihu.com/question/2039710331266708697",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时01分 ~ 23时02分]"
+        },
+        {
           "title": "史上颜值巅峰iPhone要来了",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B2%E4%B8%8A%E9%A2%9C%E5%80%BC%E5%B7%85%E5%B3%B0iPhone%E8%A6%81%E6%9D%A5%E4%BA%86%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
@@ -123,6 +134,18 @@
           "time_info": "[00时25分 ~ 06时07分]"
         },
         {
+          "title": "欧洲央行管委：央行或不可避免加冕加息，以捍卫政策公信力",
+          "url": "https://wallstreetcn.com/livenews/3108366",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时22分 ~ 23时02分]"
+        },
+        {
           "title": "土耳其央行全面下调8周贷款增长上限，强化紧缩货币立场",
           "url": "https://wallstreetcn.com/livenews/3108248",
           "source": "华尔街见闻-快讯",
@@ -133,17 +156,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时07分 ~ 08时06分]"
-        },
-        {
-          "title": "欧洲央行管委：央行或不可避免加冕加息，以捍卫政策公信力",
-          "url": "https://wallstreetcn.com/livenews/3108366",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
         },
         {
           "title": "欧洲央行管委：为维持可信度 欧洲央行可能不得不在6月加息",
@@ -193,8 +205,21 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "deepseek狂降价,友商被卷哭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354527&amp;topic_name=deepseek%E7%8B%82%E9%99%8D%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E8%A2%AB%E5%8D%B7%E5%93%AD",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时40分 ~ 23时02分]"
+        },
         {
           "title": "如何看待 DeepSeek V4 Pro 模型价格于 5 月 31 日结束 2.5 折优惠，调整为原定价的 1/4？",
           "url": "https://www.zhihu.com/question/2041260640740927118",
@@ -210,17 +235,15 @@
           "time_info": "[00时25分 ~ 15时32分]"
         },
         {
-          "title": "deepseek狂降价,友商被卷哭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354527&amp;topic_name=deepseek%E7%8B%82%E9%99%8D%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E8%A2%AB%E5%8D%B7%E5%93%AD",
-          "source": "贴吧",
+          "title": "DeepSeek宣布：永久降价",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%AE%A3%E5%B8%83%EF%BC%9A%E6%B0%B8%E4%B9%85%E9%99%8D%E4%BB%B7",
+          "source": "百度热搜",
           "ranks": [
-            2,
-            3,
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时40分 ~ 21时22分]"
+          "appearance_count": 3,
+          "time_info": "[21时22分 ~ 23时02分]"
         },
         {
           "title": "曝 DeepSeek 推进 700 亿元融资，梁文锋称坚持开源 AI 模型，此举意味着什么？",
@@ -236,15 +259,15 @@
           "time_info": "[15时31分 ~ 21时22分]"
         },
         {
-          "title": "DeepSeek宣布：永久降价",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%AE%A3%E5%B8%83%EF%BC%9A%E6%B0%B8%E4%B9%85%E9%99%8D%E4%BB%B7",
-          "source": "百度热搜",
+          "title": "DeepSeek宣布，DeepSeek-V4-Pro模型API价格将于2026年5月31日结束2.5折优惠活动后，正式调整为原定价的1/4。DeepSeek在社交媒体上表示，“将把折扣永久化！”根据官方介绍，百万tokens输入（缓存命中）价格将为0.025元，百万tokens输入（缓存未命中）价格为3元，百万tokens输出价格为6元。（澎湃新闻）",
+          "url": "https://wallstreetcn.com/livenews/3108395",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时22分"
+          "time_info": "23时02分"
         },
         {
           "title": "DeepSeek-V4-Pro API价格永久下调至原价25%",
@@ -276,6 +299,18 @@
           "time_info": "[00时25分 ~ 08时06分]"
         },
         {
+          "title": "比亚迪 5 月 28 日将举办智能化战略发布会，预计宣布新突破，可能涉及什么技术？你有哪些期待？",
+          "url": "https://www.zhihu.com/question/2041247388258362911",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时22分 ~ 23时02分]"
+        },
+        {
           "title": "如何看待达摩院、北大最新 Nature 成果，AI 绘制中国首张高精度风光分布图，这对新能源行业有何价值？",
           "url": "https://www.zhihu.com/question/2040809853350831319",
           "source": "知乎",
@@ -298,17 +333,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时51分 ~ 21时22分]"
-        },
-        {
-          "title": "比亚迪 5 月 28 日将举办智能化战略发布会，预计宣布新突破，可能涉及什么技术？你有哪些期待？",
-          "url": "https://www.zhihu.com/question/2041247388258362911",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
         },
         {
           "title": "特斯拉电池供应商Solus Advance Materials Co.与旗下四个Volta Energy部门因铜箔专利纠纷而对SK Nexilis Co.欠款300万美元。",
@@ -345,11 +369,12 @@
           "url": "https://wallstreetcn.com/articles/3772963",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时22分 ~ 23时02分]"
         },
         {
           "title": "一周热榜精选：沃什履新之际加息呼声渐高！SpaceX和OpenAI即将IPO",
