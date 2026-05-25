@@ -1,281 +1,62 @@
 {
-  "generated_at": "2026-05-25T23:50:50.161895+08:00",
-  "total_titles_processed": 1287,
+  "generated_at": "2026-05-26T01:43:37.726361+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 22,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "即便美伊协议快速达成，汇丰仍认为“通胀影响持续存在，更多央行将加息”",
-          "url": "https://wallstreetcn.com/articles/3772987",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时59分 ~ 08时02分]"
-        },
-        {
-          "title": "【早报】事关美伊协议，最新进展；央行今日开展6000亿元MLF操作",
-          "url": "https://www.cls.cn/detail/2380217",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时01分 ~ 16时56分]"
-        },
-        {
-          "title": "欧洲央行紧急召集银行开会 敦促修复AI模型暴露的网络安全漏洞",
-          "url": "https://flash.jin10.com/detail/20260525012651977800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时04分"
-        },
         {
           "title": "给阿嬷的情书主创发抖音感谢支持",
           "url": "https://www.douyin.com/hot/2511572",
           "source": "抖音",
           "ranks": [
-            14,
-            15,
-            12
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时56分 ~ 23时50分]"
-        },
-        {
-          "title": "欧洲央行将呼吁银行业解决因人工智能（AI）而暴露出来的瑕疵。 欧洲央行计划强调Anthropic模型Mythos构成的威胁的严重程度。 欧洲央行将于周二召开银行业会议讨论网络安全事宜。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3108534",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时56分 ~ 08时02分]"
-        },
-        {
-          "title": "家业抖音追剧团",
-          "url": "https://www.douyin.com/hot/2511696",
-          "source": "抖音",
-          "ranks": [
-            14,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时29分 ~ 23时50分]"
+          "appearance_count": 1,
+          "time_info": "01时43分"
         },
         {
           "title": "字节反击腾讯称“都是卖猪食的，谁也别看不起谁”？抖音副总裁李亮：相关内容系谣言",
           "url": "https://m.thepaper.cn/newsDetail_forward_33226639",
           "source": "澎湃新闻",
           "ranks": [
-            20,
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时29分 ~ 23时50分]"
-        },
-        {
-          "title": "拉加德：欧洲央行可能在6月修订通胀展望",
-          "url": "https://flash.jin10.com/detail/20260525045426685800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时56分 ~ 06时57分]"
-        },
-        {
-          "title": "欧洲央行将在周二的会议上敦促银行加快保护其信息技术系统的工作，讨论最新人工智能模型所暴露的网络安全风险。",
-          "url": "https://flash.jin10.com/detail/20260525010427079800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时04分"
+          "time_info": "01时43分"
         },
         {
-          "title": "据英国《金融时报》：欧洲央行召集银行要求其修补最新人工智能模型暴露出的缺陷。",
-          "url": "https://flash.jin10.com/detail/20260525010206221800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时04分"
-        },
-        {
-          "title": "巴克莱：印度央行6月或维持利率不变",
-          "url": "https://flash.jin10.com/detail/20260525200118588800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时30分"
-        },
-        {
-          "title": "巴西央行行长：正在分析通胀预测的变化，以了解哪些源于供应冲击，哪些源于经济韧性。",
-          "url": "https://flash.jin10.com/detail/20260525225406165800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时50分"
-        },
-        {
-          "title": "巴西央行行长：伊朗冲突和厄尔尼诺现象带来的供应冲击正在影响通胀预期。",
-          "url": "https://flash.jin10.com/detail/20260525225349382800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时50分"
-        },
-        {
-          "title": "巴西央行行长：货币政策正在发挥作用，使经济增长更接近潜在增速。",
-          "url": "https://flash.jin10.com/detail/20260525225248582800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时50分"
-        },
-        {
-          "title": "欧洲央行行长拉加德：当前形势不确定性过高，尚无法就利率做出承诺；6月可能会修订通胀预测，届时欧洲央行将综合所有数据来评估经济状况。",
-          "url": "https://flash.jin10.com/detail/20260525034518499800",
+          "title": "俄罗斯央行就被冻结资产问题向欧盟法院提起第二起诉讼",
+          "url": "https://flash.jin10.com/detail/20260525235802279800",
           "source": "金十数据",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时56分"
+          "time_info": "01时43分"
         },
         {
-          "title": "伊朗媒体称伊朗央行行长前往卡塔尔访问",
-          "url": "https://wallstreetcn.com/livenews/3108849",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时30分"
-        },
-        {
-          "title": "印度央行行长称，印度卢比可能被低估。",
-          "url": "https://wallstreetcn.com/livenews/3108623",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时45分"
-        },
-        {
-          "title": "巴西央行官员：央行预计一季度GDP将加速增长",
-          "url": "https://wallstreetcn.com/livenews/3108962",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时50分"
-        },
-        {
-          "title": "挑战用抖音小猫表情完美卡点",
-          "url": "https://www.douyin.com/hot/2511752",
+          "title": "家业抖音追剧团",
+          "url": "https://www.douyin.com/hot/2511696",
           "source": "抖音",
           "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时50分"
-        },
-        {
-          "title": "分析师：由于经济疲软，对欧洲央行加息的预期似乎过高",
-          "url": "https://flash.jin10.com/detail/20260525160208924800",
-          "source": "金十数据",
-          "ranks": [
-            29
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时56分"
-        },
-        {
-          "title": "土耳其央行通过传统方式开展1周期黄金兑里拉卖方掉期拍卖，拍卖规模为6吨。",
-          "url": "https://flash.jin10.com/detail/20260525160156668800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时56分"
-        },
-        {
-          "title": "以色列央行副行长：因地缘政治风险，降息步伐需保持渐进",
-          "url": "https://wallstreetcn.com/livenews/3108938",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时50分"
+          "time_info": "01时43分"
         }
       ]
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "曝iPhone 18 Pro配色大换血",
-          "url": "https://www.toutiao.com/trending/7642487158653304838/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时59分 ~ 08时02分]"
-        },
         {
           "title": "华为正式发表“韬（τ）定律”！今秋面世的麒麟手机芯片性能将大幅提升",
           "url": "https://wallstreetcn.com/articles/3773020",
@@ -284,194 +65,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时29分 ~ 23时50分]"
-        },
-        {
-          "title": "华为麒麟2026手机芯片今秋面世",
-          "url": "https://www.toutiao.com/trending/7643436000194199579/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时45分"
-        },
-        {
-          "title": "iPhone20原型机偷跑",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone20%E5%8E%9F%E5%9E%8B%E6%9C%BA%E5%81%B7%E8%B7%91%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时29分 ~ 20时30分]"
-        },
-        {
-          "title": "京东采销说今天买手机无敌便宜",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%AC%E4%B8%9C%E9%87%87%E9%94%80%E8%AF%B4%E4%BB%8A%E5%A4%A9%E4%B9%B0%E6%89%8B%E6%9C%BA%E6%97%A0%E6%95%8C%E4%BE%BF%E5%AE%9C%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时45分"
-        },
-        {
-          "title": "华为：今年秋季面世的麒麟手机芯片性能将大幅提升",
-          "url": "https://wallstreetcn.com/livenews/3108621",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "周末要闻汇总：特朗普称美伊协议基本谈成；DeepSeek宣布永久降价",
-          "url": "https://www.cls.cn/detail/2380075",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 12时45分]"
-        },
-        {
-          "title": "【早报】国家数据局将把推动词元经济发展纳入工作体系；DeepSeek宣布永久降价",
-          "url": "https://www.cls.cn/detail/2379922",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时59分 ~ 08时02分]"
-        },
-        {
-          "title": "梁文锋与DeepSeek的十万亿美元棋盘",
-          "url": "https://wallstreetcn.com/articles/3772995",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 12时45分]"
-        },
-        {
-          "title": "deepseek狂降价,友商被卷哭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354527&amp;topic_name=deepseek%E7%8B%82%E9%99%8D%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E8%A2%AB%E5%8D%B7%E5%93%AD",
-          "source": "贴吧",
-          "ranks": [
-            12,
-            17,
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时59分 ~ 20时30分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美伊协议前景缓和通胀担忧，金价反弹超1%",
-          "url": "https://flash.jin10.com/detail/20260525070547710800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "油价跌破100美元，金价为何还不敢痛快反弹？",
-          "url": "https://flash.jin10.com/detail/20260525115644338800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时45分"
-        },
-        {
-          "title": "金十图示：2026年05月25日（周一）上海金午盘价为997.85元/克，较国际金价(994.83元/克)，高3.02元/克",
-          "url": "https://flash.jin10.com/detail/20260525162054527800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时56分"
-        },
-        {
-          "title": "金价跳空高开",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%B3%E7%A9%BA%E9%AB%98%E5%BC%80%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "软银集团股价创历史新高 受OpenAI的IPO预期提振",
-          "url": "https://wallstreetcn.com/livenews/3108773",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "英雄联盟 LOL",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "为什么同样是支援型大招，《英雄联盟》慎给队友套大会激起对手更强烈的击杀欲望，而加里奥大招却会劝退对手？",
-          "url": "https://www.zhihu.com/question/15703454623",
-          "source": "知乎",
-          "ranks": [
-            7,
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时45分 ~ 20时30分]"
+          "time_info": "01时43分"
         }
       ]
     }
