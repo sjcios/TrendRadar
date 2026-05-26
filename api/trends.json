@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-26T08:13:56.645053+08:00",
-  "total_titles_processed": 563,
+  "generated_at": "2026-05-26T13:03:21.095865+08:00",
+  "total_titles_processed": 782,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
         {
           "title": "给阿嬷的情书主创发抖音感谢支持",
@@ -14,11 +14,12 @@
           "ranks": [
             13,
             10,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时43分 ~ 08时13分]"
+          "appearance_count": 7,
+          "time_info": "[01时43分 ~ 13时03分]"
         },
         {
           "title": "字节反击腾讯称“都是卖猪食的，谁也别看不起谁”？抖音副总裁李亮：相关内容系谣言",
@@ -83,6 +84,51 @@
           "time_info": "[01时43分 ~ 03时29分]"
         },
         {
+          "title": "挑战用抖音小猫表情完美卡点",
+          "url": "https://www.douyin.com/hot/2511752",
+          "source": "抖音",
+          "ranks": [
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时01分 ~ 13时03分]"
+        },
+        {
+          "title": "吉尔吉斯斯坦央行维持政策利率不变，为12.0%。",
+          "url": "https://flash.jin10.com/detail/20260526120952176800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "抖音公布十大辟谣案例",
+          "url": "https://www.douyin.com/hot/2512575",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "债市剧震、通胀承压，日本央行“二把手”发声：将适时调整政策重塑市场信心！",
+          "url": "https://flash.jin10.com/detail/20260526120114824800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
           "title": "欧洲央行管委维勒鲁瓦：欧洲央行尚未观察到能源成本的大幅上涨的外溢效应",
           "url": "https://flash.jin10.com/detail/20260526030726217800",
           "source": "金十数据",
@@ -94,21 +140,21 @@
           "time_info": "05时05分"
         },
         {
-          "title": "挑战用抖音小猫表情完美卡点",
-          "url": "https://www.douyin.com/hot/2511752",
-          "source": "抖音",
+          "title": "日本央行“领先于曲线”？当前的利率水平已是高估状态...",
+          "url": "https://flash.jin10.com/detail/20260526114228966800",
+          "source": "金十数据",
           "ranks": [
-            25
+            28
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时01分"
+          "time_info": "13时03分"
         }
       ]
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "华为正式发表“韬（τ）定律”！今秋面世的麒麟手机芯片性能将大幅提升",
@@ -130,9 +176,76 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
+        },
+        {
+          "title": "随机查看清华学生手机用时",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9A%8F%E6%9C%BA%E6%9F%A5%E7%9C%8B%E6%B8%85%E5%8D%8E%E5%AD%A6%E7%94%9F%E6%89%8B%E6%9C%BA%E7%94%A8%E6%97%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "「长辈的油车开了 10 多年，我的 4 年就得换」，新能源车迭代速度过快造成「多输」，能否降速？",
+          "url": "https://www.zhihu.com/question/2042011385488487939",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "新能源车维保为何只能去4S店",
+          "url": "https://www.toutiao.com/trending/7642712773907349545/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时13分"
+        },
+        {
+          "title": "特斯拉超级充电卡已向非特斯拉车主开放。",
+          "url": "https://wallstreetcn.com/livenews/3109157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待 DeepSeek 连续多次降价？",
+          "url": "https://www.zhihu.com/question/2033335202307647295",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
         }
       ]
     },
@@ -169,23 +282,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时01分 ~ 08时13分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "新能源车维保为何只能去4S店",
-          "url": "https://www.toutiao.com/trending/7642712773907349545/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时13分"
         }
       ]
     }
