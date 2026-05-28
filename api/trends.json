@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-05-29T05:08:13.847335+08:00",
-  "total_titles_processed": 396,
+  "generated_at": "2026-05-29T07:15:54.478352+08:00",
+  "total_titles_processed": 477,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "比亚迪发布中国首款4nm智驾芯片",
-          "url": "https://www.toutiao.com/trending/7644918296260677126/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时11分 ~ 05时08分]"
-        },
         {
           "title": "比亚迪 5 月 28 日举办的智能化战略发布会上发布了什么值得关注的新技术？有哪些亮点？",
           "url": "https://www.zhihu.com/question/2043356307420177358",
@@ -26,19 +15,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时11分 ~ 05时08分]"
+          "appearance_count": 4,
+          "time_info": "[02时11分 ~ 07时15分]"
+        },
+        {
+          "title": "比亚迪发布中国首款4nm智驾芯片",
+          "url": "https://www.toutiao.com/trending/7644918296260677126/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时11分 ~ 07时15分]"
         },
         {
           "title": "“敢为”智能化下半场、比亚迪官宣自研4nm智驾芯片 王传福：持续投入超千亿研发资金",
           "url": "https://www.cls.cn/detail/2384655",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时11分 ~ 05时08分]"
+          "appearance_count": 4,
+          "time_info": "[02时11分 ~ 07时15分]"
         },
         {
           "title": "50万买宝马还是买蔚来",
@@ -48,8 +50,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时11分 ~ 05时08分]"
+          "appearance_count": 4,
+          "time_info": "[02时11分 ~ 07时15分]"
         },
         {
           "title": "比亚迪发布中国首款4nm智驾芯片",
@@ -60,8 +62,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时11分 ~ 05时08分]"
+          "appearance_count": 4,
+          "time_info": "[02时11分 ~ 07时15分]"
         },
         {
           "title": "比亚迪宋Ultra DM-i上市",
@@ -74,12 +76,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时11分 ~ 05时08分]"
+        },
+        {
+          "title": "新能源车动辄 2 吨以上，有的接近 4 吨，为什么车企拼命把车做大、做重？这么重会有什么隐患？",
+          "url": "https://www.zhihu.com/question/2042674181716669364",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "【阿波罗推销360亿美元债务融资，旨在为Anthropic购买谷歌芯片】阿波罗和黑石正在努力吸引更多投资者加入一项约360亿美元的债务融资交易，来帮助Anthropic PBC扩建其人工智能（AI）基础设施。这笔债务将用于购买谷歌名为TPU的定制芯片，随后Anthropic将租赁这些芯片；博通公司将为该交易中最大份额的款项支付提供担保。 该融资计划旨在利用博通的信用资质，为Anthropic提供算力获取渠道。",
@@ -88,9 +101,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时08分"
+        },
+        {
+          "title": "据美国得克萨斯州车管局（DMV）网站：谷歌母公司Alphabet旗下Waymo已有577辆AVS、317辆Avride登记。 特斯拉有42辆车在美国得州被登记为无人驾驶出租车（Robotaxi）。",
+          "url": "https://wallstreetcn.com/livenews/3110968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
         },
         {
           "title": "谷歌云：Nano Banana 2和Nano Banana Pro已正式上线。",
@@ -117,8 +141,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时11分 ~ 05时08分]"
+          "appearance_count": 4,
+          "time_info": "[02时11分 ~ 07时15分]"
         }
       ]
     },
@@ -166,11 +190,12 @@
           "url": "https://www.baidu.com/s?wd=%E6%9A%B4%E6%B6%A8%E5%90%8E%E8%85%B0%E6%96%A9+%E4%BA%8C%E6%89%8B%E6%89%8B%E6%9C%BA%E5%9B%9E%E6%94%B6%E4%BB%B7%E2%80%9C%E5%B7%A8%E9%9C%87%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            24
+            24,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时07分 ~ 05时08分]"
+          "appearance_count": 3,
+          "time_info": "[05时07分 ~ 07时15分]"
         }
       ]
     },
@@ -185,7 +210,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时08分"
         }
