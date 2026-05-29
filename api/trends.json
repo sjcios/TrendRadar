@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-29T07:15:54.478352+08:00",
-  "total_titles_processed": 477,
+  "generated_at": "2026-05-29T11:27:53.587821+08:00",
+  "total_titles_processed": 695,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "“敢为”智能化下半场、比亚迪官宣自研4nm智驾芯片 王传福：持续投入超千亿研发资金",
+          "url": "https://www.cls.cn/detail/2384655",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时11分 ~ 11时27分]"
+        },
         {
           "title": "比亚迪 5 月 28 日举办的智能化战略发布会上发布了什么值得关注的新技术？有哪些亮点？",
           "url": "https://www.zhihu.com/question/2043356307420177358",
@@ -31,18 +43,6 @@
           "time_info": "[02时11分 ~ 07时15分]"
         },
         {
-          "title": "“敢为”智能化下半场、比亚迪官宣自研4nm智驾芯片 王传福：持续投入超千亿研发资金",
-          "url": "https://www.cls.cn/detail/2384655",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时11分 ~ 07时15分]"
-        },
-        {
           "title": "50万买宝马还是买蔚来",
           "url": "https://www.baidu.com/s?wd=50%E4%B8%87%E4%B9%B0%E5%AE%9D%E9%A9%AC%E8%BF%98%E6%98%AF%E4%B9%B0%E8%94%9A%E6%9D%A5",
           "source": "百度热搜",
@@ -54,16 +54,28 @@
           "time_info": "[02时11分 ~ 07时15分]"
         },
         {
+          "title": "如何评价比亚迪自研的 4nm 璇玑 A3 智驾芯片？",
+          "url": "https://www.zhihu.com/question/2043426122491286329",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
           "title": "比亚迪发布中国首款4nm智驾芯片",
           "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%8F%91%E5%B8%83%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%AC%BE4nm%E6%99%BA%E9%A9%BE%E8%8A%AF%E7%89%87",
           "source": "百度热搜",
           "ranks": [
             15,
-            10
+            10,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时11分 ~ 07时15分]"
+          "appearance_count": 5,
+          "time_info": "[02时11分 ~ 11时27分]"
         },
         {
           "title": "比亚迪宋Ultra DM-i上市",
@@ -82,11 +94,34 @@
           "url": "https://www.zhihu.com/question/2042674181716669364",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时15分 ~ 11时27分]"
+        },
+        {
+          "title": "比亚迪发布首款4nm智驾芯片，已开始量产，承诺主动承担L2阶段的L3、L4安全责任",
+          "url": "https://wallstreetcn.com/articles/3773371",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时15分"
+          "time_info": "11时27分"
+        },
+        {
+          "title": "比亚迪天神之眼智能驾驶搭载速腾聚创超千线激光雷达",
+          "url": "https://flash.jin10.com/detail/20260529104630691800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
         }
       ]
     },
@@ -112,7 +147,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -130,25 +165,8 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国家大基金领投DeepSeek，投前估值450亿美元",
-          "url": "https://wallstreetcn.com/articles/3773316",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时11分 ~ 07时15分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "美伊新一轮互袭，全球股市承压，Snowflake美股盘前涨近35%，油价拉升4%，金价跌破4400美元关口",
@@ -160,12 +178,34 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时11分 ~ 05时08分]"
+        },
+        {
+          "title": "金十图示：2026年05月29日（周五）上海金早盘价为982.78元/克，较国际金价(979.13元/克)，高3.65元/克",
+          "url": "https://flash.jin10.com/detail/20260529110136791800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
+          "title": "金价又跌麻了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%8F%88%E8%B7%8C%E9%BA%BB%E4%BA%86%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
         }
       ]
     },
     {
       "keyword_group": "英雄联盟 LOL",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "英雄联盟开发者报告",
@@ -173,11 +213,58 @@
           "source": "bilibili 热搜",
           "ranks": [
             26,
-            28
+            28,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时11分 ~ 05时08分]"
+          "appearance_count": 4,
+          "time_info": "[02时11分 ~ 11时27分]"
+        },
+        {
+          "title": "《英雄联盟》海克斯大乱斗大更新「羁绊移除，新增英雄专属强化」如何评价这些改动？",
+          "url": "https://www.zhihu.com/question/2043304743988982756",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国家大基金领投DeepSeek，投前估值450亿美元",
+          "url": "https://wallstreetcn.com/articles/3773316",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时11分 ~ 11时27分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI的Codex怎么玩",
+          "url": "https://s.weibo.com/weibo?q=%23OpenAI%E7%9A%84Codex%E6%80%8E%E4%B9%88%E7%8E%A9%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
         }
       ]
     },
