@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-29T11:27:53.587821+08:00",
-  "total_titles_processed": 695,
+  "generated_at": "2026-05-29T15:54:39.502530+08:00",
+  "total_titles_processed": 901,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "“敢为”智能化下半场、比亚迪官宣自研4nm智驾芯片 王传福：持续投入超千亿研发资金",
@@ -58,11 +58,23 @@
           "url": "https://www.zhihu.com/question/2043426122491286329",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 15时54分]"
+        },
+        {
+          "title": "比亚迪智驾出事全额赔付",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354682&amp;topic_name=%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%99%BA%E9%A9%BE%E5%87%BA%E4%BA%8B%E5%85%A8%E9%A2%9D%E8%B5%94%E4%BB%98",
+          "source": "贴吧",
+          "ranks": [
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时27分"
+          "time_info": "15时54分"
         },
         {
           "title": "比亚迪发布中国首款4nm智驾芯片",
@@ -90,6 +102,18 @@
           "time_info": "[02时11分 ~ 05时08分]"
         },
         {
+          "title": "比亚迪发布首款4nm智驾芯片，已开始量产，承诺主动承担L2阶段的L3、L4安全责任",
+          "url": "https://wallstreetcn.com/articles/3773371",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 15时54分]"
+        },
+        {
           "title": "新能源车动辄 2 吨以上，有的接近 4 吨，为什么车企拼命把车做大、做重？这么重会有什么隐患？",
           "url": "https://www.zhihu.com/question/2042674181716669364",
           "source": "知乎",
@@ -102,15 +126,26 @@
           "time_info": "[07时15分 ~ 11时27分]"
         },
         {
-          "title": "比亚迪发布首款4nm智驾芯片，已开始量产，承诺主动承担L2阶段的L3、L4安全责任",
-          "url": "https://wallstreetcn.com/articles/3773371",
-          "source": "华尔街见闻",
+          "title": "新能源汽车高压电磁扁线产品爆单 订单已经排到2027年下半年",
+          "url": "https://www.cls.cn/detail/2385099",
+          "source": "财联社热门",
           "ranks": [
-            9
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时27分"
+          "time_info": "15时54分"
+        },
+        {
+          "title": "比亚迪承诺为城市领航安全兜底 1 年，天神之眼 A 、 B 新老用户均可享受，如何看待此举？实际价值有多大？",
+          "url": "https://www.zhihu.com/question/2043421622929974247",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
         },
         {
           "title": "比亚迪天神之眼智能驾驶搭载速腾聚创超千线激光雷达",
@@ -119,7 +154,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
         }
@@ -165,6 +200,45 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
+          "url": "https://wallstreetcn.com/articles/3773389",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
+        },
+        {
+          "title": "OpenAI的Codex怎么玩",
+          "url": "https://s.weibo.com/weibo?q=%23OpenAI%E7%9A%84Codex%E6%80%8E%E4%B9%88%E7%8E%A9%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：获取OpenAI的新模型将有助于日本加强网络安全的努力。",
+          "url": "https://flash.jin10.com/detail/20260529153517277800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 3,
       "titles": [
@@ -186,7 +260,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
         },
@@ -197,9 +271,49 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 Apple Mac iPhone 手机",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "暴涨后腰斩 二手手机回收价“巨震”",
+          "url": "https://www.baidu.com/s?wd=%E6%9A%B4%E6%B6%A8%E5%90%8E%E8%85%B0%E6%96%A9+%E4%BA%8C%E6%89%8B%E6%89%8B%E6%9C%BA%E5%9B%9E%E6%94%B6%E4%BB%B7%E2%80%9C%E5%B7%A8%E9%9C%87%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时07分 ~ 07时15分]"
+        },
+        {
+          "title": "AI眼镜的“iPhone时刻”快来了吗",
+          "url": "https://www.cls.cn/detail/2385164",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
+        },
+        {
+          "title": "折叠屏iPhone外观实锤了",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%8A%98%E5%8F%A0%E5%B1%8FiPhone%E5%A4%96%E8%A7%82%E5%AE%9E%E9%94%A4%E4%BA%86%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
         }
       ]
     },
@@ -227,7 +341,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
         }
@@ -248,41 +362,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时11分 ~ 11时27分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI的Codex怎么玩",
-          "url": "https://s.weibo.com/weibo?q=%23OpenAI%E7%9A%84Codex%E6%80%8E%E4%B9%88%E7%8E%A9%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "暴涨后腰斩 二手手机回收价“巨震”",
-          "url": "https://www.baidu.com/s?wd=%E6%9A%B4%E6%B6%A8%E5%90%8E%E8%85%B0%E6%96%A9+%E4%BA%8C%E6%89%8B%E6%89%8B%E6%9C%BA%E5%9B%9E%E6%94%B6%E4%BB%B7%E2%80%9C%E5%B7%A8%E9%9C%87%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时07分 ~ 07时15分]"
         }
       ]
     },
