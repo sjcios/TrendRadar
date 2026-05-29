@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-29T19:28:31.104825+08:00",
-  "total_titles_processed": 1093,
+  "generated_at": "2026-05-29T23:24:09.988543+08:00",
+  "total_titles_processed": 1284,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "“敢为”智能化下半场、比亚迪官宣自研4nm智驾芯片 王传福：持续投入超千亿研发资金",
@@ -67,6 +67,19 @@
           "time_info": "[11时27分 ~ 19时28分]"
         },
         {
+          "title": "比亚迪智驾出事全额赔付",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354682&amp;topic_name=%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%99%BA%E9%A9%BE%E5%87%BA%E4%BA%8B%E5%85%A8%E9%A2%9D%E8%B5%94%E4%BB%98",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时54分 ~ 23时24分]"
+        },
+        {
           "title": "比亚迪发布中国首款4nm智驾芯片",
           "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%8F%91%E5%B8%83%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%AC%BE4nm%E6%99%BA%E9%A9%BE%E8%8A%AF%E7%89%87",
           "source": "百度热搜",
@@ -80,16 +93,16 @@
           "time_info": "[02时11分 ~ 11时27分]"
         },
         {
-          "title": "比亚迪智驾出事全额赔付",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354682&amp;topic_name=%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%99%BA%E9%A9%BE%E5%87%BA%E4%BA%8B%E5%85%A8%E9%A2%9D%E8%B5%94%E4%BB%98",
-          "source": "贴吧",
+          "title": "比亚迪承诺为城市领航安全兜底 1 年，天神之眼 A 、 B 新老用户均可享受，如何看待此举？实际价值有多大？",
+          "url": "https://www.zhihu.com/question/2043421622929974247",
+          "source": "知乎",
           "ranks": [
-            3,
+            18,
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时54分 ~ 19时28分]"
+          "appearance_count": 4,
+          "time_info": "[15时54分 ~ 23时24分]"
         },
         {
           "title": "比亚迪发布首款4nm智驾芯片，已开始量产，承诺主动承担L2阶段的L3、L4安全责任",
@@ -141,25 +154,13 @@
           "time_info": "[07时15分 ~ 11时27分]"
         },
         {
-          "title": "比亚迪承诺为城市领航安全兜底 1 年，天神之眼 A 、 B 新老用户均可享受，如何看待此举？实际价值有多大？",
-          "url": "https://www.zhihu.com/question/2043421622929974247",
-          "source": "知乎",
-          "ranks": [
-            18,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时54分 ~ 19时28分]"
-        },
-        {
           "title": "比亚迪宋Ultra DM-i正式上市，310km纯电续航插混SUV杀入12万级",
           "url": "https://wallstreetcn.com/livenews/3111380",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -173,13 +174,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
+        },
+        {
+          "title": "马斯克表示，有关SpaceX下调IPO估值目标的报道是“虚假的”。特斯拉美股目前仍跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3111486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
         }
       ]
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "航天员张陆从太空带回一个苹果",
+          "url": "https://www.toutiao.com/trending/7645299648730746418/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时23分 ~ 23时24分]"
+        },
+        {
+          "title": "诺基亚发布首款微聊手机 售价199元",
+          "url": "https://www.baidu.com/s?wd=%E8%AF%BA%E5%9F%BA%E4%BA%9A%E5%8F%91%E5%B8%83%E9%A6%96%E6%AC%BE%E5%BE%AE%E8%81%8A%E6%89%8B%E6%9C%BA+%E5%94%AE%E4%BB%B7199%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时28分 ~ 23时24分]"
+        },
         {
           "title": "暴涨后腰斩 二手手机回收价“巨震”",
           "url": "https://www.baidu.com/s?wd=%E6%9A%B4%E6%B6%A8%E5%90%8E%E8%85%B0%E6%96%A9+%E4%BA%8C%E6%89%8B%E6%89%8B%E6%9C%BA%E5%9B%9E%E6%94%B6%E4%BB%B7%E2%80%9C%E5%B7%A8%E9%9C%87%E2%80%9D",
@@ -205,15 +239,37 @@
           "time_info": "[15时54分 ~ 19时28分]"
         },
         {
-          "title": "诺基亚发布首款微聊手机 售价199元",
-          "url": "https://www.baidu.com/s?wd=%E8%AF%BA%E5%9F%BA%E4%BA%9A%E5%8F%91%E5%B8%83%E9%A6%96%E6%AC%BE%E5%BE%AE%E8%81%8A%E6%89%8B%E6%9C%BA+%E5%94%AE%E4%BB%B7199%E5%85%83",
+          "title": "iPhone18Pro樱桃色",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E6%A8%B1%E6%A1%83%E8%89%B2%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时23分 ~ 23时24分]"
+        },
+        {
+          "title": "iPhone18Pro四色实锤",
+          "url": "https://www.baidu.com/s?wd=iPhone18Pro%E5%9B%9B%E8%89%B2%E5%AE%9E%E9%94%A4",
           "source": "百度热搜",
           "ranks": [
-            6
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时23分 ~ 23时24分]"
+        },
+        {
+          "title": "航天员从太空带回一个苹果",
+          "url": "https://search.bilibili.com/all?keyword=%E8%88%AA%E5%A4%A9%E5%91%98%E4%BB%8E%E5%A4%AA%E7%A9%BA%E5%B8%A6%E5%9B%9E%E4%B8%80%E4%B8%AA%E8%8B%B9%E6%9E%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时23分 ~ 23时24分]"
         },
         {
           "title": "iPhone18Pro四色实锤了",
@@ -222,7 +278,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -244,47 +300,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "国家大基金领投DeepSeek，投前估值450亿美元",
-          "url": "https://wallstreetcn.com/articles/3773316",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时11分 ~ 11时27分]"
-        },
-        {
-          "title": "梁文锋迁移代码到昇腾",
-          "url": "https://s.weibo.com/weibo?q=%E6%A2%81%E6%96%87%E9%94%8B%E8%BF%81%E7%A7%BB%E4%BB%A3%E7%A0%81%E5%88%B0%E6%98%87%E8%85%BE&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时28分"
-        },
-        {
-          "title": "华为发表韬 (τ) 定律，实现晶体管密度与系统性能突破，是芯片制造领域另一个 deepseek 时刻吗？",
-          "url": "https://www.zhihu.com/question/2042260682780009473",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "19时28分"
         }
@@ -292,7 +308,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "【阿波罗推销360亿美元债务融资，旨在为Anthropic购买谷歌芯片】阿波罗和黑石正在努力吸引更多投资者加入一项约360亿美元的债务融资交易，来帮助Anthropic PBC扩建其人工智能（AI）基础设施。这笔债务将用于购买谷歌名为TPU的定制芯片，随后Anthropic将租赁这些芯片；博通公司将为该交易中最大份额的款项支付提供担保。 该融资计划旨在利用博通的信用资质，为Anthropic提供算力获取渠道。",
@@ -326,6 +342,109 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
+        },
+        {
+          "title": "谷歌TPU或迎空前大单 私募巨头正为Anthropic筹划巨额芯片融资",
+          "url": "https://flash.jin10.com/detail/20260529222227532800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英雄联盟 LOL",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "英雄联盟开发者报告",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E5%BC%80%E5%8F%91%E8%80%85%E6%8A%A5%E5%91%8A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            28,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时11分 ~ 11时27分]"
+        },
+        {
+          "title": "英雄联盟CN缺席亚运会",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9FCN%E7%BC%BA%E5%B8%AD%E4%BA%9A%E8%BF%90%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时23分 ~ 23时24分]"
+        },
+        {
+          "title": "如何看待博主爆料 2026 名古屋亚运会中国电竞代表队将仅参加 2 个项目，其中疑不包含《英雄联盟》？",
+          "url": "https://www.zhihu.com/question/2043644166786082651",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时23分 ~ 23时24分]"
+        },
+        {
+          "title": "《英雄联盟》海克斯大乱斗大更新「羁绊移除，新增英雄专属强化」如何评价这些改动？",
+          "url": "https://www.zhihu.com/question/2043304743988982756",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "国家大基金领投DeepSeek，投前估值450亿美元",
+          "url": "https://wallstreetcn.com/articles/3773316",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时11分 ~ 11时27分]"
+        },
+        {
+          "title": "华为发表韬 (τ) 定律，实现晶体管密度与系统性能突破，是芯片制造领域另一个 deepseek 时刻吗？",
+          "url": "https://www.zhihu.com/question/2042260682780009473",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时28分 ~ 23时24分]"
+        },
+        {
+          "title": "梁文锋迁移代码到昇腾",
+          "url": "https://s.weibo.com/weibo?q=%E6%A2%81%E6%96%87%E9%94%8B%E8%BF%81%E7%A7%BB%E4%BB%A3%E7%A0%81%E5%88%B0%E6%98%87%E8%85%BE&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         }
       ]
     },
@@ -338,11 +457,12 @@
           "url": "https://wallstreetcn.com/articles/3773389",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时54分 ~ 19时28分]"
+          "appearance_count": 4,
+          "time_info": "[15时54分 ~ 23时24分]"
         },
         {
           "title": "OpenAI的Codex怎么玩",
@@ -408,36 +528,6 @@
       ]
     },
     {
-      "keyword_group": "英雄联盟 LOL",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "英雄联盟开发者报告",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E5%BC%80%E5%8F%91%E8%80%85%E6%8A%A5%E5%91%8A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            28,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时11分 ~ 11时27分]"
-        },
-        {
-          "title": "《英雄联盟》海克斯大乱斗大更新「羁绊移除，新增英雄专属强化」如何评价这些改动？",
-          "url": "https://www.zhihu.com/question/2043304743988982756",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时27分"
-        }
-      ]
-    },
-    {
       "keyword_group": "央行 抖音 小红书",
       "match_count": 2,
       "titles": [
@@ -459,7 +549,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         }
