@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T04:55:20.388426+08:00",
-  "total_titles_processed": 407,
+  "generated_at": "2026-05-31T06:01:47.713453+08:00",
+  "total_titles_processed": 432,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时03分 ~ 04时55分]"
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 06时01分]"
         },
         {
           "title": "10名中国车主诉特斯拉FSD欺诈索395万",
@@ -41,8 +41,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时03分 ~ 04时55分]"
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 06时01分]"
         },
         {
           "title": "比亚迪智驾出事全额赔付",
@@ -52,8 +52,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时03分 ~ 04时55分]"
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 06时01分]"
         }
       ]
     },
@@ -66,11 +66,12 @@
           "url": "https://www.zhihu.com/question/2040472846393161206",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时12分 ~ 04时55分]"
+          "appearance_count": 3,
+          "time_info": "[03时12分 ~ 06时01分]"
         }
       ]
     },
@@ -103,11 +104,12 @@
           "ranks": [
             4,
             3,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时03分 ~ 04时55分]"
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 06时01分]"
         }
       ]
     }
