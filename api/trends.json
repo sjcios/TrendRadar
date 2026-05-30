@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-30T19:19:58.470601+08:00",
-  "total_titles_processed": 1078,
+  "generated_at": "2026-05-30T21:26:41.638804+08:00",
+  "total_titles_processed": 1223,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时54分 ~ 19时19分]"
+          "appearance_count": 5,
+          "time_info": "[10时54分 ~ 21时26分]"
         },
         {
           "title": "英国央行行长贝利：美伊停火仍会带来不确定性",
@@ -39,7 +39,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -132,7 +132,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -143,7 +143,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -154,7 +154,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         }
@@ -175,19 +175,20 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时31分 ~ 19时19分]"
+          "appearance_count": 10,
+          "time_info": "[02时31分 ~ 21时26分]"
         },
         {
           "title": "为什么比亚迪既能自研芯片，又敢兜底 1 年？如何评价？",
           "url": "https://www.zhihu.com/question/2043430360453842107",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时14分 ~ 19时19分]"
+          "appearance_count": 3,
+          "time_info": "[17时14分 ~ 21时26分]"
         },
         {
           "title": "中国汽车流通协会成立奔驰、宝马、保时捷三大品牌经销商分会",
@@ -214,6 +215,32 @@
           "time_info": "[17时14分 ~ 19时19分]"
         },
         {
+          "title": "10名中国车主诉特斯拉FSD欺诈索395万",
+          "url": "https://www.toutiao.com/trending/7645193705930018346/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            19,
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时23分 ~ 21时26分]"
+        },
+        {
+          "title": "中信证券：坚定看好特斯拉机器人以及供应链企业",
+          "url": "https://www.cls.cn/detail/2386131",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时14分 ~ 21时26分]"
+        },
+        {
           "title": "比亚迪承诺为城市领航安全兜底 1 年，天神之眼 A 、 B 新老用户均可享受，如何看待此举？实际价值有多大？",
           "url": "https://www.zhihu.com/question/2043421622929974247",
           "source": "知乎",
@@ -226,38 +253,13 @@
           "time_info": "[02时31分 ~ 07时11分]"
         },
         {
-          "title": "10名中国车主诉特斯拉FSD欺诈索395万",
-          "url": "https://www.toutiao.com/trending/7645193705930018346/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时23分 ~ 19时19分]"
-        },
-        {
-          "title": "中信证券：坚定看好特斯拉机器人以及供应链企业",
-          "url": "https://www.cls.cn/detail/2386131",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时14分 ~ 19时19分]"
-        },
-        {
           "title": "中国汽车流通协会奔驰、宝马、保时捷三大品牌经销商分会正式成立",
           "url": "https://wallstreetcn.com/livenews/3111773",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -310,11 +312,12 @@
             15,
             26,
             25,
-            28
+            28,
+            20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时31分 ~ 19时19分]"
+          "appearance_count": 10,
+          "time_info": "[02时31分 ~ 21时26分]"
         },
         {
           "title": "诺基亚发布首款微聊手机 售价199元",
@@ -422,6 +425,18 @@
           "time_info": "[10时54分 ~ 14时23分]"
         },
         {
+          "title": "如何看待中国队缺席 2026 亚运会 LoL 项目？",
+          "url": "https://www.zhihu.com/question/2043818291022624612",
+          "source": "知乎",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 21时26分]"
+        },
+        {
           "title": "英雄联盟CN缺席亚运会",
           "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9FCN%E7%BC%BA%E5%B8%AD%E4%BA%9A%E8%BF%90%E4%BC%9A%23&t=31&band_rank=23&Refer=top",
           "source": "微博",
@@ -431,23 +446,12 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时06分 ~ 05时07分]"
-        },
-        {
-          "title": "如何看待中国队缺席 2026 亚运会 LoL 项目？",
-          "url": "https://www.zhihu.com/question/2043818291022624612",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时19分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
@@ -471,6 +475,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时07分 ~ 07时11分]"
+        },
+        {
+          "title": "报道：OpenAI在讨论将花旗、摩根大通纳入IPO承销商名单",
+          "url": "https://wallstreetcn.com/livenews/3111808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
+        },
+        {
+          "title": "据悉OpenAI已与花旗、摩根大通讨论参与IPO事宜",
+          "url": "https://flash.jin10.com/detail/20260530193729860800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
         }
       ]
     },
