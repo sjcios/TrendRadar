@@ -1,12 +1,48 @@
 {
-  "generated_at": "2026-05-31T06:01:47.713453+08:00",
-  "total_titles_processed": 432,
+  "generated_at": "2026-05-31T07:09:56.249913+08:00",
+  "total_titles_processed": 452,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
       "match_count": 4,
       "titles": [
+        {
+          "title": "中信证券：坚定看好特斯拉机器人以及供应链企业",
+          "url": "https://www.cls.cn/detail/2386131",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 07时09分]"
+        },
+        {
+          "title": "10名中国车主诉特斯拉FSD欺诈索395万",
+          "url": "https://www.toutiao.com/trending/7645193705930018346/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            21,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 07时09分]"
+        },
+        {
+          "title": "比亚迪智驾出事全额赔付",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354682&amp;topic_name=%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%99%BA%E9%A9%BE%E5%87%BA%E4%BA%8B%E5%85%A8%E9%A2%9D%E8%B5%94%E4%BB%98",
+          "source": "贴吧",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 07时09分]"
+        },
         {
           "title": "为什么比亚迪既能自研芯片，又敢兜底 1 年？如何评价？",
           "url": "https://www.zhihu.com/question/2043430360453842107",
@@ -19,41 +55,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时03分 ~ 04时55分]"
-        },
-        {
-          "title": "中信证券：坚定看好特斯拉机器人以及供应链企业",
-          "url": "https://www.cls.cn/detail/2386131",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 06时01分]"
-        },
-        {
-          "title": "10名中国车主诉特斯拉FSD欺诈索395万",
-          "url": "https://www.toutiao.com/trending/7645193705930018346/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            21,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 06时01分]"
-        },
-        {
-          "title": "比亚迪智驾出事全额赔付",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354682&amp;topic_name=%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%99%BA%E9%A9%BE%E5%87%BA%E4%BA%8B%E5%85%A8%E9%A2%9D%E8%B5%94%E4%BB%98",
-          "source": "贴吧",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 06时01分]"
         }
       ]
     },
@@ -67,11 +68,12 @@
           "source": "知乎",
           "ranks": [
             18,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时12分 ~ 06时01分]"
+          "appearance_count": 4,
+          "time_info": "[03时12分 ~ 07时09分]"
         }
       ]
     },
