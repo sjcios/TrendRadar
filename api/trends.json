@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T01:03:21.304304+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-05-31T03:12:59.471534+08:00",
+  "total_titles_processed": 370,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2043430360453842107",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
+          "appearance_count": 2,
+          "time_info": "[01时03分 ~ 03时12分]"
         },
         {
           "title": "中信证券：坚定看好特斯拉机器人以及供应链企业",
@@ -26,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
+          "appearance_count": 2,
+          "time_info": "[01时03分 ~ 03时12分]"
         },
         {
           "title": "比亚迪智驾出事全额赔付",
@@ -37,19 +38,37 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
+          "appearance_count": 2,
+          "time_info": "[01时03分 ~ 03时12分]"
         },
         {
           "title": "10名中国车主诉特斯拉FSD欺诈索395万",
           "url": "https://www.toutiao.com/trending/7645193705930018346/",
           "source": "今日头条",
           "ranks": [
-            20
+            20,
+            21
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时03分 ~ 03时12分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "为什么无论是 chatgpt 还是 deepseek 都会在 24 点游戏上表现的这么差？",
+          "url": "https://www.zhihu.com/question/2040472846393161206",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时03分"
+          "time_info": "03时12分"
         }
       ]
     },
@@ -65,8 +84,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
+          "appearance_count": 2,
+          "time_info": "[01时03分 ~ 03时12分]"
         }
       ]
     },
@@ -79,11 +98,12 @@
           "url": "https://www.zhihu.com/question/2043818291022624612",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
+          "appearance_count": 2,
+          "time_info": "[01时03分 ~ 03时12分]"
         }
       ]
     }
