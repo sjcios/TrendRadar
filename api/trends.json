@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-31T20:11:47.392109+08:00",
-  "total_titles_processed": 1070,
+  "generated_at": "2026-05-31T22:44:14.400001+08:00",
+  "total_titles_processed": 1214,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "中信证券：坚定看好特斯拉机器人以及供应链企业",
@@ -17,8 +17,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时03分 ~ 20时11分]"
+          "appearance_count": 11,
+          "time_info": "[01时03分 ~ 22时44分]"
         },
         {
           "title": "比亚迪智驾出事全额赔付",
@@ -29,11 +29,12 @@
             20,
             26,
             28,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时03分 ~ 20时11分]"
+          "appearance_count": 11,
+          "time_info": "[01时03分 ~ 22时44分]"
         },
         {
           "title": "10名中国车主诉特斯拉FSD欺诈索395万",
@@ -66,11 +67,23 @@
           "url": "https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E7%82%B9%E7%87%83%E6%9D%A8%E7%B5%AE+20%E8%BE%86%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E8%A2%AB%E7%83%A7%E6%AF%81",
           "source": "百度热搜",
           "ranks": [
-            10
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时11分 ~ 22时44分]"
+        },
+        {
+          "title": "7273辆新能源车从江苏南通出海欧洲",
+          "url": "https://wallstreetcn.com/livenews/3111946",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时11分"
+          "time_info": "22时44分"
         }
       ]
     },
@@ -87,8 +100,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 20时11分]"
+          "appearance_count": 4,
+          "time_info": "[18时15分 ~ 22时44分]"
         },
         {
           "title": "为什么无论是 chatgpt 还是 deepseek 都会在 24 点游戏上表现的这么差？",
@@ -107,7 +120,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "报道：OpenAI在讨论将花旗、摩根大通纳入IPO承销商名单",
@@ -120,6 +133,45 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时03分 ~ 04时55分]"
+        },
+        {
+          "title": "OpenAI模型推翻80年的数学经典猜想，引发学界震动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33276037",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时43分 ~ 22时44分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "央行 抖音 小红书",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "欧洲央行管委：通胀螺旋风险犹存 行动宜早不宜迟",
+          "url": "https://flash.jin10.com/detail/20260531214526870800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
+        },
+        {
+          "title": "欧洲央行管委：欧洲央行应早行动而非晚行动",
+          "url": "https://wallstreetcn.com/livenews/3111950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
         }
       ]
     },
