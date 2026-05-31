@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-01T02:02:09.229482+08:00",
-  "total_titles_processed": 383,
+  "generated_at": "2026-06-01T03:39:06.380215+08:00",
+  "total_titles_processed": 413,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,23 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 02时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时06分 ~ 03时39分]"
+        },
+        {
+          "title": "7273辆新能源车从江苏南通出海欧洲",
+          "url": "https://wallstreetcn.com/livenews/3111946",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 03时39分]"
         },
         {
           "title": "老人点燃杨絮 20辆新能源车被烧毁",
@@ -29,17 +41,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时06分 ~ 00时07分]"
-        },
-        {
-          "title": "7273辆新能源车从江苏南通出海欧洲",
-          "url": "https://wallstreetcn.com/livenews/3111946",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 02时02分]"
         }
       ]
     },
@@ -55,8 +56,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 02时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时06分 ~ 03时39分]"
         }
       ]
     },
@@ -73,8 +74,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 02时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时06分 ~ 03时39分]"
         }
       ]
     },
@@ -90,8 +91,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 02时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 03时39分]"
         }
       ]
     }
