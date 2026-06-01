@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-02T02:37:17.211097+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-02T06:10:48.335765+08:00",
+  "total_titles_processed": 402,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
         },
@@ -25,7 +25,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
         },
@@ -34,22 +34,24 @@
           "url": "https://www.zhihu.com/question/2044741678649402364",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 02时37分]"
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 06时10分]"
         },
         {
           "title": "闲鱼读取用户手机内文物照片上架售卖？陕历博“镇馆之宝”被标价6000元，平台回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_33279622",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 02时37分]"
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 06时10分]"
         },
         {
           "title": "黄仁勋宣布英伟达正重新发明PC：意义不亚于智能手机的诞生",
@@ -60,8 +62,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 02时37分]"
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 06时10分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)据悉已准备推出分账功能，进一步拓展金融业务。",
@@ -70,15 +72,54 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
         }
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "谷歌拟筹800亿美元 伯克希尔100亿美元跟投",
+          "url": "https://flash.jin10.com/detail/20260602050830269800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
+        },
+        {
+          "title": "伯克希尔对谷歌母公司投资100亿美元，加大对AI的押注",
+          "url": "https://wallstreetcn.com/livenews/3112644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
+        },
+        {
+          "title": "谷歌(GOOG.O)美股盘后跌1.7%。",
+          "url": "https://flash.jin10.com/detail/20260602044727050800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
+        }
+      ]
+    },
+    {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "【社论】如何看待“新能源车养路费”讨论",
@@ -86,11 +127,12 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 02时37分]"
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 06时10分]"
         },
         {
           "title": "比亚迪5月销量38.35万辆",
@@ -102,6 +144,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时36分 ~ 02时37分]"
+        },
+        {
+          "title": "比亚迪王传福扔下的“深水炸弹”",
+          "url": "https://www.toutiao.com/trending/7646185087121244166/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "亚马逊(AMZN.O)：OpenAI的GPT-5.5、GPT-5.4及Codex现已登陆Amazon Bedrock。",
+          "url": "https://flash.jin10.com/detail/20260602053510657800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
         }
       ]
     },
@@ -114,11 +184,12 @@
           "url": "https://www.douyin.com/hot/2519824",
           "source": "抖音",
           "ranks": [
-            27
+            27,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 02时37分]"
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 06时10分]"
         }
       ]
     },
@@ -131,11 +202,12 @@
           "url": "https://www.douyin.com/hot/2519633",
           "source": "抖音",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 02时37分]"
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 06时10分]"
         }
       ]
     }
