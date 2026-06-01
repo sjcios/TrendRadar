@@ -1,312 +1,107 @@
 {
-  "generated_at": "2026-06-01T20:36:18.600866+08:00",
-  "total_titles_processed": 1043,
+  "generated_at": "2026-06-02T02:37:17.211097+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "中信证券：坚定看好特斯拉机器人以及供应链企业",
-          "url": "https://www.cls.cn/detail/2386131",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时06分 ~ 08时05分]"
-        },
-        {
-          "title": "74岁老人嫌杨絮碍事将其点燃致20辆新能源车被烧毁，已被采取刑事强制措施",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33277684",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时02分 ~ 20时36分]"
-        },
-        {
-          "title": "7273辆新能源车从江苏南通出海欧洲",
-          "url": "https://wallstreetcn.com/livenews/3111946",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 06时04分]"
-        },
-        {
-          "title": "SpaceX购入特斯拉Cybertruck总销量的8% 且未获任何折扣",
-          "url": "https://flash.jin10.com/detail/20260601041827560800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时59分 ~ 06时04分]"
-        },
-        {
-          "title": "老人点燃杨絮 20辆新能源车被烧毁",
-          "url": "https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E7%82%B9%E7%87%83%E6%9D%A8%E7%B5%AE+20%E8%BE%86%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E8%A2%AB%E7%83%A7%E6%AF%81",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 00时07分]"
-        },
-        {
-          "title": "比亚迪汽车5月销量",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%B1%BD%E8%BD%A65%E6%9C%88%E9%94%80%E9%87%8F%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "英伟达：包括比亚迪、吉利、极氪、小米以及小马智行等在内的中国主流车企和自动驾驶公司，均已采用或正在基于NVIDIA Hyperion 平台开发智驾。",
-          "url": "https://wallstreetcn.com/livenews/3112186",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时02分"
-        },
-        {
-          "title": "【社论】如何看待“新能源车养路费”讨论",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33281986",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "比亚迪5月销量38.35万辆",
-          "url": "https://www.toutiao.com/trending/7646298562599239689/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "赛力斯：5月新能源汽车销量33,476辆，同比下降16.27%；其中赛力斯汽车销量30,187辆，同比下降17.18%。",
-          "url": "https://wallstreetcn.com/livenews/3112395",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "无牌奥迪车加油459元后逃单",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A0%E7%89%8C%E5%A5%A5%E8%BF%AA%E8%BD%A6%E5%8A%A0%E6%B2%B9459%E5%85%83%E5%90%8E%E9%80%83%E5%8D%95",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        }
-      ]
-    },
-    {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
-          "title": "美国科技记者古尔曼：戴尔(DELL.N)推出了重新设计的XPS 13笔记本电脑，起售价为699美元，将该设备定位为直接对抗苹果公司广受欢迎的MacBook Neo的产品。",
-          "url": "https://flash.jin10.com/detail/20260601072432805800",
+          "title": "苹果准备推出账单拆分功能，进一步深入金融领域",
+          "url": "https://wallstreetcn.com/livenews/3112608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "苹果拟推出分账功能 以进一步拓展在日常金融工具领域的布局",
+          "url": "https://flash.jin10.com/detail/20260602021323957800",
           "source": "金十数据",
           "ranks": [
-            4
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "男子手机丢失献血时顺走护士手机，如何评价这种一边做好事一边偷窃的行为？这是一种什么心理？",
+          "url": "https://www.zhihu.com/question/2044741678649402364",
+          "source": "知乎",
+          "ranks": [
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时05分"
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 02时37分]"
         },
         {
           "title": "闲鱼读取用户手机内文物照片上架售卖？陕历博“镇馆之宝”被标价6000元，平台回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_33279622",
           "source": "澎湃新闻",
           "ranks": [
-            17,
-            16
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时02分 ~ 20时36分]"
+          "time_info": "[02时36分 ~ 02时37分]"
         },
         {
-          "title": "曝闲鱼将用户手机内照片“自动上架”",
-          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E9%97%B2%E9%B1%BC%E5%B0%86%E7%94%A8%E6%88%B7%E6%89%8B%E6%9C%BA%E5%86%85%E7%85%A7%E7%89%87%E2%80%9C%E8%87%AA%E5%8A%A8%E4%B8%8A%E6%9E%B6%E2%80%9D",
-          "source": "百度热搜",
+          "title": "黄仁勋宣布英伟达正重新发明PC：意义不亚于智能手机的诞生",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33282044",
+          "source": "澎湃新闻",
           "ranks": [
-            23
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时02分"
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 02时37分]"
         },
         {
-          "title": "男子手机丢失 献血时顺走护士手机",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%89%8B%E6%9C%BA%E4%B8%A2%E5%A4%B1+%E7%8C%AE%E8%A1%80%E6%97%B6%E9%A1%BA%E8%B5%B0%E6%8A%A4%E5%A3%AB%E6%89%8B%E6%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "闲鱼疑读取用户手机文物照片上架售卖",
-          "url": "https://www.toutiao.com/trending/7646238352962289710/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "央行 抖音 小红书",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "抖音精选的童年信箱",
-          "url": "https://www.douyin.com/hot/2519633",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "欧洲央行管委：欧洲央行应早行动而非晚行动",
-          "url": "https://wallstreetcn.com/livenews/3111950",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 06时04分]"
-        },
-        {
-          "title": "国际货币基金组织：巴西央行在三月和四月适当地降低了利率，这与通胀目标框架一致。",
-          "url": "https://flash.jin10.com/detail/20260601200414238800",
+          "title": "市场消息：苹果(AAPL.O)据悉已准备推出分账功能，进一步拓展金融业务。",
+          "url": "https://flash.jin10.com/detail/20260602020041663800",
           "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时36分"
+          "time_info": "02时37分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
       "match_count": 2,
       "titles": [
         {
-          "title": "欧盟云计算法律草案将使亚马逊、谷歌、微软在欧洲竞标“极为关键”云计算服务面临更多复杂要求。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3112418",
-          "source": "华尔街见闻-快讯",
+          "title": "【社论】如何看待“新能源车养路费”讨论",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33281986",
+          "source": "澎湃新闻",
           "ranks": [
+            12,
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 02时37分]"
         },
         {
-          "title": "谷歌今夏将在日本东京开设美国以外首家零售店",
-          "url": "https://wallstreetcn.com/livenews/3112161",
-          "source": "华尔街见闻-快讯",
+          "title": "比亚迪5月销量38.35万辆",
+          "url": "https://www.toutiao.com/trending/7646298562599239689/",
+          "source": "今日头条",
           "ranks": [
             30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI模型推翻80年的数学经典猜想，引发学界震动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33276037",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 06时04分]"
-        },
-        {
-          "title": "SpaceX、OpenAI上市在即，亚洲投资者“卖芯片，买瓶颈”，押注“新一轮资本开支”",
-          "url": "https://wallstreetcn.com/articles/3773518",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何看待 DeepSeek 在 2026.5.29 晚限制修改输入次数？",
-          "url": "https://www.zhihu.com/question/2043802300246915002",
-          "source": "知乎",
-          "ranks": [
-            2,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时06分 ~ 08时05分]"
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 02时37分]"
         }
       ]
     },
@@ -321,9 +116,26 @@
           "ranks": [
             27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 02时37分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "央行 抖音 小红书",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "抖音精选的童年信箱",
+          "url": "https://www.douyin.com/hot/2519633",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 02时37分]"
         }
       ]
     }
