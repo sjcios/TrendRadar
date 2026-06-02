@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-02T08:13:35.450383+08:00",
-  "total_titles_processed": 517,
+  "generated_at": "2026-06-02T13:30:36.015849+08:00",
+  "total_titles_processed": 746,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "苹果准备推出账单拆分功能，进一步深入金融领域",
@@ -17,6 +17,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
+        },
+        {
+          "title": "黄仁勋宣布英伟达正重新发明PC：意义不亚于智能手机的诞生",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33282044",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20,
+            18,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时36分 ~ 13时30分]"
         },
         {
           "title": "男子手机丢失献血时顺走护士手机，如何评价这种一边做好事一边偷窃的行为？这是一种什么心理？",
@@ -56,17 +70,15 @@
           "time_info": "[02时36分 ~ 08时13分]"
         },
         {
-          "title": "黄仁勋宣布英伟达正重新发明PC：意义不亚于智能手机的诞生",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33282044",
-          "source": "澎湃新闻",
+          "title": "iPhone18Pro电池容量曝光",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E7%94%B5%E6%B1%A0%E5%AE%B9%E9%87%8F%E6%9B%9D%E5%85%89%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
           "ranks": [
-            19,
-            20,
-            18
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时36分 ~ 08时13分]"
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 13时30分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)据悉已准备推出分账功能，进一步拓展金融业务。",
@@ -83,8 +95,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
+          "url": "https://wallstreetcn.com/articles/3773607",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 13时30分]"
+        },
         {
           "title": "谷歌拟筹800亿美元 伯克希尔100亿美元跟投",
           "url": "https://flash.jin10.com/detail/20260602050830269800",
@@ -114,7 +137,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         },
@@ -133,7 +156,7 @@
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "【社论】如何看待“新能源车养路费”讨论",
@@ -143,11 +166,23 @@
             12,
             11,
             10,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时36分 ~ 08时13分]"
+          "appearance_count": 6,
+          "time_info": "[02时36分 ~ 13时30分]"
+        },
+        {
+          "title": "油车降价、电车涨价，新能源车渗透率超 60%，当下购车，选油车还是新能源车更划算？",
+          "url": "https://www.zhihu.com/question/2042914583443136872",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 13时30分]"
         },
         {
           "title": "比亚迪王传福扔下的“深水炸弹”",
@@ -160,6 +195,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时10分 ~ 08时13分]"
+        },
+        {
+          "title": "宝马X5托运途中被烧毁 物流公司被判赔",
+          "url": "https://www.toutiao.com/trending/7646390888852373514/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 13时30分]"
         },
         {
           "title": "比亚迪5月销量38.35万辆",
@@ -198,7 +244,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         }
