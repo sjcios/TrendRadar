@@ -1,473 +1,100 @@
 {
-  "generated_at": "2026-06-02T22:52:00.088276+08:00",
-  "total_titles_processed": 1172,
+  "generated_at": "2026-06-03T02:39:51.273062+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "央行 抖音 小红书",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "欧洲央行执委奇波洛内：欧洲需要谨慎行动，以增强其货币的作用。欧元的国际角色增强不会自然而然地实现。",
-          "url": "https://flash.jin10.com/detail/20260602180018410800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "抖音精选的童年信箱",
-          "url": "https://www.douyin.com/hot/2519633",
-          "source": "抖音",
-          "ranks": [
-            7,
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时36分 ~ 08时13分]"
-        },
-        {
-          "title": "韩国央行：预计CPI将在一段时间内维持在3%的水平。 6月通胀率预计与5月份类似。",
-          "url": "https://wallstreetcn.com/livenews/3112702",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时13分"
-        },
-        {
-          "title": "英国央行行长贝利：股市和信用利差存在风险。",
-          "url": "https://flash.jin10.com/detail/20260602222439275800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时52分"
-        },
-        {
-          "title": "英国央行行长贝利在英国议会上议院经济事务委员会表示：央行决策者们在经济增长与通胀之间权衡。 通胀高于目标（过冲）系海湾地区一系列事件所致，局势的走向高度不确定。 前景是英国经济增速将放缓，而不是会发生衰退。",
-          "url": "https://wallstreetcn.com/livenews/3113139",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时52分"
-        },
-        {
-          "title": "东方汇理投资研究所固定收益主管Amaury D’Orsay维持其对于全球收益率曲线陡化的整体观点。 他认为，欧洲央行和英国央行存在加息的可能性，“但不会就此开启一个加息周期”。",
-          "url": "https://wallstreetcn.com/livenews/3113136",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时52分"
-        },
-        {
-          "title": "英国央行行长贝利：我们必须让公众相信2%的通胀目标是真实的。",
-          "url": "https://flash.jin10.com/detail/20260602222118231800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时52分"
-        },
-        {
-          "title": "黄金取代美债成全球第一大储备资产，央行超3.6万吨囤金接近历史峰值！",
-          "url": "https://flash.jin10.com/detail/20260602175301557800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "英国央行行长贝利：由于金融环境收紧，我们还有时间。",
-          "url": "https://flash.jin10.com/detail/20260602221723919800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时52分"
-        },
-        {
-          "title": "欧洲央行管委Rehn：6月的加息将是一种保险性加息。 通胀预期依然保持稳定。",
-          "url": "https://wallstreetcn.com/livenews/3112963",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "英国央行行长贝利：不能等待第二轮效应的确凿证据（才采取行动）。",
-          "url": "https://flash.jin10.com/detail/20260602221443104800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "零跑月交付破 8 万，小鹏、小米、理想、蔚来超 3 万，5 月新能源渗透率预计升至 62.5%，燃油车还有机会吗？",
-          "url": "https://www.zhihu.com/question/2044851902995812571",
-          "source": "知乎",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时21分 ~ 22时52分]"
-        },
-        {
-          "title": "【社论】如何看待“新能源车养路费”讨论",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33281986",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11,
-            10,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时36分 ~ 13时30分]"
-        },
-        {
-          "title": "路透社曝光多名特斯拉前员工称不信赖 FSD ，更有人说「给我钱我也不坐」，这暴露了其背后存在哪些隐患？",
-          "url": "https://www.zhihu.com/question/2044816484182877447",
-          "source": "知乎",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时21分 ~ 22时52分]"
-        },
-        {
-          "title": "油车降价、电车涨价，新能源车渗透率超 60%，当下购车，选油车还是新能源车更划算？",
-          "url": "https://www.zhihu.com/question/2042914583443136872",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时29分 ~ 13时30分]"
-        },
-        {
-          "title": "比亚迪王传福扔下的“深水炸弹”",
-          "url": "https://www.toutiao.com/trending/7646185087121244166/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时10分 ~ 08时13分]"
-        },
-        {
-          "title": "比亚迪为L3、L4智驾备战",
-          "url": "https://www.toutiao.com/trending/7646761423502052900/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时51分 ~ 22时52分]"
-        },
-        {
-          "title": "宝马X5托运途中被烧毁 物流公司被判赔",
-          "url": "https://www.toutiao.com/trending/7646390888852373514/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时29分 ~ 13时30分]"
-        },
-        {
-          "title": "比亚迪5月销量38.35万辆",
-          "url": "https://www.toutiao.com/trending/7646298562599239689/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 02时37分]"
-        },
-        {
-          "title": "国务院：推动农村商品消费扩容升级，支持新能源汽车、智能家电、绿色建材下乡",
-          "url": "https://wallstreetcn.com/livenews/3112962",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "当比亚迪开始往更深处走",
-          "url": "https://www.toutiao.com/trending/7646654011322335268/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "苹果准备推出账单拆分功能，进一步深入金融领域",
-          "url": "https://wallstreetcn.com/livenews/3112608",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时37分"
-        },
-        {
-          "title": "黄仁勋宣布英伟达正重新发明PC：意义不亚于智能手机的诞生",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33282044",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20,
-            18,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时36分 ~ 13时30分]"
-        },
-        {
-          "title": "男子手机丢失献血时顺走护士手机，如何评价这种一边做好事一边偷窃的行为？这是一种什么心理？",
-          "url": "https://www.zhihu.com/question/2044741678649402364",
-          "source": "知乎",
-          "ranks": [
-            13,
-            12,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时36分 ~ 08时13分]"
-        },
-        {
-          "title": "苹果拟推出分账功能 以进一步拓展在日常金融工具领域的布局",
-          "url": "https://flash.jin10.com/detail/20260602021323957800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时37分"
-        },
-        {
-          "title": "闲鱼读取用户手机内文物照片上架售卖？陕历博“镇馆之宝”被标价6000元，平台回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33279622",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时36分 ~ 08时13分]"
-        },
-        {
-          "title": "iPhone18Pro电池容量曝光",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E7%94%B5%E6%B1%A0%E5%AE%B9%E9%87%8F%E6%9B%9D%E5%85%89%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时29分 ~ 13时30分]"
-        },
-        {
-          "title": "市场消息：苹果(AAPL.O)据悉已准备推出分账功能，进一步拓展金融业务。",
-          "url": "https://flash.jin10.com/detail/20260602020041663800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时37分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 3,
       "titles": [
         {
           "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
           "url": "https://wallstreetcn.com/articles/3773607",
           "source": "华尔街见闻",
           "ranks": [
-            4,
-            2
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时29分 ~ 22时52分]"
+          "appearance_count": 1,
+          "time_info": "02时39分"
         },
         {
-          "title": "谷歌拟筹800亿美元 伯克希尔100亿美元跟投",
-          "url": "https://flash.jin10.com/detail/20260602050830269800",
+          "title": "谷歌(GOOG.O)：从6月2日起，将更新美国预测市场政策，禁止在俄亥俄州投放预测市场合约及相关产品的广告。",
+          "url": "https://flash.jin10.com/detail/20260603022348534800",
           "source": "金十数据",
           "ranks": [
-            11
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时10分"
+          "time_info": "02时39分"
         },
         {
-          "title": "伯克希尔对谷歌母公司投资100亿美元，加大对AI的押注",
-          "url": "https://wallstreetcn.com/livenews/3112644",
+          "title": "据知情人士透露，谷歌母公司Alphabet的股权融资获得超额认购。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3113205",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时10分"
+          "time_info": "02时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "零跑月交付破 8 万，小鹏、小米、理想、蔚来超 3 万，5 月新能源渗透率预计升至 62.5%，燃油车还有机会吗？",
+          "url": "https://www.zhihu.com/question/2044851902995812571",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时39分"
         },
         {
-          "title": "周一（6月1日），美股超大规模云服务商（Hyperscalers）跌0.02%，报105.79点，尾盘刷新盘中历史最高位至106.56点。 成分股亚马逊跌3.47%，谷歌A跌1.04%，微软涨2.28%，Meta跌5.07%，甲骨文涨9.91%。",
-          "url": "https://wallstreetcn.com/livenews/3112690",
-          "source": "华尔街见闻-快讯",
+          "title": "路透社曝光多名特斯拉前员工称不信赖 FSD ，更有人说「给我钱我也不坐」，这暴露了其背后存在哪些隐患？",
+          "url": "https://www.zhihu.com/question/2044816484182877447",
+          "source": "知乎",
           "ranks": [
-            13
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时13分"
+          "time_info": "02时39分"
         },
         {
-          "title": "谷歌(GOOG.O)美股盘后跌1.7%。",
-          "url": "https://flash.jin10.com/detail/20260602044727050800",
-          "source": "金十数据",
+          "title": "比亚迪为L3、L4智驾备战",
+          "url": "https://www.toutiao.com/trending/7646761423502052900/",
+          "source": "今日头条",
           "ranks": [
-            20
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时10分"
+          "time_info": "02时39分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "先上市者为王？一文读懂：Anthropic与OpenAI缘何上演“抢滩登陆战”！",
-          "url": "https://www.cls.cn/detail/2387988",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "亚马逊(AMZN.O)：OpenAI的GPT-5.5、GPT-5.4及Codex现已登陆Amazon Bedrock。",
-          "url": "https://flash.jin10.com/detail/20260602053510657800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
         {
-          "title": "DeepSeek降价",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E9%99%8D%E4%BB%B7&t=31&band_rank=1&Refer=top",
-          "source": "微博",
+          "title": "OpenAI：ZoomInfo将在企业版Codex（Codex for Work）中提供原生支持。",
+          "url": "https://wallstreetcn.com/livenews/3113224",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时21分 ~ 22时52分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "英雄联盟 LOL",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "lolm六一喵喵峡谷",
-          "url": "https://www.douyin.com/hot/2519824",
-          "source": "抖音",
-          "ranks": [
-            27,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时36分 ~ 08时13分]"
+          "appearance_count": 1,
+          "time_info": "02时39分"
         }
       ]
     }
