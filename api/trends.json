@@ -1,8 +1,118 @@
 {
-  "generated_at": "2026-06-02T13:30:36.015849+08:00",
-  "total_titles_processed": 746,
+  "generated_at": "2026-06-02T18:21:17.410912+08:00",
+  "total_titles_processed": 966,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "【社论】如何看待“新能源车养路费”讨论",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33281986",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            10,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时36分 ~ 13时30分]"
+        },
+        {
+          "title": "零跑月交付破 8 万，小鹏、小米、理想、蔚来超 3 万，5 月新能源渗透率预计升至 62.5%，燃油车还有机会吗？",
+          "url": "https://www.zhihu.com/question/2044851902995812571",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "油车降价、电车涨价，新能源车渗透率超 60%，当下购车，选油车还是新能源车更划算？",
+          "url": "https://www.zhihu.com/question/2042914583443136872",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 13时30分]"
+        },
+        {
+          "title": "比亚迪王传福扔下的“深水炸弹”",
+          "url": "https://www.toutiao.com/trending/7646185087121244166/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时10分 ~ 08时13分]"
+        },
+        {
+          "title": "宝马X5托运途中被烧毁 物流公司被判赔",
+          "url": "https://www.toutiao.com/trending/7646390888852373514/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 13时30分]"
+        },
+        {
+          "title": "比亚迪5月销量38.35万辆",
+          "url": "https://www.toutiao.com/trending/7646298562599239689/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 02时37分]"
+        },
+        {
+          "title": "路透社曝光多名特斯拉前员工称不信赖 FSD ，更有人说「给我钱我也不坐」，这暴露了其背后存在哪些隐患？",
+          "url": "https://www.zhihu.com/question/2044816484182877447",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "国务院：推动农村商品消费扩容升级，支持新能源汽车、智能家电、绿色建材下乡",
+          "url": "https://wallstreetcn.com/livenews/3112962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "当比亚迪开始往更深处走",
+          "url": "https://www.toutiao.com/trending/7646654011322335268/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        }
+      ]
+    },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
       "match_count": 7,
@@ -102,11 +212,12 @@
           "url": "https://wallstreetcn.com/articles/3773607",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时29分 ~ 13时30分]"
+          "appearance_count": 3,
+          "time_info": "[13时29分 ~ 18时21分]"
         },
         {
           "title": "谷歌拟筹800亿美元 伯克希尔100亿美元跟投",
@@ -155,75 +266,20 @@
       ]
     },
     {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
+      "keyword_group": "央行 抖音 小红书",
       "match_count": 5,
       "titles": [
         {
-          "title": "【社论】如何看待“新能源车养路费”讨论",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33281986",
-          "source": "澎湃新闻",
+          "title": "欧洲央行执委奇波洛内：欧洲需要谨慎行动，以增强其货币的作用。欧元的国际角色增强不会自然而然地实现。",
+          "url": "https://flash.jin10.com/detail/20260602180018410800",
+          "source": "金十数据",
           "ranks": [
-            12,
-            11,
-            10,
-            5,
-            3
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时36分 ~ 13时30分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
-        {
-          "title": "油车降价、电车涨价，新能源车渗透率超 60%，当下购车，选油车还是新能源车更划算？",
-          "url": "https://www.zhihu.com/question/2042914583443136872",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时29分 ~ 13时30分]"
-        },
-        {
-          "title": "比亚迪王传福扔下的“深水炸弹”",
-          "url": "https://www.toutiao.com/trending/7646185087121244166/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时10分 ~ 08时13分]"
-        },
-        {
-          "title": "宝马X5托运途中被烧毁 物流公司被判赔",
-          "url": "https://www.toutiao.com/trending/7646390888852373514/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时29分 ~ 13时30分]"
-        },
-        {
-          "title": "比亚迪5月销量38.35万辆",
-          "url": "https://www.toutiao.com/trending/7646298562599239689/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 02时37分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "央行 抖音 小红书",
-      "match_count": 2,
-      "titles": [
         {
           "title": "抖音精选的童年信箱",
           "url": "https://www.douyin.com/hot/2519633",
@@ -247,13 +303,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
+        },
+        {
+          "title": "黄金取代美债成全球第一大储备资产，央行超3.6万吨囤金接近历史峰值！",
+          "url": "https://flash.jin10.com/detail/20260602175301557800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "欧洲央行管委Rehn：6月的加息将是一种保险性加息。 通胀预期依然保持稳定。",
+          "url": "https://wallstreetcn.com/livenews/3112963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "先上市者为王？一文读懂：Anthropic与OpenAI缘何上演“抢滩登陆战”！",
+          "url": "https://www.cls.cn/detail/2387988",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
         {
           "title": "亚马逊(AMZN.O)：OpenAI的GPT-5.5、GPT-5.4及Codex现已登陆Amazon Bedrock。",
           "url": "https://flash.jin10.com/detail/20260602053510657800",
@@ -264,6 +353,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek降价",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E9%99%8D%E4%BB%B7&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         }
       ]
     },
