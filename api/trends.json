@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-05T04:04:44.561481+08:00",
-  "total_titles_processed": 396,
+  "generated_at": "2026-06-05T06:21:10.612956+08:00",
+  "total_titles_processed": 483,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时46分 ~ 04时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时46分 ~ 06时21分]"
         },
         {
           "title": "标普500指数初步收涨0.4%，医疗保健板块涨3.1%，金融板块涨2.6%，电信板块涨2%，能源板块跌0.1%，科技板块跌1.2%。 纳斯达克100指数初步收跌0.4%，成分股中，博通初步收跌12.4%，美光跌7%，Arm控股跌5%，闪迪跌4%，Diamondback Energy跌3.6%，西部数据跌2.7%，谷歌A涨3.8%，迈威尔科技涨5%，Axon涨6.8%。 联合健康初步收涨5.2%，领跑道指成分股，高盛涨5%，Merck涨4.6%，美国运通、摩根大通、波音、思科至少涨2.8%，雪佛龙跌0.7%，Salesforce跌0.9%，霍尼韦尔跌2.3%，VZ跌3.8%。 半导体指数跌2%。",
@@ -25,7 +25,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时04分"
         },
@@ -73,22 +73,24 @@
           "url": "https://www.zhihu.com/question/2045477936329744808",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时04分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时04分 ~ 06时21分]"
         },
         {
           "title": "女子一口气买5部新手机 店员报警",
           "url": "https://www.toutiao.com/trending/7647325675623350281/",
           "source": "今日头条",
           "ranks": [
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时46分 ~ 04时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时46分 ~ 06时21分]"
         },
         {
           "title": "微信智能体“打通”各大手机厂商？客服：将和华为、小米等厂商合作，相关功能陆续上线",
@@ -96,11 +98,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时46分 ~ 04时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时46分 ~ 06时21分]"
         },
         {
           "title": "苹果回应“iPhone改日期空出20G”",
@@ -108,28 +111,30 @@
           "source": "百度热搜",
           "ranks": [
             22,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时46分 ~ 04时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时46分 ~ 06时21分]"
         },
         {
           "title": "iPhone改日期 空出20G",
           "url": "https://s.weibo.com/weibo?q=iPhone%E6%94%B9%E6%97%A5%E6%9C%9F%20%E7%A9%BA%E5%87%BA20G&t=31&band_rank=21&Refer=top",
           "source": "微博",
           "ranks": [
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时46分 ~ 04时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时46分 ~ 06时21分]"
         }
       ]
     },
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "央行将开展5000亿元买断式逆回购操作 缩量趋势延续 机构：资金面或从“异常宽松”回到“合理充裕”",
@@ -139,8 +144,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时46分 ~ 04时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时46分 ~ 06时21分]"
+        },
+        {
+          "title": "阿根廷央行市场预期调查显示，预计2026年底GDP增长为2.9%（较此前预测上调0.1个百分点），通胀率为30.5%。",
+          "url": "https://flash.jin10.com/detail/20260605045349838800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         },
         {
           "title": "英国央行行长就前沿AI及债务市场风险提出警告",
@@ -167,8 +183,25 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时46分 ~ 06时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "比亚迪王朝首款D级旗舰轿车征名",
+          "url": "https://www.toutiao.com/trending/7647003976520974378/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时46分 ~ 04时04分]"
+          "time_info": "[06时20分 ~ 06时21分]"
         }
       ]
     }
