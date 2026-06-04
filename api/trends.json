@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-04T19:52:46.467744+08:00",
-  "total_titles_processed": 1104,
+  "generated_at": "2026-06-04T22:57:29.279068+08:00",
+  "total_titles_processed": 1267,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "微信开放手机厂商智能体接入 AI手机迎来“最优解”？",
@@ -25,11 +25,12 @@
           "source": "今日头条",
           "ranks": [
             5,
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时20分 ~ 19时52分]"
+          "appearance_count": 3,
+          "time_info": "[16时20分 ~ 22时57分]"
         },
         {
           "title": "网友11年前29.7万买的手机成摆设",
@@ -56,6 +57,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时22分 ~ 07时42分]"
+        },
+        {
+          "title": "iPhone改日期 空出20G",
+          "url": "https://s.weibo.com/weibo?q=iPhone%E6%94%B9%E6%97%A5%E6%9C%9F%20%E7%A9%BA%E5%87%BA20G&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时52分 ~ 22时57分]"
         },
         {
           "title": "李连杰展示削苹果",
@@ -103,26 +116,26 @@
           "time_info": "16时20分"
         },
         {
-          "title": "iPhone改日期 空出20G",
-          "url": "https://s.weibo.com/weibo?q=iPhone%E6%94%B9%E6%97%A5%E6%9C%9F%20%E7%A9%BA%E5%87%BA20G&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时52分"
-        },
-        {
           "title": "腾讯客服：微信正与华为、小米等多家手机厂商合作推出A2A助手功能",
           "url": "https://wallstreetcn.com/livenews/3114399",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
+        },
+        {
+          "title": "苹果回应“iPhone改日期空出20G”",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%9B%9E%E5%BA%94%E2%80%9CiPhone%E6%94%B9%E6%97%A5%E6%9C%9F%E7%A9%BA%E5%87%BA20G%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
         },
         {
           "title": "2026全球手机出货量将创13年新低",
@@ -172,7 +185,7 @@
     },
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "赖清德声称将处理TikTok、小红书对台青影响，国台办回应",
@@ -197,16 +210,28 @@
           "time_info": "11时52分"
         },
         {
+          "title": "央行将开展5000亿元买断式逆回购操作 缩量趋势延续 机构：资金面或从“异常宽松”回到“合理充裕”",
+          "url": "https://www.cls.cn/detail/2391107",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
+        {
           "title": "小红书出手，发布“抓紧港美股开通”诱导贴、倒卖外资研报等乱象被集中整治",
           "url": "https://www.cls.cn/detail/2390543",
           "source": "财联社热门",
           "ranks": [
             10,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时20分 ~ 19时52分]"
+          "appearance_count": 3,
+          "time_info": "[16时20分 ~ 22时57分]"
         },
         {
           "title": "全球央妈4月重新“扫货”黄金：波兰蝉联最大买家 中国央行18连增",
@@ -249,7 +274,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -276,6 +301,17 @@
           "time_info": "11时52分"
         },
         {
+          "title": "央行宏审局局长周永坤“空降”四川 接替严宝玉出任省分行行长",
+          "url": "https://wallstreetcn.com/livenews/3114480",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
+        {
           "title": "日本内阁官房长官：具体货币政策交由央行决定，政府与央行将保持充分沟通",
           "url": "https://flash.jin10.com/detail/20260604104809586800",
           "source": "金十数据",
@@ -290,7 +326,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
@@ -299,11 +335,12 @@
           "ranks": [
             10,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时51分 ~ 19时52分]"
+          "appearance_count": 5,
+          "time_info": "[11时51分 ~ 22时57分]"
         },
         {
           "title": "英国监管机构给谷歌AI搜索“立新规”",
@@ -328,15 +365,37 @@
           "time_info": "05时48分"
         },
         {
+          "title": "Gemini 美国豆包",
+          "url": "https://s.weibo.com/weibo?q=Gemini%20%E7%BE%8E%E5%9B%BD%E8%B1%86%E5%8C%85&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
+        {
           "title": "谷歌计划释放3200万只蚊子",
           "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E8%AE%A1%E5%88%92%E9%87%8A%E6%94%BE3200%E4%B8%87%E5%8F%AA%E8%9A%8A%E5%AD%90",
           "source": "百度热搜",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
+        },
+        {
+          "title": "谷歌计划投放3200万只蚊子",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%B7%E6%AD%8C%E8%AE%A1%E5%88%92%E6%8A%95%E6%94%BE3200%E4%B8%87%E5%8F%AA%E8%9A%8A%E5%AD%90%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
         },
         {
           "title": "博通CEO：预计谷歌公司将采用多个芯片来源。",
@@ -348,6 +407,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
+        },
+        {
+          "title": "谷歌：公司与能源开发商Intersect将建设Meitner能源中心，其中包括在德克萨斯州格雷县和罗伯茨县新建数据中心。",
+          "url": "https://wallstreetcn.com/livenews/3114468",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
         }
       ]
     },
@@ -404,7 +474,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -415,7 +485,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -477,8 +547,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时51分 ~ 19时52分]"
+          "appearance_count": 5,
+          "time_info": "[11时51分 ~ 22时57分]"
         },
         {
           "title": "回归无望,369坦言不想玩lol",
@@ -489,8 +559,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时20分 ~ 19时52分]"
+          "appearance_count": 3,
+          "time_info": "[16时20分 ~ 22时57分]"
         }
       ]
     },
