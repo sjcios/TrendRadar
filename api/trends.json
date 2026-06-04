@@ -1,584 +1,150 @@
 {
-  "generated_at": "2026-06-04T22:57:29.279068+08:00",
-  "total_titles_processed": 1267,
+  "generated_at": "2026-06-05T01:46:54.031866+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 15,
-      "titles": [
-        {
-          "title": "微信开放手机厂商智能体接入 AI手机迎来“最优解”？",
-          "url": "https://www.cls.cn/detail/2390370",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时20分 ~ 19时52分]"
-        },
-        {
-          "title": "女子一口气买5部新手机 店员报警",
-          "url": "https://www.toutiao.com/trending/7647325675623350281/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时20分 ~ 22时57分]"
-        },
-        {
-          "title": "网友11年前29.7万买的手机成摆设",
-          "url": "https://www.toutiao.com/trending/7646760383423905834/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时22分 ~ 07时42分]"
-        },
-        {
-          "title": "男子11年前买29.7万元手机懊悔不已",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%9011%E5%B9%B4%E5%89%8D%E4%B9%B029.7%E4%B8%87%E5%85%83%E6%89%8B%E6%9C%BA%E6%87%8A%E6%82%94%E4%B8%8D%E5%B7%B2%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15,
-            20,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时22分 ~ 07时42分]"
-        },
-        {
-          "title": "iPhone改日期 空出20G",
-          "url": "https://s.weibo.com/weibo?q=iPhone%E6%94%B9%E6%97%A5%E6%9C%9F%20%E7%A9%BA%E5%87%BA20G&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时52分 ~ 22时57分]"
-        },
-        {
-          "title": "李连杰展示削苹果",
-          "url": "https://www.toutiao.com/trending/7646426983148159017/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时22分 ~ 05时48分]"
-        },
-        {
-          "title": "iPhone18Pro八大亮点",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E5%85%AB%E5%A4%A7%E4%BA%AE%E7%82%B9%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时51分 ~ 11时52分]"
-        },
-        {
-          "title": "iPhone18ProMax实测厚度8.75mm",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone18ProMax%E5%AE%9E%E6%B5%8B%E5%8E%9A%E5%BA%A68.75mm%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时51分 ~ 11时52分]"
-        },
-        {
-          "title": "苹果实况你要毁了小猫",
-          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E5%AE%9E%E5%86%B5%E4%BD%A0%E8%A6%81%E6%AF%81%E4%BA%86%E5%B0%8F%E7%8C%AB&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时20分"
-        },
-        {
-          "title": "腾讯客服：微信正与华为、小米等多家手机厂商合作推出A2A助手功能",
-          "url": "https://wallstreetcn.com/livenews/3114399",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时52分"
-        },
-        {
-          "title": "苹果回应“iPhone改日期空出20G”",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%9B%9E%E5%BA%94%E2%80%9CiPhone%E6%94%B9%E6%97%A5%E6%9C%9F%E7%A9%BA%E5%87%BA20G%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时57分"
-        },
-        {
-          "title": "2026全球手机出货量将创13年新低",
-          "url": "https://www.baidu.com/s?wd=2026%E5%85%A8%E7%90%83%E6%89%8B%E6%9C%BA%E5%87%BA%E8%B4%A7%E9%87%8F%E5%B0%86%E5%88%9B13%E5%B9%B4%E6%96%B0%E4%BD%8E",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时20分"
-        },
-        {
-          "title": "周四亚太盘初，标普500股指期货跌0.3%，纳指期货跌0.6%，道指期货涨0.1%。 科技股中，博通目前（美股盘后）跌12.9%，甲骨文跌4.7%，IBM跌3.8%，AMD跌2.6%，闪迪跌2.5%，美光跌2.4%，高通跌1.9%，苹果涨1.2%，C3.ai涨2.3%。",
-          "url": "https://wallstreetcn.com/livenews/3114044",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时42分"
-        },
-        {
-          "title": "曝iPhone18Pro首发第二代灵动岛",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DiPhone18Pro%E9%A6%96%E5%8F%91%E7%AC%AC%E4%BA%8C%E4%BB%A3%E7%81%B5%E5%8A%A8%E5%B2%9B%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时20分"
-        },
-        {
-          "title": "报道：苹果同意向印度监管机构提交财务数据配合反垄断调查",
-          "url": "https://wallstreetcn.com/livenews/3113943",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "央行 抖音 小红书",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "赖清德声称将处理TikTok、小红书对台青影响，国台办回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33297512",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时22分 ~ 07时42分]"
-        },
-        {
-          "title": "印尼议会副议长：印度尼西亚议会已通过一项内容广泛的金融法案，使其正式成为法律。新通过的金融立法将扩大央行职权范围，并赋予议会评估金融监管机构的权力。",
-          "url": "https://flash.jin10.com/detail/20260604113125209800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时52分"
-        },
-        {
-          "title": "央行将开展5000亿元买断式逆回购操作 缩量趋势延续 机构：资金面或从“异常宽松”回到“合理充裕”",
-          "url": "https://www.cls.cn/detail/2391107",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时57分"
-        },
-        {
-          "title": "小红书出手，发布“抓紧港美股开通”诱导贴、倒卖外资研报等乱象被集中整治",
-          "url": "https://www.cls.cn/detail/2390543",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时20分 ~ 22时57分]"
-        },
-        {
-          "title": "全球央妈4月重新“扫货”黄金：波兰蝉联最大买家 中国央行18连增",
-          "url": "https://www.cls.cn/detail/2390391",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时20分 ~ 19时52分]"
-        },
-        {
-          "title": "欧洲央行行长拉加德将于十分钟后发表讲话。",
-          "url": "https://flash.jin10.com/detail/20260604155000001800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时20分"
-        },
-        {
-          "title": "央行公开市场再现“零操作”，机构：技术性回笼不改资金面宽松预期",
-          "url": "https://wallstreetcn.com/livenews/3114049",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时42分"
-        },
-        {
-          "title": "欧洲央行称黄金替代美债成全球官方储备第一大资产，黄金占比升至 27%，美债占比降至 22%，如何解读？",
-          "url": "https://www.zhihu.com/question/2045468542531851848",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时52分"
-        },
-        {
-          "title": "全球央行扫货黄金",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E5%A4%AE%E8%A1%8C%E6%89%AB%E8%B4%A7%E9%BB%84%E9%87%91%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时20分"
-        },
-        {
-          "title": "日本内阁官房长官木原稔：货币政策的具体细节应由日本央行决定。 政府和日本央行正在交换信息和意见。 预计日本央行将采取适当的货币政策。 与日本央行保持密切沟通至关重要。",
-          "url": "https://wallstreetcn.com/livenews/3114151",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时52分"
-        },
-        {
-          "title": "央行宏审局局长周永坤“空降”四川 接替严宝玉出任省分行行长",
-          "url": "https://wallstreetcn.com/livenews/3114480",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时57分"
-        },
-        {
-          "title": "日本内阁官房长官：具体货币政策交由央行决定，政府与央行将保持充分沟通",
-          "url": "https://flash.jin10.com/detail/20260604104809586800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时52分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 4,
       "titles": [
         {
           "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
           "url": "https://wallstreetcn.com/articles/3773814",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时51分 ~ 22时57分]"
-        },
-        {
-          "title": "英国监管机构给谷歌AI搜索“立新规”",
-          "url": "https://wallstreetcn.com/livenews/3114177",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时52分"
+          "time_info": "01时46分"
         },
         {
-          "title": "博通首席执行官：预计第三季度非人工智能半导体收入约为45亿美元。谷歌合作关系仍然是非常重要的。",
-          "url": "https://flash.jin10.com/detail/20260604051716270800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时48分"
-        },
-        {
-          "title": "Gemini 美国豆包",
-          "url": "https://s.weibo.com/weibo?q=Gemini%20%E7%BE%8E%E5%9B%BD%E8%B1%86%E5%8C%85&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时57分"
-        },
-        {
-          "title": "谷歌计划释放3200万只蚊子",
-          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E8%AE%A1%E5%88%92%E9%87%8A%E6%94%BE3200%E4%B8%87%E5%8F%AA%E8%9A%8A%E5%AD%90",
-          "source": "百度热搜",
+          "title": "谷歌公司：与Intersect在美国得州建设Meitner Energy Center。 其中，一个新数据中心的电力供应将来自Gray County和Roberts County。",
+          "url": "https://wallstreetcn.com/livenews/3114563",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时52分"
+          "time_info": "01时46分"
         },
         {
-          "title": "谷歌计划投放3200万只蚊子",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%B7%E6%AD%8C%E8%AE%A1%E5%88%92%E6%8A%95%E6%94%BE3200%E4%B8%87%E5%8F%AA%E8%9A%8A%E5%AD%90%23&t=31&band_rank=17&Refer=top",
+          "title": "市场消息：谷歌(GOOG.O)宣布将在得克萨斯州投资建设新数据中心并加大能源投入。",
+          "url": "https://flash.jin10.com/detail/20260605012551838800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时46分"
+        },
+        {
+          "title": "纳斯达克100指数跌幅收窄至0.5%，成分股博通目前仍然跌14.5%，美光科技跌6.1%，Lumentum跌2.3%，特斯拉跌1.1%，谷歌A则涨3.5%，迈威尔科技/美满科技、Doordash涨3.9%。",
+          "url": "https://wallstreetcn.com/livenews/3114548",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 Apple Mac iPhone 手机",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "女子一口气买5部新手机 店员报警",
+          "url": "https://www.toutiao.com/trending/7647325675623350281/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时46分"
+        },
+        {
+          "title": "微信智能体“打通”各大手机厂商？客服：将和华为、小米等厂商合作，相关功能陆续上线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33308605",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时46分"
+        },
+        {
+          "title": "iPhone改日期 空出20G",
+          "url": "https://s.weibo.com/weibo?q=iPhone%E6%94%B9%E6%97%A5%E6%9C%9F%20%E7%A9%BA%E5%87%BA20G&t=31&band_rank=21&Refer=top",
           "source": "微博",
           "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时57分"
-        },
-        {
-          "title": "博通CEO：预计谷歌公司将采用多个芯片来源。",
-          "url": "https://wallstreetcn.com/livenews/3114037",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时42分"
+          "time_info": "01时46分"
         },
         {
-          "title": "谷歌：公司与能源开发商Intersect将建设Meitner能源中心，其中包括在德克萨斯州格雷县和罗伯茨县新建数据中心。",
-          "url": "https://wallstreetcn.com/livenews/3114468",
-          "source": "华尔街见闻-快讯",
+          "title": "苹果回应“iPhone改日期空出20G”",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%9B%9E%E5%BA%94%E2%80%9CiPhone%E6%94%B9%E6%97%A5%E6%9C%9F%E7%A9%BA%E5%87%BA20G%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            28
+            22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时57分"
+          "time_info": "01时46分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "keyword_group": "央行 抖音 小红书",
+      "match_count": 2,
       "titles": [
         {
-          "title": "如何评价 Codex 与 ChatGPT 两个独立 App 合并，这一举动有什么影响？",
-          "url": "https://www.zhihu.com/question/2045440339406762131",
-          "source": "知乎",
+          "title": "央行将开展5000亿元买断式逆回购操作 缩量趋势延续 机构：资金面或从“异常宽松”回到“合理充裕”",
+          "url": "https://www.cls.cn/detail/2391107",
+          "source": "财联社热门",
           "ranks": [
-            11,
-            9,
-            14
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时22分 ~ 07时42分]"
+          "appearance_count": 1,
+          "time_info": "01时46分"
         },
         {
-          "title": "OpenAI 遭美国州政府起诉，ChatGPT 涉嫌帮助策划校园枪击案，诱导用户形成依赖，平台该不该担责？",
-          "url": "https://www.zhihu.com/question/2045160976878680020",
-          "source": "知乎",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时22分 ~ 05时48分]"
-        },
-        {
-          "title": "OpenAI打算整合CodeX与ChatGPT。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3114043",
+          "title": "英国央行行长就前沿AI及债务市场风险提出警告",
+          "url": "https://wallstreetcn.com/livenews/3114541",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "中国汽车工程学会：预计2030年新能源车型在乘用车新车销量中占比超七成",
-          "url": "https://wallstreetcn.com/livenews/3114409",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时52分"
-        },
-        {
-          "title": "比亚迪王朝首款D级旗舰轿车征名",
-          "url": "https://www.toutiao.com/trending/7647003976520974378/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时52分"
-        },
-        {
-          "title": "比亚迪造人形机器人代号“尧舜禹”",
-          "url": "https://www.toutiao.com/trending/7647395456347016730/",
-          "source": "今日头条",
           "ranks": [
             29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "腾讯云宣布 DeepSeek-V4 系列模型降价，最高降幅达 97.5%，将带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2045220633466725057",
-          "source": "知乎",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时22分 ~ 07时42分]"
-        },
-        {
-          "title": "估值4000亿、腾讯与宁德时代入局？DeepSeek被曝开启中国AI最大规模融资",
-          "url": "https://www.cls.cn/detail/2389857",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时22分 ~ 07时42分]"
+          "time_info": "01时46分"
         }
       ]
     },
     {
       "keyword_group": "英雄联盟 LOL",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "LOL斗哔杯决赛",
-          "url": "https://search.bilibili.com/all?keyword=LOL%E6%96%97%E5%93%94%E6%9D%AF%E5%86%B3%E8%B5%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时51分 ~ 22时57分]"
-        },
         {
           "title": "回归无望,369坦言不想玩lol",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354864&amp;topic_name=%E5%9B%9E%E5%BD%92%E6%97%A0%E6%9C%9B%2C369%E5%9D%A6%E8%A8%80%E4%B8%8D%E6%83%B3%E7%8E%A9lol",
           "source": "贴吧",
           "ranks": [
-            6,
-            7
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时20分 ~ 22时57分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国内金价跌破980元每克",
-          "url": "https://www.toutiao.com/trending/7646967437870747187/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时48分 ~ 07时42分]"
+          "appearance_count": 1,
+          "time_info": "01时46分"
         }
       ]
     }
