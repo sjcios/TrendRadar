@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T17:44:10.097672+08:00",
-  "total_titles_processed": 1043,
+  "generated_at": "2026-06-05T20:36:52.450904+08:00",
+  "total_titles_processed": 1207,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "央行将开展5000亿元买断式逆回购操作 缩量趋势延续 机构：资金面或从“异常宽松”回到“合理充裕”",
@@ -48,7 +48,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
         },
@@ -64,22 +64,23 @@
           "time_info": "13时16分"
         },
         {
+          "title": "抖音副总裁回应豆包误判蘑菇",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%8A%96%E9%9F%B3%E5%89%AF%E6%80%BB%E8%A3%81%E5%9B%9E%E5%BA%94%E8%B1%86%E5%8C%85%E8%AF%AF%E5%88%A4%E8%98%91%E8%8F%87%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时43分 ~ 20时36分]"
+        },
+        {
           "title": "央行开展5000亿买断式逆回购",
           "url": "https://www.douyin.com/hot/2523503",
           "source": "抖音",
           "ranks": [
             16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时43分 ~ 17时44分]"
-        },
-        {
-          "title": "抖音副总裁回应豆包误判蘑菇",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%8A%96%E9%9F%B3%E5%89%AF%E6%80%BB%E8%A3%81%E5%9B%9E%E5%BA%94%E8%B1%86%E5%8C%85%E8%AF%AF%E5%88%A4%E8%98%91%E8%8F%87%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -213,9 +214,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
+        },
+        {
+          "title": "印度央行：截至5月29日，印度黄金储备规模为1126亿美元，低于前一周的1147.9亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3115100",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         },
         {
           "title": "韩国央行：韩国4月经常账户顺差创史上第二高水平。",
@@ -257,9 +269,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
+        },
+        {
+          "title": "郭艾伦抖音现场解说CBA总决赛",
+          "url": "https://www.douyin.com/hot/2524658",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         },
         {
           "title": "英国央行行长就前沿AI及债务市场风险提出警告",
@@ -276,7 +299,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
@@ -289,6 +312,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时46分 ~ 08时06分]"
+        },
+        {
+          "title": "谷歌计划两年内释放 3200 万只蚊子，旨在减少蚊子数抑制疾病传播，放蚊为啥能灭蚊？背后是什么原理？",
+          "url": "https://www.zhihu.com/question/2045932866278895886",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         },
         {
           "title": "标普500指数初步收涨0.4%，医疗保健板块涨3.1%，金融板块涨2.6%，电信板块涨2%，能源板块跌0.1%，科技板块跌1.2%。 纳斯达克100指数初步收跌0.4%，成分股中，博通初步收跌12.4%，美光跌7%，Arm控股跌5%，闪迪跌4%，Diamondback Energy跌3.6%，西部数据跌2.7%，谷歌A涨3.8%，迈威尔科技涨5%，Axon涨6.8%。 联合健康初步收涨5.2%，领跑道指成分股，高盛涨5%，Merck涨4.6%，美国运通、摩根大通、波音、思科至少涨2.8%，雪佛龙跌0.7%，Salesforce跌0.9%，霍尼韦尔跌2.3%，VZ跌3.8%。 半导体指数跌2%。",
@@ -349,7 +383,7 @@
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "微信智能体“打通”各大手机厂商？客服：将和华为、小米等厂商合作，相关功能陆续上线",
@@ -427,6 +461,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时15分 ~ 13时16分]"
+        },
+        {
+          "title": "高考前夕班主任下发被“封存”手机",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E5%89%8D%E5%A4%95%E7%8F%AD%E4%B8%BB%E4%BB%BB%E4%B8%8B%E5%8F%91%E8%A2%AB%E2%80%9C%E5%B0%81%E5%AD%98%E2%80%9D%E6%89%8B%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         }
       ]
     },
@@ -443,8 +488,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时15分 ~ 17时44分]"
+          "appearance_count": 5,
+          "time_info": "[13时15分 ~ 20时36分]"
         },
         {
           "title": "比亚迪王朝首款D级旗舰轿车征名",
@@ -490,11 +535,12 @@
           "url": "https://wallstreetcn.com/articles/3773921",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时43分 ~ 17时44分]"
+          "appearance_count": 3,
+          "time_info": "[17时43分 ~ 20时36分]"
         },
         {
           "title": "微软CEO深度访谈：过度依赖OpenAI曾让公司陷入被动，软件“未死”但传统SaaS已到转折点",
@@ -504,8 +550,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时43分 ~ 17时44分]"
+          "appearance_count": 3,
+          "time_info": "[17时43分 ~ 20时36分]"
         },
         {
           "title": "报道：美国就收购OpenAI等多家人工智能公司股份举行了初步讨论",
@@ -531,11 +577,12 @@
           "ranks": [
             9,
             18,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时46分 ~ 17时44分]"
+          "appearance_count": 10,
+          "time_info": "[01时46分 ~ 20时36分]"
         }
       ]
     }
