@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-06T17:25:55.891293+08:00",
-  "total_titles_processed": 1050,
+  "generated_at": "2026-06-06T19:25:55.694880+08:00",
+  "total_titles_processed": 1174,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,18 @@
           "time_info": "01时54分"
         },
         {
+          "title": "哈兰德入驻抖音",
+          "url": "https://www.douyin.com/hot/2525032",
+          "source": "抖音",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时32分 ~ 19时25分]"
+        },
+        {
           "title": "英国央行行长贝利：人工智能将比以往的创新更快地实现增长。",
           "url": "https://flash.jin10.com/detail/20260606033858307800",
           "source": "金十数据",
@@ -30,29 +42,18 @@
           "time_info": "03时53分"
         },
         {
-          "title": "哈兰德入驻抖音",
-          "url": "https://www.douyin.com/hot/2525032",
-          "source": "抖音",
-          "ranks": [
-            1,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时32分 ~ 17时25分]"
-        },
-        {
           "title": "全抖音为2026高考加油",
           "url": "https://www.douyin.com/hot/2524919",
           "source": "抖音",
           "ranks": [
             9,
             8,
-            5
+            5,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时57分 ~ 17时25分]"
+          "appearance_count": 4,
+          "time_info": "[10时57分 ~ 19时25分]"
         },
         {
           "title": "抖音副总裁回应豆包误判蘑菇致用户中毒，称 AI 回应仅供参考，如何看待这一回应？这件事豆包该背锅吗？",
@@ -60,11 +61,12 @@
           "source": "知乎",
           "ranks": [
             18,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时57分 ~ 17时25分]"
+          "appearance_count": 4,
+          "time_info": "[10时57分 ~ 19时25分]"
         },
         {
           "title": "英国央行行长贝利：（关于人工智能）过去的经验表明，创新需要时间才能影响增长。",
@@ -106,7 +108,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         }
@@ -224,7 +226,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -286,11 +288,12 @@
             3,
             7,
             12,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时53分 ~ 17时25分]"
+          "appearance_count": 11,
+          "time_info": "[01时53分 ~ 19时25分]"
         },
         {
           "title": "中国新能源车为什么越造越大",
@@ -348,11 +351,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时32分 ~ 17时25分]"
+          "appearance_count": 3,
+          "time_info": "[14时32分 ~ 19时25分]"
         }
       ]
     },
@@ -378,7 +382,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         }
