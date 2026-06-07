@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-08T04:11:33.479782+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2026-06-08T06:03:46.657523+08:00",
+  "total_titles_processed": 524,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 04时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 06时03分]"
         },
         {
           "title": "这下董亮的手机真的“没有”了",
@@ -24,11 +24,12 @@
           "source": "抖音",
           "ranks": [
             29,
-            27
+            27,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 04时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 06时03分]"
         },
         {
           "title": "iPhone用户的崩溃瞬间",
@@ -55,8 +56,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 04时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 06时03分]"
         },
         {
           "title": "抖音直播群星绽放季",
@@ -67,19 +68,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 04时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 06时03分]"
         },
         {
           "title": "抖音学霸解读高考作文",
           "url": "https://www.douyin.com/hot/2526078",
           "source": "抖音",
           "ranks": [
-            28
+            28,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 02时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 06时03分]"
         }
       ]
     },
@@ -94,11 +96,12 @@
           "ranks": [
             8,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 04时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 06时03分]"
         },
         {
           "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
@@ -108,8 +111,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 04时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 06时03分]"
         }
       ]
     },
@@ -126,8 +129,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 04时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 06时03分]"
         }
       ]
     },
