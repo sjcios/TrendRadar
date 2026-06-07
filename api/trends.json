@@ -1,512 +1,145 @@
 {
-  "generated_at": "2026-06-07T22:52:05.944562+08:00",
-  "total_titles_processed": 1234,
+  "generated_at": "2026-06-08T00:14:30.636420+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "央行 抖音 小红书",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "中国央行加速增持黄金！连续19个月增持，5月环比增加32万盎司",
-          "url": "https://wallstreetcn.com/articles/3774030",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时43分 ~ 22时52分]"
-        },
-        {
-          "title": "全抖音为2026高考加油",
-          "url": "https://www.douyin.com/hot/2524919",
-          "source": "抖音",
-          "ranks": [
-            4,
-            5,
-            6,
-            8,
-            15,
-            7,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时12分 ~ 20时20分]"
-        },
-        {
-          "title": "统战部官方账号入驻抖音",
-          "url": "https://www.douyin.com/hot/2524990",
-          "source": "抖音",
-          "ranks": [
-            24,
-            23,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 07时02分]"
-        },
-        {
-          "title": "抖音直播群星绽放季",
-          "url": "https://www.douyin.com/hot/2526127",
-          "source": "抖音",
-          "ranks": [
-            19,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时54分 ~ 22时52分]"
-        },
-        {
-          "title": "抖音学霸解读高考作文",
-          "url": "https://www.douyin.com/hot/2526078",
-          "source": "抖音",
-          "ranks": [
-            24,
-            16,
-            18,
-            30,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时54分 ~ 22时52分]"
-        },
-        {
-          "title": "哈兰德入驻抖音",
-          "url": "https://www.douyin.com/hot/2525032",
-          "source": "抖音",
-          "ranks": [
-            19,
-            18,
-            21,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 15时54分]"
-        },
-        {
-          "title": "塞浦路斯央行行长：欧洲应推动联合发债打造安全资产",
-          "url": "https://flash.jin10.com/detail/20260607175700993800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时29分"
-        },
-        {
-          "title": "以色列央行：在5月份购买了8.01亿美元的外汇，以维持市场有序运作。",
-          "url": "https://flash.jin10.com/detail/20260607173244399800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时29分"
-        },
-        {
-          "title": "以色列央行：以色列外汇储备在5月份为2386.81亿美元，4月份为2357.28亿美元。",
-          "url": "https://flash.jin10.com/detail/20260607173222807800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时29分"
-        },
-        {
-          "title": "欧洲央行即将加息 成为G7中应对伊战通胀的领跑者",
-          "url": "https://flash.jin10.com/detail/20260607041738099800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时03分 ~ 07时02分]"
-        },
-        {
-          "title": "中国央行连续第19个月增持黄金",
-          "url": "https://wallstreetcn.com/livenews/3115513",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            16,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时43分 ~ 18时29分]"
-        },
-        {
-          "title": "央行连续第19个月增持黄金",
-          "url": "https://www.toutiao.com/trending/7648528352650726953/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时54分"
-        },
-        {
-          "title": "中国央行连续第19个月增持黄金",
-          "url": "https://flash.jin10.com/detail/20260607100117805800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        }
-      ]
-    },
-    {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 9,
+      "match_count": 3,
       "titles": [
         {
           "title": "下周重磅日程：SpaceX上市、苹果WWDC大会、中美通胀数据",
           "url": "https://wallstreetcn.com/articles/3773936",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            7,
-            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时54分 ~ 22时52分]"
-        },
-        {
-          "title": "女生高考前刷手机刷到作文“答案”",
-          "url": "https://www.toutiao.com/trending/7647946914349678643/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 18时29分]"
-        },
-        {
-          "title": "诺基亚发布首款微聊手机，售价 199 元，可视频通话，但连不了 WiFi，该机在当前市场生存空间大吗？",
-          "url": "https://www.zhihu.com/question/2043731506648934117",
-          "source": "知乎",
-          "ranks": [
-            6,
-            5,
-            3,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 07时02分]"
+          "appearance_count": 1,
+          "time_info": "00时14分"
         },
         {
           "title": "iPhone用户的崩溃瞬间",
-          "url": "https://s.weibo.com/weibo?q=iPhone%E7%94%A8%E6%88%B7%E7%9A%84%E5%B4%A9%E6%BA%83%E7%9E%AC%E9%97%B4&t=31&band_rank=27&Refer=top",
+          "url": "https://s.weibo.com/weibo?q=iPhone%E7%94%A8%E6%88%B7%E7%9A%84%E5%B4%A9%E6%BA%83%E7%9E%AC%E9%97%B4&t=31&band_rank=15&Refer=top",
           "source": "微博",
           "ranks": [
-            27,
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时29分 ~ 22时52分]"
-        },
-        {
-          "title": "女生高考前刷手机刷到作文“答案”",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83%E5%89%8D%E5%88%B7%E6%89%8B%E6%9C%BA%E5%88%B7%E5%88%B0%E4%BD%9C%E6%96%87%E2%80%9C%E7%AD%94%E6%A1%88%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时54分 ~ 18时29分]"
-        },
-        {
-          "title": "女生高举手机跑出考场 旁边杀出黑马",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%AB%98%E4%B8%BE%E6%89%8B%E6%9C%BA%E8%B7%91%E5%87%BA%E8%80%83%E5%9C%BA+%E6%97%81%E8%BE%B9%E6%9D%80%E5%87%BA%E9%BB%91%E9%A9%AC",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时51分 ~ 22时52分]"
-        },
-        {
-          "title": "巡查组现场要求：把手机拿出来我看看",
-          "url": "https://www.baidu.com/s?wd=%E5%B7%A1%E6%9F%A5%E7%BB%84%E7%8E%B0%E5%9C%BA%E8%A6%81%E6%B1%82%EF%BC%9A%E6%8A%8A%E6%89%8B%E6%9C%BA%E6%8B%BF%E5%87%BA%E6%9D%A5%E6%88%91%E7%9C%8B%E7%9C%8B",
-          "source": "百度热搜",
-          "ranks": [
-            8
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时43分"
+          "time_info": "00时14分"
         },
         {
-          "title": "金十整理：下周重要事件与数据预告——中国贸易帐、CPI和PPI陆续公布；美国CPI；苹果WWDC开发者大会、华为开发者大会轮番上演、SpaceX上市",
-          "url": "https://flash.jin10.com/detail/20260607205913944800",
-          "source": "金十数据",
+          "title": "这下董亮的手机真的“没有”了",
+          "url": "https://www.douyin.com/hot/2526282",
+          "source": "抖音",
           "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时52分"
-        },
-        {
-          "title": "央视曝光手机高价回收骗局",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%89%8B%E6%9C%BA%E9%AB%98%E4%BB%B7%E5%9B%9E%E6%94%B6%E9%AA%97%E5%B1%80%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时20分"
+          "time_info": "00时14分"
         }
       ]
     },
     {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 6,
+      "keyword_group": "央行 抖音 小红书",
+      "match_count": 3,
       "titles": [
         {
-          "title": "新金主!比亚迪官宣赞助LPL",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354891&amp;topic_name=%E6%96%B0%E9%87%91%E4%B8%BB%21%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%AE%98%E5%AE%A3%E8%B5%9E%E5%8A%A9LPL",
-          "source": "贴吧",
+          "title": "中国央行加速增持黄金！连续19个月增持，5月环比增加32万盎司",
+          "url": "https://wallstreetcn.com/articles/3774030",
+          "source": "华尔街见闻",
           "ranks": [
-            18,
-            23,
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时12分 ~ 18时29分]"
-        },
-        {
-          "title": "特斯拉和印度的建厂谈判正式破裂，原因曝光",
-          "url": "https://news.ifeng.com/c/8tkrzR3CiFe",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时54分 ~ 22时52分]"
-        },
-        {
-          "title": "特斯拉和印度的建厂谈判正式告吹，原因分析",
-          "url": "https://news.ifeng.com/c/8tkrzR3CiFe",
-          "source": "凤凰网",
-          "ranks": [
-            12
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时43分"
+          "time_info": "00时14分"
         },
         {
-          "title": "中信证券：当前需要重视新能源、化工、有色、电力设备跌出的性价比",
-          "url": "https://flash.jin10.com/detail/20260607184402720800",
-          "source": "金十数据",
+          "title": "抖音直播群星绽放季",
+          "url": "https://www.douyin.com/hot/2526127",
+          "source": "抖音",
           "ranks": [
-            17
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时20分"
+          "time_info": "00时14分"
         },
         {
-          "title": "多款新能源车涨价了",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%AC%BE%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E6%B6%A8%E4%BB%B7%E4%BA%86%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
+          "title": "抖音学霸解读高考作文",
+          "url": "https://www.douyin.com/hot/2526078",
+          "source": "抖音",
           "ranks": [
-            20
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
-          "title": "我国新能源车要减肥了",
-          "url": "https://flash.jin10.com/detail/20260607091552369800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时43分"
+          "time_info": "00时14分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
         {
           "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
           "url": "https://wallstreetcn.com/articles/3774032",
           "source": "华尔街见闻",
           "ranks": [
-            7,
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时54分 ~ 22时52分]"
+          "appearance_count": 1,
+          "time_info": "00时14分"
         },
         {
-          "title": "OpenAI等公司向美国提交了一项让全民分享人工智能红利（AI股权）的计划提案。 该人工智能提案涉及建立一个全新的主权财富基金式实体。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3115505",
-          "source": "华尔街见闻-快讯",
+          "title": "SpaceX 、 OpenAI 、 Anthropic 扎堆天价 IPO，水分有多大？美股牛市是否临近尾声？",
+          "url": "https://www.zhihu.com/question/2046639064917586455",
+          "source": "知乎",
           "ranks": [
-            1,
-            13,
-            23,
-            28
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时02分 ~ 18时29分]"
-        },
-        {
-          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
-          "url": "https://www.cls.cn/detail/2392488",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时12分 ~ 11时43分]"
-        },
-        {
-          "title": "OpenAI计划对ChatGPT进行发布以来最大规模改版",
-          "url": "https://wallstreetcn.com/livenews/3115520",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时54分 ~ 20时20分]"
-        },
-        {
-          "title": "ChatGPT即将迎来大改造：告别单一聊天 变身“超级应用”",
-          "url": "https://www.cls.cn/detail/2392807",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时51分 ~ 22时52分]"
+          "appearance_count": 1,
+          "time_info": "00时14分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "亮眼财报后股价大跌？博通CEO：永远不关心股价，死磕技术客户就不会跑，看好“博通-谷歌-Anthropic”铁三角",
-          "url": "https://wallstreetcn.com/articles/3774025",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时03分 ~ 18时29分]"
-        },
-        {
-          "title": "合计700亿美元！SpaceX先后与Anthropic和谷歌签下大单，“算力租赁”ARR高达260亿美元",
-          "url": "https://wallstreetcn.com/articles/3774016",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时03分 ~ 15时54分]"
-        },
         {
           "title": "SpaceX上市募资要建“太空数据中心”，却高价租算力给谷歌和Anthropic！网民热议：为何如此？",
           "url": "https://wallstreetcn.com/articles/3774034",
           "source": "华尔街见闻",
           "ranks": [
-            10,
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时28分 ~ 22时52分]"
+          "appearance_count": 1,
+          "time_info": "00时14分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "金价跌回2025年，有金店每克跌近400元",
           "url": "https://wallstreetcn.com/livenews/3115552",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时20分 ~ 22时52分]"
-        },
-        {
-          "title": "周生生老庙老凤祥金价集体大跌",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E7%94%9F%E7%94%9F%E8%80%81%E5%BA%99%E8%80%81%E5%87%A4%E7%A5%A5%E9%87%91%E4%BB%B7%E9%9B%86%E4%BD%93%E5%A4%A7%E8%B7%8C%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时54分"
+          "time_info": "00时14分"
         }
       ]
     }
