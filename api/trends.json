@@ -1,12 +1,37 @@
 {
-  "generated_at": "2026-06-09T04:13:31.105584+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-06-09T06:26:12.675680+08:00",
+  "total_titles_processed": 477,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
+        {
+          "title": "苹果开发者大会",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时51分 ~ 06时26分]"
+        },
+        {
+          "title": "2026 年第一季度鸿蒙在中国智能手机市场份额反超 iOS，安卓仍占 63%，这反映了怎样的市场格局？",
+          "url": "https://www.zhihu.com/question/2044003133102232324",
+          "source": "知乎",
+          "ranks": [
+            1,
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时51分 ~ 06时26分]"
+        },
         {
           "title": "苹果(AAPL.O)：通过“浏览前询问”功能，将家长的控制范围从应用程序扩展至整个网络。",
           "url": "https://flash.jin10.com/detail/20260609012339332800",
@@ -41,18 +66,6 @@
           "time_info": "01时52分"
         },
         {
-          "title": "2026 年第一季度鸿蒙在中国智能手机市场份额反超 iOS，安卓仍占 63%，这反映了怎样的市场格局？",
-          "url": "https://www.zhihu.com/question/2044003133102232324",
-          "source": "知乎",
-          "ranks": [
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时51分 ~ 04时13分]"
-        },
-        {
           "title": "苹果(AAPL.O)：正与美国医生团体合作制定设备使用指南。",
           "url": "https://flash.jin10.com/detail/20260609012125134800",
           "source": "金十数据",
@@ -70,21 +83,33 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
         {
-          "title": "苹果开发者大会",
-          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A&t=31&band_rank=2&Refer=top",
-          "source": "微博",
+          "title": "苹果 6 月 9 日召开的 2026 年全球开发者大会「WWDC26」，有哪些值得关注的信息？",
+          "url": "https://www.zhihu.com/question/2047342757354501238",
+          "source": "知乎",
           "ranks": [
-            2,
-            8
+            11,
+            2
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时51分 ~ 04时13分]"
+          "time_info": "[04时13分 ~ 06时26分]"
+        },
+        {
+          "title": "中东炮火暂歇 美股期指回血 苹果WWDC接棒登场 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2393996",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时51分 ~ 06时26分]"
         },
         {
           "title": "苹果公司股价涨幅收窄至0.2%，刷新日低至308.03美元，该公司正展示Siri，此前一度涨约3.2%刷新日高至317.40美元。",
@@ -99,16 +124,28 @@
           "time_info": "[01时52分 ~ 04时13分]"
         },
         {
-          "title": "中东炮火暂歇 美股期指回血 苹果WWDC接棒登场 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2393996",
-          "source": "财联社热门",
+          "title": "苹果iOS 27看点前瞻",
+          "url": "https://www.douyin.com/hot/2526458",
+          "source": "抖音",
           "ranks": [
-            10,
-            9
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时51分 ~ 06时26分]"
+        },
+        {
+          "title": "Apple Intelligence 的缺席为什么没有影响到 iPhone 在中国大陆的销量？",
+          "url": "https://www.zhihu.com/question/2047276644910552070",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时51分 ~ 04时13分]"
+          "time_info": "[04时13分 ~ 06时26分]"
         },
         {
           "title": "苹果涨幅扩大至2.7%，刷新日高。",
@@ -134,17 +171,6 @@
           "time_info": "[01时51分 ~ 01时52分]"
         },
         {
-          "title": "苹果iOS 27看点前瞻",
-          "url": "https://www.douyin.com/hot/2526458",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时51分 ~ 01时52分]"
-        },
-        {
           "title": "美国科技记者古尔曼：到目前为止，苹果(AAPL.O)正在逐一阐述多年来众多用户期待已久的性能提升内容。",
           "url": "https://flash.jin10.com/detail/20260609011707678800",
           "source": "金十数据",
@@ -154,17 +180,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
-        },
-        {
-          "title": "苹果 6 月 9 日召开的 2026 年全球开发者大会「WWDC26」，有哪些值得关注的信息？",
-          "url": "https://www.zhihu.com/question/2047342757354501238",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时13分"
         },
         {
           "title": "苹果新推多个儿童信任与安全功能",
@@ -250,18 +265,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "Apple Intelligence 的缺席为什么没有影响到 iPhone 在中国大陆的销量？",
-          "url": "https://www.zhihu.com/question/2047276644910552070",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
@@ -283,7 +287,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
@@ -349,7 +353,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
@@ -371,9 +375,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "苹果收跌1.9%。",
+          "url": "https://wallstreetcn.com/livenews/3116339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
         },
         {
           "title": "苹果软件主管克雷格·费德里吉：苹果已进入第三代苹果基础模型阶段。",
@@ -382,7 +397,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
@@ -393,9 +408,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "苹果(AAPL.O)：推出了新的智能功能，并扩展了Xcode中的生产力功能。",
+          "url": "https://flash.jin10.com/detail/20260609050823882800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
         },
         {
           "title": "苹果：由于图像生成模型得到大幅提升，公司现正将“图像游乐场”（Image Playground）功能进一步扩展，用于制作“联系人海报”（Contact Posters）和壁纸。 此外，公司还更新Image Playground API，以便开发者能够在自己的应用程序（Apps）内部调用这些全新的模型。",
@@ -404,7 +430,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
@@ -415,7 +441,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
@@ -426,7 +452,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
@@ -437,7 +463,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         }
@@ -445,7 +471,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "苹果：我们利用谷歌Gemini来开发下一代基础人工智能模型。 推出由苹果智能技术驱动的全新Siri AI。 新的AI架构支持应用操作和屏幕感知功能。",
@@ -463,11 +489,12 @@
           "url": "https://wallstreetcn.com/livenews/3116327",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 06时26分]"
         },
         {
           "title": "谷歌A跌幅收窄至不足1%，此前一度跌2.2%。",
@@ -487,9 +514,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "苹果(AAPL.O)：无论基础设施托管在何处，苹果始终保持对Private Cloud Compute软件的完全控制权。苹果设备仅信任经由苹果加密认证的Private Cloud Compute软件。在Google Cloud上运行的Private Cloud Compute服务，将在整个夏季预览期间逐步落实全套保护措施。",
+          "url": "https://flash.jin10.com/detail/20260609051727017800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
         },
         {
           "title": "苹果软件主管克雷格·费德里吉：苹果与谷歌及英伟达合作，将其私有云计算方案引入谷歌云的基础设施中。",
@@ -498,7 +536,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
@@ -509,7 +547,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
@@ -520,15 +558,109 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         }
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "OpenAI计划在首次公开募股（IPO）之前启动员工/股东股票要约收购案（Tender Sale）。 据知情人士透露，该公司将在未来几周内正式举行该股票要约收购（Tender）。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3116363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
+        },
+        {
+          "title": "“聊天已死”？OpenAI拟大改ChatGPT，打造超级AI应用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33333027",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时13分 ~ 06时26分]"
+        },
+        {
+          "title": "OpenAI秘密提交美国IPO文件，加入竞争对手竞相上市的行列",
+          "url": "https://wallstreetcn.com/livenews/3116359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
+        },
+        {
+          "title": "OpenAI自曝已秘密提交IPO申请",
+          "url": "https://flash.jin10.com/detail/20260609052258365800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
+        },
+        {
+          "title": "OpenAI：IPO可能需要一段时间，因为我们想做的一些事情，作为一家私营公司可能会更容易。",
+          "url": "https://flash.jin10.com/detail/20260609051732279800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
+        },
+        {
+          "title": "OpenAI：尚未决定首次公开募股的时间。",
+          "url": "https://flash.jin10.com/detail/20260609051515095800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
+        },
+        {
+          "title": "OpenAI已提交IPO申请",
+          "url": "https://flash.jin10.com/detail/20260609051454671800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
+        },
+        {
+          "title": "OpenAI首席科学家：OpenAI致力追求的各项核心目标，均围绕着这一使命：确保通用人工智能造福全人类。人工智能应当增强人类的主体性，而非削弱人类在塑造未来中的作用与意义。",
+          "url": "https://flash.jin10.com/detail/20260609051127110800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
+        }
+      ]
+    },
+    {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "15万买新能源车还没开回家就出问题",
@@ -538,8 +670,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时51分 ~ 04时13分]"
+          "appearance_count": 5,
+          "time_info": "[01时51分 ~ 06时26分]"
         },
         {
           "title": "特斯拉涨超5%。",
@@ -562,13 +694,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
+        },
+        {
+          "title": "周一（6月8日），彭博电动汽车价格回报指数跌2.02%，报3706.35点。 全天处于下跌状态，亚太时段持续走低，北京时间09:31以来持续交投于3700点附近、15:00刷新日低至3672.92点。 成分股阿内卡矿业股份收跌8%，淡水河谷印尼公司跌7.22%，日本电产株式会社跌6.06%，Panasonic株式会社跌4.79%，小鹏集团H股跌4.62%，浙江零跑科技跌4.22%跌幅第六大，意法半导体法国巴黎股价则收涨4.01%，特斯拉涨4.59%，安霸股份涨8.19%。",
+          "url": "https://wallstreetcn.com/livenews/3116344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
         }
       ]
     },
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "对冲基金对赌日本央行6月加息孤掌难鸣，难阻日元继续沉沦",
+          "url": "https://wallstreetcn.com/livenews/3116361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
+        },
         {
           "title": "英国央行对X平台上流传的“法拉奇大战贝利”伪造帖子表示深切担忧",
           "url": "https://wallstreetcn.com/livenews/3116304",
@@ -586,34 +740,18 @@
           "url": "https://www.douyin.com/hot/2526117",
           "source": "抖音",
           "ranks": [
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时51分 ~ 01时52分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "“聊天已死”？OpenAI拟大改ChatGPT，打造超级AI应用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33333027",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时13分"
+          "appearance_count": 4,
+          "time_info": "[01时51分 ~ 06时26分]"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "金价下跌后郑州金店被挤爆",
@@ -623,8 +761,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时51分 ~ 04时13分]"
+          "appearance_count": 5,
+          "time_info": "[01时51分 ~ 06时26分]"
+        },
+        {
+          "title": "金价跌回年初起点，抹去全年涨幅，若美联储加息金价会不会跌破 4000 美元？ 此前多家投行唱多，如何解读？",
+          "url": "https://www.zhihu.com/question/2046542725336584487",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 06时26分]"
         }
       ]
     }
