@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-08T06:03:46.657523+08:00",
-  "total_titles_processed": 524,
+  "generated_at": "2026-06-08T08:06:27.006468+08:00",
+  "total_titles_processed": 625,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 06时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 08时06分]"
         },
         {
           "title": "这下董亮的手机真的“没有”了",
@@ -28,8 +28,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 06时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 08时06分]"
         },
         {
           "title": "iPhone用户的崩溃瞬间",
@@ -56,8 +56,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 06时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 08时06分]"
         },
         {
           "title": "抖音直播群星绽放季",
@@ -65,11 +65,12 @@
           "source": "抖音",
           "ranks": [
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 06时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 08时06分]"
         },
         {
           "title": "抖音学霸解读高考作文",
@@ -100,19 +101,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 06时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 08时06分]"
         },
         {
           "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
           "url": "https://wallstreetcn.com/articles/3774032",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 06时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 08时06分]"
         }
       ]
     },
@@ -129,8 +131,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 06时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 08时06分]"
         }
       ]
     },
