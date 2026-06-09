@@ -1,773 +1,33 @@
 {
-  "generated_at": "2026-06-09T23:54:21.743881+08:00",
-  "total_titles_processed": 1377,
+  "generated_at": "2026-06-10T02:04:39.237206+08:00",
+  "total_titles_processed": 306,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 60,
-      "titles": [
-        {
-          "title": "苹果WWDC 2026：Siri AI姗姗来迟，Apple Intelligence全面升级，OS集体迈入27版，股价盘中转跌",
-          "url": "https://wallstreetcn.com/articles/3774148",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时04分 ~ 23时54分]"
-        },
-        {
-          "title": "苹果开发者大会",
-          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时51分 ~ 08时05分]"
-        },
-        {
-          "title": "苹果 6 月 9 日召开的 2026 年全球开发者大会「WWDC26」，有哪些值得关注的信息？",
-          "url": "https://www.zhihu.com/question/2047342757354501238",
-          "source": "知乎",
-          "ranks": [
-            11,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时13分 ~ 08时05分]"
-        },
-        {
-          "title": "2026 年第一季度鸿蒙在中国智能手机市场份额反超 iOS，安卓仍占 63%，这反映了怎样的市场格局？",
-          "url": "https://www.zhihu.com/question/2044003133102232324",
-          "source": "知乎",
-          "ranks": [
-            1,
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时51分 ~ 06时26分]"
-        },
-        {
-          "title": "苹果(AAPL.O)：通过“浏览前询问”功能，将家长的控制范围从应用程序扩展至整个网络。",
-          "url": "https://flash.jin10.com/detail/20260609012339332800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "苹果公司：Siri AI将登陆iPadOS。 为watchOS打造专属Siri AI。 将Visual Intelligence（视觉智能）拓展至Mac。",
-          "url": "https://wallstreetcn.com/livenews/3116305",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "中东炮火暂歇 美股期指回血 苹果WWDC接棒登场 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2393996",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时51分 ~ 08时05分]"
-        },
-        {
-          "title": "苹果(AAPL.O)：从今年起，家长可以让孩子仅访问自己放心的内容。",
-          "url": "https://flash.jin10.com/detail/20260609012208064800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "朱雀二号遥六发射成功 将开展手机直连卫星试验",
-          "url": "https://wallstreetcn.com/livenews/3116697",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时41分"
-        },
-        {
-          "title": "苹果(AAPL.O)：正与美国医生团体合作制定设备使用指南。",
-          "url": "https://flash.jin10.com/detail/20260609012125134800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "苹果软件主管克雷格·费德里吉：苹果(AAPL.O)不会根据新版Siri AI系统的屏幕感知功能来投放广告。",
-          "url": "https://flash.jin10.com/detail/20260609034950828800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "苹果智能全面升级：AI深度整合全生态 新版本Siri登场",
-          "url": "https://www.cls.cn/detail/2394196",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时05分 ~ 13时05分]"
-        },
-        {
-          "title": "新手机回避症",
-          "url": "https://s.weibo.com/weibo?q=%E6%96%B0%E6%89%8B%E6%9C%BA%E5%9B%9E%E9%81%BF%E7%97%87&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时54分"
-        },
-        {
-          "title": "苹果iOS 27看点前瞻",
-          "url": "https://www.douyin.com/hot/2526458",
-          "source": "抖音",
-          "ranks": [
-            29,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时51分 ~ 08时05分]"
-        },
-        {
-          "title": "苹果公司股价涨幅收窄至0.2%，刷新日低至308.03美元，该公司正展示Siri，此前一度涨约3.2%刷新日高至317.40美元。",
-          "url": "https://wallstreetcn.com/livenews/3116303",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 04时13分]"
-        },
-        {
-          "title": "Apple Intelligence 的缺席为什么没有影响到 iPhone 在中国大陆的销量？",
-          "url": "https://www.zhihu.com/question/2047276644910552070",
-          "source": "知乎",
-          "ranks": [
-            17,
-            15,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时13分 ~ 08时05分]"
-        },
-        {
-          "title": "“买手机现在也和买黄金一样了”",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B9%B0%E6%89%8B%E6%9C%BA%E7%8E%B0%E5%9C%A8%E4%B9%9F%E5%92%8C%E4%B9%B0%E9%BB%84%E9%87%91%E4%B8%80%E6%A0%B7%E4%BA%86%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 17时41分]"
-        },
-        {
-          "title": "苹果涨幅扩大至2.7%，刷新日高。",
-          "url": "https://wallstreetcn.com/livenews/3116300",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 04时13分]"
-        },
-        {
-          "title": "苹果WWDC26开发者大会",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9CWWDC26%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时51分 ~ 01时52分]"
-        },
-        {
-          "title": "Siri AI补课两年终交卷 市场等待折叠iPhone“上桌”",
-          "url": "https://www.cls.cn/detail/2394424",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 17时41分]"
-        },
-        {
-          "title": "iPhone17无缘苹果最强端侧大模型",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone17%E6%97%A0%E7%BC%98%E8%8B%B9%E6%9E%9C%E6%9C%80%E5%BC%BA%E7%AB%AF%E4%BE%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时04分 ~ 13时05分]"
-        },
-        {
-          "title": "苹果终于有节假日闹钟了",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E7%BB%88%E4%BA%8E%E6%9C%89%E8%8A%82%E5%81%87%E6%97%A5%E9%97%B9%E9%92%9F%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
-          "title": "苹果：中国大陆暂不提供最新Siri AI",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E6%9A%82%E4%B8%8D%E6%8F%90%E4%BE%9B%E6%9C%80%E6%96%B0Siri+AI",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
-          "title": "迷惑！美国顶流歌手演唱会现场直接把观众手机扔了",
-          "url": "https://v.ifeng.com/c/8tnURPNnxME",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
-          "title": "美国科技记者古尔曼：到目前为止，苹果(AAPL.O)正在逐一阐述多年来众多用户期待已久的性能提升内容。",
-          "url": "https://flash.jin10.com/detail/20260609011707678800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "朱雀二号遥六发射成功 将开展手机直连卫星试验",
-          "url": "https://flash.jin10.com/detail/20260609171529774800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时41分"
-        },
-        {
-          "title": "苹果iOS 27给出迄今最强暗示 处处透露着折叠屏iPhone的蛛丝马迹",
-          "url": "https://wallstreetcn.com/livenews/3116687",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时41分"
-        },
-        {
-          "title": "苹果新推多个儿童信任与安全功能",
-          "url": "https://wallstreetcn.com/livenews/3116295",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "国行iPhone 悬着的心终于死了",
-          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%A1%8CiPhone%20%E6%82%AC%E7%9D%80%E7%9A%84%E5%BF%83%E7%BB%88%E4%BA%8E%E6%AD%BB%E4%BA%86&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
-          "title": "苹果(AAPL.O)：苹果设备将支持设备内内容的搜索索引。",
-          "url": "https://flash.jin10.com/detail/20260609011434195800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "机构：存储器成本压力下 预估2026年智能手机生产总数年减16.2%",
-          "url": "https://flash.jin10.com/detail/20260609123527307800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时05分"
-        },
-        {
-          "title": "苹果：与美国医生团队合作，共同制定相关医疗器械设备的使用指南。",
-          "url": "https://wallstreetcn.com/livenews/3116294",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "苹果(AAPL.O)：iOS 27将支持iPhone 11系列机型。",
-          "url": "https://flash.jin10.com/detail/20260609011349319800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "苹果(AAPL.O)：将多层Liquid Glass（液态玻璃）效果直接融入应用图标设计中。",
-          "url": "https://flash.jin10.com/detail/20260609011059250800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "苹果公司：苹果设备将拥有针对机上内容的搜索指数。",
-          "url": "https://wallstreetcn.com/livenews/3116291",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "妈妈给儿子的高考礼物是台新手机",
-          "url": "https://www.toutiao.com/trending/7648427841440448518/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "苹果(AAPL.O)：下一个版本的macOS名为Golden Gate。",
-          "url": "https://flash.jin10.com/detail/20260609010533403800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "苹果2026年全球开发者大会（WWDC）要点总结",
-          "url": "https://wallstreetcn.com/livenews/3116316",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "苹果：中国大陆暂不提供最新Siri AI",
-          "url": "https://wallstreetcn.com/livenews/3116381",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
-          "title": "苹果软件主管克雷格·费德里吉：苹果计划更新儿童安全功能。",
-          "url": "https://flash.jin10.com/detail/20260609010459294800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "苹果软件主管克雷格·费德里吉：除了AFM Cloud Pro之外，苹果的其他四款模型将继续搭载Apple自研芯片。",
-          "url": "https://flash.jin10.com/detail/20260609032451221800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "苹果(AAPL.O)CEO蒂姆·库克表示，WWDC的发布内容将聚焦于苹果智能和Siri。",
-          "url": "https://flash.jin10.com/detail/20260609010452349800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "苹果公司：正在将多层额外的液态玻璃（Liquid Glass）视觉效果直接融合至应用图标（App Icon）艺术作品本身。",
-          "url": "https://wallstreetcn.com/livenews/3116288",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "苹果市值一夜蒸发超1.5万亿",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%91%E8%B6%851.5%E4%B8%87%E4%BA%BF%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时54分"
-        },
-        {
-          "title": "苹果宣布MacOS 27 Golden Gate，称：MacOS的下一个版本是Golden Gate。 iOS 27将可以应用至最早为iPhone 11的机型。 iOS 27扩展iCloud功能，用户可以从安卓和 Windows 10、Windows 11 设备上共享近期出游拍摄的照片和视频，并且支持全分辨率共享。",
-          "url": "https://wallstreetcn.com/livenews/3116287",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "金十提示：苹果(AAPL.O) WWDC 2026开发者大会已开始。",
-          "url": "https://flash.jin10.com/detail/20260609010233896800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "苹果：中国大陆暂不提供最新Siri AI",
-          "url": "https://flash.jin10.com/detail/20260609064804765800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
-          "title": "标普500指数涨幅收窄至0.5%，纳斯达克100指数涨幅收窄至1.8%，苹果公司WWDC开发者大会开幕。",
-          "url": "https://wallstreetcn.com/livenews/3116286",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "苹果库克：苹果对“提供一系列新功能改善来提高人们的生活”感到兴奋。",
-          "url": "https://wallstreetcn.com/livenews/3116310",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "苹果公司库克：WWDC开发者大会将侧重于苹果智能（Apple Intelligence）与Siri。",
-          "url": "https://wallstreetcn.com/livenews/3116285",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "苹果高管：我真的认为最好的还没有出来。",
-          "url": "https://wallstreetcn.com/livenews/3116309",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "苹果收跌1.9%。",
-          "url": "https://wallstreetcn.com/livenews/3116339",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
-          "title": "苹果软件主管克雷格·费德里吉：苹果已进入第三代苹果基础模型阶段。",
-          "url": "https://flash.jin10.com/detail/20260609031859828800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "苹果跌幅扩大至1.2%，该公司称Siri AI一开始不会投放到欧盟市场",
-          "url": "https://wallstreetcn.com/livenews/3116308",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "苹果(AAPL.O)：推出了新的智能功能，并扩展了Xcode中的生产力功能。",
-          "url": "https://flash.jin10.com/detail/20260609050823882800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
-          "title": "苹果：由于图像生成模型得到大幅提升，公司现正将“图像游乐场”（Image Playground）功能进一步扩展，用于制作“联系人海报”（Contact Posters）和壁纸。 此外，公司还更新Image Playground API，以便开发者能够在自己的应用程序（Apps）内部调用这些全新的模型。",
-          "url": "https://wallstreetcn.com/livenews/3116307",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "苹果软件主管克雷格·费德里吉：苹果构建了自有的“世界知识服务”，该服务运行于其私有云计算平台上。",
-          "url": "https://flash.jin10.com/detail/20260609031742730800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "苹果股价转跌，此前一度涨3.3%。",
-          "url": "https://wallstreetcn.com/livenews/3116306",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "苹果公司：Siri AI将登陆iPadOS。 为watchOS打造专属Siri AI。 Siri AI将首先支持英语，将迅速拓展至其他语种。 将Visual Intelligence（视觉智能）拓展至Mac。",
-          "url": "https://wallstreetcn.com/livenews/3116305",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "苹果WWDC26一文汇总",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9CWWDC26%E4%B8%80%E6%96%87%E6%B1%87%E6%80%BB%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        }
-      ]
-    },
-    {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 18,
+      "match_count": 5,
       "titles": [
         {
-          "title": "15万买新能源车还没开回家就出问题",
-          "url": "https://www.toutiao.com/trending/7648583608257069099/",
+          "title": "全新一代奥迪Q7正式亮相",
+          "url": "https://www.toutiao.com/trending/7648302589213212723/",
           "source": "今日头条",
           "ranks": [
-            2
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时51分 ~ 08时05分]"
-        },
-        {
-          "title": "王传福：5年后比亚迪将做到全球第一",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E4%BC%A0%E7%A6%8F%EF%BC%9A5%E5%B9%B4%E5%90%8E%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%B0%86%E5%81%9A%E5%88%B0%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时40分 ~ 20时36分]"
-        },
-        {
-          "title": "美方将阿里巴巴、比亚迪等列入“涉军”清单，外交部：敦促美方停止无理打压中企",
-          "url": "https://www.cls.cn/detail/2394752",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时40分 ~ 20时36分]"
+          "appearance_count": 1,
+          "time_info": "02时04分"
         },
         {
           "title": "王传福称5年后比亚迪规模全球第一",
           "url": "https://www.toutiao.com/trending/7649338218843737642/",
           "source": "今日头条",
           "ranks": [
-            2,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时36分 ~ 23时54分]"
-        },
-        {
-          "title": "新能源二手车越来越“香”了",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E4%BA%8C%E6%89%8B%E8%BD%A6%E8%B6%8A%E6%9D%A5%E8%B6%8A%E2%80%9C%E9%A6%99%E2%80%9D%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时05分 ~ 13时05分]"
-        },
-        {
-          "title": "王传福回应股价被低估：还没能反映比亚迪潜力，会实现更好的股东回报",
-          "url": "https://wallstreetcn.com/livenews/3116690",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时41分"
-        },
-        {
-          "title": "特斯拉涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3116298",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
+          "time_info": "02时04分"
         },
         {
           "title": "比亚迪、阿里等回应“被美国防部列入中国军工企业名单”：没有正当理由，无任何依据",
@@ -776,624 +36,121 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时54分"
+          "time_info": "02时04分"
         },
         {
           "title": "股价未能反映潜力！王传福：2027年将有“惊艳”技术爆发｜比亚迪股东大会",
           "url": "https://www.cls.cn/detail/2395116",
           "source": "财联社热门",
           "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时54分"
-        },
-        {
-          "title": "特斯拉(TSLA.O)股价最新上涨4.13%。",
-          "url": "https://flash.jin10.com/detail/20260609010812804800",
-          "source": "金十数据",
-          "ranks": [
-            15
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "周一（6月8日），彭博电动汽车价格回报指数跌2.02%，报3706.35点。 全天处于下跌状态，亚太时段持续走低，北京时间09:31以来持续交投于3700点附近、15:00刷新日低至3672.92点。 成分股阿内卡矿业股份收跌8%，淡水河谷印尼公司跌7.22%，日本电产株式会社跌6.06%，Panasonic株式会社跌4.79%，小鹏集团H股跌4.62%，浙江零跑科技跌4.22%跌幅第六大，意法半导体法国巴黎股价则收涨4.01%，特斯拉涨4.59%，安霸股份涨8.19%。",
-          "url": "https://wallstreetcn.com/livenews/3116344",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时26分"
+          "time_info": "02时04分"
         },
         {
           "title": "王传福：5年后比亚迪规模全球第一",
           "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E4%BC%A0%E7%A6%8F%EF%BC%9A5%E5%B9%B4%E5%90%8E%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%A7%84%E6%A8%A1%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80",
           "source": "百度热搜",
           "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时54分"
-        },
-        {
-          "title": "比亚迪股份：被列入中国军工企业名单不会影响本集团正常开展业务",
-          "url": "https://wallstreetcn.com/livenews/3116805",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时36分"
-        },
+          "time_info": "02时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 Apple Mac iPhone 手机",
+      "match_count": 3,
+      "titles": [
         {
-          "title": "比亚迪王传福：今年的销量将取决于电池产量，更大的产量将在明年",
-          "url": "https://wallstreetcn.com/livenews/3116519",
-          "source": "华尔街见闻-快讯",
+          "title": "新手机回避症",
+          "url": "https://s.weibo.com/weibo?q=%E6%96%B0%E6%89%8B%E6%9C%BA%E5%9B%9E%E9%81%BF%E7%97%87&t=31&band_rank=2&Refer=top",
+          "source": "微博",
           "ranks": [
-            22
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时05分"
+          "time_info": "02时04分"
         },
         {
-          "title": "王传福回应股价被低估：还没能反映比亚迪潜力，会实现更好的股东回报",
-          "url": "https://flash.jin10.com/detail/20260609165653750800",
-          "source": "金十数据",
+          "title": "苹果WWDC 2026：Siri AI姗姗来迟，Apple Intelligence全面升级，OS集体迈入27版，股价盘中转跌",
+          "url": "https://wallstreetcn.com/articles/3774148",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时04分"
+        },
+        {
+          "title": "苹果市值一夜蒸发超1.5万亿",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%91%E8%B6%851.5%E4%B8%87%E4%BA%BF%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
           "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时41分"
-        },
-        {
-          "title": "王传福回应比亚迪股价被低估",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BC%A0%E7%A6%8F%E5%9B%9E%E5%BA%94%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%82%A1%E4%BB%B7%E8%A2%AB%E4%BD%8E%E4%BC%B0%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时54分"
-        },
-        {
-          "title": "新能源车越来越胖 正制造三重风险",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E8%B6%8A%E6%9D%A5%E8%B6%8A%E8%83%96+%E6%AD%A3%E5%88%B6%E9%80%A0%E4%B8%89%E9%87%8D%E9%A3%8E%E9%99%A9",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时54分"
-        },
-        {
-          "title": "全新一代奥迪Q7正式亮相",
-          "url": "https://www.toutiao.com/trending/7648302589213212723/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时54分"
+          "time_info": "02时04分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 12,
+      "match_count": 1,
       "titles": [
         {
           "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
           "url": "https://wallstreetcn.com/articles/3774156",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时04分 ~ 23时54分]"
-        },
-        {
-          "title": "OpenAI计划在首次公开募股（IPO）之前启动员工/股东股票要约收购案（Tender Sale）。 据知情人士透露，该公司将在未来几周内正式举行该股票要约收购（Tender）。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3116363",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时26分 ~ 08时05分]"
-        },
-        {
-          "title": "“聊天已死”？OpenAI拟大改ChatGPT，打造超级AI应用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33333027",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时13分 ~ 06时26分]"
-        },
-        {
-          "title": "OpenAI官宣已递交IPO申请文件 AI巨头资本大战或全面打响",
-          "url": "https://www.cls.cn/detail/2394212",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时04分 ~ 13时05分]"
-        },
-        {
-          "title": "以总理确认暂停袭击伊朗 OpenAI递交上市申请文件 | 环球市场",
-          "url": "https://www.cls.cn/detail/2394236",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时04分 ~ 13时05分]"
-        },
-        {
-          "title": "美大学生因ChatGPT与母亲争吵后死亡",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9B%A0ChatGPT%E4%B8%8E%E6%AF%8D%E4%BA%B2%E4%BA%89%E5%90%B5%E5%90%8E%E6%AD%BB%E4%BA%A1",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 17时41分]"
-        },
-        {
-          "title": "OpenAI秘密提交美国IPO文件，加入竞争对手竞相上市的行列",
-          "url": "https://wallstreetcn.com/livenews/3116359",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
-          "title": "OpenAI自曝已秘密提交IPO申请",
-          "url": "https://flash.jin10.com/detail/20260609052258365800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
-          "title": "OpenAI：IPO可能需要一段时间，因为我们想做的一些事情，作为一家私营公司可能会更容易。",
-          "url": "https://flash.jin10.com/detail/20260609051732279800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
-          "title": "OpenAI：尚未决定首次公开募股的时间。",
-          "url": "https://flash.jin10.com/detail/20260609051515095800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
-          "title": "OpenAI已提交IPO申请",
-          "url": "https://flash.jin10.com/detail/20260609051454671800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
-          "title": "OpenAI首席科学家：OpenAI致力追求的各项核心目标，均围绕着这一使命：确保通用人工智能造福全人类。人工智能应当增强人类的主体性，而非削弱人类在塑造未来中的作用与意义。",
-          "url": "https://flash.jin10.com/detail/20260609051127110800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "央行 抖音 小红书",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "机构：中东局势未见突破 欧洲央行周内加息或已板上钉钉",
-          "url": "https://flash.jin10.com/detail/20260609172311276800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时41分"
-        },
-        {
-          "title": "高考后的第一条抖音",
-          "url": "https://www.douyin.com/hot/2528465",
-          "source": "抖音",
-          "ranks": [
-            5,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时40分 ~ 23时54分]"
-        },
-        {
-          "title": "机构：尽管经济增长疲软，加央行或面临加息前景",
-          "url": "https://flash.jin10.com/detail/20260609201423508800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "欧洲央行管委穆兰：欧洲需要拥有安全的欧元资产。",
-          "url": "https://flash.jin10.com/detail/20260609201415773800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "对冲基金对赌日本央行6月加息孤掌难鸣，难阻日元继续沉沦",
-          "url": "https://wallstreetcn.com/livenews/3116361",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
-          "title": "英国央行对X平台上流传的“法拉奇大战贝利”伪造帖子表示深切担忧",
-          "url": "https://wallstreetcn.com/livenews/3116304",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 04时13分]"
-        },
-        {
-          "title": "琵琶行原唱发抖音祝福考生",
-          "url": "https://www.douyin.com/hot/2526117",
-          "source": "抖音",
-          "ranks": [
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时51分 ~ 06时26分]"
-        },
-        {
-          "title": "欧洲央行管委穆兰：法国央行将上调通胀预测。",
-          "url": "https://flash.jin10.com/detail/20260609201236941800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "欧洲央行管委穆兰：不宜对法国GDP疲弱下过多结论。",
-          "url": "https://flash.jin10.com/detail/20260609201225288800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "欧洲央行管委、法国央行行长Moulin：欧洲需要更多货币和支付主权。 提升欧元地位存在“明显机遇”。 不会对法国GDP疲弱做过多解读。 法国央行将上调通胀预期。 欧洲需要拥有欧元安全资产。",
-          "url": "https://wallstreetcn.com/livenews/3116820",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "欧洲央行管委穆兰：提升欧元地位的机会非常明显。",
-          "url": "https://flash.jin10.com/detail/20260609200723086800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "欧洲央行管委穆兰：欧洲需要更多的货币和支付主权。",
-          "url": "https://flash.jin10.com/detail/20260609200535343800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "英特尔盘前涨超14%，报道：谷歌拟下单三百万AI芯片、英伟达测试其18A工艺",
-          "url": "https://wallstreetcn.com/articles/3774134",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时04分 ~ 20时36分]"
-        },
-        {
-          "title": "苹果：我们利用谷歌Gemini来开发下一代基础人工智能模型。 推出由苹果智能技术驱动的全新Siri AI。 新的AI架构支持应用操作和屏幕感知功能。",
-          "url": "https://wallstreetcn.com/livenews/3116301",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "网友调侃 Gemini 为北美大豆包，称其为最蠢 AI，为什么会被诟病难用？你的使用感受如何？",
-          "url": "https://www.zhihu.com/question/2047324900080051711",
-          "source": "知乎",
-          "ranks": [
-            14,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时05分 ~ 13时05分]"
-        },
-        {
-          "title": "苹果公司Federighi：我们并没有采用谷歌公司向用户部署的那些模型。",
-          "url": "https://wallstreetcn.com/livenews/3116327",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时13分 ~ 06时26分]"
-        },
-        {
-          "title": "谷歌A跌幅收窄至不足1%，此前一度跌2.2%。",
-          "url": "https://wallstreetcn.com/livenews/3116299",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "苹果软件主管克雷格·费德里吉：苹果最大的模型“AFM Cloud Pro”将运行在谷歌云基础设施上。",
-          "url": "https://flash.jin10.com/detail/20260609032235869800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "苹果(AAPL.O)：无论基础设施托管在何处，苹果始终保持对Private Cloud Compute软件的完全控制权。苹果设备仅信任经由苹果加密认证的Private Cloud Compute软件。在Google Cloud上运行的Private Cloud Compute服务，将在整个夏季预览期间逐步落实全套保护措施。",
-          "url": "https://flash.jin10.com/detail/20260609051727017800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
-          "title": "苹果软件主管克雷格·费德里吉：苹果与谷歌及英伟达合作，将其私有云计算方案引入谷歌云的基础设施中。",
-          "url": "https://flash.jin10.com/detail/20260609032144383800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "苹果软件主管克雷格·费德里吉：苹果的私有云将使用三款由苹果自主研发的AI模型，这些模型是基于其与谷歌的合作开发的。",
-          "url": "https://flash.jin10.com/detail/20260609031803675800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "苹果“AI”由谷歌Gemini提供技术，可在云端服务器运行",
-          "url": "https://wallstreetcn.com/livenews/3116301",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "金价下跌后郑州金店被挤爆",
-          "url": "https://www.toutiao.com/trending/7648415475306889252/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时51分 ~ 08时05分]"
-        },
-        {
-          "title": "金饰价格跌回2025年底，业内人士：短期金价或将宽幅震荡",
-          "url": "https://wallstreetcn.com/livenews/3116828",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "回到2025年底！国际金价跌破4300美元，短期偏弱格局还将持续多久？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33334905",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时05分 ~ 20时36分]"
-        },
-        {
-          "title": "金价跌回年初起点，抹去全年涨幅，若美联储加息金价会不会跌破 4000 美元？ 此前多家投行唱多，如何解读？",
-          "url": "https://www.zhihu.com/question/2046542725336584487",
-          "source": "知乎",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时25分 ~ 08时05分]"
-        },
-        {
-          "title": "消费者盼金价降至500元每克",
-          "url": "https://www.baidu.com/s?wd=%E6%B6%88%E8%B4%B9%E8%80%85%E7%9B%BC%E9%87%91%E4%BB%B7%E9%99%8D%E8%87%B3500%E5%85%83%E6%AF%8F%E5%85%8B",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 17时41分]"
+          "time_info": "02时04分"
         }
       ]
     },
     {
       "keyword_group": "英雄联盟 LOL",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "LPL 顶级上单 369 坦言不想玩 LoL 了，这反映了职业选手怎样的困境？",
           "url": "https://www.zhihu.com/question/2046276887664649844",
           "source": "知乎",
           "ranks": [
-            5,
-            12
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时36分 ~ 23时54分]"
-        },
+          "appearance_count": 1,
+          "time_info": "02时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "央行 抖音 小红书",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "英雄联盟新英雄洛克短片",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E6%96%B0%E8%8B%B1%E9%9B%84%E6%B4%9B%E5%85%8B%E7%9F%AD%E7%89%87",
-          "source": "bilibili 热搜",
+          "title": "高考后的第一条抖音",
+          "url": "https://www.douyin.com/hot/2528465",
+          "source": "抖音",
           "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时04分 ~ 13时05分]"
-        },
-        {
-          "title": "英雄联盟新英雄洛克剧情解析",
-          "url": "https://www.douyin.com/hot/2528221",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时04分 ~ 13时05分]"
+          "appearance_count": 1,
+          "time_info": "02时04分"
         }
       ]
     }
