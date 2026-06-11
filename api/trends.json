@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-12T03:36:25.654323+08:00",
-  "total_titles_processed": 428,
+  "generated_at": "2026-06-12T06:03:24.969073+08:00",
+  "total_titles_processed": 521,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "淘宝、京东、拼多多、抖音、小红书 5 家电商平台被约谈，具有哪些警示意义？还有哪些信息值得关注？",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 03时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 06时03分]"
         },
         {
           "title": "抖音AI创作大赛来了",
@@ -28,8 +28,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 03时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 06时03分]"
         },
         {
           "title": "欧洲央行6月加息后，IMF称或需进一步加息",
@@ -49,7 +49,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时36分"
         },
@@ -63,6 +63,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
+        },
+        {
+          "title": "美国至6月5日当周外国央行持有美国国债 -135.55亿美元，前值-326.86亿美元。",
+          "url": "https://flash.jin10.com/detail/20260612043036152800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
         },
         {
           "title": "报道：欧洲央行官员称7月份可能再次加息",
@@ -121,6 +132,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "补贴→Token计费→降价！OpenAI打响价格战，Token经济学拐点将至？",
+          "url": "https://wallstreetcn.com/articles/3774400",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 06时03分]"
+        },
+        {
           "title": "OpenAI将收购Ona 强化Codex代理能力",
           "url": "https://flash.jin10.com/detail/20260612003612955800",
           "source": "金十数据",
@@ -130,17 +153,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
-        },
-        {
-          "title": "补贴→Token计费→降价！OpenAI打响价格战，Token经济学拐点将至？",
-          "url": "https://wallstreetcn.com/articles/3774400",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 03时36分]"
         },
         {
           "title": "据CNBC：OpenAI将收购Ona，以增强其人工智能编程助手Codex的能力。",
@@ -167,8 +179,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 03时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 06时03分]"
         },
         {
           "title": "英雄联盟老玩家在做什么工作",
@@ -177,7 +189,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时36分"
         }
@@ -209,11 +221,12 @@
           "url": "https://www.zhihu.com/question/2048159787817375467",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时36分 ~ 06时03分]"
         }
       ]
     }
