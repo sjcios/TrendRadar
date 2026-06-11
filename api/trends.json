@@ -1,783 +1,178 @@
 {
-  "generated_at": "2026-06-11T20:45:30.088009+08:00",
-  "total_titles_processed": 1228,
+  "generated_at": "2026-06-12T00:54:48.328180+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 23,
+      "match_count": 5,
       "titles": [
         {
-          "title": "抖音创作者守护乡村孩子足球梦",
-          "url": "https://www.douyin.com/hot/2529770",
-          "source": "抖音",
+          "title": "淘宝、京东、拼多多、抖音、小红书 5 家电商平台被约谈，具有哪些警示意义？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2048363384991477880",
+          "source": "知乎",
           "ranks": [
-            5,
-            6,
-            8,
-            9,
-            11
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时36分 ~ 16时46分]"
+          "appearance_count": 1,
+          "time_info": "00时54分"
         },
         {
-          "title": "欧洲央行行长拉加德将于十分钟后召开货币政策新闻发布会。",
-          "url": "https://flash.jin10.com/detail/20260611203500000800",
-          "source": "金十数据",
+          "title": "欧洲央行6月加息后，IMF称或需进一步加息",
+          "url": "https://wallstreetcn.com/livenews/3118313",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时45分"
+          "time_info": "00时54分"
         },
         {
           "title": "抖音AI创作大赛来了",
           "url": "https://www.douyin.com/hot/2529851",
           "source": "抖音",
           "ranks": [
-            2,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时47分 ~ 20时45分]"
-        },
-        {
-          "title": "“百亿补贴”并非真百亿 淘宝京东拼多多抖音小红书被约谈",
-          "url": "https://flash.jin10.com/detail/20260611111554018800",
-          "source": "金十数据",
-          "ranks": [
-            5
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时48分"
+          "time_info": "00时54分"
         },
         {
-          "title": "分析师：通胀上调、经济增速下调，欧洲央行最新预测描绘“严峻图景”",
-          "url": "https://flash.jin10.com/detail/20260611203221203800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
-        },
-        {
-          "title": "全抖音寻找世界杯梗王",
-          "url": "https://www.douyin.com/hot/2529535",
-          "source": "抖音",
-          "ranks": [
-            24,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 11时48分]"
-        },
-        {
-          "title": "布伦森G4赛后发抖音",
-          "url": "https://www.douyin.com/hot/2530694",
-          "source": "抖音",
-          "ranks": [
-            22,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时46分 ~ 20时45分]"
-        },
-        {
-          "title": "抖音作者探访南海永兴岛",
-          "url": "https://www.douyin.com/hot/2529739",
-          "source": "抖音",
-          "ranks": [
-            21,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时01分 ~ 07时43分]"
-        },
-        {
-          "title": "EVAN李羲承正式入驻抖音",
-          "url": "https://www.douyin.com/hot/2530391",
-          "source": "抖音",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 11时48分]"
-        },
-        {
-          "title": "EVAN李羲承抖音号公开",
-          "url": "https://www.douyin.com/hot/2530196",
-          "source": "抖音",
-          "ranks": [
-            30,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 07时43分]"
-        },
-        {
-          "title": "欧洲央行决议后，欧元兑美元汇率基本持平于1.1535。",
-          "url": "https://wallstreetcn.com/livenews/3118176",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
-        },
-        {
-          "title": "淘宝、京东、拼多多、抖音、小红书 5 家电商平台被约谈，具有哪些警示意义？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2048363384991477880",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
-        },
-        {
-          "title": "欧洲央行：管委会的利率决策将根据对通胀前景及其相关风险的评估，并结合最新的经济和金融数据作出。 不确定性也体现在欧元体系工作人员编制的最新情景模拟中，通胀和经济增长的结果范围较广。 管委会并未对特定的利率路径作出预先承诺。",
-          "url": "https://wallstreetcn.com/livenews/3118171",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
-        },
-        {
-          "title": "欧洲央行：下调了2026年、2027年的经济增长预期，上调了通胀预期。 预计2026年GDP增长为0.8%；此前预测为0.9%；通胀率为3%，此前预测为2.6%。 预计2027年GDP增长为1.2%；此前预测为1.3%；通胀率为2.3%；此前预测为2%。 预计2028年GDP增长为1.5%；此前预测为1.4%；通胀率为2%，此前预测为2.1%。",
-          "url": "https://wallstreetcn.com/livenews/3118170",
+          "title": "意大利副总理Antonio Tajani批评欧洲央行的加息决定，称那样做“对谁都没有好处”。",
+          "url": "https://wallstreetcn.com/livenews/3118298",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
-        },
-        {
-          "title": "欧洲央行：中东冲突正在带来通胀压力。 凭借今天的决策，管委会依然能够很好地应对战争带来的不确定性。 本次加息决定在多种情景下都具有稳健性，这些情景涵盖了冲击可能如何演变并影响欧元区中期前景。 前景依然存在不确定性，通胀存在上行风险，经济增长则面临下行风险。 将密切关注形势发展，并根据数据和每次会议的情况，确定适当的货币政策立场。 中东冲突对中期通胀和经济增长的全部影响，将取决于能源价格冲击的强度和持续时间，以及其间接和二轮效应的规模。",
-          "url": "https://wallstreetcn.com/livenews/3118169",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
-        },
-        {
-          "title": "欧元区欧洲央行主要再融资利率 2.4%，预期 2.4%，前值 2.15%。",
-          "url": "https://wallstreetcn.com/livenews/3118167",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
-        },
-        {
-          "title": "韩国央行：五月份对家庭贷款净额环比增长6.9万亿韩元，创2024年8月以来最大增幅，4月份为增长2.1万亿韩元。",
-          "url": "https://flash.jin10.com/detail/20260611110322273800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时48分"
+          "time_info": "00时54分"
         },
         {
-          "title": "欧元区欧洲央行存款便利利率 2.25%，预期 2.25%，前值 2%。",
-          "url": "https://wallstreetcn.com/livenews/3118166",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
-        },
-        {
-          "title": "淘宝京东拼多多抖音小红书被约谈",
-          "url": "https://www.baidu.com/s?wd=%E6%B7%98%E5%AE%9D%E4%BA%AC%E4%B8%9C%E6%8B%BC%E5%A4%9A%E5%A4%9A%E6%8A%96%E9%9F%B3%E5%B0%8F%E7%BA%A2%E4%B9%A6%E8%A2%AB%E7%BA%A6%E8%B0%88",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时46分"
-        },
-        {
-          "title": "机构：日本央行行长缺席下周会议不会带来太多明显变化",
-          "url": "https://flash.jin10.com/detail/20260611110313507800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时48分"
-        },
-        {
-          "title": "欧元区欧洲央行边际贷款利率 2.65%，预期 2.65%，前值 2.4%。",
-          "url": "https://wallstreetcn.com/livenews/3118165",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
-        },
-        {
-          "title": "金十整理：欧洲央行决议前瞻——加息25个基点箭在弦上，经济预测与后续动向成市场焦点",
-          "url": "https://flash.jin10.com/detail/20260611160446540800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时46分"
-        },
-        {
-          "title": "提醒：北京时间20:15，欧洲央行公布利率决定（含主要再融资利率、存款便利利率、边际贷款利率）。",
-          "url": "https://wallstreetcn.com/livenews/3118161",
+          "title": "报道：欧洲央行官员称7月份可能再次加息",
+          "url": "https://wallstreetcn.com/livenews/3118291",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "言短意长｜那些公开的领导手机号码，能打通吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33351234",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时36分 ~ 16时46分]"
-        },
-        {
-          "title": "近视 500 度如果整整一年住在大山里，没有手机没有电脑，每天面对大自然，近视能减轻吗？",
-          "url": "https://www.zhihu.com/question/371021313",
-          "source": "知乎",
-          "ranks": [
-            8,
-            18,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 07时43分]"
-        },
-        {
-          "title": "公布个人手机号的原市委书记主动投案",
-          "url": "https://www.toutiao.com/trending/7649064838828900361/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时34分 ~ 07时43分]"
-        },
-        {
-          "title": "苹果 AI 发布史上最大更新国区却不可用，是何原因导致？",
-          "url": "https://www.zhihu.com/question/2047598353421170561",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 07时43分]"
-        },
-        {
-          "title": "山崖下捡到手机一抬头失主在树上",
-          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E5%B4%96%E4%B8%8B%E6%8D%A1%E5%88%B0%E6%89%8B%E6%9C%BA%E4%B8%80%E6%8A%AC%E5%A4%B4%E5%A4%B1%E4%B8%BB%E5%9C%A8%E6%A0%91%E4%B8%8A",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 11时48分]"
-        },
-        {
-          "title": "起猛了看到一群苹果去上班",
-          "url": "https://s.weibo.com/weibo?q=%E8%B5%B7%E7%8C%9B%E4%BA%86%E7%9C%8B%E5%88%B0%E4%B8%80%E7%BE%A4%E8%8B%B9%E6%9E%9C%E5%8E%BB%E4%B8%8A%E7%8F%AD&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时46分"
-        },
-        {
-          "title": "上海一水果店只卖苹果 1颗最贵293元",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E4%B8%80%E6%B0%B4%E6%9E%9C%E5%BA%97%E5%8F%AA%E5%8D%96%E8%8B%B9%E6%9E%9C+1%E9%A2%97%E6%9C%80%E8%B4%B5293%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        },
-        {
-          "title": "阿富汗禁止公务人员使用智能手机",
-          "url": "https://www.toutiao.com/trending/7649341485579124745/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时43分"
-        },
-        {
-          "title": "加拿大央行行长Macklem：我们利用核心通胀来理解价格上涨的集中程度。 如果开始看到核心通胀上扬，肯定就会引起我们的注意。",
-          "url": "https://wallstreetcn.com/livenews/3117596",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "花旗继续唱空金价",
-          "url": "https://www.douyin.com/hot/2529361",
-          "source": "抖音",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时43分"
-        },
-        {
-          "title": "金价跌破4100美元",
-          "url": "https://www.douyin.com/hot/2530456",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时47分 ~ 20时45分]"
-        },
-        {
-          "title": "花旗：金价可能跌到3500美元",
-          "url": "https://www.toutiao.com/trending/7649366995154944043/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            23,
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 07时43分]"
-        },
-        {
-          "title": "金价抹去今年全部涨幅",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%8A%B9%E5%8E%BB%E4%BB%8A%E5%B9%B4%E5%85%A8%E9%83%A8%E6%B6%A8%E5%B9%85",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时43分 ~ 11时48分]"
-        },
-        {
-          "title": "金价跌了生意却没疯涨时好",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E4%BA%86%E7%94%9F%E6%84%8F%E5%8D%B4%E6%B2%A1%E7%96%AF%E6%B6%A8%E6%97%B6%E5%A5%BD%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
-        },
-        {
-          "title": "金价反弹拐点何时到来",
-          "url": "https://www.toutiao.com/trending/7650096865626557971/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
-        },
-        {
-          "title": "金十图示：2026年06月11日（周四）上海金早盘价为892.83元/克，较国际金价(887.35元/克)，高5.48元/克",
-          "url": "https://flash.jin10.com/detail/20260611110147671800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时48分"
-        },
-        {
-          "title": "李大霄谈金价承压的原因",
-          "url": "https://www.toutiao.com/trending/7650096699775389247/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "5月新能源汽车产销量同比增长",
-          "url": "https://www.douyin.com/hot/2530030",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 07时43分]"
-        },
-        {
-          "title": "华为首款超跑 SUV 智界 RX 正式官宣，会对新能源高端市场带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2048020930757239453",
-          "source": "知乎",
-          "ranks": [
-            9,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时47分 ~ 20时45分]"
-        },
-        {
-          "title": "新能源车不能再“胖”了",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E4%B8%8D%E8%83%BD%E5%86%8D%E2%80%9C%E8%83%96%E2%80%9D%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            9,
-            13,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 07时43分]"
-        },
-        {
-          "title": "比亚迪王朝首款D级旗舰轿车大汉申报",
-          "url": "https://www.toutiao.com/trending/7649261404276391963/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 03时34分]"
-        },
-        {
-          "title": "王传福称五年后比亚迪将在规模上做到真正的全球第一，真的能实现吗？可能存在哪些难点？",
-          "url": "https://www.zhihu.com/question/2047749282292299196",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 11时48分]"
-        },
-        {
-          "title": "马斯克旗下xAI联合创始人Babuschkin自立门户，宣布与特斯拉旧部成立新公司River AI，主攻颠覆性“全个性化AI智能体”。",
-          "url": "https://wallstreetcn.com/livenews/3117706",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时01分"
-        },
-        {
-          "title": "标普500指数跌幅扩大至1%，工业板块跌超2.4%，科技板块跌1.6%，能源板块涨超2%。道指跌577点、跌幅超过1.1%，纳指跌1.3%，半导体指数跌2.8%。 纳斯达克100指数跌幅扩大至1.5%，成分股高通跌5.7%，西部数据跌5.6%，博通、AMD、Arm控股、核电股CEG至少跌4.2%，特斯拉跌3.1%，英伟达跌2.9%，Diamondback Energy、卡夫亨氏、T-Mobile则涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3117602",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        },
-        {
-          "title": "赵丽娜开着比亚迪追球赛",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E5%A8%9C%E5%BC%80%E7%9D%80%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%BF%BD%E7%90%83%E8%B5%9B%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时46分"
+          "time_info": "00时54分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 3,
       "titles": [
         {
-          "title": "谷歌(GOOG.O)：推出DiffusionGemma。",
-          "url": "https://flash.jin10.com/detail/20260611000644965800",
+          "title": "据The Information：Anthropic已讨论相关安排，由谷歌为其部分租赁义务提供财务担保。Anthropic已与多家美国开发商签署十余份意向书，计划租赁数据中心设施。",
+          "url": "https://flash.jin10.com/detail/20260612003239087800",
           "source": "金十数据",
           "ranks": [
-            11
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时36分"
+          "time_info": "00时54分"
         },
         {
-          "title": "数据硬件和软件供应商DDN的首席执行官亚历克斯·布扎里表示，公司计划在今年年底前进行新一轮融资。DDN的合作伙伴包括英伟达，客户则包括谷歌和Salesforce。",
-          "url": "https://flash.jin10.com/detail/20260611023411479800",
+          "title": "据The Information：Anthropic正寻求签署首批数据中心租赁协议，并向谷歌(GOOG.O)寻求资金支持。",
+          "url": "https://flash.jin10.com/detail/20260612003149002800",
           "source": "金十数据",
           "ranks": [
-            17
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时34分"
+          "time_info": "00时54分"
         },
         {
-          "title": "谷歌发言人：公司致力于与加拿大政府合作，建立所有平台的更高安全标准。",
-          "url": "https://flash.jin10.com/detail/20260611050209043800",
-          "source": "金十数据",
+          "title": "谷歌母公司Alphabet旗下无人驾驶部门Waymo面向出行请求频率最高的人员首发每个月30美元的订阅服务。",
+          "url": "https://wallstreetcn.com/livenews/3118311",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时01分"
+          "time_info": "00时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI将收购Ona 强化Codex代理能力",
+          "url": "https://flash.jin10.com/detail/20260612003612955800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时54分"
         },
         {
-          "title": "谷歌(GOOG.O)：Apache Spark托管服务的Lightning Engine现已同时支持无服务器和托管集群两种部署模式。",
-          "url": "https://flash.jin10.com/detail/20260611022100658800",
-          "source": "金十数据",
+          "title": "补贴→Token计费→降价！OpenAI打响价格战，Token经济学拐点将至？",
+          "url": "https://wallstreetcn.com/articles/3774400",
+          "source": "华尔街见闻",
           "ranks": [
-            21
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时34分"
+          "time_info": "00时54分"
         },
         {
-          "title": "谷歌(GOOG.O)：面向Apache Spark托管服务的Lightning Engine已正式全面开放。",
-          "url": "https://flash.jin10.com/detail/20260611022037644800",
+          "title": "据CNBC：OpenAI将收购Ona，以增强其人工智能编程助手Codex的能力。",
+          "url": "https://flash.jin10.com/detail/20260612003327546800",
           "source": "金十数据",
           "ranks": [
-            22
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时34分"
+          "time_info": "00时54分"
         }
       ]
     },
     {
       "keyword_group": "英雄联盟 LOL",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
         {
           "title": "LOL新英雄疑抄袭咒术回战",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355055&amp;topic_name=LOL%E6%96%B0%E8%8B%B1%E9%9B%84%E7%96%91%E6%8A%84%E8%A2%AD%E5%92%92%E6%9C%AF%E5%9B%9E%E6%88%98",
           "source": "贴吧",
           "ranks": [
-            7,
-            8,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时36分 ~ 20时45分]"
-        },
-        {
-          "title": "英雄联盟老玩家在做什么工作",
-          "url": "https://www.douyin.com/hot/2529992",
-          "source": "抖音",
-          "ranks": [
-            7,
-            10,
-            11,
-            14,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 11时48分]"
-        },
-        {
-          "title": "如何评价《英雄联盟》新英雄「洛克」的技能设定？",
-          "url": "https://www.zhihu.com/question/2047913589030248891",
-          "source": "知乎",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 03时34分]"
-        },
-        {
-          "title": "LOL新英雄洛克技能介绍",
-          "url": "https://search.bilibili.com/all?keyword=LOL%E6%96%B0%E8%8B%B1%E9%9B%84%E6%B4%9B%E5%85%8B%E6%8A%80%E8%83%BD%E4%BB%8B%E7%BB%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时01分 ~ 07时43分]"
-        },
-        {
-          "title": "LOL官宣Peanut断开连接",
-          "url": "https://s.weibo.com/weibo?q=%23LOL%E5%AE%98%E5%AE%A3Peanut%E6%96%AD%E5%BC%80%E8%BF%9E%E6%8E%A5%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时46分"
+          "time_info": "00时54分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "“Token价格战”烧到美国？OpenAI被曝考虑大幅降价",
-          "url": "https://www.cls.cn/detail/2396831",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时46分"
-        },
-        {
-          "title": "报道：Altman预计OpenAI将于未来一年内IPO",
-          "url": "https://wallstreetcn.com/livenews/3117610",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        },
-        {
-          "title": "OpenAI与甲骨文构建合作伙伴关系。 双方将围绕面向OCI（甲骨文云基础设施建设）客户的Codex进行合作。",
-          "url": "https://wallstreetcn.com/livenews/3117747",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时43分"
-        },
-        {
-          "title": "AI获“付款授权”：OpenAI联手Visa开启智能体在线购物新时代",
-          "url": "https://wallstreetcn.com/livenews/3117653",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
+      "keyword_group": "苹果 Apple Mac iPhone 手机",
       "match_count": 1,
       "titles": [
         {
-          "title": "DeepSeek为何发力Agent",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E4%B8%BA%E4%BD%95%E5%8F%91%E5%8A%9BAgent%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
+          "title": "手机店主晒女子企图零元购视频警示同行",
+          "url": "https://www.toutiao.com/trending/7650027593409789993/",
+          "source": "今日头条",
           "ranks": [
-            19
+            9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时45分"
+          "time_info": "00时54分"
         }
       ]
     }
