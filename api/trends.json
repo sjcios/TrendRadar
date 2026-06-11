@@ -1,11 +1,123 @@
 {
-  "generated_at": "2026-06-11T07:43:46.851117+08:00",
-  "total_titles_processed": 596,
+  "generated_at": "2026-06-11T11:48:05.428863+08:00",
+  "total_titles_processed": 815,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "央行 抖音 小红书",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "抖音创作者守护乡村孩子足球梦",
+          "url": "https://www.douyin.com/hot/2529770",
+          "source": "抖音",
+          "ranks": [
+            5,
+            6,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 11时48分]"
+        },
+        {
+          "title": "抖音AI创作大赛来了",
+          "url": "https://www.douyin.com/hot/2529851",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 11时48分]"
+        },
+        {
+          "title": "“百亿补贴”并非真百亿 淘宝京东拼多多抖音小红书被约谈",
+          "url": "https://flash.jin10.com/detail/20260611111554018800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时48分"
+        },
+        {
+          "title": "全抖音寻找世界杯梗王",
+          "url": "https://www.douyin.com/hot/2529535",
+          "source": "抖音",
+          "ranks": [
+            24,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 11时48分]"
+        },
+        {
+          "title": "抖音作者探访南海永兴岛",
+          "url": "https://www.douyin.com/hot/2529739",
+          "source": "抖音",
+          "ranks": [
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 07时43分]"
+        },
+        {
+          "title": "EVAN李羲承正式入驻抖音",
+          "url": "https://www.douyin.com/hot/2530391",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 11时48分]"
+        },
+        {
+          "title": "EVAN李羲承抖音号公开",
+          "url": "https://www.douyin.com/hot/2530196",
+          "source": "抖音",
+          "ranks": [
+            30,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 07时43分]"
+        },
+        {
+          "title": "韩国央行：五月份对家庭贷款净额环比增长6.9万亿韩元，创2024年8月以来最大增幅，4月份为增长2.1万亿韩元。",
+          "url": "https://flash.jin10.com/detail/20260611110322273800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时48分"
+        },
+        {
+          "title": "机构：日本央行行长缺席下周会议不会带来太多明显变化",
+          "url": "https://flash.jin10.com/detail/20260611110313507800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时48分"
+        }
+      ]
+    },
+    {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "言短意长｜那些公开的领导手机号码，能打通吗？",
@@ -17,8 +129,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 07时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 11时48分]"
         },
         {
           "title": "近视 500 度如果整整一年住在大山里，没有手机没有电脑，每天面对大自然，近视能减轻吗？",
@@ -58,6 +170,17 @@
           "time_info": "[00时36分 ~ 07时43分]"
         },
         {
+          "title": "山崖下捡到手机一抬头失主在树上",
+          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E5%B4%96%E4%B8%8B%E6%8D%A1%E5%88%B0%E6%89%8B%E6%9C%BA%E4%B8%80%E6%8A%AC%E5%A4%B4%E5%A4%B1%E4%B8%BB%E5%9C%A8%E6%A0%91%E4%B8%8A",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 11时48分]"
+        },
+        {
           "title": "上海一水果店只卖苹果 1颗最贵293元",
           "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E4%B8%80%E6%B0%B4%E6%9E%9C%E5%BA%97%E5%8F%AA%E5%8D%96%E8%8B%B9%E6%9E%9C+1%E9%A2%97%E6%9C%80%E8%B4%B5293%E5%85%83",
           "source": "百度热搜",
@@ -75,7 +198,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         },
@@ -85,6 +208,93 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "5月新能源汽车产销量同比增长",
+          "url": "https://www.douyin.com/hot/2530030",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 07时43分]"
+        },
+        {
+          "title": "新能源车不能再“胖”了",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E4%B8%8D%E8%83%BD%E5%86%8D%E2%80%9C%E8%83%96%E2%80%9D%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            9,
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 07时43分]"
+        },
+        {
+          "title": "比亚迪王朝首款D级旗舰轿车大汉申报",
+          "url": "https://www.toutiao.com/trending/7649261404276391963/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 03时34分]"
+        },
+        {
+          "title": "华为首款超跑 SUV 智界 RX 正式官宣，会对新能源高端市场带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2048020930757239453",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 11时48分]"
+        },
+        {
+          "title": "王传福称五年后比亚迪将在规模上做到真正的全球第一，真的能实现吗？可能存在哪些难点？",
+          "url": "https://www.zhihu.com/question/2047749282292299196",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 11时48分]"
+        },
+        {
+          "title": "马斯克旗下xAI联合创始人Babuschkin自立门户，宣布与特斯拉旧部成立新公司River AI，主攻颠覆性“全个性化AI智能体”。",
+          "url": "https://wallstreetcn.com/livenews/3117706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
+          "title": "标普500指数跌幅扩大至1%，工业板块跌超2.4%，科技板块跌1.6%，能源板块涨超2%。道指跌577点、跌幅超过1.1%，纳指跌1.3%，半导体指数跌2.8%。 纳斯达克100指数跌幅扩大至1.5%，成分股高通跌5.7%，西部数据跌5.6%，博通、AMD、Arm控股、核电股CEG至少跌4.2%，特斯拉跌3.1%，英伟达跌2.9%，Diamondback Energy、卡夫亨氏、T-Mobile则涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3117602",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -154,67 +364,67 @@
       ]
     },
     {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
+      "keyword_group": "金价",
       "match_count": 5,
       "titles": [
         {
-          "title": "5月新能源汽车产销量同比增长",
-          "url": "https://www.douyin.com/hot/2530030",
+          "title": "花旗继续唱空金价",
+          "url": "https://www.douyin.com/hot/2529361",
           "source": "抖音",
           "ranks": [
-            3
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 07时43分]"
+          "appearance_count": 1,
+          "time_info": "07时43分"
         },
         {
-          "title": "新能源车不能再“胖”了",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E4%B8%8D%E8%83%BD%E5%86%8D%E2%80%9C%E8%83%96%E2%80%9D%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            9,
-            13,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 07时43分]"
-        },
-        {
-          "title": "比亚迪王朝首款D级旗舰轿车大汉申报",
-          "url": "https://www.toutiao.com/trending/7649261404276391963/",
+          "title": "花旗：金价可能跌到3500美元",
+          "url": "https://www.toutiao.com/trending/7649366995154944043/",
           "source": "今日头条",
           "ranks": [
-            8,
-            17
+            29,
+            23,
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 07时43分]"
+        },
+        {
+          "title": "金价抹去今年全部涨幅",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%8A%B9%E5%8E%BB%E4%BB%8A%E5%B9%B4%E5%85%A8%E9%83%A8%E6%B6%A8%E5%B9%85",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时43分 ~ 11时48分]"
+        },
+        {
+          "title": "金价跌破4100美元",
+          "url": "https://www.douyin.com/hot/2530456",
+          "source": "抖音",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时36分 ~ 03时34分]"
+          "time_info": "[11时47分 ~ 11时48分]"
         },
         {
-          "title": "马斯克旗下xAI联合创始人Babuschkin自立门户，宣布与特斯拉旧部成立新公司River AI，主攻颠覆性“全个性化AI智能体”。",
-          "url": "https://wallstreetcn.com/livenews/3117706",
-          "source": "华尔街见闻-快讯",
+          "title": "金十图示：2026年06月11日（周四）上海金早盘价为892.83元/克，较国际金价(887.35元/克)，高5.48元/克",
+          "url": "https://flash.jin10.com/detail/20260611110147671800",
+          "source": "金十数据",
           "ranks": [
-            14
+            25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时01分"
-        },
-        {
-          "title": "标普500指数跌幅扩大至1%，工业板块跌超2.4%，科技板块跌1.6%，能源板块涨超2%。道指跌577点、跌幅超过1.1%，纳指跌1.3%，半导体指数跌2.8%。 纳斯达克100指数跌幅扩大至1.5%，成分股高通跌5.7%，西部数据跌5.6%，博通、AMD、Arm控股、核电股CEG至少跌4.2%，特斯拉跌3.1%，英伟达跌2.9%，Diamondback Energy、卡夫亨氏、T-Mobile则涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3117602",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "time_info": "11时48分"
         }
       ]
     },
@@ -223,17 +433,6 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "LOL新英雄疑抄袭咒术回战",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355055&amp;topic_name=LOL%E6%96%B0%E8%8B%B1%E9%9B%84%E7%96%91%E6%8A%84%E8%A2%AD%E5%92%92%E6%9C%AF%E5%9B%9E%E6%88%98",
-          "source": "贴吧",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 07时43分]"
-        },
-        {
           "title": "英雄联盟老玩家在做什么工作",
           "url": "https://www.douyin.com/hot/2529992",
           "source": "抖音",
@@ -241,11 +440,24 @@
             7,
             10,
             11,
-            14
+            14,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 07时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 11时48分]"
+        },
+        {
+          "title": "LOL新英雄疑抄袭咒术回战",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355055&amp;topic_name=LOL%E6%96%B0%E8%8B%B1%E9%9B%84%E7%96%91%E6%8A%84%E8%A2%AD%E5%92%92%E6%9C%AF%E5%9B%9E%E6%88%98",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 11时48分]"
         },
         {
           "title": "如何评价《英雄联盟》新英雄「洛克」的技能设定？",
@@ -274,62 +486,6 @@
       ]
     },
     {
-      "keyword_group": "央行 抖音 小红书",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "抖音创作者守护乡村孩子足球梦",
-          "url": "https://www.douyin.com/hot/2529770",
-          "source": "抖音",
-          "ranks": [
-            5,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 07时43分]"
-        },
-        {
-          "title": "全抖音寻找世界杯梗王",
-          "url": "https://www.douyin.com/hot/2529535",
-          "source": "抖音",
-          "ranks": [
-            24,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 07时43分]"
-        },
-        {
-          "title": "抖音作者探访南海永兴岛",
-          "url": "https://www.douyin.com/hot/2529739",
-          "source": "抖音",
-          "ranks": [
-            21,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时01分 ~ 07时43分]"
-        },
-        {
-          "title": "EVAN李羲承抖音号公开",
-          "url": "https://www.douyin.com/hot/2530196",
-          "source": "抖音",
-          "ranks": [
-            30,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 07时43分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 3,
       "titles": [
@@ -351,7 +507,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         },
@@ -365,48 +521,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "花旗继续唱空金价",
-          "url": "https://www.douyin.com/hot/2529361",
-          "source": "抖音",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时43分"
-        },
-        {
-          "title": "花旗：金价可能跌到3500美元",
-          "url": "https://www.toutiao.com/trending/7649366995154944043/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            23,
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 07时43分]"
-        },
-        {
-          "title": "金价抹去今年全部涨幅",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%8A%B9%E5%8E%BB%E4%BB%8A%E5%B9%B4%E5%85%A8%E9%83%A8%E6%B6%A8%E5%B9%85",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时43分"
         }
       ]
     }
