@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-12T18:10:21.269419+08:00",
-  "total_titles_processed": 1100,
+  "generated_at": "2026-06-12T22:10:52.172846+08:00",
+  "total_titles_processed": 1286,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 26,
+      "match_count": 33,
       "titles": [
         {
           "title": "淘宝、京东、拼多多、抖音、小红书 5 家电商平台被约谈，具有哪些警示意义？还有哪些信息值得关注？",
@@ -21,6 +21,50 @@
           "time_info": "[00时54分 ~ 08时19分]"
         },
         {
+          "title": "欧洲央行管委卡兹米尔：能源价格飙升渗透核心通胀是危险的。",
+          "url": "https://flash.jin10.com/detail/20260612215757640800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
+          "title": "欧洲央行管委卡兹米尔：市场已很好地理解欧洲央行所处的有利的新位置。",
+          "url": "https://flash.jin10.com/detail/20260612215741516800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
+          "title": "欧洲央行管委卡兹米尔：经济足够强韧，能够消化更高的利率。",
+          "url": "https://flash.jin10.com/detail/20260612215649153800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
+          "title": "欧洲央行管委卡兹米尔：加息任务尚未完成。",
+          "url": "https://flash.jin10.com/detail/20260612215638034800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
           "title": "欧洲央行管委KAASIK：加息的主要原因是通胀令人担忧的飙升。 很难说欧洲央行下一次加息何时到来。",
           "url": "https://wallstreetcn.com/livenews/3118595",
           "source": "华尔街见闻-快讯",
@@ -30,6 +74,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
+        },
+        {
+          "title": "伊朗战争推高通胀压力，欧洲央行近三年来首次加息！",
+          "url": "https://wallstreetcn.com/articles/3774438",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时19分 ~ 22时10分]"
         },
         {
           "title": "抖音AI创作大赛来了",
@@ -44,16 +100,28 @@
           "time_info": "[00时54分 ~ 08时19分]"
         },
         {
-          "title": "伊朗战争推高通胀压力，欧洲央行近三年来首次加息！",
-          "url": "https://wallstreetcn.com/articles/3774438",
-          "source": "华尔街见闻",
+          "title": "抖音AI创作大赛首个爆款出现",
+          "url": "https://www.douyin.com/hot/2532139",
+          "source": "抖音",
           "ranks": [
-            8,
-            7
+            25,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时19分 ~ 18时10分]"
+          "appearance_count": 2,
+          "time_info": "[18时10分 ~ 22时10分]"
+        },
+        {
+          "title": "哈兰德抖音粉丝数超曼城",
+          "url": "https://www.douyin.com/hot/2532056",
+          "source": "抖音",
+          "ranks": [
+            24,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时10分 ~ 22时10分]"
         },
         {
           "title": "中国央行：初步统计，2026年5月末社会融资规模存量为458.81万亿元，同比增长7.7%。",
@@ -62,7 +130,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时10分"
         },
@@ -106,9 +174,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时10分"
+        },
+        {
+          "title": "央行征求意见：将个人投资人认购大额存单起点金额降至不低于20万元",
+          "url": "https://www.cls.cn/detail/2398470",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         },
         {
           "title": "中国央行：6月15日中国人民银行将开展6000亿元买断式逆回购操作",
@@ -117,9 +196,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时10分"
+        },
+        {
+          "title": "欧洲央行管委Kazimir：不能排除政策不得不转向限制性（的可能性）。 加息任务尚未完成。 经济韧性足以消化更高的利率。 第二轮效应正在潜伏，并将显现。 能源价格飙升渗透至核心通胀，这很危险。 市场已很好地理解欧洲央行所处的有利位置。",
+          "url": "https://wallstreetcn.com/livenews/3118937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         },
         {
           "title": "夏奇拉抖音分享开幕式表演",
@@ -216,7 +306,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时10分"
         },
@@ -243,17 +333,6 @@
           "time_info": "13时48分"
         },
         {
-          "title": "哈兰德抖音粉丝数超曼城",
-          "url": "https://www.douyin.com/hot/2532056",
-          "source": "抖音",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
           "title": "欧洲央行管委多伦茨：服务业通胀顽固，难以应对。",
           "url": "https://flash.jin10.com/detail/20260612131057511800",
           "source": "金十数据",
@@ -265,15 +344,15 @@
           "time_info": "13时48分"
         },
         {
-          "title": "抖音AI创作大赛首个爆款出现",
-          "url": "https://www.douyin.com/hot/2532139",
+          "title": "全抖音都在DaiDai",
+          "url": "https://www.douyin.com/hot/2531421",
           "source": "抖音",
           "ranks": [
             25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时10分"
+          "time_info": "22时10分"
         },
         {
           "title": "报道：欧洲央行官员称7月份可能再次加息",
@@ -352,6 +431,56 @@
       ]
     },
     {
+      "keyword_group": "苹果 Apple Mac iPhone 手机",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "精明家长,高考分数=手机价格",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355109&amp;topic_name=%E7%B2%BE%E6%98%8E%E5%AE%B6%E9%95%BF%2C%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%3D%E6%89%8B%E6%9C%BA%E4%BB%B7%E6%A0%BC",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时10分 ~ 22时10分]"
+        },
+        {
+          "title": "美国航天概念股继续下跌，Intuitive Machines跌10.3%，Planet Labs跌7.8%，Rocket Lab跌8.8%，Satellogic跌9.8%，Virgin Galactic跌25.1%，Redwire跌10%。",
+          "url": "https://flash.jin10.com/detail/20260612215521984800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
+          "title": "手机店主晒女子企图零元购视频警示同行",
+          "url": "https://www.toutiao.com/trending/7650027593409789993/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时54分"
+        },
+        {
+          "title": "手机被远程控制 民警3锤砸烂",
+          "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E8%A2%AB%E8%BF%9C%E7%A8%8B%E6%8E%A7%E5%88%B6+%E6%B0%91%E8%AD%A63%E9%94%A4%E7%A0%B8%E7%83%82",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        }
+      ]
+    },
+    {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
       "match_count": 4,
       "titles": [
@@ -373,11 +502,12 @@
           "url": "https://www.zhihu.com/question/2047600648644816926",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时10分 ~ 22时10分]"
         },
         {
           "title": "我国乘用车 12 年增重近 400 公斤，新能源车疯狂堆电池，有车企电池包重达七八百公斤，减重会成为新趋势吗？",
@@ -386,7 +516,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时10分"
         },
@@ -443,45 +573,6 @@
       ]
     },
     {
-      "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "精明家长,高考分数=手机价格",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355109&amp;topic_name=%E7%B2%BE%E6%98%8E%E5%AE%B6%E9%95%BF%2C%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%3D%E6%89%8B%E6%9C%BA%E4%BB%B7%E6%A0%BC",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "手机店主晒女子企图零元购视频警示同行",
-          "url": "https://www.toutiao.com/trending/7650027593409789993/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "手机被远程控制 民警3锤砸烂",
-          "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E8%A2%AB%E8%BF%9C%E7%A8%8B%E6%8E%A7%E5%88%B6+%E6%B0%91%E8%AD%A63%E9%94%A4%E7%A0%B8%E7%83%82",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时48分"
-        }
-      ]
-    },
-    {
       "keyword_group": "英雄联盟 LOL",
       "match_count": 2,
       "titles": [
@@ -520,11 +611,12 @@
           "url": "https://www.zhihu.com/question/2031303606524186735",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时10分 ~ 22时10分]"
         }
       ]
     },
@@ -538,11 +630,12 @@
           "source": "今日头条",
           "ranks": [
             12,
-            29
+            29,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时48分 ~ 18时10分]"
+          "appearance_count": 3,
+          "time_info": "[13时48分 ~ 22时10分]"
         }
       ]
     }
