@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-13T01:37:49.814411+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-13T04:09:17.931521+08:00",
+  "total_titles_processed": 414,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "秘鲁央行首席经济学家Adrian Armas：厄尔尼诺对秘鲁渔业的影响最大。",
-          "url": "https://wallstreetcn.com/livenews/3119023",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时37分"
-        },
         {
           "title": "抖音AI创作大赛首个爆款出现",
           "url": "https://www.douyin.com/hot/2532139",
           "source": "抖音",
           "ranks": [
             5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时37分 ~ 04时09分]"
+        },
+        {
+          "title": "秘鲁央行首席经济学家Adrian Armas：厄尔尼诺对秘鲁渔业的影响最大。",
+          "url": "https://wallstreetcn.com/livenews/3119023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -37,25 +37,48 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时37分 ~ 04时09分]"
+        },
+        {
+          "title": "抖音AI反网暴行动来了",
+          "url": "https://www.douyin.com/hot/2531858",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时37分"
+          "time_info": "04时09分"
         }
       ]
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "新能源二手车越来越「香」了，交易量走高，保值率提升，为何会出现这一变化？是短期回暖还是长期趋势？",
           "url": "https://www.zhihu.com/question/2047600648644816926",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            20
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时37分 ~ 04时09分]"
+        },
+        {
+          "title": "SpaceX总裁不排除未来与特斯拉合并：两家公司目标正趋于一致",
+          "url": "https://www.cls.cn/detail/2398816",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时37分"
+          "time_info": "04时09分"
         },
         {
           "title": "中石化比亚迪闪充站正式落地",
@@ -67,6 +90,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 Apple Mac iPhone 手机",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "精明家长,高考分数=手机价格",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355109&amp;topic_name=%E7%B2%BE%E6%98%8E%E5%AE%B6%E9%95%BF%2C%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%3D%E6%89%8B%E6%9C%BA%E4%BB%B7%E6%A0%BC",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时37分 ~ 04时09分]"
+        },
+        {
+          "title": "本周，标普累涨约0.4%，道指累涨0.6%，纳指累涨0.6%，科技股七巨头指数跌3%，半导体指数涨9%，存储芯片指数涨18%。 标普500指数初步收涨0.4%，原材料、金融板块涨超1%，科技板块涨0.4%。 纳斯达克100指数初步收涨0.6%，成分股中，Arm控股初步收涨11.2%，希捷科技涨7.7%，英特尔涨6.7%，西部数据涨6.3%，科磊、闪迪至少涨5%，AMD涨5%，苹果跌1.5%，阿斯麦ADR跌2%，Autodesk跌3.6%，Adobe跌6.5%。 高盛初步收涨2.5%，VZ涨2.4%，摩根大通、美国运通涨超2%，领跑道指成分股，波音、亚马逊、Merck、苹果、耐克至少跌约1%。",
+          "url": "https://wallstreetcn.com/livenews/3119064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
         }
       ]
     },
@@ -88,6 +139,23 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价回落女子一口气买入90克金手镯",
+          "url": "https://www.toutiao.com/trending/7649567619948822578/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
+        }
+      ]
+    },
+    {
       "keyword_group": "英雄联盟 LOL",
       "match_count": 1,
       "titles": [
@@ -96,28 +164,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E8%80%81%E7%8E%A9%E5%AE%B6%E5%9C%A8%E5%81%9A%E4%BB%80%E4%B9%88%E5%B7%A5%E4%BD%9C",
           "source": "bilibili 热搜",
           "ranks": [
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "精明家长,高考分数=手机价格",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355109&amp;topic_name=%E7%B2%BE%E6%98%8E%E5%AE%B6%E9%95%BF%2C%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%3D%E6%89%8B%E6%9C%BA%E4%BB%B7%E6%A0%BC",
-          "source": "贴吧",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时37分"
+          "appearance_count": 2,
+          "time_info": "[01时37分 ~ 04时09分]"
         }
       ]
     }
