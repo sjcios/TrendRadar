@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-06-14T22:02:08.432179+08:00",
-  "total_titles_processed": 1058,
-  "failed_sources": [
-    "jin10"
-  ],
+  "generated_at": "2026-06-14T23:53:05.908309+08:00",
+  "total_titles_processed": 1180,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
@@ -18,11 +16,12 @@
             17,
             21,
             24,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时22分 ~ 22时02分]"
+          "appearance_count": 15,
+          "time_info": "[01时22分 ~ 23时53分]"
         },
         {
           "title": "网传 iPhone 改日期可空出 20G，苹果回应不建议操作，这个邪修方法有用吗？技术层面有什么依据吗？",
@@ -96,7 +95,7 @@
     },
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "哈兰德把挪威的森林焊死在抖音",
@@ -117,11 +116,12 @@
           "url": "https://wallstreetcn.com/articles/3774492",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时02分]"
+          "appearance_count": 4,
+          "time_info": "[21时59分 ~ 23时53分]"
         },
         {
           "title": "抖音作者硬核实测国产狙击步枪",
@@ -134,6 +134,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时15分 ~ 07时04分]"
+        },
+        {
+          "title": "全球央行狂买黄金为何还是跌了",
+          "url": "https://www.toutiao.com/trending/7650344014547222571/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时52分 ~ 23时53分]"
         },
         {
           "title": "日本央行救不了日元",
@@ -211,22 +222,24 @@
           "url": "https://www.toutiao.com/trending/7650383394266677294/",
           "source": "今日头条",
           "ranks": [
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时02分]"
+          "appearance_count": 4,
+          "time_info": "[21时59分 ~ 23时53分]"
         },
         {
           "title": "男子贷44万给公司买奥迪2月后被开",
           "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B4%B744%E4%B8%87%E7%BB%99%E5%85%AC%E5%8F%B8%E4%B9%B0%E5%A5%A5%E8%BF%AA2%E6%9C%88%E5%90%8E%E8%A2%AB%E5%BC%80",
           "source": "百度热搜",
           "ranks": [
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时02分]"
+          "appearance_count": 4,
+          "time_info": "[21时59分 ~ 23时53分]"
         }
       ]
     },
@@ -243,8 +256,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时54分 ~ 22时02分]"
+          "appearance_count": 10,
+          "time_info": "[11时54分 ~ 23时53分]"
         },
         {
           "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
@@ -274,8 +287,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时02分]"
+          "appearance_count": 4,
+          "time_info": "[21时59分 ~ 23时53分]"
         }
       ]
     }
