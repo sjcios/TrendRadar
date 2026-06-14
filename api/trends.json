@@ -1,8 +1,49 @@
 {
-  "generated_at": "2026-06-14T07:04:04.879628+08:00",
-  "total_titles_processed": 430,
+  "generated_at": "2026-06-14T11:55:13.590930+08:00",
+  "total_titles_processed": 606,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "苹果 Apple Mac iPhone 手机",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "精明家长,高考分数=手机价格",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355109&amp;topic_name=%E7%B2%BE%E6%98%8E%E5%AE%B6%E9%95%BF%2C%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%3D%E6%89%8B%E6%9C%BA%E4%BB%B7%E6%A0%BC",
+          "source": "贴吧",
+          "ranks": [
+            16,
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时22分 ~ 11时55分]"
+        },
+        {
+          "title": "迪丽热巴手机壳",
+          "url": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%89%8B%E6%9C%BA%E5%A3%B3&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时54分 ~ 11时55分]"
+        },
+        {
+          "title": "欧洲理事会主席科斯塔：刚刚与苹果公司CEO蒂姆·库克就儿童网络安全、人工智能及创新议题进行了富有成效的交谈。",
+          "url": "https://flash.jin10.com/detail/20260614004325694800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        }
+      ]
+    },
     {
       "keyword_group": "央行 抖音 小红书",
       "match_count": 3,
@@ -17,8 +58,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 07时04分]"
+          "appearance_count": 7,
+          "time_info": "[01时22分 ~ 11时55分]"
         },
         {
           "title": "抖音作者硬核实测国产狙击步枪",
@@ -46,37 +87,8 @@
       ]
     },
     {
-      "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "精明家长,高考分数=手机价格",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355109&amp;topic_name=%E7%B2%BE%E6%98%8E%E5%AE%B6%E9%95%BF%2C%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%3D%E6%89%8B%E6%9C%BA%E4%BB%B7%E6%A0%BC",
-          "source": "贴吧",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 07时04分]"
-        },
-        {
-          "title": "欧洲理事会主席科斯塔：刚刚与苹果公司CEO蒂姆·库克就儿童网络安全、人工智能及创新议题进行了富有成效的交谈。",
-          "url": "https://flash.jin10.com/detail/20260614004325694800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
@@ -85,11 +97,23 @@
           "ranks": [
             7,
             6,
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 07时04分]"
+          "appearance_count": 7,
+          "time_info": "[01时22分 ~ 11时55分]"
+        },
+        {
+          "title": "【早报】美将部分中企列入“中国军事企业清单”，商务部回应；OpenAI被查",
+          "url": "https://www.cls.cn/detail/2399163",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时54分 ~ 11时55分]"
         }
       ]
     },
@@ -104,11 +128,12 @@
           "ranks": [
             8,
             9,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 07时04分]"
+          "appearance_count": 7,
+          "time_info": "[01时22分 ~ 11时55分]"
         }
       ]
     }
