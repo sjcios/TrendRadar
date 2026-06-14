@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-15T03:25:36.643495+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2026-06-15T05:12:10.363861+08:00",
+  "total_titles_processed": 450,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "女子手机放枕边充电凌晨突然爆炸",
@@ -13,11 +13,12 @@
           "source": "今日头条",
           "ranks": [
             10,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 03时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 05时12分]"
         },
         {
           "title": "精明家长,高考分数=手机价格",
@@ -28,8 +29,19 @@
             27
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 05时12分]"
+        },
+        {
+          "title": "星链计划实现手机直连卫星",
+          "url": "https://search.bilibili.com/all?keyword=%E6%98%9F%E9%93%BE%E8%AE%A1%E5%88%92%E5%AE%9E%E7%8E%B0%E6%89%8B%E6%9C%BA%E7%9B%B4%E8%BF%9E%E5%8D%AB%E6%98%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时20分 ~ 03时25分]"
+          "time_info": "[05时11分 ~ 05时12分]"
         }
       ]
     },
@@ -39,27 +51,29 @@
       "titles": [
         {
           "title": "男子贷44万给公司买奥迪2月后被开",
-          "url": "https://www.toutiao.com/trending/7650383394266677294/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 03时25分]"
-        },
-        {
-          "title": "男子贷44万给公司买奥迪2月后被开",
           "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B4%B744%E4%B8%87%E7%BB%99%E5%85%AC%E5%8F%B8%E4%B9%B0%E5%A5%A5%E8%BF%AA2%E6%9C%88%E5%90%8E%E8%A2%AB%E5%BC%80",
           "source": "百度热搜",
           "ranks": [
             16,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 03时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 05时12分]"
+        },
+        {
+          "title": "男子贷44万给公司买奥迪2月后被开",
+          "url": "https://www.toutiao.com/trending/7650383394266677294/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 05时12分]"
         }
       ]
     },
@@ -75,8 +89,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 03时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 05时12分]"
         }
       ]
     },
@@ -92,8 +106,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 03时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 05时12分]"
         }
       ]
     },
@@ -109,8 +123,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 03时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 05时12分]"
         }
       ]
     }
