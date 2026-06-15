@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-16T04:26:11.385742+08:00",
-  "total_titles_processed": 437,
+  "generated_at": "2026-06-16T07:03:05.865721+08:00",
+  "total_titles_processed": 528,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "女子驾宝马车不慎冲撞丧事现场，有人从河中被救出",
+          "url": "https://v.ifeng.com/c/8tyvxeuvnYl",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 07时03分]"
+        },
         {
           "title": "女子驾宝马车冲撞丧事现场 当地通报",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%A9%BE%E5%AE%9D%E9%A9%AC%E8%BD%A6%E5%86%B2%E6%92%9E%E4%B8%A7%E4%BA%8B%E7%8E%B0%E5%9C%BA+%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5",
@@ -20,26 +31,27 @@
           "time_info": "[00时17分 ~ 04时26分]"
         },
         {
-          "title": "女子驾宝马车不慎冲撞丧事现场，有人从河中被救出",
-          "url": "https://v.ifeng.com/c/8tyvxeuvnYl",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 04时26分]"
-        },
-        {
           "title": "新能源车该不该承担“养护费”",
           "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E8%AF%A5%E4%B8%8D%E8%AF%A5%E6%89%BF%E6%8B%85%E2%80%9C%E5%85%BB%E6%8A%A4%E8%B4%B9%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            14
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 07时03分]"
+        },
+        {
+          "title": "特斯拉在日本卖白菜价，Model 3 仅需 13.4 万全球最低，为何在日本狂降价？能打开日本市场吗？",
+          "url": "https://www.zhihu.com/question/2047945194050254497",
+          "source": "知乎",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时17分 ~ 00时18分]"
+          "time_info": "[07时02分 ~ 07时03分]"
         },
         {
           "title": "新车降价潮下燃油车主怎么卖高价",
@@ -51,6 +63,47 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时17分 ~ 00时18分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "央行 抖音 小红书",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "上迪10岁生日表情来抖音啦",
+          "url": "https://www.douyin.com/hot/2535395",
+          "source": "抖音",
+          "ranks": [
+            30,
+            21,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 07时03分]"
+        },
+        {
+          "title": "津巴布韦央行将政策利率从35%下调至30%。",
+          "url": "https://flash.jin10.com/detail/20260616034629938800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "津巴布韦央行下调贷款利率至30%，之前为35%。",
+          "url": "https://wallstreetcn.com/livenews/3119884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
         }
       ]
     },
@@ -79,35 +132,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时17分 ~ 00时18分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "央行 抖音 小红书",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "上迪10岁生日表情来抖音啦",
-          "url": "https://www.douyin.com/hot/2535395",
-          "source": "抖音",
-          "ranks": [
-            30,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 04时26分]"
-        },
-        {
-          "title": "津巴布韦央行将政策利率从35%下调至30%。",
-          "url": "https://flash.jin10.com/detail/20260616034629938800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时26分"
         }
       ]
     },
