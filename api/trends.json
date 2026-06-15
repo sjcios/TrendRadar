@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-16T00:18:13.372348+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-06-16T04:26:11.385742+08:00",
+  "total_titles_processed": 437,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%A9%BE%E5%AE%9D%E9%A9%AC%E8%BD%A6%E5%86%B2%E6%92%9E%E4%B8%A7%E4%BA%8B%E7%8E%B0%E5%9C%BA+%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5",
           "source": "百度热搜",
           "ranks": [
-            7
+            7,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 00时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 04时26分]"
         },
         {
           "title": "女子驾宝马车不慎冲撞丧事现场，有人从河中被救出",
@@ -26,8 +27,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 00时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 04时26分]"
         },
         {
           "title": "新能源车该不该承担“养护费”",
@@ -82,6 +83,35 @@
       ]
     },
     {
+      "keyword_group": "央行 抖音 小红书",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "上迪10岁生日表情来抖音啦",
+          "url": "https://www.douyin.com/hot/2535395",
+          "source": "抖音",
+          "ranks": [
+            30,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 04时26分]"
+        },
+        {
+          "title": "津巴布韦央行将政策利率从35%下调至30%。",
+          "url": "https://flash.jin10.com/detail/20260616034629938800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -92,26 +122,9 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "央行 抖音 小红书",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "上迪10岁生日表情来抖音啦",
-          "url": "https://www.douyin.com/hot/2535395",
-          "source": "抖音",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 00时18分]"
         }
       ]
     }
