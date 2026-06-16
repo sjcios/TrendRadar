@@ -1,22 +1,263 @@
 {
-  "generated_at": "2026-06-16T07:03:05.865721+08:00",
-  "total_titles_processed": 528,
+  "generated_at": "2026-06-16T11:57:10.692260+08:00",
+  "total_titles_processed": 756,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "央行 抖音 小红书",
+      "match_count": 19,
+      "titles": [
+        {
+          "title": "三井住友：日本央行投票结果虽然意外但未影响市场 央行未来料不会大幅加息",
+          "url": "https://flash.jin10.com/detail/20260616114753604800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
+          "title": "上迪10岁生日表情来抖音啦",
+          "url": "https://www.douyin.com/hot/2535395",
+          "source": "抖音",
+          "ranks": [
+            30,
+            21,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 07时03分]"
+        },
+        {
+          "title": "日本央行升息后，日经225指数走高，最新上涨0.3%；东证指数收复跌幅，转为涨跌持平。",
+          "url": "https://wallstreetcn.com/livenews/3120046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
+          "title": "日本央行如期加息，计划停止缩减债券购买",
+          "url": "https://flash.jin10.com/detail/20260616114423484800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
+          "title": "津巴布韦央行将政策利率从35%下调至30%。",
+          "url": "https://flash.jin10.com/detail/20260616034629938800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "日本央行：在当前时期，需要特别关注中东局势的未来走向对金融市场、外汇市场、经济和物价的影响。 必须关注全球AI相关需求以及未来外汇走势对日本经济和物价的影响。",
+          "url": "https://wallstreetcn.com/livenews/3120039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
+          "title": "日本央行：油价上涨的转嫁传导一直在以相对较快的速度推进，这可能会蔓延并导致广泛商品和服务的消费者价格上涨。 核心CPI通胀率存在向上偏离并高出物价目标的风险。 日本经济增速可能会有所放缓，但预计将继续温和增长。 CPI的同比涨幅可能会加速，达到明显高于2%的水平。 薪资与物价同步温和上涨的机制将会维持。 核心CPI通胀率预计将逐渐上升，并在2026财年下半年至2027财年之间达到与物价目标相符的水平。",
+          "url": "https://wallstreetcn.com/livenews/3120038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
+          "title": "日本央行：日本的金融环境一直处于宽松状态。 实际利率一直处于负值状态，主要集中在短期和中期区间。",
+          "url": "https://wallstreetcn.com/livenews/3120037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
+          "title": "日本央行：将根据经济活动、物价和金融状况的发展，继续提高政策利率。 在考虑政策调整的时机和步伐时，将评估实现基准预测情景的概率以及潜在风险。 预计在政策利率调整后，宽松的金融环境仍将维持，并继续坚定地支持经济活动。 日本经济已温和复苏，尽管局部仍表现出一些疲软。 与前一段时间相比，经济出现严重放缓的风险似乎有所降低。 日本经济的发展总体上符合日本央行的基准预测情景。",
+          "url": "https://wallstreetcn.com/livenews/3120035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
+          "title": "日本央行决定从明年7月起暂停缩减购债规模",
+          "url": "https://flash.jin10.com/detail/20260616113531384800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
+          "title": "日本央行：将从2027年4月起暂停缩减购债规模",
+          "url": "https://wallstreetcn.com/livenews/3120034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
+          "title": "日本央行政策声明：加息25个基点，未来仍可能继续加息",
+          "url": "https://flash.jin10.com/detail/20260616113427322800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
+          "title": "日本央行声明：以7-1的投票比例通过利率决议。 审议委员浅田统一郎对利率决议投下反对票。 审议委员高田创和田村直树对有关物价前景的描述表示反对。",
+          "url": "https://wallstreetcn.com/livenews/3120032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
+          "title": "日本央行如期加息后，日本东证指数收复跌幅，最新持平。",
+          "url": "https://flash.jin10.com/detail/20260616113335565800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
+          "title": "日本央行将基准利率上调25个基点至1%，符合预期，为1995年以来最高水平。",
+          "url": "https://wallstreetcn.com/livenews/3120031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
+          "title": "津巴布韦央行下调贷款利率至30%，之前为35%。",
+          "url": "https://wallstreetcn.com/livenews/3119884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
+          "title": "日本央行6月利率决议看点前瞻",
+          "url": "https://wallstreetcn.com/livenews/3120019",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
+          "title": "日本央行如期加息25个基点 利率升至31年来高位",
+          "url": "https://flash.jin10.com/detail/20260616112943774800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
+          "title": "日本央行：日本经济大体上依照日本央行的基准假设情境发展。",
+          "url": "https://flash.jin10.com/detail/20260616112917613800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        }
+      ]
+    },
+    {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "女子驾宝马车不慎冲撞丧事现场，有人从河中被救出",
           "url": "https://v.ifeng.com/c/8tyvxeuvnYl",
           "source": "凤凰网",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 07时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 11时57分]"
+        },
+        {
+          "title": "特斯拉在日本卖白菜价，Model 3 仅需 13.4 万全球最低，为何在日本狂降价？能打开日本市场吗？",
+          "url": "https://www.zhihu.com/question/2047945194050254497",
+          "source": "知乎",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时02分 ~ 11时57分]"
+        },
+        {
+          "title": "李佳琦直播间首次卖车，40 台奔驰秒售罄，直播卖车会成为新趋势吗？你会选择线上订车还是去 4S 店购车？",
+          "url": "https://www.zhihu.com/question/2048363192439646181",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时56分 ~ 11时57分]"
         },
         {
           "title": "女子驾宝马车冲撞丧事现场 当地通报",
@@ -43,17 +284,6 @@
           "time_info": "[00时17分 ~ 07时03分]"
         },
         {
-          "title": "特斯拉在日本卖白菜价，Model 3 仅需 13.4 万全球最低，为何在日本狂降价？能打开日本市场吗？",
-          "url": "https://www.zhihu.com/question/2047945194050254497",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时02分 ~ 07时03分]"
-        },
-        {
           "title": "新车降价潮下燃油车主怎么卖高价",
           "url": "https://www.toutiao.com/trending/7651584054349627401/",
           "source": "今日头条",
@@ -67,49 +297,8 @@
       ]
     },
     {
-      "keyword_group": "央行 抖音 小红书",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "上迪10岁生日表情来抖音啦",
-          "url": "https://www.douyin.com/hot/2535395",
-          "source": "抖音",
-          "ranks": [
-            30,
-            21,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 07时03分]"
-        },
-        {
-          "title": "津巴布韦央行将政策利率从35%下调至30%。",
-          "url": "https://flash.jin10.com/detail/20260616034629938800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时26分"
-        },
-        {
-          "title": "津巴布韦央行下调贷款利率至30%，之前为35%。",
-          "url": "https://wallstreetcn.com/livenews/3119884",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时03分"
-        }
-      ]
-    },
-    {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "李想：今天的智能手机并不是真的智能",
@@ -132,12 +321,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时17分 ~ 00时18分]"
+        },
+        {
+          "title": "传苹果首款折叠屏将延期发布，产业链人士：假的",
+          "url": "https://wallstreetcn.com/livenews/3120030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "OpenAI承诺在2026年对与AI相关的非营利问题投资5000万美元。",
@@ -149,6 +349,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "据英国金融时报：OpenAI去年支出达340亿美元。",
+          "url": "https://flash.jin10.com/detail/20260616113107944800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英雄联盟 LOL",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "继 Uzi 后 Doinb 确认《英雄联盟》怀旧服下月推出，会给游戏带来哪些改变？",
+          "url": "https://www.zhihu.com/question/2045139251206084211",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时56分 ~ 11时57分]"
         }
       ]
     }
