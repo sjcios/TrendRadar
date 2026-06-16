@@ -1,561 +1,189 @@
 {
-  "generated_at": "2026-06-16T23:09:08.912023+08:00",
-  "total_titles_processed": 1186,
+  "generated_at": "2026-06-17T03:34:19.763571+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 25,
+      "match_count": 9,
       "titles": [
         {
-          "title": "三井住友：日本央行投票结果虽然意外但未影响市场 央行未来料不会大幅加息",
-          "url": "https://flash.jin10.com/detail/20260616114753604800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时57分"
-        },
-        {
-          "title": "上迪10岁生日表情来抖音啦",
-          "url": "https://www.douyin.com/hot/2535395",
-          "source": "抖音",
-          "ranks": [
-            30,
-            21,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 07时03分]"
-        },
-        {
-          "title": "1995年以来最高！日本央行如期加息 以应对通胀压力",
-          "url": "https://www.cls.cn/detail/2400927",
-          "source": "财联社热门",
+          "title": "周二（6月16日）纽约尾盘，美元兑日元涨0.05%，报160.41日元，日内交投区间为160.05-160.46日元，北京时间11:08（临近日本央行在11:19宣布加息至1995年以来最高水平）刷新日低，随后持续上扬。 欧元兑日元涨0.23%，报186.27日元；英镑兑日元涨0.17%，报215.438日元。",
+          "url": "https://wallstreetcn.com/livenews/3120471",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
-          "title": "日本央行升息后，日经225指数走高，最新上涨0.3%；东证指数收复跌幅，转为涨跌持平。",
-          "url": "https://wallstreetcn.com/livenews/3120046",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时57分"
-        },
-        {
-          "title": "2026抖音电影奇遇夜直播",
-          "url": "https://www.douyin.com/hot/2536585",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
-          "title": "日本央行如期加息，计划停止缩减债券购买",
-          "url": "https://flash.jin10.com/detail/20260616114423484800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时57分"
+          "time_info": "03时34分"
         },
         {
           "title": "日本央行加息至1%，为1995年以来最高水平，2027年起暂停缩债",
           "url": "https://wallstreetcn.com/articles/3774766",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时27分 ~ 23时09分]"
+          "appearance_count": 1,
+          "time_info": "03时34分"
+        },
+        {
+          "title": "秘鲁央行：在即期外汇市场买入2.21亿美元。",
+          "url": "https://flash.jin10.com/detail/20260617025107306800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时34分"
+        },
+        {
+          "title": "秘鲁央行进行了110万索尔的货币互换操作。",
+          "url": "https://flash.jin10.com/detail/20260617025054879800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时34分"
         },
         {
           "title": "世界黄金协会调查：全球央行增持意愿创纪录 黄金战略储备地位进一步提升",
           "url": "https://www.cls.cn/detail/2401197",
           "source": "财联社热门",
           "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时08分 ~ 23时09分]"
-        },
-        {
-          "title": "炽夏抖音追剧团",
-          "url": "https://www.douyin.com/hot/2536928",
-          "source": "抖音",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时08分 ~ 23时09分]"
-        },
-        {
-          "title": "津巴布韦央行将政策利率从35%下调至30%。",
-          "url": "https://flash.jin10.com/detail/20260616034629938800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时26分"
-        },
-        {
-          "title": "日本央行：在当前时期，需要特别关注中东局势的未来走向对金融市场、外汇市场、经济和物价的影响。 必须关注全球AI相关需求以及未来外汇走势对日本经济和物价的影响。",
-          "url": "https://wallstreetcn.com/livenews/3120039",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时57分"
-        },
-        {
-          "title": "日本央行：油价上涨的转嫁传导一直在以相对较快的速度推进，这可能会蔓延并导致广泛商品和服务的消费者价格上涨。 核心CPI通胀率存在向上偏离并高出物价目标的风险。 日本经济增速可能会有所放缓，但预计将继续温和增长。 CPI的同比涨幅可能会加速，达到明显高于2%的水平。 薪资与物价同步温和上涨的机制将会维持。 核心CPI通胀率预计将逐渐上升，并在2026财年下半年至2027财年之间达到与物价目标相符的水平。",
-          "url": "https://wallstreetcn.com/livenews/3120038",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时57分"
-        },
-        {
-          "title": "日本央行：日本的金融环境一直处于宽松状态。 实际利率一直处于负值状态，主要集中在短期和中期区间。",
-          "url": "https://wallstreetcn.com/livenews/3120037",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时57分"
-        },
-        {
-          "title": "日本央行：将根据经济活动、物价和金融状况的发展，继续提高政策利率。 在考虑政策调整的时机和步伐时，将评估实现基准预测情景的概率以及潜在风险。 预计在政策利率调整后，宽松的金融环境仍将维持，并继续坚定地支持经济活动。 日本经济已温和复苏，尽管局部仍表现出一些疲软。 与前一段时间相比，经济出现严重放缓的风险似乎有所降低。 日本经济的发展总体上符合日本央行的基准预测情景。",
-          "url": "https://wallstreetcn.com/livenews/3120035",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时57分"
-        },
-        {
-          "title": "日本央行决定从明年7月起暂停缩减购债规模",
-          "url": "https://flash.jin10.com/detail/20260616113531384800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时57分"
-        },
-        {
-          "title": "日本央行：将从2027年4月起暂停缩减购债规模",
-          "url": "https://wallstreetcn.com/livenews/3120034",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时57分"
-        },
-        {
-          "title": "日本央行政策声明：加息25个基点，未来仍可能继续加息",
-          "url": "https://flash.jin10.com/detail/20260616113427322800",
-          "source": "金十数据",
-          "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时57分"
+          "time_info": "03时34分"
         },
         {
-          "title": "日本央行声明：以7-1的投票比例通过利率决议。 审议委员浅田统一郎对利率决议投下反对票。 审议委员高田创和田村直树对有关物价前景的描述表示反对。",
-          "url": "https://wallstreetcn.com/livenews/3120032",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时57分"
-        },
-        {
-          "title": "日本央行如期加息后，日本东证指数收复跌幅，最新持平。",
-          "url": "https://flash.jin10.com/detail/20260616113335565800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时57分"
-        },
-        {
-          "title": "日本央行将基准利率上调25个基点至1%，符合预期，为1995年以来最高水平。",
-          "url": "https://wallstreetcn.com/livenews/3120031",
+          "title": "法国央行下调2026年经济预期：预计2026年GDP将增长0.5%，之前预计增长0.9%。 预计2026年通胀为2.5%，之前预计为1.7%；预计2027年为1.7%，之前预计为1.4%。 央行行长表示，自己（对欧洲央行货币政策）既不持鹰派立场、也不持鸽派立场。",
+          "url": "https://wallstreetcn.com/livenews/3120457",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时57分"
+          "time_info": "03时34分"
         },
         {
-          "title": "津巴布韦央行下调贷款利率至30%，之前为35%。",
-          "url": "https://wallstreetcn.com/livenews/3119884",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时03分"
-        },
-        {
-          "title": "日本央行6月利率决议看点前瞻",
-          "url": "https://wallstreetcn.com/livenews/3120019",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时57分"
-        },
-        {
-          "title": "日本央行如期加息25个基点 利率升至31年来高位",
-          "url": "https://flash.jin10.com/detail/20260616112943774800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时57分"
-        },
-        {
-          "title": "日本央行：日本经济大体上依照日本央行的基准假设情境发展。",
-          "url": "https://flash.jin10.com/detail/20260616112917613800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时57分"
-        },
-        {
-          "title": "欧洲央行首席经济学家Lane：经济表现出韧性。 在多年展望中，油价更接近基线水平。 依赖数据并非一句空话。",
-          "url": "https://wallstreetcn.com/livenews/3120363",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "女子驾宝马车不慎冲撞丧事现场，有人从河中被救出",
-          "url": "https://v.ifeng.com/c/8tyvxeuvnYl",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 11时57分]"
-        },
-        {
-          "title": "李佳琦直播间首次卖车，40 台奔驰秒售罄，直播卖车会成为新趋势吗？你会选择线上订车还是去 4S 店购车？",
-          "url": "https://www.zhihu.com/question/2048363192439646181",
-          "source": "知乎",
-          "ranks": [
-            4,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时56分 ~ 23时09分]"
-        },
-        {
-          "title": "特斯拉在日本卖白菜价，Model 3 仅需 13.4 万全球最低，为何在日本狂降价？能打开日本市场吗？",
-          "url": "https://www.zhihu.com/question/2047945194050254497",
-          "source": "知乎",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时02分 ~ 11时57分]"
-        },
-        {
-          "title": "女子驾宝马车冲撞丧事现场 当地通报",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%A9%BE%E5%AE%9D%E9%A9%AC%E8%BD%A6%E5%86%B2%E6%92%9E%E4%B8%A7%E4%BA%8B%E7%8E%B0%E5%9C%BA+%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 04时26分]"
-        },
-        {
-          "title": "新能源车该不该承担“养护费”",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E8%AF%A5%E4%B8%8D%E8%AF%A5%E6%89%BF%E6%8B%85%E2%80%9C%E5%85%BB%E6%8A%A4%E8%B4%B9%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 07时03分]"
-        },
-        {
-          "title": "新车降价潮下燃油车主怎么卖高价",
-          "url": "https://www.toutiao.com/trending/7651584054349627401/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 00时18分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "腾讯云 DeepSeek-V3.2 模型下线及切换升级",
-          "url": "https://wallstreetcn.com/livenews/3120209",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
-          "title": "为什么DeepSeek是AI泡沫斩杀线",
-          "url": "https://www.toutiao.com/trending/7651979830128283145/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时08分 ~ 23时09分]"
-        },
-        {
-          "title": "DeepSeek首轮融资梁文锋出资200亿",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E9%A6%96%E8%BD%AE%E8%9E%8D%E8%B5%84%E6%A2%81%E6%96%87%E9%94%8B%E5%87%BA%E8%B5%84200%E4%BA%BF%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时08分 ~ 23时09分]"
-        },
-        {
-          "title": "DeepSeek完成500亿融资",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%AE%8C%E6%88%90500%E4%BA%BF%E8%9E%8D%E8%B5%84",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
-          "title": "DeepSeek完成超500亿元融资",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%AE%8C%E6%88%90%E8%B6%85500%E4%BA%BF%E5%85%83%E8%9E%8D%E8%B5%84&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "OpenAI承诺在2026年对与AI相关的非营利问题投资5000万美元。",
-          "url": "https://wallstreetcn.com/livenews/3119785",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "分析师：Anthropic较OpenAI企业市场优势明显",
-          "url": "https://flash.jin10.com/detail/20260616165616859800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
-          "title": "据英国金融时报：OpenAI去年支出达340亿美元。",
-          "url": "https://flash.jin10.com/detail/20260616113107944800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时57分"
-        },
-        {
-          "title": "报道：2025年OpenAI净亏损增加七倍 成本高达340亿美元",
-          "url": "https://wallstreetcn.com/livenews/3120179",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "李想：今天的智能手机并不是真的智能",
-          "url": "https://www.toutiao.com/trending/7650811553666662443/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 00时18分]"
-        },
-        {
-          "title": "苹果16款设备将停止更新",
-          "url": "https://www.douyin.com/hot/2535587",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 00时18分]"
-        },
-        {
-          "title": "传苹果首款折叠屏将延期发布，产业链人士：假的",
-          "url": "https://wallstreetcn.com/livenews/3120030",
+          "title": "伊朗央行行长：谅解备忘录规定美有义务解冻伊资产",
+          "url": "https://wallstreetcn.com/livenews/3120455",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "英雄联盟 LOL",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "继 Uzi 后 Doinb 确认《英雄联盟》怀旧服下月推出，会给游戏带来哪些改变？",
-          "url": "https://www.zhihu.com/question/2045139251206084211",
-          "source": "知乎",
-          "ranks": [
-            19,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时56分 ~ 17时27分]"
+          "time_info": "03时34分"
         },
         {
-          "title": "如何评价《英雄联盟》海克斯大乱斗「轻拍背部」的恶性 BUG？",
-          "url": "https://www.zhihu.com/question/2049861883515986539",
-          "source": "知乎",
+          "title": "伊朗央行行长：谅解备忘录规定美有义务解冻伊资产",
+          "url": "https://flash.jin10.com/detail/20260617021444979800",
+          "source": "金十数据",
           "ranks": [
-            12
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时08分 ~ 23时09分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
+          "appearance_count": 1,
+          "time_info": "03时34分"
+        },
         {
-          "title": "金价年内有望冲5000美元",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%B9%B4%E5%86%85%E6%9C%89%E6%9C%9B%E5%86%B25000%E7%BE%8E%E5%85%83%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
+          "title": "欧洲央行管委Makhlouf：仍然需要观察能源价格会按照多快的速度调整。",
+          "url": "https://wallstreetcn.com/livenews/3120440",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时27分"
+          "time_info": "03时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "为什么DeepSeek是AI泡沫斩杀线",
+          "url": "https://www.toutiao.com/trending/7651979830128283145/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时34分"
+        },
+        {
+          "title": "曝DeepSeek首轮融资梁文锋出资200亿",
+          "url": "https://www.toutiao.com/trending/7651579346738855979/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英雄联盟 LOL",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价《英雄联盟》海克斯大乱斗「轻拍背部」的恶性 BUG？",
+          "url": "https://www.zhihu.com/question/2049861883515986539",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 Apple Mac iPhone 手机",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Snap发布售价2195美元的AR眼镜，CEO押注“后智能手机时代”",
+          "url": "https://wallstreetcn.com/livenews/3120443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "李佳琦直播间首次卖车，40 台奔驰秒售罄，直播卖车会成为新趋势吗？你会选择线上订车还是去 4S 店购车？",
+          "url": "https://www.zhihu.com/question/2048363192439646181",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时34分"
         }
       ]
     }
