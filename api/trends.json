@@ -1,8 +1,73 @@
 {
-  "generated_at": "2026-06-18T05:04:45.713714+08:00",
-  "total_titles_processed": 428,
+  "generated_at": "2026-06-18T07:45:00.838520+08:00",
+  "total_titles_processed": 545,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "央行 抖音 小红书",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "全抖音都在为梅西C罗加油",
+          "url": "https://www.douyin.com/hot/2536679",
+          "source": "抖音",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时39分 ~ 07时45分]"
+        },
+        {
+          "title": "宣布六项政策，央行行长潘功胜详解中国金融结构变迁和金融市场现代化",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33397624",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时39分 ~ 07时45分]"
+        },
+        {
+          "title": "沈腾恭喜吕德华入驻抖音",
+          "url": "https://www.douyin.com/hot/2538022",
+          "source": "抖音",
+          "ranks": [
+            23,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时39分 ~ 07时45分]"
+        },
+        {
+          "title": "巴西央行连续三次降息，委员会Copom一致决定将基准Selic利率下调25个基点至14.25%，创2025年5月份以来新低。",
+          "url": "https://wallstreetcn.com/livenews/3121280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
+          "title": "媒体调查：90%经济学家预计日本央行年底前将再次加息",
+          "url": "https://wallstreetcn.com/livenews/3121265",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        }
+      ]
+    },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
       "match_count": 3,
@@ -14,7 +79,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -25,7 +90,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -39,48 +104,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "央行 抖音 小红书",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "全抖音都在为梅西C罗加油",
-          "url": "https://www.douyin.com/hot/2536679",
-          "source": "抖音",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时39分 ~ 05时04分]"
-        },
-        {
-          "title": "宣布六项政策，央行行长潘功胜详解中国金融结构变迁和金融市场现代化",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33397624",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时39分 ~ 05时04分]"
-        },
-        {
-          "title": "沈腾恭喜吕德华入驻抖音",
-          "url": "https://www.douyin.com/hot/2538022",
-          "source": "抖音",
-          "ranks": [
-            23,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时39分 ~ 05时04分]"
         }
       ]
     },
@@ -123,11 +146,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时39分 ~ 05时04分]"
+          "appearance_count": 4,
+          "time_info": "[02时39分 ~ 07时45分]"
         },
         {
           "title": "比亚迪大唐23.99万起上市",
