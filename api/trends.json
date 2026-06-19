@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T05:09:40.933833+08:00",
-  "total_titles_processed": 423,
+  "generated_at": "2026-06-20T06:56:18.985270+08:00",
+  "total_titles_processed": 454,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,24 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33415889",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时56分 ~ 05时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时56分 ~ 06时56分]"
+        },
+        {
+          "title": "金价陷入低迷",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%99%B7%E5%85%A5%E4%BD%8E%E8%BF%B7%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时56分 ~ 06时56分]"
         },
         {
           "title": "沃什“鹰派首秀”，高盛下调黄金目标价，“如果今年真加息，金价会进一步下跌”",
@@ -25,7 +38,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
         },
@@ -35,17 +48,6 @@
           "source": "抖音",
           "ranks": [
             22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时56分"
-        },
-        {
-          "title": "金价陷入低迷",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%99%B7%E5%85%A5%E4%BD%8E%E8%BF%B7%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -66,8 +68,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时48分 ~ 05时09分]"
+          "appearance_count": 3,
+          "time_info": "[03时48分 ~ 06时56分]"
         },
         {
           "title": "Faker拍谷歌广告血赚7个亿",
@@ -94,8 +96,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时56分 ~ 05时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时56分 ~ 06时56分]"
         }
       ]
     },
