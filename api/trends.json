@@ -1,385 +1,50 @@
 {
-  "generated_at": "2026-06-20T23:49:45.915754+08:00",
-  "total_titles_processed": 1279,
+  "generated_at": "2026-06-21T01:26:03.604958+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 9,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "国际金价再跳水失守4200美元，国内金饰克价破1300元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33415889",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时56分 ~ 13时12分]"
-        },
-        {
-          "title": "金价下跌买30克镯子差价有一万多",
-          "url": "https://www.toutiao.com/trending/7653198914279751718/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
-          "title": "沃什“鹰派首秀”，高盛下调黄金目标价，“如果今年真加息，金价会进一步下跌”",
-          "url": "https://wallstreetcn.com/articles/3775075",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时09分 ~ 13时12分]"
-        },
-        {
-          "title": "金价陷入低迷",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%99%B7%E5%85%A5%E4%BD%8E%E8%BF%B7%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28,
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 08时12分]"
-        },
-        {
-          "title": "金价下跌买30克镯子差价有一万多",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E4%B9%B030%E5%85%8B%E9%95%AF%E5%AD%90%E5%B7%AE%E4%BB%B7%E6%9C%89%E4%B8%80%E4%B8%87%E5%A4%9A%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 23时49分]"
-        },
         {
           "title": "金价年内涨幅尽数回吐，高盛下调目标价，4000美元关口面临考验？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33420304",
           "source": "澎湃新闻",
           "ranks": [
-            17,
             16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时59分 ~ 23时49分]"
+          "time_info": "[01时25分 ~ 01时26分]"
         },
         {
           "title": "金价下跌买30克镯子差价有一万多",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E4%B9%B030%E5%85%8B%E9%95%AF%E5%AD%90%E5%B7%AE%E4%BB%B7%E6%9C%89%E4%B8%80%E4%B8%87%E5%A4%9A",
-          "source": "百度热搜",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E4%B9%B030%E5%85%8B%E9%95%AF%E5%AD%90%E5%B7%AE%E4%BB%B7%E6%9C%89%E4%B8%80%E4%B8%87%E5%A4%9A%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
           "ranks": [
-            17,
-            23
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时53分 ~ 19时17分]"
-        },
-        {
-          "title": "金价这轮下跌何时到底",
-          "url": "https://www.toutiao.com/trending/7653410213311024681/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
-          "title": "金价银价双双下跌",
-          "url": "https://www.douyin.com/hot/2540227",
-          "source": "抖音",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "特朗普移动首款手机竟是中国制造",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%BB%E5%8A%A8%E9%A6%96%E6%AC%BE%E6%89%8B%E6%9C%BA%E7%AB%9F%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 06时56分]"
-        },
-        {
-          "title": "苹果全面涨价",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%85%A8%E9%9D%A2%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            23,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时12分 ~ 19时17分]"
-        },
-        {
-          "title": "史上最贵iPhone要来了吗",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%B2%E4%B8%8A%E6%9C%80%E8%B4%B5iPhone%E8%A6%81%E6%9D%A5%E4%BA%86%E5%90%97",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时53分 ~ 19时17分]"
-        },
-        {
-          "title": "经销商说iPhone涨价猛销量必腰折",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BB%8F%E9%94%80%E5%95%86%E8%AF%B4iPhone%E6%B6%A8%E4%BB%B7%E7%8C%9B%E9%94%80%E9%87%8F%E5%BF%85%E8%85%B0%E6%8A%98%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 23时49分]"
-        },
-        {
-          "title": "B站反转手机功能上线",
-          "url": "https://search.bilibili.com/all?keyword=B%E7%AB%99%E5%8F%8D%E8%BD%AC%E6%89%8B%E6%9C%BA%E5%8A%9F%E8%83%BD%E4%B8%8A%E7%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时12分"
-        },
-        {
-          "title": "荣耀密集起诉手机壳电商",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8D%A3%E8%80%80%E5%AF%86%E9%9B%86%E8%B5%B7%E8%AF%89%E6%89%8B%E6%9C%BA%E5%A3%B3%E7%94%B5%E5%95%86%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时12分"
-        },
-        {
-          "title": "涨完价的iPhone还香吗",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B6%A8%E5%AE%8C%E4%BB%B7%E7%9A%84iPhone%E8%BF%98%E9%A6%99%E5%90%97%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
-          "title": "苹果相册乱起名字",
-          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E7%9B%B8%E5%86%8C%E4%B9%B1%E8%B5%B7%E5%90%8D%E5%AD%97&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "央行 抖音 小红书",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "抖音电商：6·18期间超12万商家直播成交额同比翻倍",
-          "url": "https://wallstreetcn.com/livenews/3122217",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时12分 ~ 19时17分]"
-        },
-        {
-          "title": "上抖音免费看中国男篮热身赛",
-          "url": "https://www.douyin.com/hot/2540785",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时11分 ~ 08时12分]"
-        },
-        {
-          "title": "吕德华抖音直播首秀",
-          "url": "https://www.douyin.com/hot/2541413",
-          "source": "抖音",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时53分 ~ 19时17分]"
-        },
-        {
-          "title": "抖音电商：6·18期间超12万商家直播成交额同比翻倍",
-          "url": "https://flash.jin10.com/detail/20260620115157243800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时12分"
-        },
-        {
-          "title": "巴西财长：下一步货币措施由央行决定，但我认为还有降息25个基点的空间。中东战争结束意味着我们可能正朝着通胀回落的情景发展。",
-          "url": "https://flash.jin10.com/detail/20260620001917901800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "谷歌旗下Deepmind高级研究科学家John Jumper决定离开公司，加入Anthropic。",
-          "url": "https://flash.jin10.com/detail/20260620030401727800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时48分 ~ 06时56分]"
-        },
-        {
-          "title": "Faker拍谷歌广告血赚7个亿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355258&amp;topic_name=Faker%E6%8B%8D%E8%B0%B7%E6%AD%8C%E5%B9%BF%E5%91%8A%E8%A1%80%E8%B5%9A7%E4%B8%AA%E4%BA%BF",
-          "source": "贴吧",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时56分 ~ 05时09分]"
-        },
-        {
-          "title": "学习英伟达“好榜样”，谷歌和博通都开始“有样学样”，开启“AI芯片闭环”",
-          "url": "https://wallstreetcn.com/articles/3775105",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 23时49分]"
+          "time_info": "[01时25分 ~ 01时26分]"
         }
       ]
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "奥迪悬挂套牌“润A88888” 交警回应",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%A5%E8%BF%AA%E6%82%AC%E6%8C%82%E5%A5%97%E7%89%8C%E2%80%9C%E6%B6%A6A88888%E2%80%9D+%E4%BA%A4%E8%AD%A6%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时17分 ~ 23时49分]"
-        },
-        {
-          "title": "比亚迪向巴基斯坦警方交付电动汽车",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%90%91%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%AD%A6%E6%96%B9%E4%BA%A4%E4%BB%98%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
         {
-          "title": "DeepSeek估值接近4000亿元",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E4%BC%B0%E5%80%BC%E6%8E%A5%E8%BF%914000%E4%BA%BF%E5%85%83%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
+          "title": "男孩骑车划伤宝马 狂追两条街认错",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E9%AA%91%E8%BD%A6%E5%88%92%E4%BC%A4%E5%AE%9D%E9%A9%AC+%E7%8B%82%E8%BF%BD%E4%B8%A4%E6%9D%A1%E8%A1%97%E8%AE%A4%E9%94%99",
+          "source": "百度热搜",
           "ranks": [
-            28
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "亚马逊旗下电影部门放弃拍摄有关OpenAI的电影。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3122199",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时12分"
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 01时26分]"
         }
       ]
     }
