@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-21T05:17:30.253910+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2026-06-21T07:07:29.217291+08:00",
+  "total_titles_processed": 447,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时25分 ~ 05时17分]"
+          "appearance_count": 5,
+          "time_info": "[01时25分 ~ 07时07分]"
         },
         {
           "title": "金价下跌买30克镯子差价有一万多",
@@ -27,8 +28,25 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 01时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 07时07分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "学习英伟达“好榜样”，谷歌和博通都开始“有样学样”，开启“AI芯片闭环”",
+          "url": "https://wallstreetcn.com/articles/3775105",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
         }
       ]
     },
