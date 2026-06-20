@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T21:59:46.002074+08:00",
-  "total_titles_processed": 1175,
+  "generated_at": "2026-06-20T23:49:45.915754+08:00",
+  "total_titles_processed": 1279,
   "failed_sources": [],
   "trends": [
     {
@@ -59,6 +59,30 @@
         },
         {
           "title": "金价下跌买30克镯子差价有一万多",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E4%B9%B030%E5%85%8B%E9%95%AF%E5%AD%90%E5%B7%AE%E4%BB%B7%E6%9C%89%E4%B8%80%E4%B8%87%E5%A4%9A%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时59分 ~ 23时49分]"
+        },
+        {
+          "title": "金价年内涨幅尽数回吐，高盛下调目标价，4000美元关口面临考验？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33420304",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时59分 ~ 23时49分]"
+        },
+        {
+          "title": "金价下跌买30克镯子差价有一万多",
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E4%B9%B030%E5%85%8B%E9%95%AF%E5%AD%90%E5%B7%AE%E4%BB%B7%E6%9C%89%E4%B8%80%E4%B8%87%E5%A4%9A",
           "source": "百度热搜",
           "ranks": [
@@ -79,28 +103,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
-        },
-        {
-          "title": "金价下跌买30克镯子差价有一万多",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E4%B9%B030%E5%85%8B%E9%95%AF%E5%AD%90%E5%B7%AE%E4%BB%B7%E6%9C%89%E4%B8%80%E4%B8%87%E5%A4%9A%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "金价年内涨幅尽数回吐，高盛下调目标价，4000美元关口面临考验？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33420304",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
         },
         {
           "title": "金价银价双双下跌",
@@ -156,6 +158,18 @@
           "time_info": "[16时53分 ~ 19时17分]"
         },
         {
+          "title": "经销商说iPhone涨价猛销量必腰折",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BB%8F%E9%94%80%E5%95%86%E8%AF%B4iPhone%E6%B6%A8%E4%BB%B7%E7%8C%9B%E9%94%80%E9%87%8F%E5%BF%85%E8%85%B0%E6%8A%98%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时59分 ~ 23时49分]"
+        },
+        {
           "title": "B站反转手机功能上线",
           "url": "https://search.bilibili.com/all?keyword=B%E7%AB%99%E5%8F%8D%E8%BD%AC%E6%89%8B%E6%9C%BA%E5%8A%9F%E8%83%BD%E4%B8%8A%E7%BA%BF",
           "source": "bilibili 热搜",
@@ -165,17 +179,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时12分"
-        },
-        {
-          "title": "经销商说iPhone涨价猛销量必腰折",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BB%8F%E9%94%80%E5%95%86%E8%AF%B4iPhone%E6%B6%A8%E4%BB%B7%E7%8C%9B%E9%94%80%E9%87%8F%E5%BF%85%E8%85%B0%E6%8A%98%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
         },
         {
           "title": "荣耀密集起诉手机壳电商",
@@ -206,7 +209,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         }
@@ -310,9 +313,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时59分 ~ 23时49分]"
         }
       ]
     },
@@ -326,11 +329,12 @@
           "source": "百度热搜",
           "ranks": [
             24,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 21时59分]"
+          "appearance_count": 3,
+          "time_info": "[19时17分 ~ 23时49分]"
         },
         {
           "title": "比亚迪向巴基斯坦警方交付电动汽车",
@@ -356,7 +360,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         }
