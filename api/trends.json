@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-21T03:24:44.412301+08:00",
-  "total_titles_processed": 365,
+  "generated_at": "2026-06-21T05:17:30.253910+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33420304",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 03时24分]"
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 05时17分]"
         },
         {
           "title": "金价下跌买30克镯子差价有一万多",
