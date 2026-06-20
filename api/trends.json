@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T06:56:18.985270+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2026-06-20T08:12:09.804109+08:00",
+  "total_titles_processed": 537,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 06时56分]"
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 08时12分]"
         },
         {
           "title": "金价陷入低迷",
@@ -25,22 +26,24 @@
           "source": "微博",
           "ranks": [
             28,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时56分 ~ 06时56分]"
+          "appearance_count": 4,
+          "time_info": "[01时56分 ~ 08时12分]"
         },
         {
           "title": "沃什“鹰派首秀”，高盛下调黄金目标价，“如果今年真加息，金价会进一步下跌”",
           "url": "https://wallstreetcn.com/articles/3775075",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时09分"
+          "appearance_count": 3,
+          "time_info": "[05时09分 ~ 08时12分]"
         },
         {
           "title": "金价银价双双下跌",
@@ -85,6 +88,34 @@
       ]
     },
     {
+      "keyword_group": "央行 抖音 小红书",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "上抖音免费看中国男篮热身赛",
+          "url": "https://www.douyin.com/hot/2540785",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时11分 ~ 08时12分]"
+        },
+        {
+          "title": "巴西财长：下一步货币措施由央行决定，但我认为还有降息25个基点的空间。中东战争结束意味着我们可能正朝着通胀回落的情景发展。",
+          "url": "https://flash.jin10.com/detail/20260620001917901800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时56分"
+        }
+      ]
+    },
+    {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
       "match_count": 1,
       "titles": [
@@ -98,23 +129,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时56分 ~ 06时56分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "央行 抖音 小红书",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "巴西财长：下一步货币措施由央行决定，但我认为还有降息25个基点的空间。中东战争结束意味着我们可能正朝着通胀回落的情景发展。",
-          "url": "https://flash.jin10.com/detail/20260620001917901800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时56分"
         }
       ]
     }
