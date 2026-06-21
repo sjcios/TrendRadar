@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-22T00:44:59.860641+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-22T02:19:34.653881+08:00",
+  "total_titles_processed": 379,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
+          "appearance_count": 2,
+          "time_info": "[00时44分 ~ 02时19分]"
         },
         {
           "title": "供应链公司：已向苹果首款折叠屏iPhone小批量供货",
@@ -26,8 +26,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
+          "appearance_count": 2,
+          "time_info": "[00时44分 ~ 02时19分]"
         }
       ]
     },
@@ -40,11 +40,29 @@
           "url": "https://wallstreetcn.com/articles/3775117",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时44分 ~ 02时19分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "消息称比亚迪将分拆工程院，此举背后有哪些商业考量？",
+          "url": "https://www.zhihu.com/question/2051040051715482745",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时44分"
+          "time_info": "02时19分"
         }
       ]
     },
@@ -57,11 +75,12 @@
           "url": "https://www.douyin.com/hot/2542331",
           "source": "抖音",
           "ranks": [
-            30
+            30,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
+          "appearance_count": 2,
+          "time_info": "[00时44分 ~ 02时19分]"
         }
       ]
     }
