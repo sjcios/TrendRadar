@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-22T02:19:34.653881+08:00",
-  "total_titles_processed": 379,
+  "generated_at": "2026-06-22T04:24:53.425964+08:00",
+  "total_titles_processed": 456,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 02时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 04时24分]"
         },
         {
           "title": "供应链公司：已向苹果首款折叠屏iPhone小批量供货",
@@ -44,8 +44,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 02时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 04时24分]"
         }
       ]
     },
@@ -58,11 +58,12 @@
           "url": "https://www.zhihu.com/question/2051040051715482745",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 04时24分]"
         }
       ]
     },
@@ -76,11 +77,12 @@
           "source": "抖音",
           "ranks": [
             30,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 02时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 04时24分]"
         }
       ]
     }
