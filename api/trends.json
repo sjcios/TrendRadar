@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-22T04:24:53.425964+08:00",
-  "total_titles_processed": 456,
+  "generated_at": "2026-06-22T06:14:26.887304+08:00",
+  "total_titles_processed": 497,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 04时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 06时14分]"
         },
         {
           "title": "供应链公司：已向苹果首款折叠屏iPhone小批量供货",
@@ -44,8 +44,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 04时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 06时14分]"
         }
       ]
     },
@@ -59,11 +59,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 04时24分]"
+          "appearance_count": 3,
+          "time_info": "[02时19分 ~ 06时14分]"
         }
       ]
     },
