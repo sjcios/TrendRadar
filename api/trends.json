@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-22T14:28:54.839418+08:00",
-  "total_titles_processed": 874,
+  "generated_at": "2026-06-22T20:49:43.590434+08:00",
+  "total_titles_processed": 1123,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 5,
+      "match_count": 14,
       "titles": [
         {
           "title": "哈兰德发抖音用了森系滤镜",
@@ -22,15 +22,103 @@
           "time_info": "[00时44分 ~ 08时11分]"
         },
         {
+          "title": "印度央行四月在外汇市场净售出89.44亿美元。",
+          "url": "https://flash.jin10.com/detail/20260622203633189800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
+        },
+        {
+          "title": "伊朗央行行长：伊朗资产解冻有“显著进展”",
+          "url": "https://wallstreetcn.com/livenews/3122851",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
+        },
+        {
           "title": "欧洲央行管委艾斯克里瓦：我们需要关注工资的二次效应。",
           "url": "https://flash.jin10.com/detail/20260622135118213800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
+        },
+        {
+          "title": "印度央行：尽管美伊临时和平协议带来了一定程度的缓和，但全球经济形势依然脆弱。",
+          "url": "https://flash.jin10.com/detail/20260622203548830800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
+        },
+        {
+          "title": "印度央行：如果西南季风如预期出现，可能会对国内经济增长和通胀前景造成压力。",
+          "url": "https://flash.jin10.com/detail/20260622203446724800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
+        },
+        {
+          "title": "印度央行：尽管五月份有所回升，消费者物价指数通胀依然保持稳定。",
+          "url": "https://flash.jin10.com/detail/20260622203257787800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
+        },
+        {
+          "title": "印度央行：印度原油篮子价格保持高位。",
+          "url": "https://flash.jin10.com/detail/20260622202957772800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
+        },
+        {
+          "title": "印度央行：截至5月29日，印度黄金储备为880.52公吨，而5月22日为880.52公吨。",
+          "url": "https://flash.jin10.com/detail/20260622202925015800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
+        },
+        {
+          "title": "沙特央行从至少两家资产管理公司撤资。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3122826",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
         },
         {
           "title": "本周中国央行公开市场共19358亿元逆回购到期",
@@ -50,7 +138,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         },
@@ -61,16 +149,38 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
+        },
+        {
+          "title": "全球央行水龙头要拧紧了吗",
+          "url": "https://www.toutiao.com/trending/7654153708145479211/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "美伊达成协议文件，美股盘前芯片股集体走高，英镑逼近年内低位，油价冲高回落，金价反弹",
+          "url": "https://wallstreetcn.com/articles/3775156",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
+        },
         {
           "title": "实探端午假期深圳水贝黄金消费：金价回落释放刚需，批发商迅速补货",
           "url": "https://wallstreetcn.com/livenews/3122421",
@@ -89,7 +199,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         }
@@ -97,7 +207,7 @@
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "高压线下接电话手机会爆炸吗",
@@ -121,6 +231,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时44分 ~ 02时19分]"
+        },
+        {
+          "title": "48位开发者联名举报苹果",
+          "url": "https://www.baidu.com/s?wd=48%E4%BD%8D%E5%BC%80%E5%8F%91%E8%80%85%E8%81%94%E5%90%8D%E4%B8%BE%E6%8A%A5%E8%8B%B9%E6%9E%9C",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek 2.0时刻？智谱市值突破万亿港元，GLM-5.2刷屏华尔街",
+          "url": "https://wallstreetcn.com/articles/3775170",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
         }
       ]
     },
@@ -139,6 +277,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时44分 ~ 06时14分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英雄联盟 LOL",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "为什么《英雄联盟》中的装备没有裤子？",
+          "url": "https://www.zhihu.com/question/52428489",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
         }
       ]
     },
