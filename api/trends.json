@@ -1,247 +1,33 @@
 {
-  "generated_at": "2026-06-22T20:49:43.590434+08:00",
-  "total_titles_processed": 1123,
+  "generated_at": "2026-06-23T01:43:25.359811+08:00",
+  "total_titles_processed": 294,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "央行 抖音 小红书",
-      "match_count": 14,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
       "titles": [
         {
-          "title": "哈兰德发抖音用了森系滤镜",
-          "url": "https://www.douyin.com/hot/2542331",
-          "source": "抖音",
-          "ranks": [
-            30,
-            22,
-            24,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 08时11分]"
-        },
-        {
-          "title": "印度央行四月在外汇市场净售出89.44亿美元。",
-          "url": "https://flash.jin10.com/detail/20260622203633189800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时49分"
-        },
-        {
-          "title": "伊朗央行行长：伊朗资产解冻有“显著进展”",
-          "url": "https://wallstreetcn.com/livenews/3122851",
+          "title": "谷歌Deepmind与24A构建研究领域的合作伙伴。 谷歌公司已经投资该公司。",
+          "url": "https://wallstreetcn.com/livenews/3122970",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时49分"
-        },
-        {
-          "title": "欧洲央行管委艾斯克里瓦：我们需要关注工资的二次效应。",
-          "url": "https://flash.jin10.com/detail/20260622135118213800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时28分"
+          "time_info": "01时43分"
         },
         {
-          "title": "印度央行：尽管美伊临时和平协议带来了一定程度的缓和，但全球经济形势依然脆弱。",
-          "url": "https://flash.jin10.com/detail/20260622203548830800",
+          "title": "市场消息：谷歌DeepMind与A24宣布达成研究合作关系。",
+          "url": "https://flash.jin10.com/detail/20260623010954351800",
           "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时49分"
-        },
-        {
-          "title": "印度央行：如果西南季风如预期出现，可能会对国内经济增长和通胀前景造成压力。",
-          "url": "https://flash.jin10.com/detail/20260622203446724800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时49分"
-        },
-        {
-          "title": "印度央行：尽管五月份有所回升，消费者物价指数通胀依然保持稳定。",
-          "url": "https://flash.jin10.com/detail/20260622203257787800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时49分"
-        },
-        {
-          "title": "印度央行：印度原油篮子价格保持高位。",
-          "url": "https://flash.jin10.com/detail/20260622202957772800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时49分"
-        },
-        {
-          "title": "印度央行：截至5月29日，印度黄金储备为880.52公吨，而5月22日为880.52公吨。",
-          "url": "https://flash.jin10.com/detail/20260622202925015800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时49分"
-        },
-        {
-          "title": "沙特央行从至少两家资产管理公司撤资。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3122826",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时49分"
-        },
-        {
-          "title": "本周中国央行公开市场共19358亿元逆回购到期",
-          "url": "https://wallstreetcn.com/livenews/3122406",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时11分"
-        },
-        {
-          "title": "据路透调查：泰国央行将在2026年全年维持1.00%的关键利率不变。",
-          "url": "https://flash.jin10.com/detail/20260622132657457800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时28分"
-        },
-        {
-          "title": "据路透调查：所有28位经济学家均表示，泰国央行将在6月24日会议上维持利率在1.00%不变。",
-          "url": "https://flash.jin10.com/detail/20260622132637109800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时28分"
-        },
-        {
-          "title": "全球央行水龙头要拧紧了吗",
-          "url": "https://www.toutiao.com/trending/7654153708145479211/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美伊达成协议文件，美股盘前芯片股集体走高，英镑逼近年内低位，油价冲高回落，金价反弹",
-          "url": "https://wallstreetcn.com/articles/3775156",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时49分"
-        },
-        {
-          "title": "实探端午假期深圳水贝黄金消费：金价回落释放刚需，批发商迅速补货",
-          "url": "https://wallstreetcn.com/livenews/3122421",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时11分"
-        },
-        {
-          "title": "金价暴跌黄金该买还是该卖",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E9%BB%84%E9%87%91%E8%AF%A5%E4%B9%B0%E8%BF%98%E6%98%AF%E8%AF%A5%E5%8D%96%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "高压线下接电话手机会爆炸吗",
-          "url": "https://www.douyin.com/hot/2542841",
-          "source": "抖音",
-          "ranks": [
-            14,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 08时11分]"
-        },
-        {
-          "title": "供应链公司：已向苹果首款折叠屏iPhone小批量供货",
-          "url": "https://wallstreetcn.com/livenews/3122346",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 02时19分]"
-        },
-        {
-          "title": "48位开发者联名举报苹果",
-          "url": "https://www.baidu.com/s?wd=48%E4%BD%8D%E5%BC%80%E5%8F%91%E8%80%85%E8%81%94%E5%90%8D%E4%B8%BE%E6%8A%A5%E8%8B%B9%E6%9E%9C",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时49分"
+          "time_info": "01时43分"
         }
       ]
     },
@@ -254,11 +40,11 @@
           "url": "https://wallstreetcn.com/articles/3775170",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时49分"
+          "time_info": "01时43分"
         }
       ]
     },
@@ -267,16 +53,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "下周重磅日程：“美联储最爱通胀指标”、英伟达股东大会、OpenAI或发新模型、美光财报",
-          "url": "https://wallstreetcn.com/articles/3775117",
-          "source": "华尔街见闻",
+          "title": "OpenAI：推出“Patch the Planet”项目，这是“Daybreak”倡议的一部分，旨在支持开源软件维护者。",
+          "url": "https://flash.jin10.com/detail/20260623010428902800",
+          "source": "金十数据",
           "ranks": [
-            2,
-            1
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 06时14分]"
+          "appearance_count": 1,
+          "time_info": "01时43分"
         }
       ]
     },
@@ -289,30 +74,11 @@
           "url": "https://www.zhihu.com/question/52428489",
           "source": "知乎",
           "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "消息称比亚迪将分拆工程院，此举背后有哪些商业考量？",
-          "url": "https://www.zhihu.com/question/2051040051715482745",
-          "source": "知乎",
-          "ranks": [
-            3,
-            7,
-            11
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时19分 ~ 08时11分]"
+          "appearance_count": 1,
+          "time_info": "01时43分"
         }
       ]
     }
