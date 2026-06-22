@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-23T04:46:13.484026+08:00",
-  "total_titles_processed": 418,
+  "generated_at": "2026-06-23T06:47:56.250478+08:00",
+  "total_titles_processed": 525,
   "failed_sources": [],
   "trends": [
     {
@@ -36,7 +36,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         }
@@ -53,7 +53,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -71,6 +71,34 @@
       ]
     },
     {
+      "keyword_group": "央行 抖音 小红书",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "伊朗央行行长：剩余的被冻结资金不一定仅用于基本商品，伊朗将能够购买其他未受制裁的商品。",
+          "url": "https://flash.jin10.com/detail/20260623044927151800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时47分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗央行行长称，德黑兰在现有协议下没有义务从美国购买农业投入品。",
+          "url": "https://flash.jin10.com/detail/20260623044637225800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时47分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -79,11 +107,12 @@
           "url": "https://wallstreetcn.com/articles/3775170",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时43分 ~ 04时46分]"
+          "appearance_count": 4,
+          "time_info": "[01时43分 ~ 06时47分]"
         }
       ]
     },
@@ -115,7 +144,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         }
