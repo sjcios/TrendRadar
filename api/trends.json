@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-23T06:47:56.250478+08:00",
-  "total_titles_processed": 525,
+  "generated_at": "2026-06-23T08:05:03.142994+08:00",
+  "total_titles_processed": 598,
   "failed_sources": [],
   "trends": [
     {
@@ -81,7 +81,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时47分"
         },
@@ -92,7 +92,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时47分"
         }
@@ -111,8 +111,25 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时43分 ~ 06时47分]"
+          "appearance_count": 6,
+          "time_info": "[01时43分 ~ 08时05分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "【早报】SpaceX三日暴跌23%；油价下挫、金价收涨；梅西梅开二度，加冕世界杯历史射手王",
+          "url": "https://www.cls.cn/detail/2406212",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时04分 ~ 08时05分]"
         }
       ]
     },
