@@ -1,693 +1,89 @@
 {
-  "generated_at": "2026-06-23T23:46:58.727414+08:00",
-  "total_titles_processed": 1416,
+  "generated_at": "2026-06-24T01:53:35.222770+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 25,
+      "match_count": 3,
       "titles": [
         {
-          "title": "欧洲央行管委卡兹米尔：中东冲突造成的损害无法一夜之间消除，必须根据数据进行调整。",
-          "url": "https://flash.jin10.com/detail/20260623162009364800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：食品通胀令人担忧。",
-          "url": "https://flash.jin10.com/detail/20260623231342000800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时46分"
-        },
-        {
-          "title": "英国央行委员泰勒：就通胀向工资的传导而言，我的基本判断是，当前情况更接近2011年的状况，而非2022年。",
-          "url": "https://flash.jin10.com/detail/20260623231337676800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时46分"
-        },
-        {
-          "title": "英国央行委员泰勒：英国尚未出现明显的二轮效应。",
-          "url": "https://flash.jin10.com/detail/20260623231323789800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时46分"
-        },
-        {
-          "title": "加拿大央行：下调银行资本制度并非解决投资偏低的唯一方案。",
-          "url": "https://wallstreetcn.com/livenews/3123552",
+          "title": "加拿大央行行长发出警告，称过度投资美国构成全球金融风险",
+          "url": "https://wallstreetcn.com/livenews/3123580",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时46分"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：没有证据表明存在“普遍性”的通胀。",
-          "url": "https://flash.jin10.com/detail/20260623231257022800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时46分"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：我们预计CPI将上涨至约3%。",
-          "url": "https://flash.jin10.com/detail/20260623231247401800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时46分"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：5月CPI压力主要集中在能源领域。",
-          "url": "https://flash.jin10.com/detail/20260623231226998800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时46分"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：总体而言，央行目前尚未观察到油价上涨对其他商品和服务价格产生显著的传导效应。",
-          "url": "https://flash.jin10.com/detail/20260623231220930800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时46分"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：加拿大5月CPI报告符合加拿大央行的预期。",
-          "url": "https://flash.jin10.com/detail/20260623231154373800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时46分"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：预计加美贸易现状将维持不变，这仍是基本情景。",
-          "url": "https://flash.jin10.com/detail/20260623231138429800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时46分"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：美墨加协定的续签不太可能在7月1日前完成，谈判似乎仍在进行中。",
-          "url": "https://flash.jin10.com/detail/20260623230809157800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时46分"
-        },
-        {
-          "title": "路透调查：接受调查的30位分析师一致认为，墨西哥央行将于6月25日将利率维持在6.50%不变。",
-          "url": "https://flash.jin10.com/detail/20260623230530866800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时46分"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：前瞻指引中的“虚假精确性”是无益的。",
-          "url": "https://flash.jin10.com/detail/20260623230511003800",
-          "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时46分"
+          "time_info": "01时53分"
         },
         {
-          "title": "巴乔发抖音分享世界杯vlog",
-          "url": "https://www.douyin.com/hot/2543920",
+          "title": "哈兰德发抖音庆祝世界杯出线",
+          "url": "https://www.douyin.com/hot/2544478",
           "source": "抖音",
           "ranks": [
-            18
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时02分"
+          "time_info": "01时53分"
         },
         {
-          "title": "加拿大央行行长麦克勒姆：我确实担心过多的前瞻性指引会沦为“虚假的精确性”，从而造成混淆。",
-          "url": "https://flash.jin10.com/detail/20260623230450288800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时46分"
-        },
-        {
-          "title": "伊朗央行行长：剩余的被冻结资金不一定仅用于基本商品，伊朗将能够购买其他未受制裁的商品。",
-          "url": "https://flash.jin10.com/detail/20260623044927151800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时47分"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：人工智能估值创历史新高，带来金融风险。",
-          "url": "https://flash.jin10.com/detail/20260623230211000800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时46分"
-        },
-        {
-          "title": "伊朗央行行长：没有义务从美国购买农产品",
-          "url": "https://wallstreetcn.com/livenews/3123147",
+          "title": "裕信银行CEO称，欧洲央行大概率将认定这家意大利银行取得德国商业银行控制权",
+          "url": "https://wallstreetcn.com/livenews/3123568",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时02分"
-        },
-        {
-          "title": "斯洛伐克央行：预计2026年通胀为4.0%（前值3.9%），2027年为2.9%（前值2.5%）。",
-          "url": "https://flash.jin10.com/detail/20260623160356146800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
-          "title": "斯洛伐克央行：预计2026年GDP增长0.5%（前值0.5%），2027年GDP增长1.9%（前值2.0%）。",
-          "url": "https://flash.jin10.com/detail/20260623160349890800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：伊朗央行行长称，德黑兰在现有协议下没有义务从美国购买农业投入品。",
-          "url": "https://flash.jin10.com/detail/20260623044637225800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时47分"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：仍在关注即将出现的价格压力。",
-          "url": "https://flash.jin10.com/detail/20260623225719525800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时46分"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：油价下跌降低了一些上行的通胀风险。",
-          "url": "https://flash.jin10.com/detail/20260623225622006800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时46分"
-        },
-        {
-          "title": "欧洲央行副行长Vujcic：长期通胀预期仍然被锚定。 在更长时期内，（欧元区）通胀将处于高位。 我们不希望给出任何前瞻指引，每次央行会议都取决于最新进展。 我认为，市场对央行有很好的理解。 事实证明，面临供应冲击时，欧元区（经济）增速比人们想象的更具有韧性。",
-          "url": "https://wallstreetcn.com/livenews/3123521",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "特斯拉机器人量产在即？上游供应商传出备战信号",
-          "url": "https://www.cls.cn/detail/2406488",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时33分 ~ 20时06分]"
-        },
-        {
-          "title": "车主称特斯拉刹车失灵致事故",
-          "url": "https://www.toutiao.com/trending/7654432224372817947/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 16时34分]"
-        },
-        {
-          "title": "华润新能源：网上摇号中签结果出炉 中签号码共有186.14万个",
-          "url": "https://wallstreetcn.com/livenews/3123420",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时06分"
-        },
-        {
-          "title": "特斯拉5月份欧洲月销量增长逾一倍",
-          "url": "https://flash.jin10.com/detail/20260623121730670800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时02分"
-        },
-        {
-          "title": "特斯拉(TSLA.O)跌幅扩大至5%。",
-          "url": "https://flash.jin10.com/detail/20260623230633286800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时46分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌1.35%，报5986.28点，逼近2024年9月23日收盘位5917.72点。 热门中概股里，小马智行初步收跌5.5%，文远知行跌4.6%，小米跌4.1%，比亚迪跌3.5%，阿里跌2.1%，拼多多跌1.8%，再鼎医药涨1.6%，携程涨3%。 ETF中，中概互联网指数ETF（KWEB）收跌0.75%，中国科技指数ETF（CQQQ）收涨0.02%。 MSCI新兴市场ex中国ETF（EMXC）收涨0.70%，XtrackersHarvest中证50（ASHS）收涨2.15%，德银嘉实沪深300指数ETF（ASHR）收涨2.64%。",
-          "url": "https://wallstreetcn.com/livenews/3123011",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "Baird分析师称，特斯拉第二季度预计将交付39.29万辆汽车",
-          "url": "https://wallstreetcn.com/livenews/3123540",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时46分"
-        },
-        {
-          "title": "欧洲汽车制造商协会：比亚迪5月在欧盟的新车注册量增长了159%。",
-          "url": "https://flash.jin10.com/detail/20260623120303228800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时02分"
-        },
-        {
-          "title": "欧洲汽车制造商协会：特斯拉(TSLA.O)5月在欧盟、英国和欧洲自由贸易联盟的市场份额上升至2.5%，在纯电动车（BEV）市场的占有率为10.66%。",
-          "url": "https://flash.jin10.com/detail/20260623120218059800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时02分"
-        },
-        {
-          "title": "新能源车保养别踩坑",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E4%BF%9D%E5%85%BB%E5%88%AB%E8%B8%A9%E5%9D%91%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时46分"
+          "time_info": "01时53分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 9,
+      "match_count": 2,
       "titles": [
         {
-          "title": "【早报】SpaceX三日暴跌23%；油价下挫、金价收涨；梅西梅开二度，加冕世界杯历史射手王",
-          "url": "https://www.cls.cn/detail/2406212",
-          "source": "财联社热门",
+          "title": "高盛首次下调 2026 年黄金目标价，国内银行业亦密集收紧黄金交易杠杆，国际金价是否即将跌破 4000？",
+          "url": "https://www.zhihu.com/question/2052707670289806571",
+          "source": "知乎",
           "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时04分 ~ 16时34分]"
-        },
-        {
-          "title": "金价又又又崩了",
-          "url": "https://news.ifeng.com/c/8uBh0V2wuzK",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时02分 ~ 16时34分]"
-        },
-        {
-          "title": "金价狂泻30%",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%8B%82%E6%B3%BB30%25%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时33分 ~ 20时06分]"
-        },
-        {
-          "title": "德意志银行：预计第三季度金价将达4300美元/盎司，第四季度将达4800美元/盎司。 美联储加息，金价存在跌至3800美元/盎司的风险。",
-          "url": "https://wallstreetcn.com/livenews/3123168",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时02分"
-        },
-        {
-          "title": "德意志银行：如果美联储加息，黄金价格可能会跌至3800美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260623121000175800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时02分"
-        },
-        {
-          "title": "德意志银行：预计第三季度黄金价格将达到4300美元/盎司，第四季度将达4800美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260623120926115800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时02分"
-        },
-        {
-          "title": "国际金价“高台跳水” 金饰价格降了",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E2%80%9C%E9%AB%98%E5%8F%B0%E8%B7%B3%E6%B0%B4%E2%80%9D+%E9%87%91%E9%A5%B0%E4%BB%B7%E6%A0%BC%E9%99%8D%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时02分"
+          "time_info": "01时53分"
         },
         {
           "title": "国际金价跌破4100美元整数关口，A股黄金股全线重挫",
           "url": "https://m.thepaper.cn/newsDetail_forward_33436473",
           "source": "澎湃新闻",
           "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时46分"
-        },
-        {
-          "title": "高盛首次下调 2026 年黄金目标价，国内银行业亦密集收紧黄金交易杠杆，国际金价是否即将跌破 4000？",
-          "url": "https://www.zhihu.com/question/2052707670289806571",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "G胖偷师苹果收天价存储税",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355476&amp;topic_name=G%E8%83%96%E5%81%B7%E5%B8%88%E8%8B%B9%E6%9E%9C%E6%94%B6%E5%A4%A9%E4%BB%B7%E5%AD%98%E5%82%A8%E7%A8%8E",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时33分 ~ 20时06分]"
-        },
-        {
-          "title": "加拿大央行行长Macklem：5月CPI报告与央行预期吻合。 迄今，还没有迹象表明石油价格扩散至整体CPI。 伊朗和平协议缓解了一些通胀上行的压力。 总体而言，央行目前尚未看到高油价大幅传导至其他商品和服务的价格中。 食品通胀是一个令人担忧的问题。",
-          "url": "https://wallstreetcn.com/livenews/3123551",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时46分"
-        },
-        {
-          "title": "如何看待 Steam Machine 定价 1049 美元起？",
-          "url": "https://www.zhihu.com/question/2052643077081321839",
-          "source": "知乎",
-          "ranks": [
-            6,
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时02分 ~ 16时34分]"
-        },
-        {
-          "title": "加拿大央行行长Macklem：预计美国与加拿大之间的贸易配额仍将是基本假设。 预计美国墨西哥加拿大贸易协议（USMCA）将持续存在若干年。",
-          "url": "https://wallstreetcn.com/livenews/3123550",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时46分"
-        },
-        {
-          "title": "加拿大央行行长Macklem：前瞻性指引中的“虚假精确性”并无益处。 我确实担心，过多的前瞻性指引会沦为“虚假的精确性”，从而造成市场混淆。",
-          "url": "https://wallstreetcn.com/livenews/3123548",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时46分"
-        },
-        {
-          "title": "48位开发者联名举报苹果",
-          "url": "https://www.baidu.com/s?wd=48%E4%BD%8D%E5%BC%80%E5%8F%91%E8%80%85%E8%81%94%E5%90%8D%E4%B8%BE%E6%8A%A5%E8%8B%B9%E6%9E%9C",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "OpenAI、Anthropic左右开弓挖人 谷歌遭遇近一年最惨一跌",
-          "url": "https://www.cls.cn/detail/2406155",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时02分 ~ 16时34分]"
-        },
-        {
-          "title": "谷歌Deepmind与24A构建研究领域的合作伙伴。 谷歌公司已经投资该公司。",
-          "url": "https://wallstreetcn.com/livenews/3122970",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
-        },
-        {
-          "title": "市场消息：谷歌DeepMind与A24宣布达成研究合作关系。",
-          "url": "https://flash.jin10.com/detail/20260623010954351800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
-        },
-        {
-          "title": "谷歌母公司Alphabet收跌5%，此前该公司AI负责人Jumper离职。",
-          "url": "https://wallstreetcn.com/livenews/3123013",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时46分"
+          "time_info": "01时53分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "DeepSeek 2.0时刻？智谱市值突破万亿港元，GLM-5.2刷屏华尔街",
-          "url": "https://wallstreetcn.com/articles/3775170",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时43分 ~ 08时05分]"
-        },
         {
           "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
           "url": "https://www.zhihu.com/question/2044875348719005741",
           "source": "知乎",
           "ranks": [
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时33分 ~ 23时46分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "IBM(IBM.N)与OpenAI扩大网络安全合作，推出前沿人工智能能力，帮助企业抵御机器速度的网络威胁。",
-          "url": "https://flash.jin10.com/detail/20260623043203412800",
-          "source": "金十数据",
-          "ranks": [
-            2
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "OpenAI：推出“Patch the Planet”项目，这是“Daybreak”倡议的一部分，旨在支持开源软件维护者。",
-          "url": "https://flash.jin10.com/detail/20260623010428902800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
+          "time_info": "01时53分"
         }
       ]
     },
@@ -696,15 +92,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "为什么《英雄联盟》中的装备没有裤子？",
-          "url": "https://www.zhihu.com/question/52428489",
-          "source": "知乎",
+          "title": "英雄联盟2025T1冠军皮肤",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F2025T1%E5%86%A0%E5%86%9B%E7%9A%AE%E8%82%A4",
+          "source": "bilibili 热搜",
           "ranks": [
-            20
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时43分"
+          "time_info": "01时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 Apple Mac iPhone 手机",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "大四女生开发经期APP获苹果大奖",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%9B%9B%E5%A5%B3%E7%94%9F%E5%BC%80%E5%8F%91%E7%BB%8F%E6%9C%9FAPP%E8%8E%B7%E8%8B%B9%E6%9E%9C%E5%A4%A7%E5%A5%96",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时53分"
         }
       ]
     }
