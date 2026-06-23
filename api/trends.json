@@ -1,11 +1,84 @@
 {
-  "generated_at": "2026-06-23T08:05:03.142994+08:00",
-  "total_titles_processed": 598,
+  "generated_at": "2026-06-23T13:02:28.923776+08:00",
+  "total_titles_processed": 840,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "金价",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "【早报】SpaceX三日暴跌23%；油价下挫、金价收涨；梅西梅开二度，加冕世界杯历史射手王",
+          "url": "https://www.cls.cn/detail/2406212",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时04分 ~ 13时02分]"
+        },
+        {
+          "title": "德意志银行：预计第三季度金价将达4300美元/盎司，第四季度将达4800美元/盎司。 美联储加息，金价存在跌至3800美元/盎司的风险。",
+          "url": "https://wallstreetcn.com/livenews/3123168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "金价又又又崩了",
+          "url": "https://news.ifeng.com/c/8uBh0V2wuzK",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "德意志银行：如果美联储加息，黄金价格可能会跌至3800美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260623121000175800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "德意志银行：预计第三季度黄金价格将达到4300美元/盎司，第四季度将达4800美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260623120926115800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "国际金价“高台跳水” 金饰价格降了",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E2%80%9C%E9%AB%98%E5%8F%B0%E8%B7%B3%E6%B0%B4%E2%80%9D+%E9%87%91%E9%A5%B0%E4%BB%B7%E6%A0%BC%E9%99%8D%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "谷歌Deepmind与24A构建研究领域的合作伙伴。 谷歌公司已经投资该公司。",
@@ -17,6 +90,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "OpenAI、Anthropic左右开弓挖人 谷歌遭遇近一年最惨一跌",
+          "url": "https://www.cls.cn/detail/2406155",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "市场消息：谷歌DeepMind与A24宣布达成研究合作关系。",
@@ -39,6 +123,106 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "特斯拉5月份欧洲月销量增长逾一倍",
+          "url": "https://flash.jin10.com/detail/20260623121730670800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌1.35%，报5986.28点，逼近2024年9月23日收盘位5917.72点。 热门中概股里，小马智行初步收跌5.5%，文远知行跌4.6%，小米跌4.1%，比亚迪跌3.5%，阿里跌2.1%，拼多多跌1.8%，再鼎医药涨1.6%，携程涨3%。 ETF中，中概互联网指数ETF（KWEB）收跌0.75%，中国科技指数ETF（CQQQ）收涨0.02%。 MSCI新兴市场ex中国ETF（EMXC）收涨0.70%，XtrackersHarvest中证50（ASHS）收涨2.15%，德银嘉实沪深300指数ETF（ASHR）收涨2.64%。",
+          "url": "https://wallstreetcn.com/livenews/3123011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时46分"
+        },
+        {
+          "title": "欧洲汽车制造商协会：比亚迪5月在欧盟的新车注册量增长了159%。",
+          "url": "https://flash.jin10.com/detail/20260623120303228800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "欧洲汽车制造商协会：特斯拉(TSLA.O)5月在欧盟、英国和欧洲自由贸易联盟的市场份额上升至2.5%，在纯电动车（BEV）市场的占有率为10.66%。",
+          "url": "https://flash.jin10.com/detail/20260623120218059800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "央行 抖音 小红书",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "巴乔发抖音分享世界杯vlog",
+          "url": "https://www.douyin.com/hot/2543920",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "伊朗央行行长：剩余的被冻结资金不一定仅用于基本商品，伊朗将能够购买其他未受制裁的商品。",
+          "url": "https://flash.jin10.com/detail/20260623044927151800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时47分"
+        },
+        {
+          "title": "伊朗央行行长：没有义务从美国购买农产品",
+          "url": "https://wallstreetcn.com/livenews/3123147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗央行行长称，德黑兰在现有协议下没有义务从美国购买农业投入品。",
+          "url": "https://flash.jin10.com/detail/20260623044637225800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时47分"
         }
       ]
     },
@@ -71,30 +255,30 @@
       ]
     },
     {
-      "keyword_group": "央行 抖音 小红书",
+      "keyword_group": "苹果 Apple Mac iPhone 手机",
       "match_count": 2,
       "titles": [
         {
-          "title": "伊朗央行行长：剩余的被冻结资金不一定仅用于基本商品，伊朗将能够购买其他未受制裁的商品。",
-          "url": "https://flash.jin10.com/detail/20260623044927151800",
-          "source": "金十数据",
+          "title": "如何看待 Steam Machine 定价 1049 美元起？",
+          "url": "https://www.zhihu.com/question/2052643077081321839",
+          "source": "知乎",
           "ranks": [
-            21
+            6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时47分"
+          "time_info": "13时02分"
         },
         {
-          "title": "据伊朗塔斯尼姆通讯社：伊朗央行行长称，德黑兰在现有协议下没有义务从美国购买农业投入品。",
-          "url": "https://flash.jin10.com/detail/20260623044637225800",
-          "source": "金十数据",
+          "title": "48位开发者联名举报苹果",
+          "url": "https://www.baidu.com/s?wd=48%E4%BD%8D%E5%BC%80%E5%8F%91%E8%80%85%E8%81%94%E5%90%8D%E4%B8%BE%E6%8A%A5%E8%8B%B9%E6%9E%9C",
+          "source": "百度热搜",
           "ranks": [
-            24
+            26
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时47分"
+          "time_info": "13时02分"
         }
       ]
     },
@@ -117,23 +301,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【早报】SpaceX三日暴跌23%；油价下挫、金价收涨；梅西梅开二度，加冕世界杯历史射手王",
-          "url": "https://www.cls.cn/detail/2406212",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时04分 ~ 08时05分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "英雄联盟 LOL",
       "match_count": 1,
       "titles": [
@@ -147,23 +314,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "纳斯达克金龙中国指数收跌1.35%，报5986.28点，逼近2024年9月23日收盘位5917.72点。 热门中概股里，小马智行初步收跌5.5%，文远知行跌4.6%，小米跌4.1%，比亚迪跌3.5%，阿里跌2.1%，拼多多跌1.8%，再鼎医药涨1.6%，携程涨3%。 ETF中，中概互联网指数ETF（KWEB）收跌0.75%，中国科技指数ETF（CQQQ）收涨0.02%。 MSCI新兴市场ex中国ETF（EMXC）收涨0.70%，XtrackersHarvest中证50（ASHS）收涨2.15%，德银嘉实沪深300指数ETF（ASHR）收涨2.64%。",
-          "url": "https://wallstreetcn.com/livenews/3123011",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时46分"
         }
       ]
     }
