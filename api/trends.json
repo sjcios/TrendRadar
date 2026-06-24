@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-24T18:48:29.169648+08:00",
-  "total_titles_processed": 1206,
+  "generated_at": "2026-06-24T21:21:53.035084+08:00",
+  "total_titles_processed": 1361,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "日本央行将于十分钟后公布6月货币政策会议审议委员意见摘要。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
+        },
+        {
+          "title": "欧洲央行：高油价恐使欧元区增速下降0.4个百分点",
+          "url": "https://wallstreetcn.com/livenews/3124064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "哈兰德发抖音庆祝世界杯出线",
@@ -33,6 +44,18 @@
           "time_info": "[01时53分 ~ 07时55分]"
         },
         {
+          "title": "中考后的第一条抖音",
+          "url": "https://www.douyin.com/hot/2545604",
+          "source": "抖音",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 21时21分]"
+        },
+        {
           "title": "泰国央行：预计今年通胀率将达到4.5%的峰值。",
           "url": "https://flash.jin10.com/detail/20260624151841886800",
           "source": "金十数据",
@@ -42,17 +65,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
-        },
-        {
-          "title": "中考后的第一条抖音",
-          "url": "https://www.douyin.com/hot/2545604",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
         },
         {
           "title": "泰国央行维持利率不变 以支持经济增长",
@@ -235,7 +247,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
         },
@@ -299,8 +311,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时26分 ~ 18时48分]"
+          "appearance_count": 4,
+          "time_info": "[11时26分 ~ 21时21分]"
         },
         {
           "title": "董路致谢比亚迪圆少年巴西足球梦",
@@ -309,7 +321,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
         },
@@ -364,7 +376,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
         },
@@ -382,9 +394,103 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "keyword_group": "chatgpt openai",
+      "match_count": 7,
       "titles": [
+        {
+          "title": "OpenAI和博通发布AI芯片，旨在更快、更经济地运行模型",
+          "url": "https://wallstreetcn.com/livenews/3124062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
+          "title": "博通和OpenAI表示，早期测试显示，Jalapeño的每瓦性能将显著优于当前的最先进水平。",
+          "url": "https://flash.jin10.com/detail/20260624210650083800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
+          "title": "博通与OpenAI联合推出Jalapeño，这是OpenAI首款智能处理器。",
+          "url": "https://flash.jin10.com/detail/20260624210354905800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
+          "title": "博通(AVGO.O)预计将比预期更快地部署OpenAI芯片。",
+          "url": "https://flash.jin10.com/detail/20260624210245809800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
+          "title": "博通(AVGO.O)CEO：OpenAI的新芯片可节省50%的成本。",
+          "url": "https://flash.jin10.com/detail/20260624210227845800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
+          "title": "OpenAI与博通(AVGO.O)联合发布针对大型语言模型（LLM）优化的智能处理器。",
+          "url": "https://flash.jin10.com/detail/20260624210204398800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
+          "title": "OpenAI与博通(AVGO.O)联合发布人工智能芯片，旨在更快、更经济地运行模型。",
+          "url": "https://flash.jin10.com/detail/20260624210130831800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "谷歌(GOOG.O)：谷歌钱包使美国运输安全管理局的无接触身份验证惠及更多旅客。",
+          "url": "https://flash.jin10.com/detail/20260624211149557800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
         {
           "title": "谷歌A(GOOGL.O)美股盘后涨超1%，将取代Verizon(VZ.N)在道琼斯指数中的位置；Verizon(VZ.N)盘后跌0.6%。",
           "url": "https://flash.jin10.com/detail/20260624054152810800",
@@ -465,37 +571,8 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "40天不睡、5人死磕，DeepMind主管爆Gemini大战DeepSeek惨烈内幕",
-          "url": "https://wallstreetcn.com/articles/3775315",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 18时48分]"
-        },
-        {
-          "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
-          "url": "https://www.zhihu.com/question/2044875348719005741",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时53分"
-        }
-      ]
-    },
-    {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "大四女生开发经期APP获苹果大奖",
@@ -509,6 +586,58 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时53分 ~ 07时55分]"
+        },
+        {
+          "title": "Steam Machine 的售价已正式公布，2TB 带手柄价格约为 9674 人民币，你觉得卖贵了吗？",
+          "url": "https://www.zhihu.com/question/2052712338893923422",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
+          "title": "2026 年苹果电脑广告词「学什么专业，Mac 都专业」。请结合自己的领域，说说是这样的吗？",
+          "url": "https://www.zhihu.com/question/2051389062699824998",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "40天不睡、5人死磕，DeepMind主管爆Gemini大战DeepSeek惨烈内幕",
+          "url": "https://wallstreetcn.com/articles/3775315",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时26分 ~ 21时21分]"
+        },
+        {
+          "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
+          "url": "https://www.zhihu.com/question/2044875348719005741",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时53分"
         }
       ]
     }
