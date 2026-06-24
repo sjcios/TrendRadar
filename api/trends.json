@@ -1,643 +1,145 @@
 {
-  "generated_at": "2026-06-24T21:21:53.035084+08:00",
-  "total_titles_processed": 1361,
+  "generated_at": "2026-06-25T00:51:19.447856+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "央行 抖音 小红书",
-      "match_count": 17,
+      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
+      "match_count": 4,
       "titles": [
         {
-          "title": "日本央行将于十分钟后公布6月货币政策会议审议委员意见摘要。",
-          "url": "https://flash.jin10.com/detail/20260624074000001800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时55分"
-        },
-        {
-          "title": "欧洲央行：高油价恐使欧元区增速下降0.4个百分点",
-          "url": "https://wallstreetcn.com/livenews/3124064",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时21分"
-        },
-        {
-          "title": "哈兰德发抖音庆祝世界杯出线",
-          "url": "https://www.douyin.com/hot/2544478",
-          "source": "抖音",
-          "ranks": [
-            20,
-            12,
-            11,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时53分 ~ 07时55分]"
-        },
-        {
-          "title": "中考后的第一条抖音",
-          "url": "https://www.douyin.com/hot/2545604",
-          "source": "抖音",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时48分 ~ 21时21分]"
-        },
-        {
-          "title": "泰国央行：预计今年通胀率将达到4.5%的峰值。",
-          "url": "https://flash.jin10.com/detail/20260624151841886800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时39分"
-        },
-        {
-          "title": "泰国央行维持利率不变 以支持经济增长",
-          "url": "https://wallstreetcn.com/livenews/3123868",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时39分"
-        },
-        {
-          "title": "泰国央行：预计2026年出口增长14.0%（6月初预期为12%至13%）。",
-          "url": "https://flash.jin10.com/detail/20260624151634893800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时39分"
-        },
-        {
-          "title": "韩国央行：考虑通胀经济金融等因素，需要在适当时候提高利率",
-          "url": "https://wallstreetcn.com/livenews/3123751",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时26分"
-        },
-        {
-          "title": "泰国央行：预计2026年外国游客到访人数将达到3300万（与4月预期持平）。",
-          "url": "https://flash.jin10.com/detail/20260624151614408800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时39分"
-        },
-        {
-          "title": "英国央行官员：伊朗冲突通胀传导效应料弱于乌克兰冲突",
-          "url": "https://wallstreetcn.com/livenews/3123603",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时02分"
-        },
-        {
-          "title": "瑞士央行副行长：我们也在努力改善跨境支付。",
-          "url": "https://flash.jin10.com/detail/20260624151442874800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时39分"
-        },
-        {
-          "title": "加拿大央行行长发出警告，称过度投资美国构成全球金融风险",
-          "url": "https://wallstreetcn.com/livenews/3123580",
-          "source": "华尔街见闻-快讯",
+          "title": "无人车追尾特斯拉被判全责",
+          "url": "https://www.toutiao.com/trending/7654640018397347878/",
+          "source": "今日头条",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时53分"
+          "time_info": "00时51分"
         },
         {
-          "title": "泰国央行将关键利率维持在1.00%， 预估为1.00%。",
-          "url": "https://wallstreetcn.com/livenews/3123852",
+          "title": "特斯拉人工智能主管Ashok Elluswamy在社交平台X上发帖称，事发时特斯拉的驾驶辅助系统并未启动，但并未提供任何证据。",
+          "url": "https://wallstreetcn.com/livenews/3124126",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时39分"
-        },
-        {
-          "title": "瑞士央行副行长：我们希望改进当前支付体系中的即时支付环节。",
-          "url": "https://flash.jin10.com/detail/20260624150843258800",
-          "source": "金十数据",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时39分"
+          "time_info": "00时51分"
         },
         {
-          "title": "中国央行逆回购今日净投放2422亿元人民币",
-          "url": "https://wallstreetcn.com/livenews/3123723",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时26分"
-        },
-        {
-          "title": "全抖音为2026中考加油",
-          "url": "https://www.douyin.com/hot/2545572",
-          "source": "抖音",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时39分"
-        },
-        {
-          "title": "裕信银行CEO称，欧洲央行大概率将认定这家意大利银行取得德国商业银行控制权",
-          "url": "https://wallstreetcn.com/livenews/3123568",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "高盛首次下调 2026 年黄金目标价，国内银行业亦密集收紧黄金交易杠杆，国际金价是否即将跌破 4000？",
-          "url": "https://www.zhihu.com/question/2052707670289806571",
-          "source": "知乎",
-          "ranks": [
-            13,
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时53分 ~ 07时55分]"
-        },
-        {
-          "title": "国际金价跌破4100美元整数关口，A股黄金股全线重挫",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33436473",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时53分 ~ 06时11分]"
-        },
-        {
-          "title": "专家：金价仍在下跌通道",
-          "url": "https://www.toutiao.com/trending/7654738155483958838/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时26分"
-        },
-        {
-          "title": "美联储加息3次金价或跌至3800",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%81%94%E5%82%A8%E5%8A%A0%E6%81%AF3%E6%AC%A1%E9%87%91%E4%BB%B7%E6%88%96%E8%B7%8C%E8%87%B33800%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        },
-        {
-          "title": "金十图示：2026年06月24日（周三）上海金午盘价为894.82元/克，较国际金价(895.45元/克)，低0.63元/克",
-          "url": "https://flash.jin10.com/detail/20260624150910200800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时39分"
-        },
-        {
-          "title": "金价跌到位了吗",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E5%88%B0%E4%BD%8D%E4%BA%86%E5%90%97%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        },
-        {
-          "title": "金价下调阿姨花40万买婚嫁金",
-          "url": "https://www.toutiao.com/trending/7653503437799718948/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        },
-        {
-          "title": "金价见底三大信号",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%A7%81%E5%BA%95%E4%B8%89%E5%A4%A7%E4%BF%A1%E5%8F%B7%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "如何看待网传比亚迪海豹 08 定价 25 万？如果属实会对 30 万以下的轿车市场带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2052704788622602395",
-          "source": "知乎",
-          "ranks": [
-            20,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时26分 ~ 21时21分]"
-        },
-        {
-          "title": "董路致谢比亚迪圆少年巴西足球梦",
-          "url": "https://www.baidu.com/s?wd=%E8%91%A3%E8%B7%AF%E8%87%B4%E8%B0%A2%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%9C%86%E5%B0%91%E5%B9%B4%E5%B7%B4%E8%A5%BF%E8%B6%B3%E7%90%83%E6%A2%A6",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        },
-        {
-          "title": "特斯拉 豆包",
-          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%96%AF%E6%8B%89%20%E8%B1%86%E5%8C%85&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时39分"
-        },
-        {
-          "title": "油车老板卖油车自己开新能源",
-          "url": "https://www.toutiao.com/trending/7653501621574713380/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时26分"
-        },
-        {
-          "title": "“新能源汽车第一省”迎来新挑战者",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E7%AC%AC%E4%B8%80%E7%9C%81%E2%80%9D%E8%BF%8E%E6%9D%A5%E6%96%B0%E6%8C%91%E6%88%98%E8%80%85",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时26分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周二（6月23日），美国科技股七巨头（Magnificent 7）指数跌1.44%，报205.68点，特斯拉收跌5.79%。 “超大”市值科技股指数跌2.53%，报423.41点。",
-          "url": "https://wallstreetcn.com/livenews/3123677",
+          "title": "特斯拉遭起诉：一辆Model 3撞入民宅致一名女性身亡",
+          "url": "https://wallstreetcn.com/livenews/3124125",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时55分"
+          "time_info": "00时51分"
         },
         {
-          "title": "贵州集中式新能源企业报价方案下发",
-          "url": "https://wallstreetcn.com/livenews/3123918",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        },
-        {
-          "title": "比亚迪来无锡深化对接合作",
-          "url": "https://flash.jin10.com/detail/20260624105141583800",
+          "title": "市场消息：美国国家运输安全委员会（NTSB）针对6月19日发生的特斯拉(TSLA.O)Model 3车祸展开安全调查。",
+          "url": "https://flash.jin10.com/detail/20260625001107057800",
           "source": "金十数据",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时26分"
+          "time_info": "00时51分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "keyword_group": "央行 抖音 小红书",
+      "match_count": 3,
       "titles": [
         {
-          "title": "OpenAI和博通发布AI芯片，旨在更快、更经济地运行模型",
-          "url": "https://wallstreetcn.com/livenews/3124062",
+          "title": "中考后的第一条抖音",
+          "url": "https://www.douyin.com/hot/2545604",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        },
+        {
+          "title": "英国央行货币政策委员会（MPC）成员Swati Dhingra警告称：高利率造成绿色创新放缓。 较高的利率通过减缓对绿色技术的投资，损害了应对气候变化的进展。",
+          "url": "https://wallstreetcn.com/livenews/3124130",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时21分"
+          "time_info": "00时51分"
         },
         {
-          "title": "博通和OpenAI表示，早期测试显示，Jalapeño的每瓦性能将显著优于当前的最先进水平。",
-          "url": "https://flash.jin10.com/detail/20260624210650083800",
-          "source": "金十数据",
+          "title": "欧洲央行官员：为达成2%目标，仍需进一步加息",
+          "url": "https://wallstreetcn.com/livenews/3124129",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时21分"
-        },
-        {
-          "title": "博通与OpenAI联合推出Jalapeño，这是OpenAI首款智能处理器。",
-          "url": "https://flash.jin10.com/detail/20260624210354905800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时21分"
-        },
-        {
-          "title": "博通(AVGO.O)预计将比预期更快地部署OpenAI芯片。",
-          "url": "https://flash.jin10.com/detail/20260624210245809800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时21分"
-        },
-        {
-          "title": "博通(AVGO.O)CEO：OpenAI的新芯片可节省50%的成本。",
-          "url": "https://flash.jin10.com/detail/20260624210227845800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时21分"
-        },
-        {
-          "title": "OpenAI与博通(AVGO.O)联合发布针对大型语言模型（LLM）优化的智能处理器。",
-          "url": "https://flash.jin10.com/detail/20260624210204398800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时21分"
-        },
-        {
-          "title": "OpenAI与博通(AVGO.O)联合发布人工智能芯片，旨在更快、更经济地运行模型。",
-          "url": "https://flash.jin10.com/detail/20260624210130831800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时21分"
+          "time_info": "00时51分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
-          "title": "谷歌(GOOG.O)：谷歌钱包使美国运输安全管理局的无接触身份验证惠及更多旅客。",
-          "url": "https://flash.jin10.com/detail/20260624211149557800",
+          "title": "谷歌(GOOG.O)：在 Gemini 3.5 Flash 中引入“计算机使用”功能。",
+          "url": "https://flash.jin10.com/detail/20260625002330921800",
           "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时21分"
-        },
-        {
-          "title": "谷歌A(GOOGL.O)美股盘后涨超1%，将取代Verizon(VZ.N)在道琼斯指数中的位置；Verizon(VZ.N)盘后跌0.6%。",
-          "url": "https://flash.jin10.com/detail/20260624054152810800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        },
-        {
-          "title": "标普道琼斯指数：谷歌A(GOOGL.O)将于6月29日开盘前取代Verizon(VZ.N)，加入道琼斯工业指数。",
-          "url": "https://flash.jin10.com/detail/20260624052412130800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        },
-        {
-          "title": "谷歌A将跻身道指成分股行列",
-          "url": "https://wallstreetcn.com/livenews/3123654",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "英雄联盟 LOL",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "英雄联盟2025T1冠军皮肤",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F2025T1%E5%86%A0%E5%86%9B%E7%9A%AE%E8%82%A4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25,
-            14,
-            11,
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时53分 ~ 15时39分]"
-        },
-        {
-          "title": "如何评价《英雄联盟》2025 全球总决赛 T1 冠军皮肤？",
-          "url": "https://www.zhihu.com/question/2052878027915269436",
-          "source": "知乎",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时39分 ~ 18时48分]"
-        },
-        {
-          "title": "英雄联盟2025T1冠军皮肤",
-          "url": "https://www.douyin.com/hot/2545603",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "大四女生开发经期APP获苹果大奖",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%9B%9B%E5%A5%B3%E7%94%9F%E5%BC%80%E5%8F%91%E7%BB%8F%E6%9C%9FAPP%E8%8E%B7%E8%8B%B9%E6%9E%9C%E5%A4%A7%E5%A5%96",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时53分 ~ 07时55分]"
-        },
-        {
-          "title": "Steam Machine 的售价已正式公布，2TB 带手柄价格约为 9674 人民币，你觉得卖贵了吗？",
-          "url": "https://www.zhihu.com/question/2052712338893923422",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时21分"
-        },
-        {
-          "title": "2026 年苹果电脑广告词「学什么专业，Mac 都专业」。请结合自己的领域，说说是这样的吗？",
-          "url": "https://www.zhihu.com/question/2051389062699824998",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "40天不睡、5人死磕，DeepMind主管爆Gemini大战DeepSeek惨烈内幕",
-          "url": "https://wallstreetcn.com/articles/3775315",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时26分 ~ 21时21分]"
-        },
-        {
-          "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
-          "url": "https://www.zhihu.com/question/2044875348719005741",
-          "source": "知乎",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时53分"
+          "time_info": "00时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "现货黄金价格跌破4000美元大关",
+          "url": "https://www.douyin.com/hot/2546511",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 Apple Mac iPhone 手机",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Steam Machine 的售价已正式公布，2TB 带手柄价格约为 9674 人民币，你觉得卖贵了吗？",
+          "url": "https://www.zhihu.com/question/2052712338893923422",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时51分"
         }
       ]
     }
