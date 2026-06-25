@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-25T06:16:43.221139+08:00",
-  "total_titles_processed": 576,
+  "generated_at": "2026-06-25T08:12:08.278151+08:00",
+  "total_titles_processed": 698,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
+        },
+        {
+          "title": "新能源车让很多精妙的机械结构退出了历史舞台，其中哪些技术值得被记住？",
+          "url": "https://www.zhihu.com/question/2050234299232641923",
+          "source": "知乎",
+          "ranks": [
+            17,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时16分 ~ 08时12分]"
         },
         {
           "title": "无人车追尾特斯拉被判全责",
@@ -41,17 +53,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
-        },
-        {
-          "title": "新能源车让很多精妙的机械结构退出了历史舞台，其中哪些技术值得被记住？",
-          "url": "https://www.zhihu.com/question/2050234299232641923",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时16分"
         },
         {
           "title": "特斯拉第二季度车辆交付预期遭摩根大通下调",
@@ -101,7 +102,7 @@
     },
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "中考后的第一条抖音",
@@ -109,11 +110,23 @@
           "source": "抖音",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时51分 ~ 06时16分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 08时12分]"
+        },
+        {
+          "title": "哈兰德发抖音庆祝世界杯出线",
+          "url": "https://www.douyin.com/hot/2544478",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时11分 ~ 08时12分]"
         },
         {
           "title": "央行将开展5000亿元MLF操作 呵护月末流动性 市场人士预计三季度稳增长政策或发力",
@@ -260,6 +273,18 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "社牛小朋友蹭邻居爷爷手机看视频",
+          "url": "https://www.baidu.com/s?wd=%E7%A4%BE%E7%89%9B%E5%B0%8F%E6%9C%8B%E5%8F%8B%E8%B9%AD%E9%82%BB%E5%B1%85%E7%88%B7%E7%88%B7%E6%89%8B%E6%9C%BA%E7%9C%8B%E8%A7%86%E9%A2%91",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时51分 ~ 08时12分]"
+        },
+        {
           "title": "Steam Machine 的售价已正式公布，2TB 带手柄价格约为 9674 人民币，你觉得卖贵了吗？",
           "url": "https://www.zhihu.com/question/2052712338893923422",
           "source": "知乎",
@@ -272,25 +297,13 @@
           "time_info": "[00时51分 ~ 06时16分]"
         },
         {
-          "title": "社牛小朋友蹭邻居爷爷手机看视频",
-          "url": "https://www.baidu.com/s?wd=%E7%A4%BE%E7%89%9B%E5%B0%8F%E6%9C%8B%E5%8F%8B%E8%B9%AD%E9%82%BB%E5%B1%85%E7%88%B7%E7%88%B7%E6%89%8B%E6%9C%BA%E7%9C%8B%E8%A7%86%E9%A2%91",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时51分 ~ 06时16分]"
-        },
-        {
           "title": "高通股价盘后上涨 CFO宣布上调数据中心及非手机业务的长期营收目标",
           "url": "https://flash.jin10.com/detail/20260625045718995800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
         },
@@ -301,7 +314,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
         }
@@ -309,7 +322,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "受美元走强及加息预期影响，金价收于4000美元下方",
@@ -333,6 +346,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时51分 ~ 02时51分]"
+        },
+        {
+          "title": "贵金属全线暴跌金价失守4000美元关口 日本大举押注AI与半导体 | 环球市场",
+          "url": "https://www.cls.cn/detail/2408544",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时11分 ~ 08时12分]"
         }
       ]
     },
