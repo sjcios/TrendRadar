@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-06-26T07:18:05.348963+08:00",
-  "total_titles_processed": 550,
+  "generated_at": "2026-06-26T11:33:07.339116+08:00",
+  "total_titles_processed": 778,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 23,
+      "match_count": 30,
       "titles": [
+        {
+          "title": "涨价约20%！苹果官宣涨价：iPad和Mac率先调价，存储成本压力“前所未有”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33453348",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 11时33分]"
+        },
         {
           "title": "苹果官宣涨价，Mac 及 iPad 多款产品调价幅度达 20%，此次涨价影响有多大？你能接受吗？",
           "url": "https://www.zhihu.com/question/2053590927633900087",
@@ -20,17 +33,29 @@
           "time_info": "[01时12分 ~ 07时18分]"
         },
         {
-          "title": "涨价约20%！苹果官宣涨价：iPad和Mac率先调价，存储成本压力“前所未有”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33453348",
-          "source": "澎湃新闻",
+          "title": "苹果微软拖累标普收平，美光飙升15%领涨芯片股，油价涨，黄金重回4000",
+          "url": "https://wallstreetcn.com/articles/3775470",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时12分 ~ 07时18分]"
+          "appearance_count": 4,
+          "time_info": "[07时17分 ~ 11时33分]"
+        },
+        {
+          "title": "苹果正式涨价！MacBook、iPad最高涨300美元 iPhone未来或跟进",
+          "url": "https://www.cls.cn/detail/2409516",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 11时33分]"
         },
         {
           "title": "苹果重挫5%拖累科技板块，纳指转跌超1%，美光涨幅收窄至8%，黄金重回4000，白银转涨",
@@ -45,15 +70,39 @@
           "time_info": "[01时12分 ~ 05时48分]"
         },
         {
-          "title": "苹果微软拖累标普收平，美光飙升15%领涨芯片股，油价涨，黄金重回4000",
-          "url": "https://wallstreetcn.com/articles/3775470",
-          "source": "华尔街见闻",
+          "title": "【早报】苹果市值一夜蒸发1.8万亿元，美股七巨头集体下挫；原油大涨超2%，黄金、白银收涨",
+          "url": "https://www.cls.cn/detail/2409666",
+          "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时17分 ~ 07时18分]"
+          "time_info": "[11时32分 ~ 11时33分]"
+        },
+        {
+          "title": "苹果官宣涨价：iPad和Mac率先调价",
+          "url": "https://www.douyin.com/hot/2547734",
+          "source": "抖音",
+          "ranks": [
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 11时33分]"
+        },
+        {
+          "title": "苹果官宣涨价",
+          "url": "https://www.toutiao.com/trending/7655312912900603914/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 11时33分]"
         },
         {
           "title": "苹果多款产品涨价",
@@ -66,6 +115,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时12分 ~ 07时18分]"
+        },
+        {
+          "title": "存储成本压力山大！苹果罕见全球提价，直言“无法再保护消费者”",
+          "url": "https://wallstreetcn.com/articles/3775531",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时17分 ~ 11时33分]"
         },
         {
           "title": "苹果股价跌幅扩大至6.5%。媒体报道称，苹果调整Mac芯片战略，下一代高端芯片将直接跃升至M7系列。",
@@ -99,19 +160,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
-        },
-        {
-          "title": "苹果正式涨价！MacBook、iPad最高涨300美元 iPhone未来或跟进",
-          "url": "https://www.cls.cn/detail/2409516",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时12分 ~ 07时18分]"
         },
         {
           "title": "苹果回应涨价",
@@ -152,28 +200,6 @@
           "time_info": "[01时12分 ~ 07时18分]"
         },
         {
-          "title": "苹果官宣涨价：iPad和Mac率先调价",
-          "url": "https://www.douyin.com/hot/2547734",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时12分 ~ 07时18分]"
-        },
-        {
-          "title": "苹果官宣涨价",
-          "url": "https://www.toutiao.com/trending/7655312912900603914/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时12分 ~ 07时18分]"
-        },
-        {
           "title": "苹果涨价",
           "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E6%B6%A8%E4%BB%B7&t=31&band_rank=21&Refer=top",
           "source": "微博",
@@ -187,15 +213,15 @@
           "time_info": "[01时12分 ~ 07时18分]"
         },
         {
-          "title": "存储成本压力山大！苹果罕见全球提价，直言“无法再保护消费者”",
-          "url": "https://wallstreetcn.com/articles/3775531",
-          "source": "华尔街见闻",
+          "title": "微软和苹果双双提价 霍尔木兹海峡通航量恢复至战事前57% | 环球市场",
+          "url": "https://www.cls.cn/detail/2409657",
+          "source": "财联社热门",
           "ranks": [
-            9
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时17分 ~ 07时18分]"
+          "time_info": "[11时32分 ~ 11时33分]"
         },
         {
           "title": "苹果大幅涨价 涉及iPad等多个产品",
@@ -209,13 +235,57 @@
           "time_info": "[07时17分 ~ 07时18分]"
         },
         {
+          "title": "苹果市值一夜蒸发1.8万亿",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%911.8%E4%B8%87%E4%BA%BF%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时32分 ~ 11时33分]"
+        },
+        {
+          "title": "苹果涨价iPhone未涨 官方回应",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%B6%A8%E4%BB%B7iPhone%E6%9C%AA%E6%B6%A8+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时32分 ~ 11时33分]"
+        },
+        {
+          "title": "48 位开发者联名举报苹果税双重标准，背弃最惠国承诺，巴西整体成本更低，若查实苹果会面临什么处罚？",
+          "url": "https://www.zhihu.com/question/2052475532839801341",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时32分 ~ 11时33分]"
+        },
+        {
+          "title": "Mac和iPad涨价为何iPhone还没涨",
+          "url": "https://www.toutiao.com/trending/7655495146355576326/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时32分 ~ 11时33分]"
+        },
+        {
           "title": "“不可接受”！苹果商店下架多款俄罗斯应用程序，克宫要求作出解释",
           "url": "https://wallstreetcn.com/livenews/3124879",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
         },
@@ -264,6 +334,17 @@
           "time_info": "01时12分"
         },
         {
+          "title": "苹果供应链股票走低，此前苹果罕见上调多款产品价格",
+          "url": "https://wallstreetcn.com/livenews/3124991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
+        },
+        {
           "title": "美股收盘：三大股指涨跌不一 苹果跌超6%",
           "url": "https://flash.jin10.com/detail/20260626040107087800",
           "source": "金十数据",
@@ -278,7 +359,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "SpaceX股价回落敲响警钟 OpenAI或等到明年再IPO",
@@ -317,6 +398,17 @@
           "time_info": "[05时48分 ~ 07时18分]"
         },
         {
+          "title": "特朗普政府要求OpenAI分阶段发布新模型。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3125019",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
+        },
+        {
           "title": "据The Information：特朗普政府要求OpenAI出于安全考虑分批发布新模型。",
           "url": "https://flash.jin10.com/detail/20260626041922109800",
           "source": "金十数据",
@@ -345,7 +437,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
         },
@@ -364,7 +456,7 @@
     },
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "据日经新闻：随着日本央行减少购债，日本银行业对购买日本国债持观望态度。",
@@ -376,6 +468,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "央行：根据《中国人民银行与印度尼西亚银行关于建立人民币清算安排的合作备忘录》，中国人民银行决定授权中国银行（香港）有限公司雅加达分行担任印度尼西亚人民币清算行。",
+          "url": "https://flash.jin10.com/detail/20260626110720615800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
         },
         {
           "title": "加拿大央行被敦促减少核心通胀指标使用，将重心回归整体通胀",
@@ -411,6 +514,17 @@
           "time_info": "05时48分"
         },
         {
+          "title": "央行：为促进中非贸易投资便利化，中国人民银行决定授权南非标准银行有限公司和中国工商银行股份有限公司担任非洲人民币联合清算行。",
+          "url": "https://flash.jin10.com/detail/20260626110401076800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
+        },
+        {
           "title": "墨西哥央行全体一致决定维持利率不变。",
           "url": "https://flash.jin10.com/detail/20260626030141994800",
           "source": "金十数据",
@@ -436,7 +550,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "纳斯达克100指数涨幅扩大至1%，美股早盘呈现出V形反转，成分股闪迪目前涨18.1%，美光涨16.1%，应用材料涨10.1%，西部数据涨8.1%，高通涨7.9%，阿斯麦ADR涨4.5%，谷歌A跌0.8%，英伟达跌幅收窄至1.1%，Meta跌1.7%，亚马逊跌2.2%，微软跌3.4%，苹果仍然重挫超5.6%，Strategy跌6.9%。 半导体指数涨超4.1%。",
@@ -475,6 +589,17 @@
           "time_info": "[05时48分 ~ 07时18分]"
         },
         {
+          "title": "网传 Google 内部称 Gemini 模型竞争力下降至行业第四，具体情况如何？下降原因可能有哪些？",
+          "url": "https://www.zhihu.com/question/2052444159282082405",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时32分 ~ 11时33分]"
+        },
+        {
           "title": "谷歌公司为安卓系统推出新款谷歌理财（Google Finance）APP。",
           "url": "https://wallstreetcn.com/livenews/3124775",
           "source": "华尔街见闻-快讯",
@@ -499,6 +624,106 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "金价跌回3字头 半年回撤30%",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%B7%8C%E5%9B%9E3%E5%AD%97%E5%A4%B4+%E5%8D%8A%E5%B9%B4%E5%9B%9E%E6%92%A430%25",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时32分 ~ 11时33分]"
+        },
+        {
+          "title": "金价持续下跌",
+          "url": "https://www.douyin.com/hot/2547979",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时32分 ~ 11时33分]"
+        },
+        {
+          "title": "国际金价跌破4000美元后重返关口，华安黄金ETF近三日遭净赎回21亿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33454301",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时32分 ~ 11时33分]"
+        },
+        {
+          "title": "金价跌回3字头半年回撤30%",
+          "url": "https://www.toutiao.com/trending/7655352007544278564/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时32分 ~ 11时33分]"
+        },
+        {
+          "title": "麦格里：下调年终金价预期至4300美元，预计黄金从明年开始逐年下跌至2030年",
+          "url": "https://flash.jin10.com/detail/20260626110850758800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "全速扩容！DeepSeek“招兵买马”扩编一倍",
+          "url": "https://www.cls.cn/detail/2409672",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时32分 ~ 11时33分]"
+        },
+        {
+          "title": "所有部门规模至少扩大一倍！DeepSeek发布“英雄帖”：人类正处于AGI前夜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33454877",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时32分 ~ 11时33分]"
+        },
+        {
+          "title": "DeepSeek大规模招聘",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8B%9B%E8%81%98%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时32分 ~ 11时33分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "英雄联盟 LOL",
       "match_count": 3,
       "titles": [
@@ -509,11 +734,12 @@
           "ranks": [
             14,
             29,
-            26
+            26,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 05时48分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 11时33分]"
         },
         {
           "title": "《英雄联盟》电竞历史上最经典和最灾难的解说名场面都是哪一场？",
