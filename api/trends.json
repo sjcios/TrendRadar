@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T08:06:30.305949+08:00",
-  "total_titles_processed": 653,
+  "generated_at": "2026-06-27T12:53:23.485574+08:00",
+  "total_titles_processed": 865,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 08时06分]"
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 12时53分]"
         },
         {
           "title": "苹果微软拖累标普收平，美光飙升15%领涨芯片股，油价涨，黄金重回4000",
@@ -76,7 +76,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -87,7 +87,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -128,7 +128,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "OpenAI：开启下一代模型GPT-5.6系列的限量预览",
@@ -178,6 +178,17 @@
           "time_info": "[04时46分 ~ 06时13分]"
         },
         {
+          "title": "内存涨价反噬终端需求！苹果涨价+OpenAI IPO推迟引爆亚洲芯片股崩盘",
+          "url": "https://wallstreetcn.com/articles/3775589",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
           "title": "据CNBC：OpenAI在特朗普政府的要求下，计划限制GPT 5.6的推出。",
           "url": "https://flash.jin10.com/detail/20260626233456947800",
           "source": "金十数据",
@@ -198,6 +209,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
+        },
+        {
+          "title": "OpenAI发布GPT5.6",
+          "url": "https://s.weibo.com/weibo?q=%23OpenAI%E5%8F%91%E5%B8%83GPT5.6%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
         }
       ]
     },
@@ -205,19 +227,6 @@
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 4,
       "titles": [
-        {
-          "title": "DeepSeek 宣布所有部门至少扩大一倍，进行大规模招聘，这一举动意味着什么？",
-          "url": "https://www.zhihu.com/question/2053625552725079594",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 08时06分]"
-        },
         {
           "title": "所有部门规模至少扩大一倍！DeepSeek发布“英雄帖”：人类正处于AGI前夜",
           "url": "https://m.thepaper.cn/newsDetail_forward_33454877",
@@ -228,6 +237,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时15分 ~ 08时06分]"
+        },
+        {
+          "title": "DeepSeek 宣布所有部门至少扩大一倍，进行大规模招聘，这一举动意味着什么？",
+          "url": "https://www.zhihu.com/question/2053625552725079594",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2,
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 12时53分]"
         },
         {
           "title": "DeepSeek招聘薪资待遇",
@@ -247,7 +270,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         }
@@ -255,7 +278,7 @@
     },
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "抖音乒乓百分大战首战奥恰队获胜",
@@ -270,6 +293,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时15分 ~ 08时06分]"
+        },
+        {
+          "title": "在抖音的三国文学里出不来了",
+          "url": "https://www.douyin.com/hot/2549237",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
         },
         {
           "title": "抖音乒乓百分大战再现霸王拧",
@@ -297,7 +331,7 @@
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "中国驻加拿大大使Wang Di（王迪）表示，根据协议，吉利控股集团旗下的路特斯品牌（Lotus）电动汽车将于下月抵达加拿大。 “吉利电动汽车将于下月抵达加拿大，届时将在蒙特利尔举行交车仪式。” 奇瑞和比亚迪等其他中国品牌正在与加拿大政府机构协调，以在完成相关步骤后向加拿大发运车辆。 “我希望在今年秋季，其他真正名副其实的中国品牌电动汽车能够完成相关程序，进入加拿大市场。” 中国电动汽车制造商对建立合资企业感兴趣，但首先会专注于建立销售渠道并评估市场需求。（路透）",
@@ -306,9 +340,37 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
+        },
+        {
+          "title": "赵一德赵刚与比亚迪董事长王传福一行座谈",
+          "url": "https://flash.jin10.com/detail/20260627092006521800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价跌25%银价暴跌45%",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C25%25%E9%93%B6%E4%BB%B7%E6%9A%B4%E8%B7%8C45%25%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
         }
       ]
     }
