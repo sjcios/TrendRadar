@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T00:05:15.306430+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-28T02:02:54.524903+08:00",
+  "total_titles_processed": 387,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.douyin.com/hot/2549237",
           "source": "抖音",
           "ranks": [
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 02时02分]"
         },
         {
           "title": "欧洲央行执委Schnabel：能源冲击可能传导至更广泛的通胀动态。 能源价格上涨具有连锁效应。 食品、商品和服务通胀面临上行风险。 生产商将部分输入品成本上涨转嫁出去。 消费者通胀预期上升。 目前尚无工资压力的迹象。 预计欧洲央行将进一步加息。 资产估值面临的金融稳定风险上升。",
@@ -25,20 +26,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时05分"
-        },
-        {
-          "title": "欧洲央行执委：价格压力仍可能强于预期 预计将进一步加息",
-          "url": "https://flash.jin10.com/detail/20260627223422932800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 02时02分]"
         },
         {
           "title": "欧洲央行执委Schnabel：预计油价将持续走高。 不确定性依然很高。 和平协议使负面情景出现的可能性降低。 能源冲击对欧元区打击尤为严重。 此次能源冲击的程度比以往几次石油危机要缓和。 预测显示通胀上升、增长放缓。 能源成本上升拖累信心和消费。 政府投资和全球人工智能热潮支撑了经济增长。 劳动力市场仍具韧性。",
@@ -47,53 +37,69 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 02时02分]"
+        },
+        {
+          "title": "欧洲央行执委：价格压力仍可能强于预期 预计将进一步加息",
+          "url": "https://flash.jin10.com/detail/20260627223422932800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 02时02分]"
         },
         {
           "title": "欧洲央行执委施纳贝尔：预计欧洲央行将进一步加息。",
           "url": "https://flash.jin10.com/detail/20260627215356356800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 02时02分]"
         },
         {
           "title": "欧洲央行执委施纳贝尔：目前尚未出现工资压力迹象。",
           "url": "https://flash.jin10.com/detail/20260627215345793800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 02时02分]"
         },
         {
           "title": "欧洲央行执委施纳贝尔：美伊和平协议使负面情景出现的可能性降低。",
           "url": "https://flash.jin10.com/detail/20260627214901916800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 02时02分]"
         },
         {
           "title": "欧洲央行执委施纳贝尔：能源冲击对欧元区打击尤为严重。",
           "url": "https://flash.jin10.com/detail/20260627214853627800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 02时02分]"
         },
         {
           "title": "欧洲央行执委施纳贝尔：预计油价将持续维持高位。不确定性依然很高。",
@@ -102,9 +108,59 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 Apple Mac iPhone 手机",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "外媒：苹果寻求获准从长鑫存储购买内存芯片",
+          "url": "https://wallstreetcn.com/articles/3775675",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 02时02分]"
+        },
+        {
+          "title": "存储芯片大涨 苹果美光打口水战",
+          "url": "https://www.baidu.com/s?wd=%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E5%A4%A7%E6%B6%A8+%E8%8B%B9%E6%9E%9C%E7%BE%8E%E5%85%89%E6%89%93%E5%8F%A3%E6%B0%B4%E6%88%98",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 02时02分]"
+        },
+        {
+          "title": "报道称苹果游说美国政府希望获批采购长鑫存储内存芯片，成功概率有多大？国产芯片打入苹果高端机型难点在哪？",
+          "url": "https://www.zhihu.com/question/2054233145457874875",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "女孩向警察借手机刷单 民警识破骗局",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%90%91%E8%AD%A6%E5%AF%9F%E5%80%9F%E6%89%8B%E6%9C%BA%E5%88%B7%E5%8D%95+%E6%B0%91%E8%AD%A6%E8%AF%86%E7%A0%B4%E9%AA%97%E5%B1%80",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
         }
       ]
     },
@@ -120,8 +176,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 02时02分]"
         },
         {
           "title": "刚刚，DeepSeek V4更新DSpark，推理速度提升80%",
@@ -131,19 +187,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 02时02分]"
         },
         {
           "title": "如何评价 DeepSeek 与智谱均声明将在下半年大规模使用华为昇腾 950 超节点？",
           "url": "https://www.zhihu.com/question/2050591443664779181",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 02时02分]"
         }
       ]
     },
@@ -159,8 +216,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 02时02分]"
         },
         {
           "title": "“OpenAI推迟上市”之下：甲骨文、Nebius带头硬件股下跌，ServiceNow和Workday领衔软件股全线大涨",
@@ -170,36 +227,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "外媒：苹果寻求获准从长鑫存储购买内存芯片",
-          "url": "https://wallstreetcn.com/articles/3775675",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
-        },
-        {
-          "title": "存储芯片大涨 苹果美光打口水战",
-          "url": "https://www.baidu.com/s?wd=%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E5%A4%A7%E6%B6%A8+%E8%8B%B9%E6%9E%9C%E7%BE%8E%E5%85%89%E6%89%93%E5%8F%A3%E6%B0%B4%E6%88%98",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 02时02分]"
         }
       ]
     },
@@ -225,9 +254,9 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 02时02分]"
         }
       ]
     },
@@ -240,11 +269,29 @@
           "url": "https://www.toutiao.com/trending/7655931453586849835/",
           "source": "今日头条",
           "ranks": [
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 02时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英雄联盟 LOL",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "英雄联盟官宣即将推出怀旧模式",
+          "url": "https://www.douyin.com/hot/2549565",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
         }
       ]
     }
