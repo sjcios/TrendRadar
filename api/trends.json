@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T01:09:43.642478+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-29T03:18:19.433135+08:00",
+  "total_titles_processed": 366,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "下周重磅日程：美国非农、中国PMI、沃什出席欧洲央行论坛，半导体“7月涨价潮”",
@@ -15,30 +15,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
+          "appearance_count": 2,
+          "time_info": "[01时09分 ~ 03时18分]"
         },
         {
           "title": "抖音潮流舞蹈大赛成都站",
           "url": "https://www.douyin.com/hot/2550751",
           "source": "抖音",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
+          "appearance_count": 2,
+          "time_info": "[01时09分 ~ 03时18分]"
         },
         {
           "title": "抖音封禁诋毁杂交技术的网红账号",
           "url": "https://www.douyin.com/hot/2550626",
           "source": "抖音",
           "ranks": [
-            21
+            21,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
+          "appearance_count": 2,
+          "time_info": "[01时09分 ~ 03时18分]"
         },
         {
           "title": "“央行的央行”发出警告：AI万亿美元投资狂潮，恐演变为“投资萧条”",
@@ -50,6 +52,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
+        },
+        {
+          "title": "吴珈庆夺冠后发抖音",
+          "url": "https://www.douyin.com/hot/2550379",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
         }
       ]
     },
@@ -65,30 +78,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
+          "appearance_count": 2,
+          "time_info": "[01时09分 ~ 03时18分]"
         },
         {
           "title": "特斯拉 FSD 全面转向订阅制，国内港澳台地区买断版 6 月 30 日后下架，两种模式长期成本差距有多大？",
           "url": "https://www.zhihu.com/question/2053871133401806051",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
+          "appearance_count": 2,
+          "time_info": "[01时09分 ~ 03时18分]"
         },
         {
           "title": "如何看待奔驰将取消德国 9 万名员工年终奖，并计划延长工作时间且不支付补偿性报酬？奔驰当下处于什么境况？",
           "url": "https://www.zhihu.com/question/2054316615341007572",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
+          "appearance_count": 2,
+          "time_info": "[01时09分 ~ 03时18分]"
         }
       ]
     },
@@ -101,11 +116,12 @@
           "url": "https://www.cls.cn/detail/2411046",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
+          "appearance_count": 2,
+          "time_info": "[01时09分 ~ 03时18分]"
         },
         {
           "title": "豆包和DeepSeek的博弈",
@@ -132,8 +148,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
+          "appearance_count": 2,
+          "time_info": "[01时09分 ~ 03时18分]"
         },
         {
           "title": "苹果和美光关于存储涨价的口水战，你认为谁说的更有道理？",
@@ -160,8 +176,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
+          "appearance_count": 2,
+          "time_info": "[01时09分 ~ 03时18分]"
         }
       ]
     }
