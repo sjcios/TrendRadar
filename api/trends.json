@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T08:08:08.181559+08:00",
-  "total_titles_processed": 564,
+  "generated_at": "2026-06-29T13:49:24.401396+08:00",
+  "total_titles_processed": 797,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "下周重磅日程：美国非农、中国PMI、沃什出席欧洲央行论坛，半导体“7月涨价潮”",
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时09分 ~ 08时08分]"
+          "appearance_count": 8,
+          "time_info": "[01时09分 ~ 13时49分]"
         },
         {
           "title": "抖音封禁诋毁杂交技术的网红账号",
@@ -39,11 +39,35 @@
             21,
             9,
             12,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时09分 ~ 08时08分]"
+          "appearance_count": 8,
+          "time_info": "[01时09分 ~ 13时49分]"
+        },
+        {
+          "title": "本周重磅日程：美国非农、中国PMI、沃什出席欧洲央行论坛，半导体“7月涨价潮”",
+          "url": "https://wallstreetcn.com/articles/3775686",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时49分"
+        },
+        {
+          "title": "“央行中的央行”拉响AI泡沫警报：万亿美元资本支出狂潮恐演变为漫长崩盘",
+          "url": "https://wallstreetcn.com/articles/3775705",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时07分 ~ 13时49分]"
         },
         {
           "title": "吴珈庆夺冠后发抖音",
@@ -58,15 +82,15 @@
           "time_info": "[03时18分 ~ 06时10分]"
         },
         {
-          "title": "“央行中的央行”拉响AI泡沫警报：万亿美元资本支出狂潮恐演变为漫长崩盘",
-          "url": "https://wallstreetcn.com/articles/3775705",
-          "source": "华尔街见闻",
+          "title": "沃什即将重磅登场！“欧洲版全球央行年会”本周隆重召开",
+          "url": "https://www.cls.cn/detail/2411302",
+          "source": "财联社热门",
           "ranks": [
-            10
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时07分 ~ 08时08分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时49分"
         },
         {
           "title": "本周重要事件与数据预告：美国非农、美英加欧四大央行聚首、三星和SK海力士将公布投资“大动作”",
@@ -75,9 +99,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
+        },
+        {
+          "title": "3000亿元隔夜逆回购“首秀”未披露价格，市场人士：央行有意防止政策信号被过度解读",
+          "url": "https://wallstreetcn.com/livenews/3125874",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时49分"
         },
         {
           "title": "景顺调查：61%的央行认为美国债务水平对美元作为储备资产的长期地位产生负面影响。",
@@ -86,7 +121,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
         },
@@ -97,7 +132,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
         },
@@ -116,7 +151,7 @@
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "央视曝光手机测评黑幕，厂商与博主联手造假，特调机三层作弊，真实体验与宣传天差地别，哪些信息值得关注？",
@@ -131,6 +166,18 @@
           "time_info": "[01时09分 ~ 08时08分]"
         },
         {
+          "title": "湖南一学校当众砸毁上百部手机，称没收多年无人认领，目的是警示学生，如何看待这一做法？能起到警示作用吗？",
+          "url": "https://www.zhihu.com/question/2053888509925124063",
+          "source": "知乎",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时07分 ~ 13时49分]"
+        },
+        {
           "title": "球迷玩人浪手机飞了",
           "url": "https://www.baidu.com/s?wd=%E7%90%83%E8%BF%B7%E7%8E%A9%E4%BA%BA%E6%B5%AA%E6%89%8B%E6%9C%BA%E9%A3%9E%E4%BA%86",
           "source": "百度热搜",
@@ -143,17 +190,6 @@
           "time_info": "[06时09分 ~ 08时08分]"
         },
         {
-          "title": "湖南一学校当众砸毁上百部手机，称没收多年无人认领，目的是警示学生，如何看待这一做法？能起到警示作用吗？",
-          "url": "https://www.zhihu.com/question/2053888509925124063",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时07分 ~ 08时08分]"
-        },
-        {
           "title": "加拿大女球迷玩人浪把手机甩飞",
           "url": "https://www.toutiao.com/trending/7656541141935915058/",
           "source": "今日头条",
@@ -163,6 +199,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时07分 ~ 08时08分]"
+        },
+        {
+          "title": "苹果想从长鑫买内存？郭明錤：真正原因是“明年存储缺口将持续扩大”",
+          "url": "https://wallstreetcn.com/articles/3775711",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时49分"
         },
         {
           "title": "苹果和美光关于存储涨价的口水战，你认为谁说的更有道理？",
@@ -179,7 +226,7 @@
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "比亚迪市值为何蒸发8000亿",
@@ -230,6 +277,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时01分 ~ 06时10分]"
+        },
+        {
+          "title": "博主：比亚迪赢了销量却输给资本",
+          "url": "https://www.toutiao.com/trending/7656616192316018218/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时49分"
         }
       ]
     },
@@ -273,11 +331,12 @@
           "url": "https://wallstreetcn.com/articles/3775694",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时09分 ~ 08时08分]"
+          "appearance_count": 8,
+          "time_info": "[01时09分 ~ 13时49分]"
         }
       ]
     }
