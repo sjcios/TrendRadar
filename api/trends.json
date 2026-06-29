@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T06:10:03.135695+08:00",
-  "total_titles_processed": 437,
+  "generated_at": "2026-06-29T08:08:08.181559+08:00",
+  "total_titles_processed": 564,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "下周重磅日程：美国非农、中国PMI、沃什出席欧洲央行论坛，半导体“7月涨价潮”",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 06时10分]"
+          "appearance_count": 7,
+          "time_info": "[01时09分 ~ 08时08分]"
         },
         {
           "title": "抖音潮流舞蹈大赛成都站",
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 06时10分]"
+          "appearance_count": 7,
+          "time_info": "[01时09分 ~ 08时08分]"
         },
         {
           "title": "抖音封禁诋毁杂交技术的网红账号",
@@ -38,11 +38,12 @@
           "ranks": [
             21,
             9,
-            12
+            12,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 06时10分]"
+          "appearance_count": 7,
+          "time_info": "[01时09分 ~ 08时08分]"
         },
         {
           "title": "吴珈庆夺冠后发抖音",
@@ -57,11 +58,118 @@
           "time_info": "[03时18分 ~ 06时10分]"
         },
         {
+          "title": "“央行中的央行”拉响AI泡沫警报：万亿美元资本支出狂潮恐演变为漫长崩盘",
+          "url": "https://wallstreetcn.com/articles/3775705",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时07分 ~ 08时08分]"
+        },
+        {
+          "title": "本周重要事件与数据预告：美国非农、美英加欧四大央行聚首、三星和SK海力士将公布投资“大动作”",
+          "url": "https://flash.jin10.com/detail/20260629072331442800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时08分"
+        },
+        {
+          "title": "景顺调查：61%的央行认为美国债务水平对美元作为储备资产的长期地位产生负面影响。",
+          "url": "https://flash.jin10.com/detail/20260629070243839800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时08分"
+        },
+        {
+          "title": "景顺调查：在地缘政治风险上升之际，71%的央行认为“韧性”与回报同样重要。",
+          "url": "https://flash.jin10.com/detail/20260629070242996800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时08分"
+        },
+        {
           "title": "“央行的央行”发出警告：AI万亿美元投资狂潮，恐演变为“投资萧条”",
           "url": "https://flash.jin10.com/detail/20260628213314042800",
           "source": "金十数据",
           "ranks": [
             27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 Apple Mac iPhone 手机",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "央视曝光手机测评黑幕，厂商与博主联手造假，特调机三层作弊，真实体验与宣传天差地别，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2054487183839474287",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时09分 ~ 08时08分]"
+        },
+        {
+          "title": "球迷玩人浪手机飞了",
+          "url": "https://www.baidu.com/s?wd=%E7%90%83%E8%BF%B7%E7%8E%A9%E4%BA%BA%E6%B5%AA%E6%89%8B%E6%9C%BA%E9%A3%9E%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时09分 ~ 08时08分]"
+        },
+        {
+          "title": "湖南一学校当众砸毁上百部手机，称没收多年无人认领，目的是警示学生，如何看待这一做法？能起到警示作用吗？",
+          "url": "https://www.zhihu.com/question/2053888509925124063",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时07分 ~ 08时08分]"
+        },
+        {
+          "title": "加拿大女球迷玩人浪把手机甩飞",
+          "url": "https://www.toutiao.com/trending/7656541141935915058/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时07分 ~ 08时08分]"
+        },
+        {
+          "title": "苹果和美光关于存储涨价的口水战，你认为谁说的更有道理？",
+          "url": "https://www.zhihu.com/question/2053876477876347476",
+          "source": "知乎",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -78,11 +186,12 @@
           "url": "https://www.toutiao.com/trending/7656107637293547529/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 06时10分]"
+          "appearance_count": 7,
+          "time_info": "[01时09分 ~ 08时08分]"
         },
         {
           "title": "特斯拉 FSD 全面转向订阅制，国内港澳台地区买断版 6 月 30 日后下架，两种模式长期成本差距有多大？",
@@ -91,11 +200,12 @@
           "ranks": [
             17,
             10,
-            6
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 06时10分]"
+          "appearance_count": 7,
+          "time_info": "[01时09分 ~ 08时08分]"
         },
         {
           "title": "如何看待奔驰将取消德国 9 万名员工年终奖，并计划延长工作时间且不支付补偿性报酬？奔驰当下处于什么境况？",
@@ -124,46 +234,6 @@
       ]
     },
     {
-      "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "央视曝光手机测评黑幕，厂商与博主联手造假，特调机三层作弊，真实体验与宣传天差地别，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2054487183839474287",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 06时10分]"
-        },
-        {
-          "title": "球迷玩人浪手机飞了",
-          "url": "https://www.baidu.com/s?wd=%E7%90%83%E8%BF%B7%E7%8E%A9%E4%BA%BA%E6%B5%AA%E6%89%8B%E6%9C%BA%E9%A3%9E%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时09分 ~ 06时10分]"
-        },
-        {
-          "title": "苹果和美光关于存储涨价的口水战，你认为谁说的更有道理？",
-          "url": "https://www.zhihu.com/question/2053876477876347476",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
@@ -174,11 +244,12 @@
           "ranks": [
             7,
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 06时10分]"
+          "appearance_count": 7,
+          "time_info": "[01时09分 ~ 08时08分]"
         },
         {
           "title": "豆包和DeepSeek的博弈",
@@ -205,8 +276,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 06时10分]"
+          "appearance_count": 7,
+          "time_info": "[01时09分 ~ 08时08分]"
         }
       ]
     }
