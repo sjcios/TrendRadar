@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-30T03:55:57.351476+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2026-06-30T05:26:23.512915+08:00",
+  "total_titles_processed": 471,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "在抖音追公路文太上头了",
@@ -15,19 +15,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时35分 ~ 03时55分]"
+          "appearance_count": 4,
+          "time_info": "[01时35分 ~ 05时26分]"
         },
         {
           "title": "内马尔发抖音备战淘汰赛",
           "url": "https://www.douyin.com/hot/2551509",
           "source": "抖音",
           "ranks": [
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时35分 ~ 03时55分]"
+          "appearance_count": 4,
+          "time_info": "[01时35分 ~ 05时26分]"
         },
         {
           "title": "据AXIOS网站：美联储主席沃什将于当地时间周三出席在辛特拉举行的欧洲央行论坛。市场尤其关注沃什是否会比他在6月中旬的新闻发布会上就更明确的加息前景给出更多线索。",
@@ -47,7 +48,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时55分"
         },
@@ -58,7 +59,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时55分"
         },
@@ -69,7 +70,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时55分"
         },
@@ -91,9 +92,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时55分"
+        },
+        {
+          "title": "拉加德表示：欧洲经济的韧性为欧洲央行调整利率提供了更大空间",
+          "url": "https://wallstreetcn.com/livenews/3126300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
         },
         {
           "title": "欧洲央行行长拉加德：美伊和平协议的持久性远未得到保证。",
@@ -102,7 +114,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时55分"
         },
@@ -113,7 +125,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时55分"
         },
@@ -124,7 +136,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时55分"
         },
@@ -135,7 +147,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时55分"
         },
@@ -146,7 +158,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时55分"
         },
@@ -157,7 +169,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时55分"
         },
@@ -168,7 +180,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时55分"
         }
@@ -176,7 +188,7 @@
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "苹果想从长鑫买内存？郭明錤：真正原因是“明年存储缺口将持续扩大”",
@@ -187,19 +199,32 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时35分 ~ 03时55分]"
+          "appearance_count": 4,
+          "time_info": "[01时35分 ~ 05时26分]"
         },
         {
           "title": "AI手机进入Agent时代",
           "url": "https://www.baidu.com/s?wd=AI%E6%89%8B%E6%9C%BA%E8%BF%9B%E5%85%A5Agent%E6%97%B6%E4%BB%A3",
           "source": "百度热搜",
           "ranks": [
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时35分 ~ 03时55分]"
+          "appearance_count": 4,
+          "time_info": "[01时35分 ~ 05时26分]"
+        },
+        {
+          "title": "苹果公司推出 iOS 26.6 Beta 3。",
+          "url": "https://wallstreetcn.com/livenews/3126289",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时55分 ~ 05时26分]"
         },
         {
           "title": "怕iPhone涨价的用户已紧急换新",
@@ -213,15 +238,15 @@
           "time_info": "[01时35分 ~ 01时36分]"
         },
         {
-          "title": "苹果公司推出 iOS 26.6 Beta 3。",
-          "url": "https://wallstreetcn.com/livenews/3126289",
+          "title": "报道：苹果iPhone 18 Pro供应链机密遭暗网曝光，涉印度供应商塔塔泄密事件",
+          "url": "https://wallstreetcn.com/livenews/3126302",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时55分"
+          "time_info": "05时26分"
         }
       ]
     },
@@ -235,11 +260,12 @@
           "source": "知乎",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时35分 ~ 03时55分]"
+          "appearance_count": 4,
+          "time_info": "[01时35分 ~ 05时26分]"
         },
         {
           "title": "DeepSeek启动成立来最大规模招聘",
@@ -268,8 +294,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时35分 ~ 03时55分]"
+          "appearance_count": 4,
+          "time_info": "[01时35分 ~ 05时26分]"
         }
       ]
     }
