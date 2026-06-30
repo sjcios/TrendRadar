@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-30T13:03:31.719727+08:00",
-  "total_titles_processed": 860,
+  "generated_at": "2026-06-30T17:32:48.859460+08:00",
+  "total_titles_processed": 1061,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "在抖音追公路文太上头了",
@@ -39,9 +39,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
+        },
+        {
+          "title": "日元跌破 1 美元兑 162 日元关口，创下近 40 年来新低，日本央行已加息至 1%，为何完全挡不住日元贬值颓势？",
+          "url": "https://www.zhihu.com/question/2055222122289558459",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
         },
         {
           "title": "智囊机构OMFIF：调查显示，首次有更多央行预计在未来十年内将减少美元配置，而非增加。",
@@ -50,7 +61,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
         },
@@ -95,7 +106,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
         },
@@ -221,6 +232,17 @@
           "time_info": "03时55分"
         },
         {
+          "title": "哈兰德把抖音当朋友圈发",
+          "url": "https://www.douyin.com/hot/2552878",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
           "title": "哈兰德发抖音全力备战淘汰赛",
           "url": "https://www.douyin.com/hot/2551206",
           "source": "抖音",
@@ -235,7 +257,7 @@
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "苹果想从长鑫买内存？郭明錤：真正原因是“明年存储缺口将持续扩大”",
@@ -294,9 +316,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
+        },
+        {
+          "title": "苹果噩耗！iPhone 18 Pro供应商清单、照片等全遭黑客泄露",
+          "url": "https://www.cls.cn/detail/2412382",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
+          "title": "iPhone18ProMax银灰色",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone18ProMax%E9%93%B6%E7%81%B0%E8%89%B2%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
         },
         {
           "title": "报道：苹果iPhone 18 Pro供应链机密遭暗网曝光，涉印度供应商塔塔泄密事件",
@@ -316,7 +360,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
         }
@@ -324,7 +368,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "DeepSeek V4 正式版官宣 7 月中旬上线，引入峰谷定价机制，你怎么看？",
@@ -338,6 +382,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时35分 ~ 05时26分]"
+        },
+        {
+          "title": "如何评价 deepseek2026 年 6 月 29 日再次调整收费标准？",
+          "url": "https://www.zhihu.com/question/2055040930516824522",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
         },
         {
           "title": "AI账单越来越高 企业开始转向更便宜的模型 DeepSeek等中国AI有望受益",
@@ -368,11 +423,12 @@
           "url": "https://wallstreetcn.com/articles/3775761",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时03分 ~ 17时32分]"
         }
       ]
     },
@@ -388,8 +444,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时03分 ~ 13时03分]"
+          "appearance_count": 4,
+          "time_info": "[08时03分 ~ 17时32分]"
         },
         {
           "title": "谷歌母公司支持旨在助推太空产业的金融科技公司",
@@ -415,22 +471,24 @@
           "ranks": [
             9,
             10,
-            15
+            15,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时35分 ~ 13时03分]"
+          "appearance_count": 9,
+          "time_info": "[01时35分 ~ 17时32分]"
         },
         {
           "title": "主播怼人被告,法庭双方玩LOL",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355750&amp;topic_name=%E4%B8%BB%E6%92%AD%E6%80%BC%E4%BA%BA%E8%A2%AB%E5%91%8A%2C%E6%B3%95%E5%BA%AD%E5%8F%8C%E6%96%B9%E7%8E%A9LOL",
           "source": "贴吧",
           "ranks": [
-            5
+            5,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时03分 ~ 17时32分]"
         }
       ]
     },
@@ -456,7 +514,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
         }
@@ -490,7 +548,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
         }
