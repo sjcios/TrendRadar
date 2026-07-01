@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T11:40:03.772927+08:00",
-  "total_titles_processed": 782,
+  "generated_at": "2026-07-01T16:11:55.391298+08:00",
+  "total_titles_processed": 978,
   "failed_sources": [],
   "trends": [
     {
@@ -313,6 +313,100 @@
       ]
     },
     {
+      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "数百万辆特斯拉HW3迎来FSD V14，中国车型是否同步升级？官方客服：目前仅适配AI4硬件部分车型",
+          "url": "https://wallstreetcn.com/livenews/3127257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时11分"
+        },
+        {
+          "title": "数百万辆特斯拉HW3迎来FSD V14，中国车型是否同步升级？官方客服：目前仅适配AI4硬件部分车型",
+          "url": "https://flash.jin10.com/detail/20260701154708866800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时11分"
+        },
+        {
+          "title": "知名投资者Burry：做空英伟达、特斯拉、应用材料",
+          "url": "https://wallstreetcn.com/livenews/3126978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "比亚迪欧洲市场特别顾问：欧盟法规使消费者的购买决策越来越困难。 大众汽车的裁员是对整个行业的警醒。 我们正在积极寻找西欧的生产基地。",
+          "url": "https://wallstreetcn.com/livenews/3127237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时11分"
+        },
+        {
+          "title": "特斯拉官方微博消息，首台量产赛博无人驾驶电动车Cybercab已在美国得州奥斯汀开启工程测试。",
+          "url": "https://wallstreetcn.com/livenews/3127102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
+          "title": "第五代宝马X5正式登场",
+          "url": "https://www.toutiao.com/trending/7657028523944984639/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时11分"
+        },
+        {
+          "title": "据Mobility Sweden数据显示，特斯拉在瑞典6月新车注册量同比增长56.3%。",
+          "url": "https://wallstreetcn.com/livenews/3127227",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时11分"
+        },
+        {
+          "title": "比亚迪欧洲市场特别顾问：公司正在寻找“棕地（brownfields）”投资机会，西班牙是潜在目的地。",
+          "url": "https://flash.jin10.com/detail/20260701153133843800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时11分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 4,
       "titles": [
@@ -335,7 +429,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         },
@@ -346,7 +440,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         },
@@ -360,6 +454,62 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI首席经济学家称AI不会取代人类劳动者",
+          "url": "https://wallstreetcn.com/livenews/3126913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        },
+        {
+          "title": "软银：已执行对OpenAI300亿美元后续投资中的100亿美元。 计划于10月1日进行对OpenAI的第三轮投资。",
+          "url": "https://wallstreetcn.com/livenews/3127224",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "受加息担忧影响 金价跌回4000美元下方",
+          "url": "https://flash.jin10.com/detail/20260701154243991800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时11分"
+        },
+        {
+          "title": "金价4000美元之下是陷阱还是机会？",
+          "url": "https://flash.jin10.com/detail/20260701153202436800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时11分"
         }
       ]
     },
@@ -395,34 +545,6 @@
       ]
     },
     {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "知名投资者Burry：做空英伟达、特斯拉、应用材料",
-          "url": "https://wallstreetcn.com/livenews/3126978",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "特斯拉官方微博消息，首台量产赛博无人驾驶电动车Cybercab已在美国得州奥斯汀开启工程测试。",
-          "url": "https://wallstreetcn.com/livenews/3127102",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时40分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -438,23 +560,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时52分 ~ 07时11分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI首席经济学家称AI不会取代人类劳动者",
-          "url": "https://wallstreetcn.com/livenews/3126913",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
         }
       ]
     }
