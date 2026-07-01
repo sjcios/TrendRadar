@@ -1,23 +1,69 @@
 {
-  "generated_at": "2026-07-02T03:52:44.576361+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2026-07-02T05:27:25.353227+08:00",
+  "total_titles_processed": 469,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "苹果拟在明年推出新款iPad Pro和重新设计MacBook Pro",
+          "url": "https://flash.jin10.com/detail/20260702051718886800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        },
+        {
+          "title": "市场消息：苹果(AAPL.O)即将推出新款iPad Pro和重新设计的入门级MacBook Pro。",
+          "url": "https://flash.jin10.com/detail/20260702044919187800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        },
         {
           "title": "苹果全力追查泄露信息人员",
           "url": "https://www.douyin.com/hot/2554426",
           "source": "抖音",
           "ranks": [
             10,
-            9
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 05时27分]"
+        },
+        {
+          "title": "苹果全球涨价，授权店要求已预付消费者「补差价」，这合理吗？",
+          "url": "https://www.zhihu.com/question/2055358841626308640",
+          "source": "知乎",
+          "ranks": [
+            19,
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时54分 ~ 03时52分]"
+          "time_info": "[03时52分 ~ 05时27分]"
+        },
+        {
+          "title": "苹果筹备全新iPad Pro与重新设计的入门级MacBook Pro",
+          "url": "https://wallstreetcn.com/livenews/3127617",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
         },
         {
           "title": "报道：SpaceX开发出类似手机的AI原型机",
@@ -26,18 +72,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时52分"
-        },
-        {
-          "title": "苹果全球涨价，授权店要求已预付消费者「补差价」，这合理吗？",
-          "url": "https://www.zhihu.com/question/2055358841626308640",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
         },
@@ -48,7 +83,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
         },
@@ -59,9 +94,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
+        },
+        {
+          "title": "市场消息：苹果(AAPL.O)正与特朗普政府就芯片采购事宜进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260702035645327800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
         }
       ]
     },
@@ -100,8 +146,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 03时52分]"
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 05时27分]"
         },
         {
           "title": "英国两年期国债收益率跌超2个基点，投资者对央行加息预期降温",
@@ -117,6 +163,34 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "消息人士：软银就以OpenAI股权为抵押的贷款谈判重启，并作出更多让步",
+          "url": "https://flash.jin10.com/detail/20260702041739954800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        },
+        {
+          "title": "市场消息：消息人士称，软银正与多家贷款机构谈判，拟筹集100亿美元保证金贷款，以OpenAI持股及还款担保作为支持。高盛、摩根大通及瑞穗金融集团预计将加入该贷款银团。",
+          "url": "https://flash.jin10.com/detail/20260702041320467800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
@@ -126,11 +200,12 @@
           "source": "知乎",
           "ranks": [
             12,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 03时52分]"
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 05时27分]"
         },
         {
           "title": "金价",
@@ -138,11 +213,12 @@
           "source": "微博",
           "ranks": [
             21,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 03时52分]"
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 05时27分]"
         }
       ]
     },
@@ -159,8 +235,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 03时52分]"
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 05时27分]"
         },
         {
           "title": "比亚迪：大唐系列搭载螺纹生态接口",
@@ -185,11 +261,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 03时52分]"
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 05时27分]"
         }
       ]
     },
