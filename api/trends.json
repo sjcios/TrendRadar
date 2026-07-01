@@ -1,701 +1,72 @@
 {
-  "generated_at": "2026-07-01T23:40:51.032673+08:00",
-  "total_titles_processed": 1366,
+  "generated_at": "2026-07-02T01:54:23.263435+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 23,
+      "match_count": 4,
       "titles": [
         {
-          "title": "日元跌破 1 美元兑 162 日元关口，创下近 40 年来新低，日本央行已加息至 1%，为何完全挡不住日元贬值颓势？",
-          "url": "https://www.zhihu.com/question/2055222122289558459",
-          "source": "知乎",
-          "ranks": [
-            2,
-            8,
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时52分 ~ 07时11分]"
-        },
-        {
-          "title": "哈兰德把抖音当朋友圈发",
-          "url": "https://www.douyin.com/hot/2552878",
-          "source": "抖音",
-          "ranks": [
-            23,
-            22,
-            20,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时52分 ~ 11时40分]"
-        },
-        {
-          "title": "沃什邀请英国央行前行长默文·金领导美联储的沟通工作组",
-          "url": "https://flash.jin10.com/detail/20260701232315327800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时40分"
-        },
-        {
-          "title": "美联储主席接触原英国央行行长金恩（King），负责新联络工作组。",
-          "url": "https://wallstreetcn.com/livenews/3127517",
+          "title": "【伊朗称美方违反谅解备忘录承诺，将建立监督机制审查违规行为】伊朗外交部副部长、伊方技术谈判代表团团长加里巴巴迪表示，在当天于多哈举行的伊朗、卡塔尔、巴基斯坦三方会谈中，伊朗代表团提出并审查了美国违反美伊谅解备忘录第一条关于结束黎巴嫩战事的承诺，并讨论了有关美国加强地区军事装备和兵力部署的报道和美国官员发表的一些具有威胁性及干涉主义的言论。伊朗代表团在会谈中强调，美伊谅解备忘录中的各项承诺是一个整体，不能单独割裂看待。 加里巴巴迪宣布，将组建监督小组并通过直接沟通渠道通报和审查涉及美伊谅解备忘录的违规行为。他指出，伊朗代表在与卡塔尔央行等官员的会谈中已决定将部分解冻的60亿美元资金用于根据伊朗需求采购必要物资。他同时澄清称“伊朗与美国代表团没有在多哈举行会晤”。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3127569",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时40分"
-        },
-        {
-          "title": "OMFIF调查：央行首次计划净减持美元 转向黄金",
-          "url": "https://flash.jin10.com/detail/20260701013018888800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时52分"
+          "time_info": "01时54分"
         },
         {
-          "title": "市场消息：美联储主席沃什委任英国央行前行长默文·金‌（Mervyn King）联合负责美联储新的沟通事务工作组。",
-          "url": "https://flash.jin10.com/detail/20260701231704987800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时40分"
-        },
-        {
-          "title": "欧洲央行管委Kazaks：继续加息的紧迫性已经显著下降。 当前无需采取强有力的通胀应对手段。 难以判断央行将在7月、9月采取什么行动。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3126958",
+          "title": "欧洲央行管委Stournaras：不认为7月份会发生任何（与货币政策调整有关的）事。 央行继续加息的可能性降低。 在一段时期内维持现状可能是适宜的。 必须监控（美国+以色列对伊朗发动的）战争对于价格的间接影响。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3127565",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时54分 ~ 05时28分]"
-        },
-        {
-          "title": "欧洲央行消息人士：政策制定者正讨论将银行最低存款准备金率从1%提高至2%。",
-          "url": "https://flash.jin10.com/detail/20260701011522539800",
-          "source": "金十数据",
-          "ranks": [
-            7
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时52分"
+          "time_info": "01时54分"
         },
         {
           "title": "美欧英加央行掌门同台亮相 黄金、白银盘前异动拉升 | 今夜看点",
           "url": "https://www.cls.cn/detail/2414541",
           "source": "财联社热门",
           "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时40分"
-        },
-        {
-          "title": "欧洲央行消息人士：预计将于秋季就最低准备金要求做出决定。",
-          "url": "https://flash.jin10.com/detail/20260701011450775800",
-          "source": "金十数据",
-          "ranks": [
-            8
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时52分"
+          "time_info": "01时54分"
         },
         {
-          "title": "欧洲央行管委Kaasik：“再加息一次”是合理的预期。 （美国+以色列对伊朗发动的）战争可能会造成长期性的影响。 可能会在秋季围绕薪资问题获得更多透明度。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3127503",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时40分"
-        },
-        {
-          "title": "墨西哥央行调查：私营部门分析师预计基准利率将在2026年结束时达到6.50%，将在2027年结束时达到6.50%。",
-          "url": "https://flash.jin10.com/detail/20260701230336750800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时40分"
-        },
-        {
-          "title": "墨西哥央行调查：私营部门分析师预计2026年底墨西哥比索兑美元汇率为17.88，预计2027年底墨西哥比索兑美元为18.50。",
-          "url": "https://flash.jin10.com/detail/20260701230320391800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时40分"
-        },
-        {
-          "title": "哥伦比亚央行加息至12%，之前的贷款利率为11.25%。",
-          "url": "https://wallstreetcn.com/livenews/3126947",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时54分"
-        },
-        {
-          "title": "墨西哥央行调查：私营部门分析师预计2026年墨西哥经济增长为1.10%，预计2027年墨西哥经济增长为1.80%。",
-          "url": "https://flash.jin10.com/detail/20260701230221855800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时40分"
-        },
-        {
-          "title": "欧洲央行管委多伦茨：如果当前油价维持稳定，欧洲央行可能等到9月再决定是否需要进一步调整货币政策。目前尚未看到通胀出现明显的第二轮效应。",
-          "url": "https://flash.jin10.com/detail/20260701005557351800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "墨西哥央行调查：私营部门分析师预计2026年底整体通胀为4.20%，预计2027年底整体通胀为3.84%。预计2026年底核心通胀为4.18%，预计2027年底核心通胀为3.80%。",
-          "url": "https://flash.jin10.com/detail/20260701230154929800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时40分"
-        },
-        {
-          "title": "欧洲央行管委Dolenc：下次货币政策会议之前，形势可能会瞬息万变。 与中东相关的不确定性仍然偏高。 鉴于当前数据，央行在7月按兵不动可能是适宜的。 如果能源价格持续受抑，不急于加息。",
-          "url": "https://wallstreetcn.com/livenews/3126946",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时54分"
-        },
-        {
-          "title": "欧洲央行管委卡扎克斯：目前没有必要采取强有力的通胀应对措施。很难预测七月和九月会发生什么。",
-          "url": "https://flash.jin10.com/detail/20260701031511938800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时54分"
-        },
-        {
-          "title": "欧洲央行管委卡扎克斯：如果情况好转，可能不会进一步加息。连续加息的紧迫性显著降低。",
-          "url": "https://flash.jin10.com/detail/20260701031455118800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时54分"
-        },
-        {
-          "title": "全球多位央行行长7月1日讲话要点总结",
-          "url": "https://wallstreetcn.com/livenews/3127491",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时40分"
-        },
-        {
-          "title": "谁不想在抖音养一只霸王龙",
-          "url": "https://www.douyin.com/hot/2554660",
-          "source": "抖音",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时06分"
-        },
-        {
-          "title": "交易员下调对英国央行加息押注，受沃什评论及美国ISM数据影响",
-          "url": "https://wallstreetcn.com/livenews/3127487",
+          "title": "英国两年期国债收益率跌超2个基点，投资者对央行加息预期降温",
+          "url": "https://wallstreetcn.com/livenews/3127536",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "苹果公司库克、欧盟官员Virkkunen讨论“Siri AI”。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3127010",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
-          "title": "美国总统特朗普2025年度的财务报告称，其至少持有500万美元的苹果(AAPL.O)公司股票。",
-          "url": "https://flash.jin10.com/detail/20260701045910278800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "特朗普927页财报曝光：三度加仓苹果、微软、英伟达，金条持仓同步现身",
-          "url": "https://flash.jin10.com/detail/20260701065240508800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
-          "title": "英媒：苹果CEO与欧盟技术主管就“Siri AI”举行建设性会谈",
-          "url": "https://flash.jin10.com/detail/20260701065200498800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
-          "title": "iPhone18Pro遭泄密",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E9%81%AD%E6%B3%84%E5%AF%86%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            22,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时52分 ~ 05时28分]"
-        },
-        {
-          "title": "苹果公司：很高兴最高法院将审理我们的案件。",
-          "url": "https://wallstreetcn.com/livenews/3126935",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 03时54分]"
-        },
-        {
-          "title": "信披：特朗普对苹果、英伟达持股分别至少500万美元",
-          "url": "https://wallstreetcn.com/livenews/3126986",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 07时11分]"
-        },
-        {
-          "title": "iPhone17或迎涨价",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone17%E6%88%96%E8%BF%8E%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 11时40分]"
-        },
-        {
-          "title": "苹果(AAPL.O)：Apple Creator Studio现已作为通用购买项目在App Store上架，可供下载。",
-          "url": "https://flash.jin10.com/detail/20260701010331075800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "据英国金融时报：苹果(AAPL.O)CEO库克与欧盟科技主管就“Siri AI”展开建设性的对话。",
-          "url": "https://flash.jin10.com/detail/20260701063003352800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
-          "title": "苹果(AAPL.O)：Apple Creator Studio更新即日起向现有订阅用户免费提供；新订阅用户价格为每月12.99美元或每年129美元。",
-          "url": "https://flash.jin10.com/detail/20260701010304970800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "苹果(AAPL.O)：用户可以打开并自定义置于Keynote、Pages或Numbers中的任何图像，甚至可以将Final Cut Pro中的关键帧直接发送至Pixelmator Pro。",
-          "url": "https://flash.jin10.com/detail/20260701010243177800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "苹果(AAPL.O)：推出了Apple Creator Studio的更新。",
-          "url": "https://flash.jin10.com/detail/20260701010219316800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "苹果供应链底牌被掀开",
-          "url": "https://www.toutiao.com/trending/7657161797899652651/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "苹果全力追查泄露信息人员",
-          "url": "https://www.douyin.com/hot/2554426",
-          "source": "抖音",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时40分"
-        },
-        {
-          "title": "美最高法院将审理苹果公司上诉，涉其与Epic Games应用商店收费纠纷",
-          "url": "https://wallstreetcn.com/livenews/3126917",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "比亚迪6月新能源汽车销量403472辆",
-          "url": "https://www.toutiao.com/trending/7656692993961820214/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时06分"
-        },
-        {
-          "title": "数百万辆特斯拉HW3迎来FSD V14，中国车型是否同步升级？官方客服：目前仅适配AI4硬件部分车型",
-          "url": "https://wallstreetcn.com/livenews/3127257",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时11分"
-        },
-        {
-          "title": "数百万辆特斯拉HW3迎来FSD V14，中国车型是否同步升级？官方客服：目前仅适配AI4硬件部分车型",
-          "url": "https://flash.jin10.com/detail/20260701154708866800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时11分"
-        },
-        {
-          "title": "葡萄牙汽车协会（ACAP）：葡萄牙6月份特斯拉(TSLA.O)新注册量同比增长43.2%，1至6月累计增长53.5%。",
-          "url": "https://flash.jin10.com/detail/20260701231529680800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时40分"
-        },
-        {
-          "title": "宝马销售抹黑小米被罚40万",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355803&amp;topic_name=%E5%AE%9D%E9%A9%AC%E9%94%80%E5%94%AE%E6%8A%B9%E9%BB%91%E5%B0%8F%E7%B1%B3%E8%A2%AB%E7%BD%9A40%E4%B8%87",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时06分 ~ 23时40分]"
-        },
-        {
-          "title": "比亚迪：大唐系列搭载螺纹生态接口",
-          "url": "https://www.toutiao.com/trending/7657280821036859455/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时40分"
-        },
-        {
-          "title": "特斯拉撞护栏起火 理想车主救出司机",
-          "url": "https://www.toutiao.com/trending/7657459579064221746/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时06分"
-        },
-        {
-          "title": "知名投资者Burry：做空英伟达、特斯拉、应用材料",
-          "url": "https://wallstreetcn.com/livenews/3126978",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "比亚迪欧洲市场特别顾问：欧盟法规使消费者的购买决策越来越困难。 大众汽车的裁员是对整个行业的警醒。 我们正在积极寻找西欧的生产基地。",
-          "url": "https://wallstreetcn.com/livenews/3127237",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时11分"
-        },
-        {
-          "title": "比亚迪将西法列入欧洲建厂候选名单",
-          "url": "https://www.toutiao.com/trending/7657459185206132778/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时06分"
-        },
-        {
-          "title": "特斯拉官方微博消息，首台量产赛博无人驾驶电动车Cybercab已在美国得州奥斯汀开启工程测试。",
-          "url": "https://wallstreetcn.com/livenews/3127102",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时40分"
-        },
-        {
-          "title": "第五代宝马X5正式登场",
-          "url": "https://www.toutiao.com/trending/7657028523944984639/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时11分"
-        },
-        {
-          "title": "据Mobility Sweden数据显示，特斯拉在瑞典6月新车注册量同比增长56.3%。",
-          "url": "https://wallstreetcn.com/livenews/3127227",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时11分"
-        },
-        {
-          "title": "比亚迪欧洲市场特别顾问：公司正在寻找“棕地（brownfields）”投资机会，西班牙是潜在目的地。",
-          "url": "https://flash.jin10.com/detail/20260701153133843800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时11分"
-        },
-        {
-          "title": "零跑在新能源车淘汰赛中能赢吗",
-          "url": "https://www.toutiao.com/trending/7657521631018880575/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时40分"
-        },
-        {
-          "title": "比亚迪6月新能源汽车销量403472辆",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA6%E6%9C%88%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F403472%E8%BE%86",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时40分"
+          "time_info": "01时54分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "世界黄金协会：亚洲投资者（及消费者）在价格发现和金价走向中日益重要",
-          "url": "https://wallstreetcn.com/livenews/3127404",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时06分"
-        },
-        {
-          "title": "受加息担忧影响 金价跌回4000美元下方",
-          "url": "https://flash.jin10.com/detail/20260701154243991800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时11分"
-        },
         {
           "title": "国际黄金价格跌破 4000 美元 / 盎司后，未来有可能进一步跌到 3000 美元 / 盎司吗？",
           "url": "https://www.zhihu.com/question/2053257491765581754",
           "source": "知乎",
           "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时40分"
-        },
-        {
-          "title": "金价创13年来最大季度跌幅",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%88%9B13%E5%B9%B4%E6%9D%A5%E6%9C%80%E5%A4%A7%E5%AD%A3%E5%BA%A6%E8%B7%8C%E5%B9%85",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时40分"
-        },
-        {
-          "title": "世界黄金协会：基准情景下，金价年内或将在4100美元附近交投",
-          "url": "https://flash.jin10.com/detail/20260701192900896800",
-          "source": "金十数据",
-          "ranks": [
-            21
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时06分"
+          "time_info": "01时54分"
         },
         {
           "title": "金价",
@@ -704,182 +75,88 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时40分"
-        },
-        {
-          "title": "金价4000美元之下是陷阱还是机会？",
-          "url": "https://flash.jin10.com/detail/20260701153202436800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时11分"
+          "time_info": "01时54分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
+      "match_count": 2,
       "titles": [
         {
-          "title": "科技股力撑美股反弹，标普纳指终结五连跌，谷歌涨5%，油价反弹，日元跌至40年低位",
-          "url": "https://wallstreetcn.com/articles/3775727",
-          "source": "华尔街见闻",
+          "title": "宝马销售抹黑小米被罚40万",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355803&amp;topic_name=%E5%AE%9D%E9%A9%AC%E9%94%80%E5%94%AE%E6%8A%B9%E9%BB%91%E5%B0%8F%E7%B1%B3%E8%A2%AB%E7%BD%9A40%E4%B8%87",
+          "source": "贴吧",
           "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时52分 ~ 07时11分]"
-        },
-        {
-          "title": "谷歌云确认在荷兰数据保护影响评估获得批准后，将为欧盟公共部门组织提供更安全的选择。",
-          "url": "https://flash.jin10.com/detail/20260701231456267800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时40分"
-        },
-        {
-          "title": "谷歌发言人：（就瑞典法院反垄断案件裁决）我们不同意法院的决定，将考虑我们的法律选项。",
-          "url": "https://flash.jin10.com/detail/20260701194530894800",
-          "source": "金十数据",
-          "ranks": [
-            8
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时06分"
+          "time_info": "01时54分"
         },
         {
-          "title": "Anthropic：将与亚马逊、微软、谷歌及其他Glasswing合作伙伴共同制定评估AI越狱严重性的框架。",
-          "url": "https://flash.jin10.com/detail/20260701111702765800",
-          "source": "金十数据",
+          "title": "比亚迪：大唐系列搭载螺纹生态接口",
+          "url": "https://www.toutiao.com/trending/7657280821036859455/",
+          "source": "今日头条",
           "ranks": [
-            16
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时40分"
-        },
-        {
-          "title": "Anthropic：将尽快在AWS、谷歌云和微软Foundry上重新启用Fable 5访问。",
-          "url": "https://flash.jin10.com/detail/20260701111504167800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时40分"
-        },
-        {
-          "title": "谷歌公司：现在可以在移动端通过Drive Now向Gemini提问。",
-          "url": "https://wallstreetcn.com/livenews/3126939",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时54分"
+          "time_info": "01时54分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "如何评价 deepseek2026 年 6 月 29 日再次调整收费标准？",
-          "url": "https://www.zhihu.com/question/2055040930516824522",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时52分 ~ 07时11分]"
-        },
         {
           "title": "如何看待 DeepSeek 招聘多处点名要求 Rust？",
           "url": "https://www.zhihu.com/question/2054320593491715458",
           "source": "知乎",
           "ranks": [
-            14
+            13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时40分"
+          "time_info": "01时54分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
       "titles": [
         {
-          "title": "OpenAI首席经济学家称AI不会取代人类劳动者",
-          "url": "https://wallstreetcn.com/livenews/3126913",
+          "title": "继美国司法部官司之后，Yelp在针对谷歌公司的反垄断诉讼中获胜。 联邦法院认定，谷歌网络搜索构成垄断。（彭博法律Blaw）",
+          "url": "https://wallstreetcn.com/livenews/3127564",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "软银：已执行对OpenAI300亿美元后续投资中的100亿美元。 计划于10月1日进行对OpenAI的第三轮投资。",
-          "url": "https://wallstreetcn.com/livenews/3127224",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时11分"
+          "time_info": "01时54分"
         }
       ]
     },
     {
-      "keyword_group": "英雄联盟 LOL",
-      "match_count": 2,
+      "keyword_group": "苹果 Apple Mac iPhone 手机",
+      "match_count": 1,
       "titles": [
         {
-          "title": "主播怼人被告,法庭双方玩LOL",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355750&amp;topic_name=%E4%B8%BB%E6%92%AD%E6%80%BC%E4%BA%BA%E8%A2%AB%E5%91%8A%2C%E6%B3%95%E5%BA%AD%E5%8F%8C%E6%96%B9%E7%8E%A9LOL",
-          "source": "贴吧",
+          "title": "苹果全力追查泄露信息人员",
+          "url": "https://www.douyin.com/hot/2554426",
+          "source": "抖音",
           "ranks": [
-            16,
-            17,
-            26
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时52分 ~ 11时40分]"
-        },
-        {
-          "title": "大的来了!LOL怀旧服回归",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355734&amp;topic_name=%E5%A4%A7%E7%9A%84%E6%9D%A5%E4%BA%86%21LOL%E6%80%80%E6%97%A7%E6%9C%8D%E5%9B%9E%E5%BD%92",
-          "source": "贴吧",
-          "ranks": [
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时52分 ~ 07时11分]"
+          "appearance_count": 1,
+          "time_info": "01时54分"
         }
       ]
     }
