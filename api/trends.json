@@ -1,255 +1,22 @@
 {
-  "generated_at": "2026-07-02T23:15:42.988852+08:00",
-  "total_titles_processed": 1441,
+  "generated_at": "2026-07-03T01:46:37.416987+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 19,
-      "titles": [
-        {
-          "title": "iPhone 18 Pro大量细节被曝光，印度合作伙伴泄密给苹果敲响哪些警钟",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33494648",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时14分 ~ 18时38分]"
-        },
-        {
-          "title": "据日经新闻：苹果将推出5款新iPhone型号。",
-          "url": "https://flash.jin10.com/detail/20260702111100276800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时25分"
-        },
-        {
-          "title": "因印度供应商遭网络攻击，iPhone18 Pro Max 银灰色曝光，有哪些亮点？此泄露暴露出哪些问题？",
-          "url": "https://www.zhihu.com/question/2055321023403095974",
-          "source": "知乎",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时25分 ~ 23时15分]"
-        },
-        {
-          "title": "苹果将推出5款新iPhone机型。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/3127774",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时25分"
-        },
-        {
-          "title": "苹果拟在明年推出新款iPad Pro和重新设计MacBook Pro",
-          "url": "https://flash.jin10.com/detail/20260702051718886800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时27分 ~ 07时14分]"
-        },
-        {
-          "title": "市场消息：苹果(AAPL.O)即将推出新款iPad Pro和重新设计的入门级MacBook Pro。",
-          "url": "https://flash.jin10.com/detail/20260702044919187800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时27分 ~ 07时14分]"
-        },
-        {
-          "title": "苹果全力追查泄露信息人员",
-          "url": "https://www.douyin.com/hot/2554426",
-          "source": "抖音",
-          "ranks": [
-            10,
-            9,
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时54分 ~ 07时14分]"
-        },
-        {
-          "title": "小米卢伟冰称「失控的成本已经席卷了整个手机市场，而千元机毫无疑问受伤最严重」，如何看待这一言论？",
-          "url": "https://www.zhihu.com/question/2055964863189537048",
-          "source": "知乎",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时57分 ~ 23时15分]"
-        },
-        {
-          "title": "苹果全球涨价，授权店要求已预付消费者「补差价」，这合理吗？",
-          "url": "https://www.zhihu.com/question/2055358841626308640",
-          "source": "知乎",
-          "ranks": [
-            19,
-            16,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时52分 ~ 07时14分]"
-        },
-        {
-          "title": "SpaceX“造AI手机”传闻带飞高通 马斯克火速否认浇灭市场热情",
-          "url": "https://www.cls.cn/detail/2414781",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时25分 ~ 15时32分]"
-        },
-        {
-          "title": "苹果筹备全新iPad Pro与重新设计的入门级MacBook Pro",
-          "url": "https://wallstreetcn.com/livenews/3127617",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时27分 ~ 07时14分]"
-        },
-        {
-          "title": "美议员：不许苹果找中企买，坏了特朗普大事",
-          "url": "https://news.ifeng.com/c/8uQPHHBXrUC",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时25分 ~ 15时32分]"
-        },
-        {
-          "title": "女子走路玩手机掉进大锅全身湿透",
-          "url": "https://www.toutiao.com/trending/7656853302915252262/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时15分"
-        },
-        {
-          "title": "1000万台折叠屏、8500万台新机！苹果据称在存储荒里反向加单",
-          "url": "https://www.cls.cn/detail/2415328",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时15分"
-        },
-        {
-          "title": "报道：SpaceX开发出类似手机的AI原型机",
-          "url": "https://wallstreetcn.com/livenews/3127573",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时52分"
-        },
-        {
-          "title": "苹果信息泄露 你也能手搓苹果开发板",
-          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E4%BF%A1%E6%81%AF%E6%B3%84%E9%9C%B2%20%E4%BD%A0%E4%B9%9F%E8%83%BD%E6%89%8B%E6%90%93%E8%8B%B9%E6%9E%9C%E5%BC%80%E5%8F%91%E6%9D%BF&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时25分"
-        },
-        {
-          "title": "SpaceX披露手机形态AI设备原型 采用高通芯片并接入xAI",
-          "url": "https://flash.jin10.com/detail/20260702020830991800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时52分"
-        },
-        {
-          "title": "据华尔街日报：消息人士透露，该原型机将运行在集成SpaceX(SPCX.O)旗下xAI人工智能技术的专有操作系统上。该原型机设计时尚，比iPhone更纤薄。该设备将采用高通(QCOM.O)骁龙芯片组。",
-          "url": "https://flash.jin10.com/detail/20260702020102144800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时52分"
-        },
-        {
-          "title": "市场消息：苹果(AAPL.O)正与特朗普政府就芯片采购事宜进行谈判。",
-          "url": "https://flash.jin10.com/detail/20260702035645327800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时27分"
-        }
-      ]
-    },
-    {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 13,
+      "match_count": 5,
       "titles": [
         {
-          "title": "宝马销售抹黑小米被罚40万",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355803&amp;topic_name=%E5%AE%9D%E9%A9%AC%E9%94%80%E5%94%AE%E6%8A%B9%E9%BB%91%E5%B0%8F%E7%B1%B3%E8%A2%AB%E7%BD%9A40%E4%B8%87",
-          "source": "贴吧",
+          "title": "非农提振昙花一现，纳指100跌幅扩大至1%，存储芯片指数跌超7%，特斯拉跌超6%",
+          "url": "https://wallstreetcn.com/articles/3776024",
+          "source": "华尔街见闻",
           "ranks": [
-            10,
-            11,
-            15,
-            23,
-            26,
-            28
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时54分 ~ 23时15分]"
+          "appearance_count": 1,
+          "time_info": "01时46分"
         },
         {
           "title": "如何看待比亚迪 6 月销量 403472 辆？",
@@ -259,330 +26,141 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时37分 ~ 23时15分]"
+          "appearance_count": 1,
+          "time_info": "01时46分"
         },
         {
-          "title": "马斯克发布大合照：特斯拉弗里蒙特工厂Optimus产线或已就绪！",
-          "url": "https://www.cls.cn/detail/2415009",
-          "source": "财联社热门",
+          "title": "摩根士丹利分析师Andrew Percoco：最新一个季度是特斯拉自2023年第三季度以来汽车业务最高增速。 储能业务好于摩根士丹利预期，并与市场一致预期相符。 预计储能需求将继续保持稳健。",
+          "url": "https://wallstreetcn.com/livenews/3128169",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时32分 ~ 18时38分]"
-        },
-        {
-          "title": "非农提振昙花一现，纳指100跌幅扩大至1%，费城半导体指数跌超1.8%，特斯拉跌超6%",
-          "url": "https://wallstreetcn.com/articles/3776024",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时15分"
+          "time_info": "01时46分"
         },
         {
-          "title": "【数读IPO】华润新能源今日上市",
-          "url": "https://www.cls.cn/detail/2414801",
-          "source": "财联社热门",
+          "title": "纳斯达克100指数跌幅扩大至2%，半导体指数跌5.9%。 存储芯片指数重挫超10%，成分股闪迪跌13.4%、泰瑞达跌12.8%、西部数据跌9.6%。 纳指100的成分股中，除了上述个股之外，科磊跌11.8%，迈威尔科技/美满电子跌9.6%，Lumentum跌9.3%，Nebius Group跌8.5%，特斯拉跌7.8%，Meta跌4.2%。",
+          "url": "https://wallstreetcn.com/livenews/3128157",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            6
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时25分 ~ 15时32分]"
+          "appearance_count": 1,
+          "time_info": "01时46分"
         },
         {
-          "title": "比亚迪海豹08上市，售价19.69万起",
-          "url": "https://wallstreetcn.com/livenews/3128119",
-          "source": "华尔街见闻-快讯",
+          "title": "宝马销售抹黑小米被罚40万",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355803&amp;topic_name=%E5%AE%9D%E9%A9%AC%E9%94%80%E5%94%AE%E6%8A%B9%E9%BB%91%E5%B0%8F%E7%B1%B3%E8%A2%AB%E7%BD%9A40%E4%B8%87",
+          "source": "贴吧",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 Apple Mac iPhone 手机",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "1000万台折叠屏、8500万台新机！苹果据称在存储荒里反向加单",
+          "url": "https://www.cls.cn/detail/2415328",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时46分"
+        },
+        {
+          "title": "小米卢伟冰称「失控的成本已经席卷了整个手机市场，而千元机毫无疑问受伤最严重」，如何看待这一言论？",
+          "url": "https://www.zhihu.com/question/2055964863189537048",
+          "source": "知乎",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时15分"
+          "time_info": "01时46分"
         },
         {
-          "title": "特斯拉跌超6%，该公司此前披露的车辆交付数据远超分析师预期",
-          "url": "https://wallstreetcn.com/livenews/3128118",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时15分"
-        },
-        {
-          "title": "博主：比亚迪赢了销量却困在盈利泥潭",
-          "url": "https://www.toutiao.com/trending/7657586544584166953/",
-          "source": "今日头条",
+          "title": "苹果折叠屏手机备货至1000万台",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E5%B1%8F%E6%89%8B%E6%9C%BA%E5%A4%87%E8%B4%A7%E8%87%B31000%E4%B8%87%E5%8F%B0",
+          "source": "百度热搜",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时25分"
+          "time_info": "01时46分"
         },
         {
-          "title": "比亚迪海豹08代言人秦岚",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%B5%B7%E8%B1%B908%E4%BB%A3%E8%A8%80%E4%BA%BA%E7%A7%A6%E5%B2%9A%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时15分"
-        },
-        {
-          "title": "恒生科技指数日内涨幅扩大至2.1%，地平线机器人、比亚迪股份涨超7%。",
-          "url": "https://wallstreetcn.com/livenews/3127741",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时25分"
-        },
-        {
-          "title": "特斯拉(TSLA.O)跌幅扩大至6.1%。",
-          "url": "https://flash.jin10.com/detail/20260702223511118800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时15分"
-        },
-        {
-          "title": "比亚迪：大唐系列搭载螺纹生态接口",
-          "url": "https://www.toutiao.com/trending/7657280821036859455/",
+          "title": "女子走路玩手机掉进大锅全身湿透",
+          "url": "https://www.toutiao.com/trending/7656853302915252262/",
           "source": "今日头条",
           "ranks": [
-            26
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时54分"
-        },
-        {
-          "title": "乘联分会：6月全国乘用车厂商新能源批发预估151万辆，同比增长22%",
-          "url": "https://wallstreetcn.com/livenews/3128019",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时57分"
+          "time_info": "01时46分"
         }
       ]
     },
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 12,
+      "match_count": 4,
       "titles": [
         {
-          "title": "【伊朗称美方违反谅解备忘录承诺，将建立监督机制审查违规行为】伊朗外交部副部长、伊方技术谈判代表团团长加里巴巴迪表示，在当天于多哈举行的伊朗、卡塔尔、巴基斯坦三方会谈中，伊朗代表团提出并审查了美国违反美伊谅解备忘录第一条关于结束黎巴嫩战事的承诺，并讨论了有关美国加强地区军事装备和兵力部署的报道和美国官员发表的一些具有威胁性及干涉主义的言论。伊朗代表团在会谈中强调，美伊谅解备忘录中的各项承诺是一个整体，不能单独割裂看待。 加里巴巴迪宣布，将组建监督小组并通过直接沟通渠道通报和审查涉及美伊谅解备忘录的违规行为。他指出，伊朗代表在与卡塔尔央行等官员的会谈中已决定将部分解冻的60亿美元资金用于根据伊朗需求采购必要物资。他同时澄清称“伊朗与美国代表团没有在多哈举行会晤”。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3127569",
+          "title": "欧洲央行行长拉加德：欧洲央行6月加息肯定是正确的选择。 央行大部分决策者曾准备4月份加息。 供应链冲击通过经济扩散开来。 第二轮（通胀）效应还没有实质化。",
+          "url": "https://wallstreetcn.com/livenews/3128158",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时54分"
-        },
-        {
-          "title": "市场消息：丹麦央行上个月进行了外汇干预。丹麦央行通过外汇干预买入7亿丹麦克朗。",
-          "url": "https://flash.jin10.com/detail/20260702230320305800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时15分"
-        },
-        {
-          "title": "美欧英加央行掌门同台亮相 黄金、白银盘前异动拉升 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2414541",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时54分 ~ 11时25分]"
-        },
-        {
-          "title": "欧洲央行管委Stournaras：不认为7月份会发生任何（与货币政策调整有关的）事。 央行继续加息的可能性降低。 在一段时期内维持现状可能是适宜的。 必须监控（美国+以色列对伊朗发动的）战争对于价格的间接影响。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3127565",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 03时52分]"
+          "time_info": "01时46分"
         },
         {
           "title": "学姐我注册抖音号了",
           "url": "https://www.douyin.com/hot/2555545",
           "source": "抖音",
           "ranks": [
-            27,
-            22,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时37分 ~ 23时15分]"
-        },
-        {
-          "title": "小红书遭前高管举报，被指存在 VIE 信披矛盾和用工漏洞等问题，会对其 IPO 产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2055605976686751890",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时25分 ~ 15时32分]"
-        },
-        {
-          "title": "通胀疲软坐实瑞士央行全年不动 瑞郎反弹遭“冻结”",
-          "url": "https://flash.jin10.com/detail/20260702152026912800",
-          "source": "金十数据",
-          "ranks": [
-            7
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时32分"
+          "time_info": "01时46分"
         },
         {
-          "title": "俄罗斯央行：燃油价格可能会让6月CPI上扬大约0.3个百分点。（国际文传电讯社IFX）",
-          "url": "https://wallstreetcn.com/livenews/3128105",
+          "title": "瑞士央行称瑞银拥有足够资本以满足政府要求",
+          "url": "https://wallstreetcn.com/livenews/3128147",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时15分"
-        },
-        {
-          "title": "中国央行：6月公开市场国债买卖净投放100亿元。",
-          "url": "https://wallstreetcn.com/livenews/3127941",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时38分"
-        },
-        {
-          "title": "美国ADP数据低于预期；美欧英加四大央行掌门人论坛发言，沃什称通胀预期和通胀风险均有所下降；Meta拟出售过剩的AI算力......当前现货黄金多空拉锯，白银、美油卖出信号高企，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）。",
-          "url": "https://flash.jin10.com/detail/20260702104930268800",
-          "source": "金十数据",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时25分"
+          "time_info": "01时46分"
         },
         {
           "title": "哈兰德破纪录后发了5条抖音",
           "url": "https://www.douyin.com/hot/2556150",
           "source": "抖音",
           "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时15分"
-        },
-        {
-          "title": "英国两年期国债收益率跌超2个基点，投资者对央行加息预期降温",
-          "url": "https://wallstreetcn.com/livenews/3127536",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "国际黄金价格跌破 4000 美元 / 盎司后，未来有可能进一步跌到 3000 美元 / 盎司吗？",
-          "url": "https://www.zhihu.com/question/2053257491765581754",
-          "source": "知乎",
-          "ranks": [
-            12,
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时54分 ~ 07时14分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21,
-            23,
-            24,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时54分 ~ 07时14分]"
-        },
-        {
-          "title": "金十图示：2026年07月02日（周四）上海金午盘价为888.61元/克，较国际金价(888.81元/克)，低0.2元/克",
-          "url": "https://flash.jin10.com/detail/20260702151153434800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        },
-        {
-          "title": "世界黄金协会：下半年金价或区间震荡",
-          "url": "https://www.toutiao.com/trending/7657587029475069494/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时25分"
+          "time_info": "01时46分"
         }
       ]
     },
@@ -591,109 +169,93 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "如何看待 DeepSeek 招聘多处点名要求 Rust？",
-          "url": "https://www.zhihu.com/question/2054320593491715458",
+          "title": "7 月 2 日大量网友反馈 DeepSeek 崩了，是怎么回事？",
+          "url": "https://www.zhihu.com/question/2056064893745193207",
           "source": "知乎",
           "ranks": [
-            13,
-            17,
-            14,
-            18
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时54分 ~ 07时14分]"
+          "appearance_count": 1,
+          "time_info": "01时46分"
         },
         {
-          "title": "DeepSeek崩了",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=16&Refer=top",
-          "source": "微博",
+          "title": "为什么现在 DeepSeek 快速模式豆包化？",
+          "url": "https://www.zhihu.com/question/2050992107284964141",
+          "source": "知乎",
           "ranks": [
-            16
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时37分 ~ 18时38分]"
+          "appearance_count": 1,
+          "time_info": "01时46分"
         },
         {
           "title": "出现性能下降问题 DeepSeek回应",
           "url": "https://www.baidu.com/s?wd=%E5%87%BA%E7%8E%B0%E6%80%A7%E8%83%BD%E4%B8%8B%E9%99%8D%E9%97%AE%E9%A2%98+DeepSeek%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
           "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "甲骨文的AI焦虑：建了数千亿数据中心，但就怕OpenAI付不起账单",
-          "url": "https://wallstreetcn.com/articles/3775976",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时25分 ~ 15时32分]"
-        },
-        {
-          "title": "消息人士：软银就以OpenAI股权为抵押的贷款谈判重启，并作出更多让步",
-          "url": "https://flash.jin10.com/detail/20260702041739954800",
-          "source": "金十数据",
-          "ranks": [
-            15
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时27分"
-        },
-        {
-          "title": "市场消息：消息人士称，软银正与多家贷款机构谈判，拟筹集100亿美元保证金贷款，以OpenAI持股及还款担保作为支持。高盛、摩根大通及瑞穗金融集团预计将加入该贷款银团。",
-          "url": "https://flash.jin10.com/detail/20260702041320467800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时27分"
+          "time_info": "01时46分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
-          "title": "继美国司法部官司之后，Yelp在针对谷歌公司的反垄断诉讼中获胜。 联邦法院认定，谷歌网络搜索构成垄断。（彭博法律Blaw）",
-          "url": "https://wallstreetcn.com/livenews/3127564",
-          "source": "华尔街见闻-快讯",
+          "title": "谷歌(GOOG.O)：GTIG估计NetNut僵尸网络规模为全球200万设备。",
+          "url": "https://flash.jin10.com/detail/20260703012953278800",
+          "source": "金十数据",
           "ranks": [
-            6,
-            26
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 03时52分]"
+          "appearance_count": 1,
+          "time_info": "01时46分"
         },
         {
-          "title": "Meta据悉布局AI云业务 拟对外出售算力 挑战亚马逊、微软和谷歌",
-          "url": "https://www.cls.cn/detail/2414683",
-          "source": "财联社热门",
+          "title": "谷歌(GOOG.O)：已禁用NetNut用于恶意软件指挥和控制的谷歌账户。",
+          "url": "https://flash.jin10.com/detail/20260703012925898800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            12
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时25分 ~ 15时32分]"
+          "appearance_count": 1,
+          "time_info": "01时46分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：已对“NetNut住宅代理网络”（也称为POPA）采取行动。",
+          "url": "https://flash.jin10.com/detail/20260703012900926800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "传特朗普政府未与Anthropic讨论入股 OpenAI曾涉5%股权提议",
+          "url": "https://flash.jin10.com/detail/20260703004456845800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时46分"
         }
       ]
     }
