@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T01:46:37.416987+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-07-03T03:22:41.482793+08:00",
+  "total_titles_processed": 375,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "非农提振昙花一现，纳指100跌幅扩大至1%，存储芯片指数跌超7%，特斯拉跌超6%",
@@ -15,30 +15,54 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 03时22分]"
         },
         {
           "title": "如何看待比亚迪 6 月销量 403472 辆？",
           "url": "https://www.zhihu.com/question/2055723812524652185",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 03时22分]"
+        },
+        {
+          "title": "报道：特斯拉将雇员的AI开销控制在最高每周200美元",
+          "url": "https://wallstreetcn.com/livenews/3128196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时46分"
+          "time_info": "03时22分"
         },
         {
           "title": "摩根士丹利分析师Andrew Percoco：最新一个季度是特斯拉自2023年第三季度以来汽车业务最高增速。 储能业务好于摩根士丹利预期，并与市场一致预期相符。 预计储能需求将继续保持稳健。",
           "url": "https://wallstreetcn.com/livenews/3128169",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 03时22分]"
+        },
+        {
+          "title": "宝马销售抹黑小米被罚40万",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355803&amp;topic_name=%E5%AE%9D%E9%A9%AC%E9%94%80%E5%94%AE%E6%8A%B9%E9%BB%91%E5%B0%8F%E7%B1%B3%E8%A2%AB%E7%BD%9A40%E4%B8%87",
+          "source": "贴吧",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 03时22分]"
         },
         {
           "title": "纳斯达克100指数跌幅扩大至2%，半导体指数跌5.9%。 存储芯片指数重挫超10%，成分股闪迪跌13.4%、泰瑞达跌12.8%、西部数据跌9.6%。 纳指100的成分股中，除了上述个股之外，科磊跌11.8%，迈威尔科技/美满电子跌9.6%，Lumentum跌9.3%，Nebius Group跌8.5%，特斯拉跌7.8%，Meta跌4.2%。",
@@ -52,15 +76,15 @@
           "time_info": "01时46分"
         },
         {
-          "title": "宝马销售抹黑小米被罚40万",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355803&amp;topic_name=%E5%AE%9D%E9%A9%AC%E9%94%80%E5%94%AE%E6%8A%B9%E9%BB%91%E5%B0%8F%E7%B1%B3%E8%A2%AB%E7%BD%9A40%E4%B8%87",
-          "source": "贴吧",
+          "title": "特斯拉推出Model Y长轴距版，现已在美国上市。",
+          "url": "https://wallstreetcn.com/livenews/3128179",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            29
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时46分"
+          "time_info": "03时22分"
         }
       ]
     },
@@ -73,11 +97,24 @@
           "url": "https://www.cls.cn/detail/2415328",
           "source": "财联社热门",
           "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 03时22分]"
+        },
+        {
+          "title": "女子走路玩手机掉进大锅全身湿透",
+          "url": "https://www.toutiao.com/trending/7656853302915252262/",
+          "source": "今日头条",
+          "ranks": [
+            19,
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 03时22分]"
         },
         {
           "title": "小米卢伟冰称「失控的成本已经席卷了整个手机市场，而千元机毫无疑问受伤最严重」，如何看待这一言论？",
@@ -87,30 +124,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 03时22分]"
         },
         {
           "title": "苹果折叠屏手机备货至1000万台",
           "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E5%B1%8F%E6%89%8B%E6%9C%BA%E5%A4%87%E8%B4%A7%E8%87%B31000%E4%B8%87%E5%8F%B0",
           "source": "百度热搜",
           "ranks": [
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
-        },
-        {
-          "title": "女子走路玩手机掉进大锅全身湿透",
-          "url": "https://www.toutiao.com/trending/7656853302915252262/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 03时22分]"
         }
       ]
     },
@@ -118,6 +145,29 @@
       "keyword_group": "央行 抖音 小红书",
       "match_count": 4,
       "titles": [
+        {
+          "title": "学姐我注册抖音号了",
+          "url": "https://www.douyin.com/hot/2555545",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 03时22分]"
+        },
+        {
+          "title": "哈兰德破纪录后发了5条抖音",
+          "url": "https://www.douyin.com/hot/2556150",
+          "source": "抖音",
+          "ranks": [
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 03时22分]"
+        },
         {
           "title": "欧洲央行行长拉加德：欧洲央行6月加息肯定是正确的选择。 央行大部分决策者曾准备4月份加息。 供应链冲击通过经济扩散开来。 第二轮（通胀）效应还没有实质化。",
           "url": "https://wallstreetcn.com/livenews/3128158",
@@ -130,33 +180,11 @@
           "time_info": "01时46分"
         },
         {
-          "title": "学姐我注册抖音号了",
-          "url": "https://www.douyin.com/hot/2555545",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
-        },
-        {
           "title": "瑞士央行称瑞银拥有足够资本以满足政府要求",
           "url": "https://wallstreetcn.com/livenews/3128147",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
-        },
-        {
-          "title": "哈兰德破纪录后发了5条抖音",
-          "url": "https://www.douyin.com/hot/2556150",
-          "source": "抖音",
-          "ranks": [
-            25
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -173,22 +201,24 @@
           "url": "https://www.zhihu.com/question/2056064893745193207",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 03时22分]"
         },
         {
           "title": "为什么现在 DeepSeek 快速模式豆包化？",
           "url": "https://www.zhihu.com/question/2050992107284964141",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 03时22分]"
         },
         {
           "title": "出现性能下降问题 DeepSeek回应",
@@ -198,8 +228,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 03时22分]"
         }
       ]
     },
