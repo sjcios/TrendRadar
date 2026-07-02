@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T18:38:00.857657+08:00",
-  "total_titles_processed": 1140,
+  "generated_at": "2026-07-02T20:57:31.914363+08:00",
+  "total_titles_processed": 1301,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "iPhone 18 Pro大量细节被曝光，印度合作伙伴泄密给苹果敲响哪些警钟",
@@ -41,6 +41,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
+        },
+        {
+          "title": "因印度供应商遭网络攻击，iPhone18 Pro Max 银灰色曝光，有哪些亮点？此泄露暴露出哪些问题？",
+          "url": "https://www.zhihu.com/question/2055321023403095974",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时25分 ~ 20时57分]"
         },
         {
           "title": "苹果拟在明年推出新款iPad Pro和重新设计MacBook Pro",
@@ -79,18 +91,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时54分 ~ 07时14分]"
-        },
-        {
-          "title": "因印度供应商遭网络攻击，iPhone18 Pro Max 银灰色曝光，有哪些亮点？此泄露暴露出哪些问题？",
-          "url": "https://www.zhihu.com/question/2055321023403095974",
-          "source": "知乎",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时25分 ~ 18时38分]"
         },
         {
           "title": "苹果全球涨价，授权店要求已预付消费者「补差价」，这合理吗？",
@@ -139,6 +139,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时25分 ~ 15时32分]"
+        },
+        {
+          "title": "小米卢伟冰称「失控的成本已经席卷了整个手机市场，而千元机毫无疑问受伤最严重」，如何看待这一言论？",
+          "url": "https://www.zhihu.com/question/2055964863189537048",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "报道：SpaceX开发出类似手机的AI原型机",
@@ -238,6 +249,18 @@
           "time_info": "[01时54分 ~ 03时52分]"
         },
         {
+          "title": "学姐我注册抖音号了",
+          "url": "https://www.douyin.com/hot/2555545",
+          "source": "抖音",
+          "ranks": [
+            27,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时37分 ~ 20时57分]"
+        },
+        {
           "title": "小红书遭前高管举报，被指存在 VIE 信披矛盾和用工漏洞等问题，会对其 IPO 产生哪些影响？",
           "url": "https://www.zhihu.com/question/2055605976686751890",
           "source": "知乎",
@@ -248,17 +271,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时25分 ~ 15时32分]"
-        },
-        {
-          "title": "学姐我注册抖音号了",
-          "url": "https://www.douyin.com/hot/2555545",
-          "source": "抖音",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时37分 ~ 18时38分]"
         },
         {
           "title": "通胀疲软坐实瑞士央行全年不动 瑞郎反弹遭“冻结”",
@@ -278,7 +290,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         },
@@ -308,7 +320,7 @@
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "宝马销售抹黑小米被罚40万",
@@ -319,11 +331,23 @@
             11,
             15,
             23,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时54分 ~ 18时38分]"
+          "appearance_count": 9,
+          "time_info": "[01时54分 ~ 20时57分]"
+        },
+        {
+          "title": "如何看待比亚迪 6 月销量 403472 辆？",
+          "url": "https://www.zhihu.com/question/2055723812524652185",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时37分 ~ 20时57分]"
         },
         {
           "title": "马斯克发布大合照：特斯拉弗里蒙特工厂Optimus产线或已就绪！",
@@ -336,17 +360,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时32分 ~ 18时38分]"
-        },
-        {
-          "title": "如何看待比亚迪 6 月销量 403472 辆？",
-          "url": "https://www.zhihu.com/question/2055723812524652185",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时37分 ~ 18时38分]"
         },
         {
           "title": "【数读IPO】华润新能源今日上市",
@@ -392,6 +405,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        },
+        {
+          "title": "乘联分会：6月全国乘用车厂商新能源批发预估151万辆，同比增长22%",
+          "url": "https://wallstreetcn.com/livenews/3128019",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         }
       ]
     },
