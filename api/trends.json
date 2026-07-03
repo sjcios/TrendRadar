@@ -1,11 +1,418 @@
 {
-  "generated_at": "2026-07-03T14:32:24.281468+08:00",
-  "total_titles_processed": 882,
+  "generated_at": "2026-07-03T17:57:23.767755+08:00",
+  "total_titles_processed": 1066,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "央行 抖音 小红书",
+      "match_count": 20,
+      "titles": [
+        {
+          "title": "哈兰德破纪录后发了5条抖音",
+          "url": "https://www.douyin.com/hot/2556150",
+          "source": "抖音",
+          "ranks": [
+            25,
+            26,
+            27,
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时46分 ~ 14时32分]"
+        },
+        {
+          "title": "欧洲央行管委穆兰：首要任务是将通胀恢复到目标水平。第二任务是货币主权。",
+          "url": "https://flash.jin10.com/detail/20260703175123690800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
+          "title": "欧洲央行管委穆兰：法国债务需求强劲，需坚持财政承诺。",
+          "url": "https://flash.jin10.com/detail/20260703175105512800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
+          "title": "欧洲央行管委穆兰：目前没有看到二次效应。",
+          "url": "https://flash.jin10.com/detail/20260703175008225800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
+          "title": "学姐我注册抖音号了",
+          "url": "https://www.douyin.com/hot/2555545",
+          "source": "抖音",
+          "ranks": [
+            20,
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时46分 ~ 14时32分]"
+        },
+        {
+          "title": "欧洲央行管委穆兰：我们确保不会释放开启新一轮加息周期的信号。",
+          "url": "https://flash.jin10.com/detail/20260703174751100800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
+          "title": "欧洲央行管委穆兰：我们对下一次会议没有做出任何承诺。",
+          "url": "https://flash.jin10.com/detail/20260703174723860800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
+          "title": "欧洲央行管委穆兰：6月份的增长表现疲软，缺乏活力。不期待第二季度增长大幅上升。",
+          "url": "https://flash.jin10.com/detail/20260703174656100800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
+          "title": "欧洲央行管委穆兰：我们对基本情景感到满意。",
+          "url": "https://flash.jin10.com/detail/20260703174631193800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
+          "title": "欧洲央行管委穆兰：霍尔木兹海峡发生的事情对全球来说是好消息。",
+          "url": "https://flash.jin10.com/detail/20260703174623266800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
+          "title": "欧洲央行管委穆兰：我们将在九月份发布新的预测。",
+          "url": "https://flash.jin10.com/detail/20260703174614028800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
+          "title": "中国央行：7月6日将开展10000亿元买断式逆回购操作",
+          "url": "https://wallstreetcn.com/livenews/3128582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
+          "title": "欧央行行长拉加德不排除提前卸任，要在法国大选中为欧洲一体化发声",
+          "url": "https://flash.jin10.com/detail/20260703174605649800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
+          "title": "欧洲央行管委穆兰：6月加息是正确的决定。",
+          "url": "https://flash.jin10.com/detail/20260703174558941800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
+          "title": "欧洲央行管委穆兰：油价下跌将减轻服务业影响。",
+          "url": "https://flash.jin10.com/detail/20260703174550266800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：欧洲央行6月加息肯定是正确的选择。 央行大部分决策者曾准备4月份加息。 供应链冲击通过经济扩散开来。 第二轮（通胀）效应还没有实质化。",
+          "url": "https://wallstreetcn.com/livenews/3128158",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时46分"
+        },
+        {
+          "title": "欧洲央行管委穆兰：我们处于一个良好的位置。风险平衡处于合理位置。",
+          "url": "https://flash.jin10.com/detail/20260703174540423800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
+          "title": "欧洲央行管委穆兰：油价方面传来了好消息。",
+          "url": "https://flash.jin10.com/detail/20260703174526030800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
+          "title": "若黄金保持在4000美元左右，全球央行可能恢复增持逻辑",
+          "url": "https://flash.jin10.com/detail/20260703101639118800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "瑞士央行称瑞银拥有足够资本以满足政府要求",
+          "url": "https://wallstreetcn.com/livenews/3128147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "非农提振昙花一现，纳指100跌幅扩大至1%，存储芯片指数跌超7%，特斯拉跌超6%",
+          "url": "https://wallstreetcn.com/articles/3776024",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 03时22分]"
+        },
+        {
+          "title": "如何看待比亚迪 6 月销量 403472 辆？",
+          "url": "https://www.zhihu.com/question/2055723812524652185",
+          "source": "知乎",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 03时22分]"
+        },
+        {
+          "title": "报道：特斯拉将雇员的AI开销控制在最高每周200美元",
+          "url": "https://wallstreetcn.com/livenews/3128196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "欧洲高温，有网友拿软管把新能源车里的冷气直接拉到屋里，这招可行吗？空调系统和电池能扛得住吗？",
+          "url": "https://www.zhihu.com/question/2054943154923463985",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
+          "title": "摩根士丹利分析师Andrew Percoco：最新一个季度是特斯拉自2023年第三季度以来汽车业务最高增速。 储能业务好于摩根士丹利预期，并与市场一致预期相符。 预计储能需求将继续保持稳健。",
+          "url": "https://wallstreetcn.com/livenews/3128169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 03时22分]"
+        },
+        {
+          "title": "宝马销售抹黑小米被罚40万",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355803&amp;topic_name=%E5%AE%9D%E9%A9%AC%E9%94%80%E5%94%AE%E6%8A%B9%E9%BB%91%E5%B0%8F%E7%B1%B3%E8%A2%AB%E7%BD%9A40%E4%B8%87",
+          "source": "贴吧",
+          "ranks": [
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时46分 ~ 07时05分]"
+        },
+        {
+          "title": "交付大增25%难救股价：特斯拉盘中重挫 华尔街到底怕什么？",
+          "url": "https://www.cls.cn/detail/2415915",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时47分 ~ 14时32分]"
+        },
+        {
+          "title": "国务院：开展新能源汽车、绿色智能家电、绿色建材下乡活动",
+          "url": "https://wallstreetcn.com/livenews/3128586",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
+          "title": "三部门有关司负责人就调整节能汽车、新能源汽车车船税优惠政策答记者问",
+          "url": "https://wallstreetcn.com/livenews/3128585",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
+          "title": "据特斯拉官方微博，特斯拉全球超充桩突破80,000根，二季度新增2,700根，同比增长17%。",
+          "url": "https://wallstreetcn.com/livenews/3128439",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
+        {
+          "title": "三部门：调整节能汽车、新能源汽车车船税优惠政策",
+          "url": "https://wallstreetcn.com/livenews/3128579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
+          "title": "比亚迪海豹 08 上市价格 19.69-23.99 万，值得入手吗？",
+          "url": "https://www.zhihu.com/question/2056041972998083528",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
+          "title": "纳斯达克100指数跌幅扩大至2%，半导体指数跌5.9%。 存储芯片指数重挫超10%，成分股闪迪跌13.4%、泰瑞达跌12.8%、西部数据跌9.6%。 纳指100的成分股中，除了上述个股之外，科磊跌11.8%，迈威尔科技/美满电子跌9.6%，Lumentum跌9.3%，Nebius Group跌8.5%，特斯拉跌7.8%，Meta跌4.2%。",
+          "url": "https://wallstreetcn.com/livenews/3128157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时46分"
+        },
+        {
+          "title": "特斯拉推出Model Y长轴距版，现已在美国上市。",
+          "url": "https://wallstreetcn.com/livenews/3128179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "乘联分会：中国6月初步统计新能源车市场零售同比下降7%，环比增长9%。",
+          "url": "https://wallstreetcn.com/livenews/3128568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        }
+      ]
+    },
+    {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股收盘：芯片股续跌闪迪重挫14% 苹果涨5%领道指刷新高",
@@ -31,8 +438,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时46分 ~ 10时48分]"
+          "appearance_count": 7,
+          "time_info": "[01时46分 ~ 17时57分]"
         },
         {
           "title": "1000万台折叠屏、8500万台新机！苹果据称在存储荒里反向加单",
@@ -118,6 +525,39 @@
           "time_info": "[10时47分 ~ 10时48分]"
         },
         {
+          "title": "千元手机明年或许买不到了",
+          "url": "https://www.cls.cn/detail/2416416",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
+          "title": "印度首度回应塔塔电子泄露苹果商业机密事件：正在调查",
+          "url": "https://flash.jin10.com/detail/20260703174610996800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
+          "title": "教育部：坚决杜绝用手机布置作业",
+          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E5%9D%9A%E5%86%B3%E6%9D%9C%E7%BB%9D%E7%94%A8%E6%89%8B%E6%9C%BA%E5%B8%83%E7%BD%AE%E4%BD%9C%E4%B8%9A",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
           "title": "周四（7月2日），美股信息科技指数跌5.79%，报413.81点，本周累跌4.92%。 周四当天，成分股闪迪、泰瑞达、科磊、康宁公司、IREN、希捷科技、拉姆研究收跌14.13%-10.19%表现最差，西部数据、迈威尔科技/美满电子、高意公司Coherent、Lumentum、Ciena至少跌8.65%紧随其后，微软则涨1.62%，Adobe涨4.14%表现第四，埃森哲涨4.74%，苹果涨4.84%，FICO涨5.32%。 在标普科技板块，伟创力国际收跌10.86%，与闪迪、泰瑞达、科磊、康宁公司、希捷科技、拉姆研究、西部数据等领跌，Tyler科技涨5.45%，与FICO、苹果、埃森哲、Adobe领涨。",
           "url": "https://wallstreetcn.com/livenews/3128252",
           "source": "华尔街见闻-快讯",
@@ -135,185 +575,9 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "非农提振昙花一现，纳指100跌幅扩大至1%，存储芯片指数跌超7%，特斯拉跌超6%",
-          "url": "https://wallstreetcn.com/articles/3776024",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时46分 ~ 03时22分]"
-        },
-        {
-          "title": "如何看待比亚迪 6 月销量 403472 辆？",
-          "url": "https://www.zhihu.com/question/2055723812524652185",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时46分 ~ 03时22分]"
-        },
-        {
-          "title": "报道：特斯拉将雇员的AI开销控制在最高每周200美元",
-          "url": "https://wallstreetcn.com/livenews/3128196",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "摩根士丹利分析师Andrew Percoco：最新一个季度是特斯拉自2023年第三季度以来汽车业务最高增速。 储能业务好于摩根士丹利预期，并与市场一致预期相符。 预计储能需求将继续保持稳健。",
-          "url": "https://wallstreetcn.com/livenews/3128169",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时46分 ~ 03时22分]"
-        },
-        {
-          "title": "宝马销售抹黑小米被罚40万",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355803&amp;topic_name=%E5%AE%9D%E9%A9%AC%E9%94%80%E5%94%AE%E6%8A%B9%E9%BB%91%E5%B0%8F%E7%B1%B3%E8%A2%AB%E7%BD%9A40%E4%B8%87",
-          "source": "贴吧",
-          "ranks": [
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时46分 ~ 07时05分]"
-        },
-        {
-          "title": "交付大增25%难救股价：特斯拉盘中重挫 华尔街到底怕什么？",
-          "url": "https://www.cls.cn/detail/2415915",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时47分 ~ 14时32分]"
-        },
-        {
-          "title": "据特斯拉官方微博，特斯拉全球超充桩突破80,000根，二季度新增2,700根，同比增长17%。",
-          "url": "https://wallstreetcn.com/livenews/3128439",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        },
-        {
-          "title": "纳斯达克100指数跌幅扩大至2%，半导体指数跌5.9%。 存储芯片指数重挫超10%，成分股闪迪跌13.4%、泰瑞达跌12.8%、西部数据跌9.6%。 纳指100的成分股中，除了上述个股之外，科磊跌11.8%，迈威尔科技/美满电子跌9.6%，Lumentum跌9.3%，Nebius Group跌8.5%，特斯拉跌7.8%，Meta跌4.2%。",
-          "url": "https://wallstreetcn.com/livenews/3128157",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
-        },
-        {
-          "title": "特斯拉推出Model Y长轴距版，现已在美国上市。",
-          "url": "https://wallstreetcn.com/livenews/3128179",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "央行 抖音 小红书",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "哈兰德破纪录后发了5条抖音",
-          "url": "https://www.douyin.com/hot/2556150",
-          "source": "抖音",
-          "ranks": [
-            25,
-            26,
-            27,
-            30,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时46分 ~ 14时32分]"
-        },
-        {
-          "title": "学姐我注册抖音号了",
-          "url": "https://www.douyin.com/hot/2555545",
-          "source": "抖音",
-          "ranks": [
-            20,
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时46分 ~ 14时32分]"
-        },
-        {
-          "title": "欧洲央行行长拉加德：欧洲央行6月加息肯定是正确的选择。 央行大部分决策者曾准备4月份加息。 供应链冲击通过经济扩散开来。 第二轮（通胀）效应还没有实质化。",
-          "url": "https://wallstreetcn.com/livenews/3128158",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
-        },
-        {
-          "title": "若黄金保持在4000美元左右，全球央行可能恢复增持逻辑",
-          "url": "https://flash.jin10.com/detail/20260703101639118800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
-          "title": "瑞士央行称瑞银拥有足够资本以满足政府要求",
-          "url": "https://wallstreetcn.com/livenews/3128147",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
         }
       ]
     },
