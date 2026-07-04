@@ -1,8 +1,168 @@
 {
-  "generated_at": "2026-07-04T14:18:18.659374+08:00",
-  "total_titles_processed": 833,
+  "generated_at": "2026-07-04T17:22:08.453614+08:00",
+  "total_titles_processed": 992,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "苹果 Apple Mac iPhone 手机",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "演上了！美议员当众举起手机：去中国不带，去印度就带",
+          "url": "https://news.ifeng.com/c/8uT5BAgoWQc",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时01分 ~ 10时44分]"
+        },
+        {
+          "title": "如何看待苹果手机信息泄露，程度堪比马圣开源？",
+          "url": "https://www.zhihu.com/question/2055966649900183829",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 17时22分]"
+        },
+        {
+          "title": "一天3款新车上市 造手机的都沉默了",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%A4%A93%E6%AC%BE%E6%96%B0%E8%BD%A6%E4%B8%8A%E5%B8%82+%E9%80%A0%E6%89%8B%E6%9C%BA%E7%9A%84%E9%83%BD%E6%B2%89%E9%BB%98%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            10,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时24分 ~ 14时18分]"
+        },
+        {
+          "title": "教育部：坚决杜绝用手机布置作业",
+          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E5%9D%9A%E5%86%B3%E6%9D%9C%E7%BB%9D%E7%94%A8%E6%89%8B%E6%9C%BA%E5%B8%83%E7%BD%AE%E4%BD%9C%E4%B8%9A",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            20,
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 07时02分]"
+        },
+        {
+          "title": "曝霉霉婚礼上唯一允许带手机的人",
+          "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E9%9C%89%E9%9C%89%E5%A9%9A%E7%A4%BC%E4%B8%8A%E5%94%AF%E4%B8%80%E5%85%81%E8%AE%B8%E5%B8%A6%E6%89%8B%E6%9C%BA%E7%9A%84%E4%BA%BA&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时18分 ~ 17时22分]"
+        },
+        {
+          "title": "教育部：坚决杜绝用手机布置作业",
+          "url": "https://www.toutiao.com/trending/7658188046671773723/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时24分 ~ 05时04分]"
+        },
+        {
+          "title": "千元手机明年或许买不到了",
+          "url": "https://www.cls.cn/detail/2416416",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时19分]"
+        },
+        {
+          "title": "印度正调查泄密iPhone事件",
+          "url": "https://www.douyin.com/hot/2557979",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 17时22分]"
+        },
+        {
+          "title": "曝iPhone18无缘iOS27两大功能",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DiPhone18%E6%97%A0%E7%BC%98iOS27%E4%B8%A4%E5%A4%A7%E5%8A%9F%E8%83%BD%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 10时44分]"
+        },
+        {
+          "title": "Steam Machine全面评测",
+          "url": "https://search.bilibili.com/all?keyword=Steam%20Machine%E5%85%A8%E9%9D%A2%E8%AF%84%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 17时22分]"
+        },
+        {
+          "title": "迪丽热巴一出现全场的手机就醒了",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E4%B8%80%E5%87%BA%E7%8E%B0%E5%85%A8%E5%9C%BA%E7%9A%84%E6%89%8B%E6%9C%BA%E5%B0%B1%E9%86%92%E4%BA%86%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 10时44分]"
+        },
+        {
+          "title": "印度政府：正调查苹果手机信息泄露事件",
+          "url": "https://wallstreetcn.com/livenews/3128883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
+          "title": "华强北提前开苹果发布会了",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E5%BC%BA%E5%8C%97%E6%8F%90%E5%89%8D%E5%BC%80%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A%E4%BA%86&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        }
+      ]
+    },
     {
       "keyword_group": "央行 抖音 小红书",
       "match_count": 11,
@@ -16,8 +176,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时24分 ~ 14时18分]"
+          "appearance_count": 10,
+          "time_info": "[01时24分 ~ 17时22分]"
         },
         {
           "title": "欧洲央行行长将亲自出席下周的欧盟经济和财政事务理事会会议",
@@ -136,134 +296,8 @@
       ]
     },
     {
-      "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "演上了！美议员当众举起手机：去中国不带，去印度就带",
-          "url": "https://news.ifeng.com/c/8uT5BAgoWQc",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时01分 ~ 10时44分]"
-        },
-        {
-          "title": "一天3款新车上市 造手机的都沉默了",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%A4%A93%E6%AC%BE%E6%96%B0%E8%BD%A6%E4%B8%8A%E5%B8%82+%E9%80%A0%E6%89%8B%E6%9C%BA%E7%9A%84%E9%83%BD%E6%B2%89%E9%BB%98%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            10,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 14时18分]"
-        },
-        {
-          "title": "教育部：坚决杜绝用手机布置作业",
-          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E5%9D%9A%E5%86%B3%E6%9D%9C%E7%BB%9D%E7%94%A8%E6%89%8B%E6%9C%BA%E5%B8%83%E7%BD%AE%E4%BD%9C%E4%B8%9A",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            20,
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 07时02分]"
-        },
-        {
-          "title": "教育部：坚决杜绝用手机布置作业",
-          "url": "https://www.toutiao.com/trending/7658188046671773723/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 05时04分]"
-        },
-        {
-          "title": "千元手机明年或许买不到了",
-          "url": "https://www.cls.cn/detail/2416416",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时24分 ~ 03时19分]"
-        },
-        {
-          "title": "曝iPhone18无缘iOS27两大功能",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DiPhone18%E6%97%A0%E7%BC%98iOS27%E4%B8%A4%E5%A4%A7%E5%8A%9F%E8%83%BD%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时43分 ~ 10时44分]"
-        },
-        {
-          "title": "迪丽热巴一出现全场的手机就醒了",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E4%B8%80%E5%87%BA%E7%8E%B0%E5%85%A8%E5%9C%BA%E7%9A%84%E6%89%8B%E6%9C%BA%E5%B0%B1%E9%86%92%E4%BA%86%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时43分 ~ 10时44分]"
-        },
-        {
-          "title": "曝霉霉婚礼上唯一允许带手机的人",
-          "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E9%9C%89%E9%9C%89%E5%A9%9A%E7%A4%BC%E4%B8%8A%E5%94%AF%E4%B8%80%E5%85%81%E8%AE%B8%E5%B8%A6%E6%89%8B%E6%9C%BA%E7%9A%84%E4%BA%BA&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时18分"
-        },
-        {
-          "title": "印度政府：正调查苹果手机信息泄露事件",
-          "url": "https://wallstreetcn.com/livenews/3128883",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时18分"
-        },
-        {
-          "title": "华强北提前开苹果发布会了",
-          "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E5%BC%BA%E5%8C%97%E6%8F%90%E5%89%8D%E5%BC%80%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A%E4%BA%86&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时18分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金价本周涨超2%",
@@ -303,6 +337,17 @@
           "time_info": "[03时19分 ~ 05时04分]"
         },
         {
+          "title": "金价抬头 顾客冲进金店“秒下单”",
+          "url": "https://www.toutiao.com/trending/7657606346723835940/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 17时22分]"
+        },
+        {
           "title": "金价银价上涨原因",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E4%B8%8A%E6%B6%A8%E5%8E%9F%E5%9B%A0&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -328,7 +373,7 @@
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "三部门调整节能汽车、新能源汽车车船税优惠政策",
@@ -394,6 +439,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时43分 ~ 10时44分]"
+        },
+        {
+          "title": "海南平稳推进2030年禁售燃油车 新能源车占比将达45%",
+          "url": "https://wallstreetcn.com/livenews/3128906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         }
       ]
     },
@@ -410,8 +466,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时43分 ~ 14时18分]"
+          "appearance_count": 5,
+          "time_info": "[10时43分 ~ 17时22分]"
         }
       ]
     },
@@ -426,7 +482,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
         }
