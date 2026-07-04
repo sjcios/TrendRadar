@@ -1,554 +1,72 @@
 {
-  "generated_at": "2026-07-04T23:04:48.228755+08:00",
-  "total_titles_processed": 1279,
+  "generated_at": "2026-07-05T01:03:49.068439+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 14,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "如何看待苹果手机信息泄露，程度堪比马圣开源？",
-          "url": "https://www.zhihu.com/question/2055966649900183829",
-          "source": "知乎",
-          "ranks": [
-            5,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时21分 ~ 23时04分]"
-        },
         {
           "title": "印度正调查泄密iPhone事件",
           "url": "https://www.douyin.com/hot/2557979",
           "source": "抖音",
           "ranks": [
-            10,
-            12,
-            6,
-            2
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时21分 ~ 23时04分]"
+          "appearance_count": 1,
+          "time_info": "01时03分"
         },
         {
-          "title": "演上了！美议员当众举起手机：去中国不带，去印度就带",
-          "url": "https://news.ifeng.com/c/8uT5BAgoWQc",
-          "source": "凤凰网",
+          "title": "如何看待苹果手机信息泄露，程度堪比马圣开源？",
+          "url": "https://www.zhihu.com/question/2055966649900183829",
+          "source": "知乎",
           "ranks": [
-            4,
-            5
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时01分 ~ 10时44分]"
-        },
-        {
-          "title": "一天3款新车上市 造手机的都沉默了",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%A4%A93%E6%AC%BE%E6%96%B0%E8%BD%A6%E4%B8%8A%E5%B8%82+%E9%80%A0%E6%89%8B%E6%9C%BA%E7%9A%84%E9%83%BD%E6%B2%89%E9%BB%98%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            10,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 14时18分]"
-        },
-        {
-          "title": "曝霉霉婚礼上唯一允许带手机的人",
-          "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E9%9C%89%E9%9C%89%E5%A9%9A%E7%A4%BC%E4%B8%8A%E5%94%AF%E4%B8%80%E5%85%81%E8%AE%B8%E5%B8%A6%E6%89%8B%E6%9C%BA%E7%9A%84%E4%BA%BA&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12,
-            21,
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时18分 ~ 23时04分]"
-        },
-        {
-          "title": "教育部：坚决杜绝用手机布置作业",
-          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E5%9D%9A%E5%86%B3%E6%9D%9C%E7%BB%9D%E7%94%A8%E6%89%8B%E6%9C%BA%E5%B8%83%E7%BD%AE%E4%BD%9C%E4%B8%9A",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            20,
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 07时02分]"
-        },
-        {
-          "title": "教育部：坚决杜绝用手机布置作业",
-          "url": "https://www.toutiao.com/trending/7658188046671773723/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 05时04分]"
-        },
-        {
-          "title": "千元手机明年或许买不到了",
-          "url": "https://www.cls.cn/detail/2416416",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时24分 ~ 03时19分]"
-        },
-        {
-          "title": "曝iPhone18无缘iOS27两大功能",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DiPhone18%E6%97%A0%E7%BC%98iOS27%E4%B8%A4%E5%A4%A7%E5%8A%9F%E8%83%BD%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时43分 ~ 10时44分]"
-        },
-        {
-          "title": "Steam Machine全面评测",
-          "url": "https://search.bilibili.com/all?keyword=Steam%20Machine%E5%85%A8%E9%9D%A2%E8%AF%84%E6%B5%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时21分 ~ 17时22分]"
-        },
-        {
-          "title": "迪丽热巴一出现全场的手机就醒了",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E4%B8%80%E5%87%BA%E7%8E%B0%E5%85%A8%E5%9C%BA%E7%9A%84%E6%89%8B%E6%9C%BA%E5%B0%B1%E9%86%92%E4%BA%86%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时43分 ~ 10时44分]"
+          "appearance_count": 1,
+          "time_info": "01时03分"
         },
         {
           "title": "曝赛琳娜是霉霉婚礼唯一能带手机者",
           "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E8%B5%9B%E7%90%B3%E5%A8%9C%E6%98%AF%E9%9C%89%E9%9C%89%E5%A9%9A%E7%A4%BC%E5%94%AF%E4%B8%80%E8%83%BD%E5%B8%A6%E6%89%8B%E6%9C%BA%E8%80%85",
           "source": "百度热搜",
           "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时04分"
-        },
-        {
-          "title": "印度政府：正调查苹果手机信息泄露事件",
-          "url": "https://wallstreetcn.com/livenews/3128883",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时18分"
-        },
-        {
-          "title": "华强北提前开苹果发布会了",
-          "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E5%BC%BA%E5%8C%97%E6%8F%90%E5%89%8D%E5%BC%80%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A%E4%BA%86&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时18分"
+          "time_info": "01时03分"
         }
       ]
     },
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 14,
+      "match_count": 2,
       "titles": [
         {
           "title": "万亿逆回购来了！央行结束缩量操作 精准对冲7月资金到期压力",
           "url": "https://www.cls.cn/detail/2416860",
           "source": "财联社热门",
           "ranks": [
-            1,
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时24分 ~ 23时04分]"
+          "appearance_count": 1,
+          "time_info": "01时03分"
         },
         {
           "title": "埃及央行：埃及5月份M2货币供应同比增长19.6%。",
           "url": "https://flash.jin10.com/detail/20260704221159670800",
           "source": "金十数据",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时04分"
-        },
-        {
-          "title": "欧洲央行管委穆兰：通胀数据向好，央行“处境有利”",
-          "url": "https://flash.jin10.com/detail/20260704190910593800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时26分 ~ 23时04分]"
-        },
-        {
-          "title": "欧洲央行行长将亲自出席下周的欧盟经济和财政事务理事会会议",
-          "url": "https://wallstreetcn.com/livenews/3128807",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            15,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 05时04分]"
-        },
-        {
-          "title": "欧洲央行行长拉加德：人工智能（AI）是生产力和收益的来源。 但该技术也构成了“重大风险”。 大约十年来，我们一直在讨论网络安全风险、黑客攻击、数据盗窃等问题。 但随着AI模型的加速和深化，我们面临的风险要严重得多，因为这一切发生得非常快，而且相应的防御手段以及所需资金仍然没有准备充分。",
-          "url": "https://wallstreetcn.com/livenews/3128834",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时04分 ~ 07时02分]"
-        },
-        {
-          "title": "美媒曝美伊停火协议内幕：伊总统与央行行长齐出面，劝谏最高领袖“赶紧签字”",
-          "url": "https://flash.jin10.com/detail/20260704204520352800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时22分 ~ 23时04分]"
-        },
-        {
-          "title": "欧洲央行管委强调：下一次利率决议需保持高度警惕",
-          "url": "https://wallstreetcn.com/livenews/3128796",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时24分 ~ 03时19分]"
-        },
-        {
-          "title": "欧洲央行管委内格尔：欧洲央行应保持警惕，保持灵活性。",
-          "url": "https://flash.jin10.com/detail/20260703235326562800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
-          "title": "欧洲央行管委内格尔：近期能源价格回落令人意外，形势仍然不稳定。",
-          "url": "https://flash.jin10.com/detail/20260703235128984800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
-          "title": "欧洲央行管委内格尔：德国在改革方面迈出了非常重要的一步。",
-          "url": "https://flash.jin10.com/detail/20260703234859552800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
-          "title": "英国央行行长贝利：英国央行寻求在不损害产出的情况下实现通胀目标。",
-          "url": "https://flash.jin10.com/detail/20260703234854735800",
-          "source": "金十数据",
-          "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
-          "title": "英国央行行长贝利：如果美国和以色列没有对伊朗发动战争，英国通胀将达到目标。",
-          "url": "https://wallstreetcn.com/livenews/3128784",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
-          "title": "英国央行行长贝利：如果没有战争，英国通胀将达到目标。",
-          "url": "https://flash.jin10.com/detail/20260703234548672800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
-          "title": "欧洲央行管委Makhlouf：央行“绝对愿意”实现2%的通胀。",
-          "url": "https://wallstreetcn.com/livenews/3128781",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "三部门调整节能汽车、新能源汽车车船税优惠政策",
-          "url": "https://www.cls.cn/detail/2416626",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时24分 ~ 10时44分]"
-        },
-        {
-          "title": "三部门调整节能汽车、新能源汽车车船税优惠政策，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2056425679093339668",
-          "source": "知乎",
-          "ranks": [
-            10,
-            6,
-            3,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 10时43分]"
-        },
-        {
-          "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
-          "url": "https://wallstreetcn.com/livenews/3128944",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时22分 ~ 23时04分]"
-        },
-        {
-          "title": "新能源汽车车船税优惠政策调整",
-          "url": "https://www.douyin.com/hot/2557214",
-          "source": "抖音",
-          "ranks": [
-            15,
-            13,
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 10时44分]"
-        },
-        {
-          "title": "比亚迪海豹 08 上市价格 19.69-23.99 万，值得入手吗？",
-          "url": "https://www.zhihu.com/question/2056041972998083528",
-          "source": "知乎",
-          "ranks": [
-            16,
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 07时02分]"
-        },
-        {
-          "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
-          "url": "https://flash.jin10.com/detail/20260704205119305800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时22分 ~ 23时04分]"
-        },
-        {
-          "title": "三部门：调整节能汽车、新能源汽车车船税优惠政策",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33511352",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时43分 ~ 10时44分]"
-        },
-        {
-          "title": "海南平稳推进2030年禁售燃油车 新能源车占比将达45%",
-          "url": "https://wallstreetcn.com/livenews/3128906",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 19时26分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "金价本周涨超2%",
-          "url": "https://wallstreetcn.com/livenews/3128818",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            17,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时19分 ~ 07时02分]"
-        },
-        {
-          "title": "推动金价上涨的“神秘央行”存在吗",
-          "url": "https://www.toutiao.com/trending/7658284084967247369/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 07时02分]"
-        },
-        {
-          "title": "摩根大通：预计黄金价格将在近期区间震荡，然后才会出现复苏。 预计2026年三季度均价4300美元/盎司，四季度料位4500美元。 维持长期看涨金价的立场不变，预计将在2027年进一步复苏。",
-          "url": "https://wallstreetcn.com/livenews/3128809",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 05时04分]"
-        },
-        {
-          "title": "金价抬头 顾客冲进金店“秒下单”",
-          "url": "https://www.toutiao.com/trending/7657606346723835940/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时21分 ~ 17时22分]"
-        },
-        {
-          "title": "金价银价上涨原因",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E4%B8%8A%E6%B6%A8%E5%8E%9F%E5%9B%A0&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时43分 ~ 10时44分]"
-        },
-        {
-          "title": "摩根大通维持对黄金的长期看涨展望，并预计金价将在2027年进一步回升。",
-          "url": "https://flash.jin10.com/detail/20260704012107426800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek高峰涨价意味着什么?高盛：国内大模型竞争正回归理性",
-          "url": "https://wallstreetcn.com/articles/3776170",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时43分 ~ 21时22分]"
+          "time_info": "01时03分"
         }
       ]
     },
@@ -557,15 +75,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "宇树高管谈具身智能ChatGPT时刻",
-          "url": "https://flash.jin10.com/detail/20260704110855518800",
+          "title": "Anthropic已启动自研AI芯片的前期研发工作，并与三星电子洽谈，计划将其作为潜在芯片代工合作方。此举效仿OpenAI，目的是加强对支撑自身大模型、成本高昂的算力硬件体系的自主掌控。",
+          "url": "https://flash.jin10.com/detail/20260705000623395800",
           "source": "金十数据",
           "ranks": [
-            17
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时18分"
+          "time_info": "01时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
+          "url": "https://wallstreetcn.com/livenews/3128944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时03分"
         }
       ]
     }
