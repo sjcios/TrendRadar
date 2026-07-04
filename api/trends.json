@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T07:02:17.110143+08:00",
-  "total_titles_processed": 477,
+  "generated_at": "2026-07-04T10:44:15.265842+08:00",
+  "total_titles_processed": 668,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 07时02分]"
+          "appearance_count": 7,
+          "time_info": "[01时24分 ~ 10时44分]"
         },
         {
           "title": "欧洲央行行长将亲自出席下周的欧盟经济和财政事务理事会会议",
@@ -136,18 +136,19 @@
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "演上了！美议员当众举起手机：去中国不带，去印度就带",
           "url": "https://news.ifeng.com/c/8uT5BAgoWQc",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时01分 ~ 07时02分]"
+          "appearance_count": 4,
+          "time_info": "[07时01分 ~ 10时44分]"
         },
         {
           "title": "教育部：坚决杜绝用手机布置作业",
@@ -200,12 +201,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时24分 ~ 03时19分]"
+        },
+        {
+          "title": "曝iPhone18无缘iOS27两大功能",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DiPhone18%E6%97%A0%E7%BC%98iOS27%E4%B8%A4%E5%A4%A7%E5%8A%9F%E8%83%BD%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 10时44分]"
+        },
+        {
+          "title": "迪丽热巴一出现全场的手机就醒了",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E4%B8%80%E5%87%BA%E7%8E%B0%E5%85%A8%E5%9C%BA%E7%9A%84%E6%89%8B%E6%9C%BA%E5%B0%B1%E9%86%92%E4%BA%86%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 10时44分]"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "金价本周涨超2%",
@@ -245,6 +268,17 @@
           "time_info": "[03时19分 ~ 05时04分]"
         },
         {
+          "title": "金价银价上涨原因",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E4%B8%8A%E6%B6%A8%E5%8E%9F%E5%9B%A0&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 10时44分]"
+        },
+        {
           "title": "摩根大通维持对黄金的长期看涨展望，并预计金价将在2027年进一步回升。",
           "url": "https://flash.jin10.com/detail/20260704012107426800",
           "source": "金十数据",
@@ -259,7 +293,7 @@
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "三部门调整节能汽车、新能源汽车车船税优惠政策",
@@ -267,11 +301,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 07时02分]"
+          "appearance_count": 7,
+          "time_info": "[01时24分 ~ 10时44分]"
         },
         {
           "title": "三部门调整节能汽车、新能源汽车车船税优惠政策，哪些信息值得关注？",
@@ -280,11 +315,12 @@
           "ranks": [
             10,
             6,
-            3
+            3,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 07时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时24分 ~ 10时43分]"
         },
         {
           "title": "新能源汽车车船税优惠政策调整",
@@ -297,8 +333,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 07时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时24分 ~ 10时44分]"
         },
         {
           "title": "比亚迪海豹 08 上市价格 19.69-23.99 万，值得入手吗？",
@@ -312,6 +348,34 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时24分 ~ 07时02分]"
+        },
+        {
+          "title": "三部门：调整节能汽车、新能源汽车车船税优惠政策",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33511352",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 10时44分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek高峰涨价意味着什么?高盛：国内大模型竞争正回归理性",
+          "url": "https://wallstreetcn.com/articles/3776170",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 10时44分]"
         }
       ]
     }
