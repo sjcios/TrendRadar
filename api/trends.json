@@ -1,25 +1,12 @@
 {
-  "generated_at": "2026-07-06T04:13:24.868889+08:00",
-  "total_titles_processed": 420,
+  "generated_at": "2026-07-06T06:01:42.471964+08:00",
+  "total_titles_processed": 453,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "心梗老人看牙被全口拔光，医院拿走手机刷光 18800 元还欠 6200 元，医院做法存在哪些违规或失当之处？",
-          "url": "https://www.zhihu.com/question/2056861703225042408",
-          "source": "知乎",
-          "ranks": [
-            4,
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 04时13分]"
-        },
         {
           "title": "印度工厂泄露 iPhone18Pro 机密，这如何影响苹果在印度的布局？",
           "url": "https://www.zhihu.com/question/2056716909140354522",
@@ -27,22 +14,49 @@
           "ranks": [
             14,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 04时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 06时01分]"
+        },
+        {
+          "title": "心梗老人看牙被全口拔光，医院拿走手机刷光 18800 元还欠 6200 元，医院做法存在哪些违规或失当之处？",
+          "url": "https://www.zhihu.com/question/2056861703225042408",
+          "source": "知乎",
+          "ranks": [
+            4,
+            5,
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 06时01分]"
         },
         {
           "title": "印度政府正调查塔塔电子大规模数据泄露事件， 涉及苹果、特斯拉，这种泄露影响有多大？暴露了哪些安全隐患？",
           "url": "https://www.zhihu.com/question/2056780978534750118",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 06时01分]"
+        },
+        {
+          "title": "郭明錤称苹果折叠手机或与其他机型同场发布、较晚开卖，供应紧张延续至年底",
+          "url": "https://flash.jin10.com/detail/20260706053449500800",
+          "source": "金十数据",
+          "ranks": [
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时13分"
+          "time_info": "06时01分"
         },
         {
           "title": "印度再坑苹果,机密惨遭开源",
@@ -53,8 +67,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 04时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 06时01分]"
         },
         {
           "title": "寒门女孩高考 699 分报考清华却被网暴，劝学生别沉迷手机为何引来几十万点赞的负面评论？",
@@ -66,8 +80,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 04时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 06时01分]"
         }
       ]
     },
@@ -85,19 +99,20 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 04时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 06时01分]"
         },
         {
           "title": "全抖音网友都在问难题",
           "url": "https://www.douyin.com/hot/2559151",
           "source": "抖音",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时02分 ~ 04时13分]"
+          "appearance_count": 3,
+          "time_info": "[02时02分 ~ 06时01分]"
         }
       ]
     },
@@ -114,8 +129,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 04时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 06时01分]"
         }
       ]
     }
