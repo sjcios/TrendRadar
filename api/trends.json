@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-05T15:56:50.857129+08:00",
-  "total_titles_processed": 863,
+  "generated_at": "2026-07-05T18:11:43.775820+08:00",
+  "total_titles_processed": 991,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "如何看待苹果手机信息泄露，程度堪比马圣开源？",
@@ -59,8 +59,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时55分 ~ 15时56分]"
+          "appearance_count": 4,
+          "time_info": "[12时55分 ~ 18时11分]"
+        },
+        {
+          "title": "印度再坑苹果,机密惨遭开源",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355913&amp;topic_name=%E5%8D%B0%E5%BA%A6%E5%86%8D%E5%9D%91%E8%8B%B9%E6%9E%9C%2C%E6%9C%BA%E5%AF%86%E6%83%A8%E9%81%AD%E5%BC%80%E6%BA%90",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时11分"
         },
         {
           "title": "苹果AI功能未能引爆换机潮，瑞银调查显示用户升级意愿持续下滑",
@@ -71,8 +82,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时10分 ~ 15时56分]"
+          "appearance_count": 5,
+          "time_info": "[08时10分 ~ 18时11分]"
+        },
+        {
+          "title": "心梗老人看牙被全口拔光，医院拿走手机刷光 18800 元还欠 6200 元，医院做法存在哪些违规或失当之处？",
+          "url": "https://www.zhihu.com/question/2056861703225042408",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时56分 ~ 18时11分]"
         },
         {
           "title": "iPhone17销量冲击4000万台大关",
@@ -120,15 +143,15 @@
           "time_info": "[07时00分 ~ 07时01分]"
         },
         {
-          "title": "心梗老人看牙被全口拔光，医院拿走手机刷光 18800 元还欠 6200 元，医院做法存在哪些违规或失当之处？",
-          "url": "https://www.zhihu.com/question/2056861703225042408",
-          "source": "知乎",
+          "title": "苹果印度代工厂被开源",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E5%8D%B0%E5%BA%A6%E4%BB%A3%E5%B7%A5%E5%8E%82%E8%A2%AB%E5%BC%80%E6%BA%90",
+          "source": "bilibili 热搜",
           "ranks": [
-            14
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时56分"
+          "time_info": "18时11分"
         }
       ]
     },
@@ -150,6 +173,18 @@
           "time_info": "[01时03分 ~ 08时10分]"
         },
         {
+          "title": "全抖音网友都在问难题",
+          "url": "https://www.douyin.com/hot/2559151",
+          "source": "抖音",
+          "ranks": [
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时56分 ~ 18时11分]"
+        },
+        {
           "title": "一周展望：美联储携欧洲央行会议纪要来袭！黄金短期内或维持区间震荡？",
           "url": "https://flash.jin10.com/detail/20260705114845774800",
           "source": "金十数据",
@@ -161,24 +196,13 @@
           "time_info": "12时56分"
         },
         {
-          "title": "全抖音网友都在问难题",
-          "url": "https://www.douyin.com/hot/2559151",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时56分"
-        },
-        {
           "title": "韩国央行警示三星、SK海力士杠杆ETF或加剧市场波动",
           "url": "https://flash.jin10.com/detail/20260705150246849800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时56分"
         },
@@ -204,11 +228,12 @@
           "url": "https://wallstreetcn.com/articles/3776218",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时56分 ~ 18时11分]"
         },
         {
           "title": "Anthropic已启动自研AI芯片的前期研发工作，并与三星电子洽谈，计划将其作为潜在芯片代工合作方。此举效仿OpenAI，目的是加强对支撑自身大模型、成本高昂的算力硬件体系的自主掌控。",
@@ -224,6 +249,35 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价结束四周连跌",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E7%BB%93%E6%9D%9F%E5%9B%9B%E5%91%A8%E8%BF%9E%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时55分 ~ 12时56分]"
+        },
+        {
+          "title": "招金黄金：若未来黄金价格大幅波动 将对公司经营业绩产生较大影响",
+          "url": "https://flash.jin10.com/detail/20260705160914671800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时11分"
+        }
+      ]
+    },
+    {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
       "match_count": 2,
       "titles": [
@@ -234,11 +288,12 @@
           "ranks": [
             4,
             16,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时03分 ~ 15时56分]"
+          "appearance_count": 9,
+          "time_info": "[01时03分 ~ 18时11分]"
         },
         {
           "title": "特斯拉、Meta到Anthropic，三星电子的芯片代工订单积压已达50万亿韩元",
@@ -268,24 +323,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时00分 ~ 08时10分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价结束四周连跌",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E7%BB%93%E6%9D%9F%E5%9B%9B%E5%91%A8%E8%BF%9E%E8%B7%8C",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 12时56分]"
         }
       ]
     }
