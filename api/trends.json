@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-07T00:20:47.065699+08:00",
-  "total_titles_processed": 305,
+  "generated_at": "2026-07-07T02:55:41.092800+08:00",
+  "total_titles_processed": 410,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "欧洲央行管委温施：工资发展似乎相当温和。",
@@ -67,11 +67,23 @@
           "url": "https://wallstreetcn.com/articles/3776234",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 02时55分]"
+        },
+        {
+          "title": "以色列央行行长Yaron：只要通胀环境符合预期（没有意料之外的变化），利率就可以继续下降。 如果利率达到3%，将有助于让通胀率维持在2%附近。",
+          "url": "https://wallstreetcn.com/livenews/3129512",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时20分"
+          "time_info": "02时55分"
         },
         {
           "title": "加拿大央行二季度商业前景指标下滑至-0.39",
@@ -99,18 +111,30 @@
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "印度再坑苹果,机密惨遭开源",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355913&amp;topic_name=%E5%8D%B0%E5%BA%A6%E5%86%8D%E5%9D%91%E8%8B%B9%E6%9E%9C%2C%E6%9C%BA%E5%AF%86%E6%83%A8%E9%81%AD%E5%BC%80%E6%BA%90",
           "source": "贴吧",
           "ranks": [
-            24
+            24,
+            26
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 02时55分]"
+        },
+        {
+          "title": "华为 PuraXMax 折叠手机销量突破 45 万台，典藏版卖得更好反映了哪些消费趋势？",
+          "url": "https://www.zhihu.com/question/2056128489472915373",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时20分"
+          "time_info": "02时55分"
         }
       ]
     },
@@ -126,8 +150,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 02时55分]"
         }
       ]
     }
