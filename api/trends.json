@@ -1,296 +1,116 @@
 {
-  "generated_at": "2026-07-06T20:45:44.680832+08:00",
-  "total_titles_processed": 1173,
+  "generated_at": "2026-07-07T00:20:47.065699+08:00",
+  "total_titles_processed": 305,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 13,
+      "keyword_group": "央行 抖音 小红书",
+      "match_count": 8,
       "titles": [
         {
-          "title": "印度再坑苹果,机密惨遭开源",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355913&amp;topic_name=%E5%8D%B0%E5%BA%A6%E5%86%8D%E5%9D%91%E8%8B%B9%E6%9E%9C%2C%E6%9C%BA%E5%AF%86%E6%83%A8%E9%81%AD%E5%BC%80%E6%BA%90",
-          "source": "贴吧",
+          "title": "欧洲央行管委温施：工资发展似乎相当温和。",
+          "url": "https://flash.jin10.com/detail/20260706235322562800",
+          "source": "金十数据",
           "ranks": [
-            7,
-            8,
-            9,
-            12,
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时07分 ~ 20时45分]"
-        },
-        {
-          "title": "印度工厂泄露 iPhone18Pro 机密，这如何影响苹果在印度的布局？",
-          "url": "https://www.zhihu.com/question/2056716909140354522",
-          "source": "知乎",
-          "ranks": [
-            14,
-            6,
-            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 07时11分]"
-        },
-        {
-          "title": "心梗老人看牙被全口拔光，医院拿走手机刷光 18800 元还欠 6200 元，医院做法存在哪些违规或失当之处？",
-          "url": "https://www.zhihu.com/question/2056861703225042408",
-          "source": "知乎",
-          "ranks": [
-            4,
-            5,
-            13,
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 07时11分]"
-        },
-        {
-          "title": "印度政府正调查塔塔电子大规模数据泄露事件， 涉及苹果、特斯拉，这种泄露影响有多大？暴露了哪些安全隐患？",
-          "url": "https://www.zhihu.com/question/2056780978534750118",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2,
-            1,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时13分 ~ 11时21分]"
-        },
-        {
-          "title": "寒门女孩高考 699 分报考清华却被网暴，劝学生别沉迷手机为何引来几十万点赞的负面评论？",
-          "url": "https://www.zhihu.com/question/2056771003376722999",
-          "source": "知乎",
-          "ranks": [
-            16,
-            15,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 07时11分]"
-        },
-        {
-          "title": "郭明錤称苹果折叠手机或与其他机型同场发布、较晚开卖，供应紧张延续至年底",
-          "url": "https://flash.jin10.com/detail/20260706053449500800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时01分 ~ 07时11分]"
-        },
-        {
-          "title": "iPhoneUltra和18ProMax对比",
-          "url": "https://s.weibo.com/weibo?q=%23iPhoneUltra%E5%92%8C18ProMax%E5%AF%B9%E6%AF%94%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 16时19分]"
-        },
-        {
-          "title": "“最懂苹果分析师”郭明錤：折叠屏iPhone或“联合发布但推迟上市，年底前供货紧张”",
-          "url": "https://wallstreetcn.com/articles/3776239",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时45分"
+          "time_info": "00时20分"
         },
         {
-          "title": "博通美股盘前一度涨超5%，报道称博通与苹果同意将技术合作扩展至2031年，博通将为苹果开发定制ASIC芯片产品。",
-          "url": "https://wallstreetcn.com/livenews/3129383",
+          "title": "欧洲央行管委Wunsch：似乎伊朗冲击已经消退，我们尚未看到太多的第二轮（通胀）效应。 我们可能还得（围绕货币政策）采取更多行动，但形势并不要求央行大幅紧缩。 不排除央行再次（采取加息）行动，但不要让我们等太久。",
+          "url": "https://wallstreetcn.com/livenews/3129484",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时45分"
+          "time_info": "00时20分"
         },
         {
-          "title": "博通与苹果达成协议 将芯片合作关系延长至2031年",
-          "url": "https://flash.jin10.com/detail/20260706201610008800",
+          "title": "欧洲央行管委温施：也许我们必须做得更多，但形势并不需要大幅收紧政策。不排除再次行动，但我们不应等待太久。",
+          "url": "https://flash.jin10.com/detail/20260706235311596800",
           "source": "金十数据",
           "ranks": [
-            14
+            4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时45分"
+          "time_info": "00时20分"
         },
         {
-          "title": "博通(AVGO.O)：公司将开发并供应一系列定制ASIC硅产品，用于多代苹果产品的制造。",
-          "url": "https://flash.jin10.com/detail/20260706200459207800",
+          "title": "欧洲央行管委温施：伊朗冲击似乎已经消失，我们没有看到太多的二次效应。",
+          "url": "https://flash.jin10.com/detail/20260706235245506800",
           "source": "金十数据",
           "ranks": [
-            21
+            5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时45分"
+          "time_info": "00时20分"
         },
         {
-          "title": "美国证交会文件显示：博通(AVGO.O)与苹果(AAPL.O)通过新的多年协议将技术合作扩展至2031年。",
-          "url": "https://flash.jin10.com/detail/20260706200404703800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
-        },
-        {
-          "title": "保时捷停止接收纯电Macan、Taycan新车个性化定制订单",
-          "url": "https://wallstreetcn.com/livenews/3129213",
+          "title": "加拿大央行：伊朗停火后，加拿大企业的通胀预期有所缓解",
+          "url": "https://wallstreetcn.com/livenews/3129481",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "央行 抖音 小红书",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "哈兰德发抖音晒赛前新发型",
-          "url": "https://www.douyin.com/hot/2559690",
-          "source": "抖音",
-          "ranks": [
-            23,
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 06时01分]"
-        },
-        {
-          "title": "全抖音网友都在问难题",
-          "url": "https://www.douyin.com/hot/2559151",
-          "source": "抖音",
-          "ranks": [
-            11,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时02分 ~ 07时11分]"
+          "time_info": "00时20分"
         },
         {
           "title": "表态更加强硬！韩国央行警告海力士、三星电子杠杆ETF风险",
           "url": "https://wallstreetcn.com/articles/3776234",
           "source": "华尔街见闻",
           "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时18分 ~ 20时45分]"
-        },
-        {
-          "title": "哈兰德发抖音晒赛前理发照",
-          "url": "https://www.douyin.com/hot/2559690",
-          "source": "抖音",
-          "ranks": [
-            18
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时11分"
+          "time_info": "00时20分"
         },
         {
-          "title": "抖音电商运动消费趋势报告：观赛季足球相关商品成交额同比增长113%",
-          "url": "https://wallstreetcn.com/livenews/3129370",
+          "title": "加拿大央行二季度商业前景指标下滑至-0.39",
+          "url": "https://wallstreetcn.com/livenews/3129473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时20分"
+        },
+        {
+          "title": "欧洲央行执委Schnabel：管道压力和供应链压力仍然偏高。 不可以简单地看淡（与伊朗战争相关的）冲击。",
+          "url": "https://wallstreetcn.com/livenews/3129462",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
-        },
-        {
-          "title": "哈兰德抖音粉丝突破500万",
-          "url": "https://www.douyin.com/hot/2560737",
-          "source": "抖音",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
-        },
-        {
-          "title": "中国央行今日开展70亿元7天期逆回购操作，操作利率1.4%，与此前持平。今日1575亿元逆回购到期。",
-          "url": "https://wallstreetcn.com/livenews/3129073",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时21分"
+          "time_info": "00时20分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "苹果 Apple Mac iPhone 手机",
       "match_count": 1,
       "titles": [
         {
-          "title": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧",
-          "url": "https://wallstreetcn.com/articles/3776218",
-          "source": "华尔街见闻",
+          "title": "印度再坑苹果,机密惨遭开源",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355913&amp;topic_name=%E5%8D%B0%E5%BA%A6%E5%86%8D%E5%9D%91%E8%8B%B9%E6%9E%9C%2C%E6%9C%BA%E5%AF%86%E6%83%A8%E9%81%AD%E5%BC%80%E6%BA%90",
+          "source": "贴吧",
           "ranks": [
-            2,
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 11时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价大幅下行的可能有限，前提是市场加息预期不再显著升温",
-          "url": "https://flash.jin10.com/detail/20260706103955475800",
-          "source": "金十数据",
-          "ranks": [
-            30
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时21分"
+          "time_info": "00时20分"
         }
       ]
     },
@@ -299,16 +119,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "阴和俊：加快新能源、新材料、航空航天、低空经济等战略性新兴产业集群发展",
-          "url": "https://www.cls.cn/detail/2417498",
-          "source": "财联社热门",
+          "title": "逼走中企后接盘工厂，美国还吹上新能源“复兴”了",
+          "url": "https://news.ifeng.com/c/8uXeqtz3Tj5",
+          "source": "凤凰网",
           "ranks": [
-            6,
-            2
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时21分 ~ 16时19分]"
+          "appearance_count": 1,
+          "time_info": "00时20分"
         }
       ]
     }
