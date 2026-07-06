@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-07T04:52:52.007318+08:00",
-  "total_titles_processed": 502,
+  "generated_at": "2026-07-07T06:13:22.712503+08:00",
+  "total_titles_processed": 584,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "欧洲央行管委温施：工资发展似乎相当温和。",
@@ -71,19 +71,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 04时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 06时13分]"
         },
         {
           "title": "拉美资产上涨，投资者将目光转向各国央行决议",
           "url": "https://wallstreetcn.com/livenews/3129552",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时52分 ~ 06时13分]"
         },
         {
           "title": "以色列央行行长Yaron：只要通胀环境符合预期（没有意料之外的变化），利率就可以继续下降。 如果利率达到3%，将有助于让通胀率维持在2%附近。",
@@ -108,6 +109,17 @@
           "time_info": "00时20分"
         },
         {
+          "title": "阿根廷央行市场预期调查显示，经济学家预计2026年底通胀率为30%，较此前预测下调0.5个百分点；预计2026年GDP增长率为3.0%，较此前预测上调0.1个百分点。",
+          "url": "https://flash.jin10.com/detail/20260707045206645800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
           "title": "欧洲央行执委Schnabel：管道压力和供应链压力仍然偏高。 不可以简单地看淡（与伊朗战争相关的）冲击。",
           "url": "https://wallstreetcn.com/livenews/3129462",
           "source": "华尔街见闻-快讯",
@@ -122,7 +134,7 @@
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "逼走中企后接盘工厂，美国还吹上新能源“复兴”了",
@@ -132,8 +144,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 04时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 06时13分]"
+        },
+        {
+          "title": "“特斯拉劲敌”Rivian Automotive二季度营收初步估算为15.5亿-16.5亿美元，分析师预期14.4亿美元。 二季度现金和现金等价物53亿美元。 申请（增加）发行7500万股股票。 Rivian美股盘后跌6%。",
+          "url": "https://wallstreetcn.com/livenews/3129570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         },
         {
           "title": "标普500指数初步收0.7%，电信板块涨1.8%，科技板块涨1.3%，可选消费板块涨0.9%，公用事业、保健、房地产板块至多跌超1.1%。 纳斯达克100指数初步收1.3%，成分股中，AMD初步收涨7%，Astera Labs、西部数据、特斯拉、CoreWeave、高通、希捷科技至少涨约5.4%，奈飞则跌2.4%，ORLY跌6.8%，Rocket Lab跌7.8%。 费城半导体指数涨2.1%，存储芯片指数涨2%。",
@@ -142,7 +165,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         },
@@ -153,9 +176,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
+        },
+        {
+          "title": "中概指数收涨1.7%，KWEB涨2.4%，比亚迪、阿特斯、蔚来、日月光半导体至少涨4.5%",
+          "url": "https://wallstreetcn.com/livenews/3129546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         }
       ]
     },
@@ -169,11 +203,12 @@
           "source": "贴吧",
           "ranks": [
             24,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 04时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 06时13分]"
         },
         {
           "title": "华为 PuraXMax 折叠手机销量突破 45 万台，典藏版卖得更好反映了哪些消费趋势？",
