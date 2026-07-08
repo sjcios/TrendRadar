@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09T03:23:15.350995+08:00",
-  "total_titles_processed": 373,
+  "generated_at": "2026-07-09T05:06:40.909204+08:00",
+  "total_titles_processed": 454,
   "failed_sources": [],
   "trends": [
     {
@@ -57,11 +57,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时30分 ~ 03时23分]"
+          "appearance_count": 5,
+          "time_info": "[01时30分 ~ 05时06分]"
         },
         {
           "title": "OpenAI推出GPT-Live语音模型",
@@ -70,7 +71,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
         }
@@ -85,11 +86,12 @@
           "url": "https://www.cls.cn/detail/2420933",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时30分 ~ 03时23分]"
+          "appearance_count": 5,
+          "time_info": "[01时30分 ~ 05时06分]"
         },
         {
           "title": "苹果追查 iPhone18Pro 泄密人员并下架爆料内容，此次事件暴露出苹果对产品信息管控的哪些问题？",
@@ -97,11 +99,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            15
+            15,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时30分 ~ 03时23分]"
+          "appearance_count": 5,
+          "time_info": "[01时30分 ~ 05时06分]"
         },
         {
           "title": "印度开源,华强北抢发苹果18",
@@ -111,30 +114,32 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时30分 ~ 03时23分]"
+          "appearance_count": 5,
+          "time_info": "[01时30分 ~ 05时06分]"
         },
         {
           "title": "三星预告将发布折叠屏新机 新设计抢先苹果竞品亮相",
           "url": "https://www.cls.cn/detail/2420824",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时22分 ~ 03时23分]"
+          "appearance_count": 3,
+          "time_info": "[03时22分 ~ 05时06分]"
         },
         {
           "title": "孩子考得很好，要玩手机。我不太想让他碰，可他跟我保证，既能玩好游戏，还能稳住成绩，这种承诺可信吗？",
           "url": "https://www.zhihu.com/question/2055612016530810492",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时22分 ~ 03时23分]"
+          "appearance_count": 3,
+          "time_info": "[03时22分 ~ 05时06分]"
         },
         {
           "title": "南宁一村民用发电机供全村手机充电",
@@ -161,8 +166,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时30分 ~ 03时23分]"
+          "appearance_count": 5,
+          "time_info": "[01时30分 ~ 05时06分]"
         },
         {
           "title": "瑞士央行行长：能源价格也推动了瑞士的通胀，而其他因素的影响微乎其微。",
@@ -183,8 +188,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时30分 ~ 03时23分]"
+          "appearance_count": 5,
+          "time_info": "[01时30分 ~ 05时06分]"
         },
         {
           "title": "瑞士央行行长：能源价格大幅上涨是全球经济发展的主要风险。",
@@ -204,7 +209,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
         }
@@ -223,8 +228,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时30分 ~ 03时23分]"
+          "appearance_count": 5,
+          "time_info": "[01时30分 ~ 05时06分]"
         },
         {
           "title": "法国巴黎银行：特斯拉并购溢价被执行风险抵消",
