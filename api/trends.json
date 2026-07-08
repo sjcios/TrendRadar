@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09T05:06:40.909204+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2026-07-09T07:06:42.179231+08:00",
+  "total_titles_processed": 540,
   "failed_sources": [],
   "trends": [
     {
@@ -87,11 +87,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时30分 ~ 05时06分]"
+          "appearance_count": 6,
+          "time_info": "[01时30分 ~ 07时06分]"
         },
         {
           "title": "苹果追查 iPhone18Pro 泄密人员并下架爆料内容，此次事件暴露出苹果对产品信息管控的哪些问题？",
@@ -100,11 +101,12 @@
           "ranks": [
             19,
             15,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时30分 ~ 05时06分]"
+          "appearance_count": 6,
+          "time_info": "[01时30分 ~ 07时06分]"
         },
         {
           "title": "印度开源,华强北抢发苹果18",
@@ -114,8 +116,21 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时30分 ~ 05时06分]"
+          "appearance_count": 6,
+          "time_info": "[01时30分 ~ 07时06分]"
+        },
+        {
+          "title": "孩子考得很好，要玩手机。我不太想让他碰，可他跟我保证，既能玩好游戏，还能稳住成绩，这种承诺可信吗？",
+          "url": "https://www.zhihu.com/question/2055612016530810492",
+          "source": "知乎",
+          "ranks": [
+            18,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时22分 ~ 07时06分]"
         },
         {
           "title": "三星预告将发布折叠屏新机 新设计抢先苹果竞品亮相",
@@ -124,18 +139,6 @@
           "ranks": [
             13,
             12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时22分 ~ 05时06分]"
-        },
-        {
-          "title": "孩子考得很好，要玩手机。我不太想让他碰，可他跟我保证，既能玩好游戏，还能稳住成绩，这种承诺可信吗？",
-          "url": "https://www.zhihu.com/question/2055612016530810492",
-          "source": "知乎",
-          "ranks": [
-            18,
-            17
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -166,8 +169,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时30分 ~ 05时06分]"
+          "appearance_count": 6,
+          "time_info": "[01时30分 ~ 07时06分]"
+        },
+        {
+          "title": "抖音网友善意正送往广西灾区",
+          "url": "https://www.douyin.com/hot/2563688",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时30分 ~ 07时06分]"
         },
         {
           "title": "瑞士央行行长：能源价格也推动了瑞士的通胀，而其他因素的影响微乎其微。",
@@ -179,17 +193,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
-        },
-        {
-          "title": "抖音网友善意正送往广西灾区",
-          "url": "https://www.douyin.com/hot/2563688",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时30分 ~ 05时06分]"
         },
         {
           "title": "瑞士央行行长：能源价格大幅上涨是全球经济发展的主要风险。",
@@ -228,8 +231,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时30分 ~ 05时06分]"
+          "appearance_count": 6,
+          "time_info": "[01时30分 ~ 07时06分]"
         },
         {
           "title": "法国巴黎银行：特斯拉并购溢价被执行风险抵消",
