@@ -1,8 +1,103 @@
 {
-  "generated_at": "2026-07-09T07:06:42.179231+08:00",
-  "total_titles_processed": 540,
+  "generated_at": "2026-07-09T10:49:03.976689+08:00",
+  "total_titles_processed": 750,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "央行 抖音 小红书",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "央行：加强对扩大内需、科技创新、中小微企业等重点领域的金融支持",
+          "url": "https://www.cls.cn/detail/2420693",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时30分 ~ 07时06分]"
+        },
+        {
+          "title": "抖音网友善意正送往广西灾区",
+          "url": "https://www.douyin.com/hot/2563688",
+          "source": "抖音",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时30分 ~ 10时49分]"
+        },
+        {
+          "title": "瑞士央行行长：能源价格也推动了瑞士的通胀，而其他因素的影响微乎其微。",
+          "url": "https://flash.jin10.com/detail/20260709010409390800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时31分"
+        },
+        {
+          "title": "韩国央行行长申铉松：认为韩元兑美元汇率走强的可能性很大。",
+          "url": "https://flash.jin10.com/detail/20260709102747067800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "韩国央行行长申铉松：韩国外汇市场不存在流动性短缺问题。",
+          "url": "https://flash.jin10.com/detail/20260709102633701800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "韩国央行行长申铉松：将与其他中央银行保持持续沟通，以讨论市场情况。",
+          "url": "https://flash.jin10.com/detail/20260709102554064800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "瑞士央行行长：能源价格大幅上涨是全球经济发展的主要风险。",
+          "url": "https://flash.jin10.com/detail/20260709005824671800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时31分"
+        },
+        {
+          "title": "美联储会议纪要：中东冲突推高通胀，大多数央行暗示未来将加息",
+          "url": "https://flash.jin10.com/detail/20260709023146120800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时23分"
+        }
+      ]
+    },
     {
       "keyword_group": "chatgpt openai",
       "match_count": 6,
@@ -91,8 +186,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时30分 ~ 07时06分]"
+          "appearance_count": 8,
+          "time_info": "[01时30分 ~ 10时49分]"
         },
         {
           "title": "苹果追查 iPhone18Pro 泄密人员并下架爆料内容，此次事件暴露出苹果对产品信息管控的哪些问题？",
@@ -102,11 +197,12 @@
             19,
             15,
             10,
-            9
+            9,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时30分 ~ 07时06分]"
+          "appearance_count": 8,
+          "time_info": "[01时30分 ~ 10时49分]"
         },
         {
           "title": "印度开源,华强北抢发苹果18",
@@ -116,8 +212,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时30分 ~ 07时06分]"
+          "appearance_count": 8,
+          "time_info": "[01时30分 ~ 10时49分]"
         },
         {
           "title": "孩子考得很好，要玩手机。我不太想让他碰，可他跟我保证，既能玩好游戏，还能稳住成绩，这种承诺可信吗？",
@@ -158,69 +254,8 @@
       ]
     },
     {
-      "keyword_group": "央行 抖音 小红书",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "央行：加强对扩大内需、科技创新、中小微企业等重点领域的金融支持",
-          "url": "https://www.cls.cn/detail/2420693",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时30分 ~ 07时06分]"
-        },
-        {
-          "title": "抖音网友善意正送往广西灾区",
-          "url": "https://www.douyin.com/hot/2563688",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时30分 ~ 07时06分]"
-        },
-        {
-          "title": "瑞士央行行长：能源价格也推动了瑞士的通胀，而其他因素的影响微乎其微。",
-          "url": "https://flash.jin10.com/detail/20260709010409390800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        },
-        {
-          "title": "瑞士央行行长：能源价格大幅上涨是全球经济发展的主要风险。",
-          "url": "https://flash.jin10.com/detail/20260709005824671800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        },
-        {
-          "title": "美联储会议纪要：中东冲突推高通胀，大多数央行暗示未来将加息",
-          "url": "https://flash.jin10.com/detail/20260709023146120800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时23分"
-        }
-      ]
-    },
-    {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "曾年销 26 万台的比亚迪秦 L 被曝停产，这是出于哪些商业考量？",
@@ -235,6 +270,17 @@
           "time_info": "[01时30分 ~ 07时06分]"
         },
         {
+          "title": "比亚迪第1700万辆新能源汽车下线",
+          "url": "https://www.toutiao.com/trending/7659327414471753754/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 10时49分]"
+        },
+        {
           "title": "法国巴黎银行：特斯拉并购溢价被执行风险抵消",
           "url": "https://wallstreetcn.com/livenews/3130811",
           "source": "华尔街见闻-快讯",
@@ -244,6 +290,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2026年07月09日（周四）上海金早盘价为891.66元/克，较国际金价(891.66元/克)持平",
+          "url": "https://flash.jin10.com/detail/20260709101936288800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "加息阴影笼罩，美银砍金价预期14%但重申5000美元目标",
+          "url": "https://flash.jin10.com/detail/20260709100833116800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
         }
       ]
     },
@@ -262,6 +336,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时30分 ~ 03时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国家统计局：6月份，受国际市场价格波动影响，国内黄金饰品和汽油价格环比分别下降8.7%和4.9%，降幅比上月分别扩大5.9个和4.6个百分点，合计影响CPI环比下降约0.22个百分点，对CPI的下拉影响比上月增加约0.19个百分点。",
+          "url": "https://wallstreetcn.com/livenews/3131009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
         }
       ]
     }
