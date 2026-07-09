@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T14:43:16.880823+08:00",
-  "total_titles_processed": 943,
+  "generated_at": "2026-07-09T18:24:38.745026+08:00",
+  "total_titles_processed": 1142,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "央行：加强对扩大内需、科技创新、中小微企业等重点领域的金融支持",
@@ -25,11 +25,12 @@
           "ranks": [
             20,
             19,
-            22
+            22,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时30分 ~ 14时43分]"
+          "appearance_count": 11,
+          "time_info": "[01时30分 ~ 18时24分]"
         },
         {
           "title": "瑞士央行行长：能源价格也推动了瑞士的通胀，而其他因素的影响微乎其微。",
@@ -98,6 +99,17 @@
           "time_info": "10时49分"
         },
         {
+          "title": "央行Q2货币政策例会：继续实施适度宽松货币政策，加强对扩内需、科创、中小微企业等领域的金融支持",
+          "url": "https://wallstreetcn.com/articles/3776475",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
           "title": "瑞士央行行长：能源价格大幅上涨是全球经济发展的主要风险。",
           "url": "https://flash.jin10.com/detail/20260709005824671800",
           "source": "金十数据",
@@ -126,7 +138,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
         }
@@ -134,7 +146,7 @@
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "独家|苹果折叠机预计不会出现量产延期 液态金属铰链或将“爽约”第一代产品",
@@ -218,9 +230,104 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
+        },
+        {
+          "title": "苹果笔记本 iPad 二手价跟涨 高端机型涨价近千元",
+          "url": "https://wallstreetcn.com/livenews/3131235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "曾年销 26 万台的比亚迪秦 L 被曝停产，这是出于哪些商业考量？",
+          "url": "https://www.zhihu.com/question/2057993033182978590",
+          "source": "知乎",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时30分 ~ 07时06分]"
+        },
+        {
+          "title": "比亚迪第1700万辆新能源汽车下线",
+          "url": "https://www.toutiao.com/trending/7659327414471753754/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 10时49分]"
+        },
+        {
+          "title": "今年上半年新能源汽车市场稳定增长",
+          "url": "https://wallstreetcn.com/livenews/3131126",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
+          "title": "国务院：推动产业结构绿色低碳转型 持续增强新能源、新能源汽车、动力电池等产业竞争优势",
+          "url": "https://wallstreetcn.com/livenews/3131245",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
+          "title": "国务院：到2030年，新能源汽车保有量占比力争达到30%",
+          "url": "https://wallstreetcn.com/livenews/3131241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
+          "title": "今年上半年新能源汽车市场稳定增长",
+          "url": "https://flash.jin10.com/detail/20260709140019578800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
+          "title": "法国巴黎银行：特斯拉并购溢价被执行风险抵消",
+          "url": "https://wallstreetcn.com/livenews/3130811",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时31分"
         }
       ]
     },
@@ -299,68 +406,6 @@
       ]
     },
     {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "曾年销 26 万台的比亚迪秦 L 被曝停产，这是出于哪些商业考量？",
-          "url": "https://www.zhihu.com/question/2057993033182978590",
-          "source": "知乎",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时30分 ~ 07时06分]"
-        },
-        {
-          "title": "比亚迪第1700万辆新能源汽车下线",
-          "url": "https://www.toutiao.com/trending/7659327414471753754/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时48分 ~ 10时49分]"
-        },
-        {
-          "title": "今年上半年新能源汽车市场稳定增长",
-          "url": "https://wallstreetcn.com/livenews/3131126",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时43分"
-        },
-        {
-          "title": "今年上半年新能源汽车市场稳定增长",
-          "url": "https://flash.jin10.com/detail/20260709140019578800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时43分"
-        },
-        {
-          "title": "法国巴黎银行：特斯拉并购溢价被执行风险抵消",
-          "url": "https://wallstreetcn.com/livenews/3130811",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 3,
       "titles": [
@@ -382,7 +427,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
         },
@@ -448,6 +493,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英雄联盟 LOL",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "2026 年英雄联盟季中冠军赛（MSI）7 月 9 号 BLG VS HLE，如何看待这场比赛？",
+          "url": "https://www.zhihu.com/question/2057846118629766631",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         }
       ]
     }
