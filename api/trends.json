@@ -1,559 +1,117 @@
 {
-  "generated_at": "2026-07-09T21:49:25.157781+08:00",
-  "total_titles_processed": 1318,
+  "generated_at": "2026-07-10T00:28:02.643393+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "央行 抖音 小红书",
-      "match_count": 13,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
       "titles": [
         {
-          "title": "央行：加强对扩大内需、科技创新、中小微企业等重点领域的金融支持",
-          "url": "https://www.cls.cn/detail/2420693",
-          "source": "财联社热门",
+          "title": "谷歌(GOOG.O)：推出广告主控制功能以披露生成性人工智能的使用；广告上可能会出现标签。",
+          "url": "https://flash.jin10.com/detail/20260710000936587800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时30分 ~ 07时06分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时28分"
         },
         {
-          "title": "抖音网友善意正送往广西灾区",
-          "url": "https://www.douyin.com/hot/2563688",
-          "source": "抖音",
-          "ranks": [
-            20,
-            19,
-            22,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时30分 ~ 18时24分]"
-        },
-        {
-          "title": "瑞士央行行长：能源价格也推动了瑞士的通胀，而其他因素的影响微乎其微。",
-          "url": "https://flash.jin10.com/detail/20260709010409390800",
+          "title": "谷歌(GOOG.O)：向所有谷歌云客户推出AlphaEvolve人工智能代码优化代理。",
+          "url": "https://flash.jin10.com/detail/20260710000625543800",
           "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时28分"
+        },
+        {
+          "title": "谷歌公司在广告中提高AI透明度。 谷歌在搜索、Youtube广告中新增AI信息披露标签。",
+          "url": "https://wallstreetcn.com/livenews/3131470",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时31分"
+          "time_info": "00时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "央行 抖音 小红书",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "欧洲央行管委Nagel：决策者谈论利率前景时需克制",
+          "url": "https://wallstreetcn.com/livenews/3131472",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时28分"
         },
         {
           "title": "哈兰德中文感谢抖音粉丝",
           "url": "https://www.douyin.com/hot/2564276",
           "source": "抖音",
           "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时42分 ~ 21时49分]"
-        },
-        {
-          "title": "哈兰德抖音粉丝突破600万",
-          "url": "https://www.douyin.com/hot/2564280",
-          "source": "抖音",
-          "ranks": [
-            16
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时42分 ~ 14时43分]"
+          "time_info": "[00时27分 ~ 00时28分]"
         },
         {
-          "title": "韩国央行行长申铉松：认为韩元兑美元汇率走强的可能性很大。",
-          "url": "https://flash.jin10.com/detail/20260709102747067800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "韩国央行行长申铉松：韩国外汇市场不存在流动性短缺问题。",
-          "url": "https://flash.jin10.com/detail/20260709102633701800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "韩国央行行长申铉松：将与其他中央银行保持持续沟通，以讨论市场情况。",
-          "url": "https://flash.jin10.com/detail/20260709102554064800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "央行Q2货币政策例会：继续实施适度宽松货币政策，加强对扩内需、科创、中小微企业等领域的金融支持",
-          "url": "https://wallstreetcn.com/articles/3776475",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时24分"
-        },
-        {
-          "title": "瑞士央行行长：能源价格大幅上涨是全球经济发展的主要风险。",
-          "url": "https://flash.jin10.com/detail/20260709005824671800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        },
-        {
-          "title": "美联储会议纪要：中东冲突推高通胀，大多数央行暗示未来将加息",
-          "url": "https://flash.jin10.com/detail/20260709023146120800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时23分"
-        },
-        {
-          "title": "日本央行：多个地区表示，出口和产出急剧下降的风险已有所减弱。 企业维持了强劲的资本支出计划，因全球AI需求扩大，芯片设备和芯片订单有所增加。 包括中小企业在内的企业今年提供了较高的工资涨幅，尽管也有部分企业表示持续加薪可能较为困难。 企业继续通过提价来转嫁不断上升的劳动力和流通成本。 与中东冲突相关的原材料成本上涨的转嫁速度比过去更快。 企业正在考虑自夏季起上调食品和日用品价格。 中小企业难以将上涨的投入成本转嫁出去，这正在挤压其利润空间。",
-          "url": "https://wallstreetcn.com/livenews/3131103",
+          "title": "埃及央行维持基准利率在19%，符合预期。",
+          "url": "https://wallstreetcn.com/livenews/3131457",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时43分"
-        },
-        {
-          "title": "波兰央行行长：我认为今年降息的可能性很大。",
-          "url": "https://flash.jin10.com/detail/20260709212614184800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "独家|苹果折叠机预计不会出现量产延期 液态金属铰链或将“爽约”第一代产品",
-          "url": "https://www.cls.cn/detail/2420933",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时30分 ~ 14时43分]"
-        },
-        {
-          "title": "苹果追查 iPhone18Pro 泄密人员并下架爆料内容，此次事件暴露出苹果对产品信息管控的哪些问题？",
-          "url": "https://www.zhihu.com/question/2055448788882437948",
-          "source": "知乎",
-          "ranks": [
-            19,
-            15,
-            10,
-            9,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时30分 ~ 10时49分]"
-        },
-        {
-          "title": "印度开源,华强北抢发苹果18",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355989&amp;topic_name=%E5%8D%B0%E5%BA%A6%E5%BC%80%E6%BA%90%2C%E5%8D%8E%E5%BC%BA%E5%8C%97%E6%8A%A2%E5%8F%91%E8%8B%B9%E6%9E%9C18",
-          "source": "贴吧",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时30分 ~ 10时49分]"
-        },
-        {
-          "title": "苹果洽谈AI公司PrismML 拟将270亿参数大模型部署至iPhone",
-          "url": "https://wallstreetcn.com/livenews/3131410",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时49分"
-        },
-        {
-          "title": "孩子考得很好，要玩手机。我不太想让他碰，可他跟我保证，既能玩好游戏，还能稳住成绩，这种承诺可信吗？",
-          "url": "https://www.zhihu.com/question/2055612016530810492",
-          "source": "知乎",
-          "ranks": [
-            18,
-            17,
             15
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时22分 ~ 07时06分]"
-        },
-        {
-          "title": "三星预告将发布折叠屏新机 新设计抢先苹果竞品亮相",
-          "url": "https://www.cls.cn/detail/2420824",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时22分 ~ 05时06分]"
-        },
-        {
-          "title": "南宁一村民用发电机供全村手机充电",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%97%E5%AE%81%E4%B8%80%E6%9D%91%E6%B0%91%E7%94%A8%E5%8F%91%E7%94%B5%E6%9C%BA%E4%BE%9B%E5%85%A8%E6%9D%91%E6%89%8B%E6%9C%BA%E5%85%85%E7%94%B5",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时30分 ~ 01时31分]"
-        },
-        {
-          "title": "女子手机丢失卡内余额几乎被转空",
-          "url": "https://www.toutiao.com/trending/7659699872316571702/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时49分"
-        },
-        {
-          "title": "创业板指涨超2%，科创50涨超5%，沪指涨0.22%，深成指涨1.05%，半导体芯片、油气、AI手机、算力硬件等方向领涨，沪深京三市上涨个股近1400只。",
-          "url": "https://wallstreetcn.com/livenews/3131115",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时43分"
-        },
-        {
-          "title": "苹果笔记本 iPad 二手价跟涨 高端机型涨价近千元",
-          "url": "https://wallstreetcn.com/livenews/3131235",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "曾年销 26 万台的比亚迪秦 L 被曝停产，这是出于哪些商业考量？",
-          "url": "https://www.zhihu.com/question/2057993033182978590",
-          "source": "知乎",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时30分 ~ 07时06分]"
-        },
-        {
-          "title": "比亚迪第1700万辆新能源汽车下线",
-          "url": "https://www.toutiao.com/trending/7659327414471753754/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时48分 ~ 10时49分]"
-        },
-        {
-          "title": "今年上半年新能源汽车市场稳定增长",
-          "url": "https://wallstreetcn.com/livenews/3131126",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时43分"
-        },
-        {
-          "title": "瑞银集团：将特斯拉公司目标价从364美元上调至442美元。",
-          "url": "https://flash.jin10.com/detail/20260709212605799800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时49分"
-        },
-        {
-          "title": "国务院：推动产业结构绿色低碳转型 持续增强新能源、新能源汽车、动力电池等产业竞争优势",
-          "url": "https://wallstreetcn.com/livenews/3131245",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时24分"
-        },
-        {
-          "title": "国务院：到2030年，新能源汽车保有量占比力争达到30%",
-          "url": "https://wallstreetcn.com/livenews/3131241",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时24分"
-        },
-        {
-          "title": "今年上半年新能源汽车市场稳定增长",
-          "url": "https://flash.jin10.com/detail/20260709140019578800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时43分"
-        },
-        {
-          "title": "法国巴黎银行：特斯拉并购溢价被执行风险抵消",
-          "url": "https://wallstreetcn.com/livenews/3130811",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
+          "time_info": "00时28分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "OpenAI：在发布初期，GPT-Live将在后台使用GPT-5.5。GPT-Live在ChatGPT中将不支持带视频或屏幕共享功能的语音交互。",
-          "url": "https://flash.jin10.com/detail/20260709010430451800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        },
-        {
-          "title": "OpenAI：今天开始向全球ChatGPT用户推出两个版本的GPT-Live。GPT-Live-1和GPT-Live-1 Mini。",
-          "url": "https://flash.jin10.com/detail/20260709010344704800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        },
-        {
-          "title": "OpenAI：推出GPT-LIVE。",
-          "url": "https://flash.jin10.com/detail/20260709010325337800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        },
-        {
-          "title": "OpenAI面向全球发布语音模型GPT-Live，有两个版本。",
-          "url": "https://wallstreetcn.com/livenews/3130838",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        },
-        {
-          "title": "OpenAI 官宣 GPT-5.6 本周四全面开放，哪些亮点值得期待？",
-          "url": "https://www.zhihu.com/question/2058166406420460573",
-          "source": "知乎",
-          "ranks": [
-            13,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时30分 ~ 05时06分]"
-        },
-        {
-          "title": "OpenAI推出GPT-Live语音模型",
-          "url": "https://wallstreetcn.com/livenews/3130838",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "金十图示：2026年07月09日（周四）上海金早盘价为891.66元/克，较国际金价(891.66元/克)持平",
-          "url": "https://flash.jin10.com/detail/20260709101936288800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "纪要偏鹰叠加油价急涨，金价能否抗住重压？",
-          "url": "https://flash.jin10.com/detail/20260709140817393800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时43分"
-        },
-        {
-          "title": "加息阴影笼罩，美银砍金价预期14%但重申5000美元目标",
-          "url": "https://flash.jin10.com/detail/20260709100833116800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
         {
-          "title": "吐槽 DeepSeek 面试的华为天才少年李博杰被投资人控诉诈骗，李博杰称始终履行职责，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2058168270499176758",
-          "source": "知乎",
+          "title": "OpenAI：在与特朗普政府磋商后对GPT-5.6做出多项调整",
+          "url": "https://flash.jin10.com/detail/20260709233707293800",
+          "source": "金十数据",
           "ranks": [
-            3,
-            5
+            16
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时30分 ~ 03时23分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时28分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "苹果 Apple Mac iPhone 手机",
       "match_count": 1,
       "titles": [
         {
-          "title": "RedVelvet海报疑似Gemini生成",
-          "url": "https://s.weibo.com/weibo?q=RedVelvet%E6%B5%B7%E6%8A%A5%E7%96%91%E4%BC%BCGemini%E7%94%9F%E6%88%90&t=31&band_rank=24&Refer=top",
-          "source": "微博",
+          "title": "女子手机丢失卡内余额几乎被转空",
+          "url": "https://www.toutiao.com/trending/7659699872316571702/",
+          "source": "今日头条",
           "ranks": [
-            24
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时42分 ~ 14时43分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国家统计局：6月份，受国际市场价格波动影响，国内黄金饰品和汽油价格环比分别下降8.7%和4.9%，降幅比上月分别扩大5.9个和4.6个百分点，合计影响CPI环比下降约0.22个百分点，对CPI的下拉影响比上月增加约0.19个百分点。",
-          "url": "https://wallstreetcn.com/livenews/3131009",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "英雄联盟 LOL",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "2026 年英雄联盟季中冠军赛（MSI）7 月 9 号 BLG VS HLE，如何看待这场比赛？",
-          "url": "https://www.zhihu.com/question/2057846118629766631",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时24分"
+          "time_info": "[00时27分 ~ 00时28分]"
         }
       ]
     }
