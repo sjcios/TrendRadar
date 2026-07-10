@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-10T16:21:55.902134+08:00",
-  "total_titles_processed": 1059,
+  "generated_at": "2026-07-10T19:50:57.903463+08:00",
+  "total_titles_processed": 1257,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "哈兰德中文感谢抖音粉丝",
@@ -55,6 +55,19 @@
           "time_info": "02时51分"
         },
         {
+          "title": "美联储官宣五大改革工作组领导阵容，前央行行长、硅谷AI大佬、诺奖经济学家加盟",
+          "url": "https://wallstreetcn.com/articles/3776606",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时50分 ~ 19时50分]"
+        },
+        {
           "title": "美国至7月3日当周外国央行持有美国国债 -286.05亿美元，前值-110.64亿美元。",
           "url": "https://flash.jin10.com/detail/20260710043540439800",
           "source": "金十数据",
@@ -67,16 +80,15 @@
           "time_info": "[04时47分 ~ 06时21分]"
         },
         {
-          "title": "美联储官宣五大改革工作组领导阵容，前央行行长、硅谷AI大佬、诺奖经济学家加盟",
-          "url": "https://wallstreetcn.com/articles/3776606",
-          "source": "华尔街见闻",
+          "title": "日本央行被曝将调整经济和物价展望，或为7月按兵不动铺路",
+          "url": "https://flash.jin10.com/detail/20260710192027263800",
+          "source": "金十数据",
           "ranks": [
-            6,
-            7
+            6
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时50分 ~ 16时21分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
         },
         {
           "title": "欧洲央行行长拉加德谈论法国大选：我不是任何（职位的）候选人。",
@@ -195,7 +207,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -255,11 +267,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时50分 ~ 16时21分]"
+          "appearance_count": 4,
+          "time_info": "[12时50分 ~ 19时50分]"
         },
         {
           "title": "OpenAI高管Fidji Simo将卸任",
@@ -312,7 +325,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -353,7 +366,7 @@
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "女子手机丢失卡内余额几乎被转空",
@@ -386,11 +399,23 @@
           "url": "https://www.zhihu.com/question/2056407322340103396",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 19时50分]"
+        },
+        {
+          "title": "开NX8五年能省6部新手机",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%80NX8%E4%BA%94%E5%B9%B4%E8%83%BD%E7%9C%816%E9%83%A8%E6%96%B0%E6%89%8B%E6%9C%BA%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时21分"
+          "time_info": "19时50分"
         },
         {
           "title": "印度工厂泄密对苹果影响有多大",
@@ -407,7 +432,7 @@
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "特斯拉在韩国推出FSD v14 Light 但仅适用于美产车型",
@@ -416,7 +441,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -453,6 +478,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
+        },
+        {
+          "title": "日本汽车经销商Yanase开设比亚迪经销店",
+          "url": "https://flash.jin10.com/detail/20260710190946847800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
         }
       ]
     },
