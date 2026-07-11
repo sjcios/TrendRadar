@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T17:28:13.968257+08:00",
-  "total_titles_processed": 1097,
+  "generated_at": "2026-07-11T19:04:25.658896+08:00",
+  "total_titles_processed": 1187,
   "failed_sources": [],
   "trends": [
     {
@@ -94,7 +94,7 @@
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "国产新能源重卡，组团出海",
@@ -106,6 +106,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时27分 ~ 17时28分]"
+        },
+        {
+          "title": "国产新能源重卡组团出海",
+          "url": "https://www.toutiao.com/trending/7660084757178433579/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
         },
         {
           "title": "中国新能源重卡刷新出海纪录",
@@ -193,6 +204,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "澎湃新闻",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "直播丨台风“巴威”，威力不减！澎湃新闻多路“追风小队”直击抗台防汛第一线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33557236",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
         }
       ]
     }
