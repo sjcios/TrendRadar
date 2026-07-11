@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T21:15:10.643254+08:00",
-  "total_titles_processed": 1330,
+  "generated_at": "2026-07-11T22:52:25.495039+08:00",
+  "total_titles_processed": 1407,
   "failed_sources": [],
   "trends": [
     {
@@ -147,7 +147,7 @@
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "一位家长说自己不限制孩子玩手机，等到孩子玩腻了、感觉无聊了就不玩了，请问这有可能吗？",
@@ -176,12 +176,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时55分 ~ 04时22分]"
+        },
+        {
+          "title": "记者直播时手机被台风吹走",
+          "url": "https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E7%9B%B4%E6%92%AD%E6%97%B6%E6%89%8B%E6%9C%BA%E8%A2%AB%E5%8F%B0%E9%A3%8E%E5%90%B9%E8%B5%B0",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         }
       ]
     },
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美联储官宣五大改革工作组领导阵容，前央行行长、硅谷AI大佬、诺奖经济学家加盟",
@@ -204,6 +215,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
+        },
+        {
+          "title": "抖音崩了",
+          "url": "https://s.weibo.com/weibo?q=%E6%8A%96%E9%9F%B3%E5%B4%A9%E4%BA%86&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         }
       ]
     },
@@ -217,11 +239,12 @@
           "source": "澎湃新闻",
           "ranks": [
             11,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时04分 ~ 21时15分]"
+          "appearance_count": 4,
+          "time_info": "[19时04分 ~ 22时52分]"
         }
       ]
     }
