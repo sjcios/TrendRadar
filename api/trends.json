@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-12T06:46:32.826845+08:00",
-  "total_titles_processed": 422,
+  "generated_at": "2026-07-12T07:54:28.487179+08:00",
+  "total_titles_processed": 471,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "记者直播时手机被台风吹走",
@@ -16,11 +16,12 @@
             12,
             14,
             24,
-            22
+            22,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 06时46分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 07时54分]"
         },
         {
           "title": "折叠屏iPhone订单被传上调至千万级",
@@ -33,6 +34,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时54分 ~ 06时46分]"
+        },
+        {
+          "title": "记者直播时手机被台风“巴威”吹走",
+          "url": "https://www.toutiao.com/trending/7660783420004990982/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时54分"
         }
       ]
     },
@@ -47,11 +59,12 @@
           "ranks": [
             13,
             6,
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时01分 ~ 06时46分]"
+          "appearance_count": 6,
+          "time_info": "[03时01分 ~ 07时54分]"
         }
       ]
     },
@@ -68,8 +81,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时48分 ~ 06时46分]"
+          "appearance_count": 3,
+          "time_info": "[05时48分 ~ 07时54分]"
         }
       ]
     },
@@ -86,8 +99,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时54分 ~ 06时46分]"
+          "appearance_count": 8,
+          "time_info": "[01时54分 ~ 07时54分]"
         }
       ]
     }
