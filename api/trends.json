@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T06:45:53.314964+08:00",
-  "total_titles_processed": 450,
+  "generated_at": "2026-07-13T07:53:34.379165+08:00",
+  "total_titles_processed": 524,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 06时45分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 07时53分]"
         },
         {
           "title": "维金斯抖音直播谈字母哥加盟",
@@ -26,11 +26,12 @@
           "source": "抖音",
           "ranks": [
             6,
-            5
+            5,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 06时45分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 07时53分]"
         },
         {
           "title": "全抖音都在鼓励哈兰德",
@@ -59,6 +60,34 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
+          "url": "https://wallstreetcn.com/articles/3776720",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 07时53分]"
+        },
+        {
+          "title": "OpenAI宣称攻克CDC猜想",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E7%A7%B0%E6%94%BB%E5%85%8BCDC%E7%8C%9C%E6%83%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        }
+      ]
+    },
+    {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
       "match_count": 2,
       "titles": [
@@ -67,11 +96,12 @@
           "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E5%B9%B3%E5%9D%87%E8%BD%A6%E9%BE%84%E4%BB%851.8%E5%B9%B4",
           "source": "百度热搜",
           "ranks": [
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 06时45分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 07时53分]"
         },
         {
           "title": "新能源车平均车龄仅1.8年",
@@ -87,23 +117,6 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
-          "url": "https://wallstreetcn.com/articles/3776720",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 06时45分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "英雄联盟 LOL",
       "match_count": 1,
       "titles": [
@@ -114,11 +127,29 @@
           "ranks": [
             12,
             15,
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 06时45分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 07时53分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 Apple Mac iPhone 手机",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "修手机现在还行吗，是不是夕阳产业？",
+          "url": "https://www.zhihu.com/question/3073376206",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
         }
       ]
     }
