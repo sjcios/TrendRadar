@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T04:43:57.379345+08:00",
-  "total_titles_processed": 373,
+  "generated_at": "2026-07-13T05:49:11.476955+08:00",
+  "total_titles_processed": 397,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 04时43分]"
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 05时49分]"
         },
         {
           "title": "维金斯抖音直播谈字母哥加盟",
@@ -28,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 04时43分]"
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 05时49分]"
         },
         {
           "title": "全抖音都在鼓励哈兰德",
@@ -69,8 +70,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 04时43分]"
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 05时49分]"
         },
         {
           "title": "新能源车平均车龄仅1.8年",
@@ -97,8 +98,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 04时43分]"
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 05时49分]"
         }
       ]
     },
@@ -116,8 +117,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 04时43分]"
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 05时49分]"
         }
       ]
     }
