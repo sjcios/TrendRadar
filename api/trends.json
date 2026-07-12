@@ -1,316 +1,106 @@
 {
-  "generated_at": "2026-07-12T23:59:06.962171+08:00",
-  "total_titles_processed": 1351,
+  "generated_at": "2026-07-13T01:04:27.902289+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "记者直播时手机被台风吹走",
-          "url": "https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E7%9B%B4%E6%92%AD%E6%97%B6%E6%89%8B%E6%9C%BA%E8%A2%AB%E5%8F%B0%E9%A3%8E%E5%90%B9%E8%B5%B0",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            12,
-            14,
-            24,
-            22,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 07时54分]"
-        },
-        {
-          "title": "记者直播时手机被台风“巴威”吹走",
-          "url": "https://www.toutiao.com/trending/7660783420004990982/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时54分 ~ 10时35分]"
-        },
-        {
-          "title": "折叠屏iPhone订单被传上调至千万级",
-          "url": "https://www.toutiao.com/trending/7660801606261014574/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时54分 ~ 06时46分]"
-        },
-        {
-          "title": "小米分批持续裁员，涉及手机、汽车等多个业务部门，此举透露出哪些发展策略调整？",
-          "url": "https://www.zhihu.com/question/2058929491154674771",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时34分 ~ 10时35分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "新能源车平均车龄仅1.8年",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E5%B9%B3%E5%9D%87%E8%BD%A6%E9%BE%84%E4%BB%851.8%E5%B9%B4",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时28分 ~ 23时59分]"
-        },
-        {
-          "title": "新能源车平均车龄仅1.8年",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E5%B9%B3%E5%9D%87%E8%BD%A6%E9%BE%84%E4%BB%851.8%E5%B9%B4%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时58分 ~ 23时59分]"
-        },
-        {
-          "title": "特斯拉拆除Model S和X生产线",
-          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%96%AF%E6%8B%89%E6%8B%86%E9%99%A4Model%20S%E5%92%8CX%E7%94%9F%E4%BA%A7%E7%BA%BF&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时57分 ~ 16时17分]"
-        },
-        {
-          "title": "特斯拉拆除Model S和X生产线",
-          "url": "https://www.douyin.com/hot/2567637",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
-          "url": "https://wallstreetcn.com/articles/3776720",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时27分 ~ 23时59分]"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：至少到目前为止，我相当确信，AI总体上是在创造就业岗位，而不是减少就业。这与我此前的预期并不一致。虽然我没有其他人那么悲观，但我原本认为，当AI发展到如今这样的能力水平时，应该已经对就业市场产生一定影响了。当然，这一趋势可能会继续下去。",
-          "url": "https://flash.jin10.com/detail/20260712043502920800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时48分 ~ 07时54分]"
-        },
-        {
-          "title": "苹果起诉OpenAI及两名员工窃取产品机密：曾要求带着“零部件”去面试",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33566535",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "英雄联盟 LOL",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "LOL怀旧服7月30日上线",
-          "url": "https://www.douyin.com/hot/2568177",
-          "source": "抖音",
-          "ranks": [
-            5,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时27分 ~ 23时59分]"
-        },
-        {
-          "title": "为什么 2026 年，大家才发现英雄联盟「adc」位置不需要 ad 射手？",
-          "url": "https://www.zhihu.com/question/2058595980682040766",
-          "source": "知乎",
-          "ranks": [
-            17,
-            12,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时34分 ~ 18时27分]"
-        },
-        {
-          "title": "HLE夺《英雄联盟》2026 MSI冠军",
-          "url": "https://www.toutiao.com/trending/7661287815292157958/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时55分"
-        }
-      ]
-    },
     {
       "keyword_group": "央行 抖音 小红书",
       "match_count": 3,
       "titles": [
         {
-          "title": "全抖音都在鼓励哈兰德",
-          "url": "https://www.douyin.com/hot/2567817",
-          "source": "抖音",
-          "ranks": [
-            19,
-            21,
-            18,
-            22,
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时34分 ~ 22时55分]"
-        },
-        {
           "title": "小红书前员工再发文实名举报 IPO 合规，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2058623048639689021",
           "source": "知乎",
           "ranks": [
-            5,
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时28分 ~ 23时59分]"
+          "appearance_count": 1,
+          "time_info": "01时04分"
         },
         {
           "title": "维金斯抖音直播谈字母哥加盟",
           "url": "https://www.douyin.com/hot/2568025",
           "source": "抖音",
           "ranks": [
-            9,
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时55分 ~ 23时59分]"
+          "appearance_count": 1,
+          "time_info": "01时04分"
+        },
+        {
+          "title": "全抖音都在鼓励哈兰德",
+          "url": "https://www.douyin.com/hot/2567817",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时04分"
         }
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
+      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
       "match_count": 2,
       "titles": [
         {
-          "title": "DeepSeek V4 正式版将于 7 月中旬上线，你有什么期待？",
-          "url": "https://www.zhihu.com/question/2055029429290771542",
-          "source": "知乎",
-          "ranks": [
-            13,
-            6,
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时01分 ~ 07时54分]"
-        },
-        {
-          "title": "商业航天“DeepSeek时刻”到了吗",
-          "url": "https://www.baidu.com/s?wd=%E5%95%86%E4%B8%9A%E8%88%AA%E5%A4%A9%E2%80%9CDeepSeek%E6%97%B6%E5%88%BB%E2%80%9D%E5%88%B0%E4%BA%86%E5%90%97",
+          "title": "新能源车平均车龄仅1.8年",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E5%B9%B3%E5%9D%87%E8%BD%A6%E9%BE%84%E4%BB%851.8%E5%B9%B4",
           "source": "百度热搜",
           "ranks": [
-            17
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时17分"
+          "time_info": "01时04分"
+        },
+        {
+          "title": "新能源车平均车龄仅1.8年",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E5%B9%B3%E5%9D%87%E8%BD%A6%E9%BE%84%E4%BB%851.8%E5%B9%B4%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时04分"
         }
       ]
     },
     {
-      "keyword_group": "金价",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "金价震荡科技回调 资金寻找新均衡",
-          "url": "https://www.toutiao.com/trending/7661411388552085513/",
-          "source": "今日头条",
+          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
+          "url": "https://wallstreetcn.com/articles/3776720",
+          "source": "华尔街见闻",
           "ranks": [
-            21
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时55分"
+          "time_info": "01时04分"
         }
       ]
     },
     {
-      "keyword_group": "澎湃新闻",
+      "keyword_group": "英雄联盟 LOL",
       "match_count": 1,
       "titles": [
         {
-          "title": "直播丨台风“巴威”，威力不减！澎湃新闻多路“追风小队”直击抗台防汛第一线",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33557236",
-          "source": "澎湃新闻",
+          "title": "LOL怀旧服7月30日上线",
+          "url": "https://www.douyin.com/hot/2568177",
+          "source": "抖音",
           "ranks": [
-            13,
-            12,
-            5,
-            1
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时54分 ~ 16时17分]"
+          "appearance_count": 1,
+          "time_info": "01时04分"
         }
       ]
     }
