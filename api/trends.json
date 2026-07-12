@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T22:55:30.449196+08:00",
-  "total_titles_processed": 1302,
+  "generated_at": "2026-07-12T23:59:06.962171+08:00",
+  "total_titles_processed": 1351,
   "failed_sources": [],
   "trends": [
     {
@@ -73,8 +73,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时28分 ~ 22时55分]"
+          "appearance_count": 4,
+          "time_info": "[21时28分 ~ 23时59分]"
         },
         {
           "title": "新能源车平均车龄仅1.8年",
@@ -86,8 +86,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时58分 ~ 22时55分]"
+          "appearance_count": 6,
+          "time_info": "[19时58分 ~ 23时59分]"
         },
         {
           "title": "特斯拉拆除Model S和X生产线",
@@ -128,8 +128,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时27分 ~ 22时55分]"
+          "appearance_count": 7,
+          "time_info": "[18时27分 ~ 23时59分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：至少到目前为止，我相当确信，AI总体上是在创造就业岗位，而不是减少就业。这与我此前的预期并不一致。虽然我没有其他人那么悲观，但我原本认为，当AI发展到如今这样的能力水平时，应该已经对就业市场产生一定影响了。当然，这一趋势可能会继续下去。",
@@ -170,8 +170,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时27分 ~ 22时55分]"
+          "appearance_count": 7,
+          "time_info": "[18时27分 ~ 23时59分]"
         },
         {
           "title": "为什么 2026 年，大家才发现英雄联盟「adc」位置不需要 ad 射手？",
@@ -194,7 +194,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时55分"
         }
@@ -229,19 +229,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时28分 ~ 22时55分]"
+          "appearance_count": 4,
+          "time_info": "[21时28分 ~ 23时59分]"
         },
         {
           "title": "维金斯抖音直播谈字母哥加盟",
           "url": "https://www.douyin.com/hot/2568025",
           "source": "抖音",
           "ranks": [
-            9
+            9,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时55分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时55分 ~ 23时59分]"
         }
       ]
     },
@@ -287,7 +288,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时55分"
         }
