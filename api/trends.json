@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T07:53:34.379165+08:00",
-  "total_titles_processed": 524,
+  "generated_at": "2026-07-13T10:36:51.270155+08:00",
+  "total_titles_processed": 703,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "小红书前员工再发文实名举报 IPO 合规，哪些信息值得关注？",
@@ -47,6 +47,28 @@
           "time_info": "[01时04分 ~ 04时43分]"
         },
         {
+          "title": "韩国央行预计AI驱动的芯片“超级周期”将持续，驳斥见顶担忧",
+          "url": "https://flash.jin10.com/detail/20260713102553289800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
+          "title": "中国央行公开市场今日净投放2170亿元人民币",
+          "url": "https://wallstreetcn.com/livenews/3132510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
           "title": "功夫女足主创全员抖音集结",
           "url": "https://www.douyin.com/hot/2567708",
           "source": "抖音",
@@ -61,7 +83,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
@@ -71,8 +93,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 07时53分]"
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 10时36分]"
         },
         {
           "title": "OpenAI宣称攻克CDC猜想",
@@ -81,7 +103,57 @@
           "ranks": [
             8
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "苹果指控OpenAI偷窃商业机密",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%8C%87%E6%8E%A7OpenAI%E5%81%B7%E7%AA%83%E5%95%86%E4%B8%9A%E6%9C%BA%E5%AF%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
+          "title": "印度本土为何跑不出一家OpenAI",
+          "url": "https://www.toutiao.com/trending/7661777860511665706/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 Apple Mac iPhone 手机",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "手机成大模型竞争新赛场 AI“超级载体”利好哪些硬件环节？",
+          "url": "https://www.cls.cn/detail/2422793",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
+          "title": "修手机现在还行吗，是不是夕阳产业？",
+          "url": "https://www.zhihu.com/question/3073376206",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
         }
@@ -117,6 +189,23 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年07月13日（周一）上海金早盘价为888.68元/克，较国际金价（约为888.19元/克），高0.49元/克。",
+          "url": "https://flash.jin10.com/detail/20260713101806908800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        }
+      ]
+    },
+    {
       "keyword_group": "英雄联盟 LOL",
       "match_count": 1,
       "titles": [
@@ -131,25 +220,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 07时53分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "修手机现在还行吗，是不是夕阳产业？",
-          "url": "https://www.zhihu.com/question/3073376206",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时53分"
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 10时36分]"
         }
       ]
     }
