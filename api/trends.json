@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T06:55:44.826269+08:00",
-  "total_titles_processed": 604,
+  "generated_at": "2026-07-14T07:54:05.475716+08:00",
+  "total_titles_processed": 664,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 06时55分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 07时54分]"
         },
         {
           "title": "美国银行团队：日本财务大臣片山皋月关于货币政策应交由日本央行决定的表态，表明日元和日本国债已触及令政策制定者感到压力的水平，可能促使当局采取更为审慎的态度。 我们也不会忽视她关于政府养老投资基金GPIF增配日本国内债券的呼吁，因为这对各方而言都有其合理性。",
@@ -74,11 +74,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            16
+            16,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时14分 ~ 06时55分]"
+          "appearance_count": 6,
+          "time_info": "[04时14分 ~ 07时54分]"
         },
         {
           "title": "曝苹果20系列回归玻璃机身",
@@ -103,6 +104,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时55分 ~ 05时56分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价俯冲谁还在逆势买金",
+          "url": "https://www.toutiao.com/trending/7661235977758982207/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            21,
+            28,
+            16,
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 07时54分]"
+        },
+        {
+          "title": "【早报】美伊冲突升级；美股存储股再度重挫；国际油价暴涨9%，金价大跌",
+          "url": "https://www.cls.cn/detail/2425210",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时53分 ~ 07时54分]"
         }
       ]
     },
@@ -177,26 +211,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价俯冲谁还在逆势买金",
-          "url": "https://www.toutiao.com/trending/7661235977758982207/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            21,
-            28,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 06时55分]"
         }
       ]
     }
