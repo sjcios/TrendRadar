@@ -1,358 +1,55 @@
 {
-  "generated_at": "2026-07-13T21:23:06.251114+08:00",
-  "total_titles_processed": 1285,
+  "generated_at": "2026-07-14T00:32:38.392885+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 11,
+      "match_count": 4,
       "titles": [
         {
-          "title": "小红书前员工再发文实名举报 IPO 合规，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2058623048639689021",
-          "source": "知乎",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 07时53分]"
-        },
-        {
-          "title": "维金斯抖音直播谈字母哥加盟",
-          "url": "https://www.douyin.com/hot/2568025",
-          "source": "抖音",
-          "ranks": [
-            6,
-            5,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 07时53分]"
-        },
-        {
-          "title": "“存储双雄”又暴跌！韩国央行发声：AI驱动的芯片超级周期将持续",
-          "url": "https://www.cls.cn/detail/2424084",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时16分 ~ 18时25分]"
-        },
-        {
-          "title": "全抖音都在鼓励哈兰德",
-          "url": "https://www.douyin.com/hot/2567817",
-          "source": "抖音",
-          "ranks": [
-            25,
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 04时43分]"
-        },
-        {
-          "title": "加拿大皇家银行：即使英国央行不加息，目前英镑因高收益率仍具吸引力。",
-          "url": "https://flash.jin10.com/detail/20260713211551054800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时23分"
-        },
-        {
-          "title": "韩国央行预计AI驱动的芯片“超级周期”将持续，驳斥见顶担忧",
-          "url": "https://flash.jin10.com/detail/20260713102553289800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时36分"
-        },
-        {
-          "title": "匈牙利央行行长：夏季还有进一步降息的空间。",
-          "url": "https://flash.jin10.com/detail/20260713175251185800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "俄罗斯央行：俄罗斯5月外贸顺差为141.5亿美元。",
-          "url": "https://flash.jin10.com/detail/20260713210036690800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时23分"
-        },
-        {
-          "title": "中国央行公开市场今日净投放2170亿元人民币",
-          "url": "https://wallstreetcn.com/livenews/3132510",
+          "title": "美国银行团队：日本财务大臣片山皋月关于货币政策应交由日本央行决定的表态，表明日元和日本国债已触及令政策制定者感到压力的水平，可能促使当局采取更为审慎的态度。 我们也不会忽视她关于政府养老投资基金GPIF增配日本国内债券的呼吁，因为这对各方而言都有其合理性。",
+          "url": "https://wallstreetcn.com/livenews/3132987",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时36分"
-        },
-        {
-          "title": "印度央行在外汇市场抛售美元以支撑卢比汇率。",
-          "url": "https://wallstreetcn.com/livenews/3132614",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时16分"
-        },
-        {
-          "title": "功夫女足主创全员抖音集结",
-          "url": "https://www.douyin.com/hot/2567708",
-          "source": "抖音",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "新能源车成「快消品」，平均车龄仅 1.8 年，年轻人为何把电车当手机一样换这么频繁？",
-          "url": "https://www.zhihu.com/question/2059928907206472162",
-          "source": "知乎",
-          "ranks": [
-            15,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时16分 ~ 18时25分]"
-        },
-        {
-          "title": "曝苹果将跳过iPhone 19",
-          "url": "https://www.douyin.com/hot/2569831",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 18时25分]"
-        },
-        {
-          "title": "iPhone20再曝光",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone20%E5%86%8D%E6%9B%9D%E5%85%89%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 18时25分]"
-        },
-        {
-          "title": "吴克群给西安00后工地女孩送手机",
-          "url": "https://www.toutiao.com/trending/7661189552993501194/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时22分 ~ 21时23分]"
-        },
-        {
-          "title": "印度男子火车窗外抢手机被乘客抓住",
-          "url": "https://www.toutiao.com/trending/7661635592107737115/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 18时25分]"
-        },
-        {
-          "title": "苹果20系列回归玻璃机身",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C20%E7%B3%BB%E5%88%97%E5%9B%9E%E5%BD%92%E7%8E%BB%E7%92%83%E6%9C%BA%E8%BA%AB",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时22分 ~ 21时23分]"
-        },
-        {
-          "title": "手机成大模型竞争新赛场 AI“超级载体”利好哪些硬件环节？",
-          "url": "https://www.cls.cn/detail/2422793",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时36分"
-        },
-        {
-          "title": "修手机现在还行吗，是不是夕阳产业？",
-          "url": "https://www.zhihu.com/question/3073376206",
-          "source": "知乎",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时53分"
+          "time_info": "00时32分"
         },
         {
-          "title": "《扩大消费“十五五”规划》：深入推进“人工智能+消费”，增加人工智能手机和电脑、智能穿戴、智能机器人、桌面级三维（3D）打印设备等新一代智能终端产品有效供给",
-          "url": "https://wallstreetcn.com/livenews/3132767",
-          "source": "华尔街见闻-快讯",
+          "title": "周星驰星女郎雪野入驻抖音",
+          "url": "https://www.douyin.com/hot/2570121",
+          "source": "抖音",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时25分"
+          "time_info": "00时32分"
         },
         {
-          "title": "阶跃星辰AI手机STEPX Neo正式亮相，同步发布大模型原生终端品牌",
-          "url": "https://wallstreetcn.com/livenews/3132900",
+          "title": "加拿大央行仍将于当地时间周三09:45（北京时间21:45）发布声明与MPR（货币政策报告）。 随后将举行新闻发布会。",
+          "url": "https://wallstreetcn.com/livenews/3132985",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
-          "url": "https://wallstreetcn.com/articles/3776720",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时04分 ~ 14时16分]"
-        },
-        {
-          "title": "OpenAI宣称攻克CDC猜想",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E7%A7%B0%E6%94%BB%E5%85%8BCDC%E7%8C%9C%E6%83%B3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时53分"
+          "time_info": "00时32分"
         },
         {
-          "title": "苹果指控OpenAI偷窃商业机密",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%8C%87%E6%8E%A7OpenAI%E5%81%B7%E7%AA%83%E5%95%86%E4%B8%9A%E6%9C%BA%E5%AF%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时36分"
-        },
-        {
-          "title": "印度本土为何跑不出一家OpenAI",
-          "url": "https://www.toutiao.com/trending/7661777860511665706/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "新能源车平均车龄仅1.8年",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E5%B9%B3%E5%9D%87%E8%BD%A6%E9%BE%84%E4%BB%851.8%E5%B9%B4",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 07时53分]"
-        },
-        {
-          "title": "新能源车平均车龄仅1.8年",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E5%B9%B3%E5%9D%87%E8%BD%A6%E9%BE%84%E4%BB%851.8%E5%B9%B4%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
-        },
-        {
-          "title": "特斯拉次时代AI芯片AI5，已完成设计定案，即将进入大规模量产准备阶段。该芯片由三星电子德州泰勒厂采用2纳米制程制造。 (台湾电子时报)",
-          "url": "https://wallstreetcn.com/livenews/3132618",
+          "title": "英国两年期国债收益率涨超10个基点，刷新6月11日以来盘中高位至4.3465%，特朗普宣布在霍尔木兹海峡对货物收费20%之后，交易员推高对央行加息的预期。",
+          "url": "https://wallstreetcn.com/livenews/3132978",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时16分"
-        },
-        {
-          "title": "【TCL科技：预计上半年净利润同比增长96%-108%】TCL科技公告，预计2026年上半年净利润为37亿元—39.2亿元，同比增长96%—108%。报告期内，公司聚焦半导体显示、新能源光伏和半导体材料业务的核心主业发展，坚持战略引领、创新驱动、先进制造、全球经营，持续提升相对竞争力，实现高质量可持续发展。",
-          "url": "https://wallstreetcn.com/livenews/3132890",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时23分"
+          "time_info": "00时32分"
         }
       ]
     },
@@ -361,31 +58,26 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "LOL怀旧服7月30日上线",
-          "url": "https://www.douyin.com/hot/2568177",
-          "source": "抖音",
-          "ranks": [
-            12,
-            15,
-            16,
-            22,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时04分 ~ 18时25分]"
-        },
-        {
           "title": "管泽元 2026 季中赛后发文谈《英雄联盟》双败赛制最大争议「胜者组冠军少一条命」对此你有什么解法吗？",
           "url": "https://www.zhihu.com/question/2059961230907946867",
           "source": "知乎",
           "ranks": [
-            19,
-            6
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时24分 ~ 21时23分]"
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "LOL怀旧服7月30日上线",
+          "url": "https://search.bilibili.com/all?keyword=LOL%E6%80%80%E6%97%A7%E6%9C%8D7%E6%9C%8830%E6%97%A5%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
         }
       ]
     },
@@ -394,15 +86,49 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "金十图示：2026年07月13日（周一）上海金早盘价为888.68元/克，较国际金价（约为888.19元/克），高0.49元/克。",
-          "url": "https://flash.jin10.com/detail/20260713101806908800",
-          "source": "金十数据",
+          "title": "金价俯冲谁还在逆势买金",
+          "url": "https://www.toutiao.com/trending/7661235977758982207/",
+          "source": "今日头条",
           "ranks": [
-            22
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时36分"
+          "time_info": "00时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 Apple Mac iPhone 手机",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "曝苹果20系列回归玻璃机身",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E8%8B%B9%E6%9E%9C20%E7%B3%BB%E5%88%97%E5%9B%9E%E5%BD%92%E7%8E%BB%E7%92%83%E6%9C%BA%E8%BA%AB",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "新能源车去补贴化意味着什么",
+          "url": "https://www.toutiao.com/trending/7661287675118583854/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
         }
       ]
     }
