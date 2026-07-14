@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-07-14T10:25:04.834671+08:00",
-  "total_titles_processed": 831,
+  "generated_at": "2026-07-14T13:29:21.671717+08:00",
+  "total_titles_processed": 997,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "A股液冷服务器板块震荡拉升，飞龙股份、博杰股份涨停，奥迪威、风华高科、凯添燃气、光迅科技跟涨。",
+          "url": "https://flash.jin10.com/detail/20260714132122783800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
+          "title": "A股液冷服务器板块走高，飞龙股份、博杰股份涨停，日科化学盘中创新高，奥迪威、风华高科、凯添燃气、光迅科技跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3133348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
+          "title": "比亚迪全新B级闪充轿车秦MAX官宣",
+          "url": "https://www.toutiao.com/trending/7661207271717208091/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时24分 ~ 10时25分]"
+        },
+        {
+          "title": "港股汽车股拉升，蔚来汽车(09866.HK)涨超6%，比亚迪股份(01211.HK)涨超2%，理想汽车(02015.HK)、小鹏集团(09868.HK)、小米集团(01810.HK)跟涨。",
+          "url": "https://flash.jin10.com/detail/20260714100820753800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "新能源车去补贴化意味着什么",
+          "url": "https://www.toutiao.com/trending/7661287675118583854/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "加州新电动车补贴方案出炉，特斯拉成最大赢家",
+          "url": "https://wallstreetcn.com/livenews/3133073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时56分"
+        }
+      ]
+    },
     {
       "keyword_group": "央行 抖音 小红书",
       "match_count": 6,
@@ -13,11 +85,12 @@
           "source": "抖音",
           "ranks": [
             20,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 10时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 13时29分]"
         },
         {
           "title": "美国银行团队：日本财务大臣片山皋月关于货币政策应交由日本央行决定的表态，表明日元和日本国债已触及令政策制定者感到压力的水平，可能促使当局采取更为审慎的态度。 我们也不会忽视她关于政府养老投资基金GPIF增配日本国内债券的呼吁，因为这对各方而言都有其合理性。",
@@ -70,102 +143,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "比亚迪全新B级闪充轿车秦MAX官宣",
-          "url": "https://www.toutiao.com/trending/7661207271717208091/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时24分 ~ 10时25分]"
-        },
-        {
-          "title": "港股汽车股拉升，蔚来汽车(09866.HK)涨超6%，比亚迪股份(01211.HK)涨超2%，理想汽车(02015.HK)、小鹏集团(09868.HK)、小米集团(01810.HK)跟涨。",
-          "url": "https://flash.jin10.com/detail/20260714100820753800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时25分"
-        },
-        {
-          "title": "新能源车去补贴化意味着什么",
-          "url": "https://www.toutiao.com/trending/7661287675118583854/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "加州新电动车补贴方案出炉，特斯拉成最大赢家",
-          "url": "https://wallstreetcn.com/livenews/3133073",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "【早报】美伊冲突升级；美股存储股再度重挫；国际油价暴涨9%，金价大跌",
-          "url": "https://www.cls.cn/detail/2425210",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时53分 ~ 10时25分]"
-        },
-        {
-          "title": "金价俯冲谁还在逆势买金",
-          "url": "https://www.toutiao.com/trending/7661235977758982207/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            21,
-            28,
-            16,
-            15,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 07时54分]"
-        },
-        {
-          "title": "金十图示：2026年07月14日（周二）上海金早盘价为877.1元/克，较国际金价（约为876.16元/克），高0.94元/克。",
-          "url": "https://flash.jin10.com/detail/20260714102141835800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "10时25分"
         }
@@ -173,7 +151,7 @@
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "苹果开始测试中国企业长鑫存储内存芯片，背后有哪些战略考量？此举将带来哪些产业影响？",
@@ -183,11 +161,12 @@
             19,
             16,
             12,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时14分 ~ 10时25分]"
+          "appearance_count": 9,
+          "time_info": "[04时14分 ~ 13时29分]"
         },
         {
           "title": "曝苹果20系列回归玻璃机身",
@@ -212,6 +191,62 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时55分 ~ 05时56分]"
+        },
+        {
+          "title": "机构：2026Q2全球智能手机出货量下滑6.7%，内存危机导致市场两极分化",
+          "url": "https://wallstreetcn.com/livenews/3133316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "【早报】美伊冲突升级；美股存储股再度重挫；国际油价暴涨9%，金价大跌",
+          "url": "https://www.cls.cn/detail/2425210",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时53分 ~ 13时29分]"
+        },
+        {
+          "title": "金价俯冲谁还在逆势买金",
+          "url": "https://www.toutiao.com/trending/7661235977758982207/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            21,
+            28,
+            16,
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 07时54分]"
+        },
+        {
+          "title": "金十图示：2026年07月14日（周二）上海金早盘价为877.1元/克，较国际金价（约为876.16元/克），高0.94元/克。",
+          "url": "https://flash.jin10.com/detail/20260714102141835800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时25分"
         }
       ]
     },
@@ -257,8 +292,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时24分 ~ 10时25分]"
+          "appearance_count": 3,
+          "time_info": "[10时24分 ~ 13时29分]"
         }
       ]
     },
