@@ -1,419 +1,44 @@
 {
-  "generated_at": "2026-07-14T22:49:20.777697+08:00",
-  "total_titles_processed": 1654,
+  "generated_at": "2026-07-15T00:14:37.491878+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "A股液冷服务器板块震荡拉升，飞龙股份、博杰股份涨停，奥迪威、风华高科、凯添燃气、光迅科技跟涨。",
-          "url": "https://flash.jin10.com/detail/20260714132122783800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时29分"
-        },
-        {
-          "title": "A股液冷服务器板块走高，飞龙股份、博杰股份涨停，日科化学盘中创新高，奥迪威、风华高科、凯添燃气、光迅科技跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3133348",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时29分"
-        },
-        {
-          "title": "专家：比亚迪不是车企",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E6%AF%94%E4%BA%9A%E8%BF%AA%E4%B8%8D%E6%98%AF%E8%BD%A6%E4%BC%81",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
-        },
-        {
-          "title": "比亚迪全新B级闪充轿车秦MAX官宣",
-          "url": "https://www.toutiao.com/trending/7661207271717208091/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时24分 ~ 10时25分]"
-        },
-        {
-          "title": "特斯拉官方宣传汽车寿命",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E5%AE%98%E6%96%B9%E5%AE%A3%E4%BC%A0%E6%B1%BD%E8%BD%A6%E5%AF%BF%E5%91%BD",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时02分 ~ 16时03分]"
-        },
-        {
-          "title": "特斯拉官方宣传汽车寿命",
-          "url": "https://www.toutiao.com/trending/7661917083823276082/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "比亚迪回应唐车型后电机总成脱落：底盘发生严重磕碰，非产品质量问题",
-          "url": "https://wallstreetcn.com/livenews/3133636",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时11分"
-        },
-        {
-          "title": "中汽协回应新能源车平均车龄仅1.8年：系误读，不等于换车频率",
-          "url": "https://wallstreetcn.com/livenews/3133522",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时08分"
-        },
-        {
-          "title": "专家：视比亚迪为纯车企有失偏颇",
-          "url": "https://www.toutiao.com/trending/7662324954515377718/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时11分"
-        },
-        {
-          "title": "港股汽车股拉升，蔚来汽车(09866.HK)涨超6%，比亚迪股份(01211.HK)涨超2%，理想汽车(02015.HK)、小鹏集团(09868.HK)、小米集团(01810.HK)跟涨。",
-          "url": "https://flash.jin10.com/detail/20260714100820753800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时25分"
-        },
-        {
-          "title": "新能源车去补贴化意味着什么",
-          "url": "https://www.toutiao.com/trending/7661287675118583854/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "加州新电动车补贴方案出炉，特斯拉成最大赢家",
-          "url": "https://wallstreetcn.com/livenews/3133073",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时56分"
-        },
-        {
-          "title": "比亚迪4S店承诺补贴成“空头支票”",
-          "url": "https://www.toutiao.com/trending/7661608516637868086/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时11分"
-        }
-      ]
-    },
-    {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 11,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "周星驰星女郎雪野入驻抖音",
-          "url": "https://www.douyin.com/hot/2570121",
-          "source": "抖音",
-          "ranks": [
-            20,
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 13时29分]"
-        },
         {
           "title": "央行将开展14000亿元买断式逆回购",
           "url": "https://www.toutiao.com/trending/7661521641490432036/",
           "source": "今日头条",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
-        },
-        {
-          "title": "大衣哥回应不注册抖音账号",
-          "url": "https://www.douyin.com/hot/2571159",
-          "source": "抖音",
-          "ranks": [
-            28,
-            27,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时07分 ~ 22时49分]"
-        },
-        {
-          "title": "美国银行团队：日本财务大臣片山皋月关于货币政策应交由日本央行决定的表态，表明日元和日本国债已触及令政策制定者感到压力的水平，可能促使当局采取更为审慎的态度。 我们也不会忽视她关于政府养老投资基金GPIF增配日本国内债券的呼吁，因为这对各方而言都有其合理性。",
-          "url": "https://wallstreetcn.com/livenews/3132987",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时32分"
+          "time_info": "00时14分"
         },
         {
           "title": "央行将开展14000亿元买断式逆回购",
           "url": "https://www.douyin.com/hot/2571364",
           "source": "抖音",
           "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
-        },
-        {
-          "title": "加拿大央行仍将于当地时间周三09:45（北京时间21:45）发布声明与MPR（货币政策报告）。 随后将举行新闻发布会。",
-          "url": "https://wallstreetcn.com/livenews/3132985",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时32分"
+          "time_info": "00时14分"
         },
         {
-          "title": "欧洲央行执委施纳贝尔阐述欧洲增长面临的挑战与对策",
-          "url": "https://wallstreetcn.com/livenews/3133024",
-          "source": "华尔街见闻-快讯",
+          "title": "大衣哥回应不注册抖音账号",
+          "url": "https://www.douyin.com/hot/2571159",
+          "source": "抖音",
           "ranks": [
-            22
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时44分"
-        },
-        {
-          "title": "中国央行：将开展14000亿元买断式逆回购操作 期限为6个月（184天）",
-          "url": "https://wallstreetcn.com/livenews/3133509",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时08分"
-        },
-        {
-          "title": "英国两年期国债收益率涨超10个基点，刷新6月11日以来盘中高位至4.3465%，特朗普宣布在霍尔木兹海峡对货物收费20%之后，交易员推高对央行加息的预期。",
-          "url": "https://wallstreetcn.com/livenews/3132978",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "中国央行公开市场今日净投放2265亿元人民币",
-          "url": "https://wallstreetcn.com/livenews/3133182",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时25分"
-        },
-        {
-          "title": "央行将开展14000亿元买断式逆回购",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%E5%B0%86%E5%BC%80%E5%B1%9514000%E4%BA%BF%E5%85%83%E4%B9%B0%E6%96%AD%E5%BC%8F%E9%80%86%E5%9B%9E%E8%B4%AD",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "苹果开始测试中国企业长鑫存储内存芯片，背后有哪些战略考量？此举将带来哪些产业影响？",
-          "url": "https://www.zhihu.com/question/2058578162674397208",
-          "source": "知乎",
-          "ranks": [
-            19,
-            16,
-            12,
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时14分 ~ 13时29分]"
-        },
-        {
-          "title": "消息人士：华为逆势上调手机出货目标20%",
-          "url": "https://flash.jin10.com/detail/20260714154304852800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时03分"
-        },
-        {
-          "title": "曝苹果20系列回归玻璃机身",
-          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E8%8B%B9%E6%9E%9C20%E7%B3%BB%E5%88%97%E5%9B%9E%E5%BD%92%E7%8E%BB%E7%92%83%E6%9C%BA%E8%BA%AB",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 04时14分]"
-        },
-        {
-          "title": "曝iPhone 20系列将回归玻璃材质",
-          "url": "https://www.toutiao.com/trending/7661625304379031588/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时55分 ~ 05时56分]"
-        },
-        {
-          "title": "怎么看待那些背着一千多的寇驰包，拿着 iPhone，但是全身上下衣服却不超几十块钱的人？",
-          "url": "https://www.zhihu.com/question/9783691829",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
-        },
-        {
-          "title": "机构：2026Q2全球智能手机出货量下滑6.7%，内存危机导致市场两极分化",
-          "url": "https://wallstreetcn.com/livenews/3133316",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "【早报】美伊冲突升级；美股存储股再度重挫；国际油价暴涨9%，金价大跌",
-          "url": "https://www.cls.cn/detail/2425210",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时53分 ~ 16时03分]"
-        },
-        {
-          "title": "金价俯冲谁还在逆势买金",
-          "url": "https://www.toutiao.com/trending/7661235977758982207/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            21,
-            28,
-            16,
-            15,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 07时54分]"
-        },
-        {
-          "title": "金十图示：2026年07月14日（周二）上海金早盘价为877.1元/克，较国际金价（约为876.16元/克），高0.94元/克。",
-          "url": "https://flash.jin10.com/detail/20260714102141835800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时25分"
-        },
-        {
-          "title": "国际金价失守4100美元，地缘冲突为何没能提振走势？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33577078",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时11分"
+          "time_info": "00时14分"
         }
       ]
     },
@@ -426,85 +51,73 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33570712",
           "source": "澎湃新闻",
           "ranks": [
-            15,
-            9,
-            6,
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时24分 ~ 22时49分]"
+          "appearance_count": 1,
+          "time_info": "00时14分"
         },
         {
-          "title": "报道：Deepseek准备最快今年申请IPO",
-          "url": "https://wallstreetcn.com/livenews/3133700",
-          "source": "华尔街见闻-快讯",
+          "title": "DeepSeek估值或达4814亿",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BC%B0%E5%80%BC%E6%88%96%E8%BE%BE4814%E4%BA%BF",
+          "source": "bilibili 热搜",
           "ranks": [
-            19
+            5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时49分"
+          "time_info": "00时14分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
           "url": "https://www.zhihu.com/question/2059349642496710015",
           "source": "知乎",
           "ranks": [
-            8,
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时02分 ~ 22时49分]"
-        },
-        {
-          "title": "亚马逊云服务(AWS)：OpenAI GPT-5.6 SOL、TERRA 和 LUNA 现已在亚马逊基础设施上全面上线。",
-          "url": "https://flash.jin10.com/detail/20260714050653705800",
-          "source": "金十数据",
-          "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时56分"
+          "time_info": "00时14分"
         }
       ]
     },
     {
-      "keyword_group": "英雄联盟 LOL",
-      "match_count": 2,
+      "keyword_group": "苹果 Apple Mac iPhone 手机",
+      "match_count": 1,
       "titles": [
         {
-          "title": "管泽元 2026 季中赛后发文谈《英雄联盟》双败赛制最大争议「胜者组冠军少一条命」对此你有什么解法吗？",
-          "url": "https://www.zhihu.com/question/2059961230907946867",
+          "title": "怎么看待那些背着一千多的寇驰包，拿着 iPhone，但是全身上下衣服却不超几十块钱的人？",
+          "url": "https://www.zhihu.com/question/9783691829",
           "source": "知乎",
           "ranks": [
-            5,
-            11
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 02时44分]"
-        },
+          "appearance_count": 1,
+          "time_info": "00时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "LOL怀旧服7月30日上线",
-          "url": "https://search.bilibili.com/all?keyword=LOL%E6%80%80%E6%97%A7%E6%9C%8D7%E6%9C%8830%E6%97%A5%E4%B8%8A%E7%BA%BF",
-          "source": "bilibili 热搜",
+          "title": "专家：比亚迪不是车企",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E6%AF%94%E4%BA%9A%E8%BF%AA%E4%B8%8D%E6%98%AF%E8%BD%A6%E4%BC%81",
+          "source": "百度热搜",
           "ranks": [
-            27,
-            20
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 10时25分]"
+          "appearance_count": 1,
+          "time_info": "00时14分"
         }
       ]
     }
