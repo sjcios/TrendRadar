@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T04:10:05.962514+08:00",
-  "total_titles_processed": 502,
+  "generated_at": "2026-07-15T05:56:53.292673+08:00",
+  "total_titles_processed": 601,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "OpenAI置评苹果公司发起的窃密诉讼：对原告的任何证据都不知情。 我们严肃对待苹果的指控。",
@@ -14,7 +14,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
         },
@@ -37,7 +37,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
         },
@@ -48,7 +48,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
         },
@@ -59,9 +59,53 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
+        },
+        {
+          "title": "OpenAI开始涉足苹果“舒适区”，拟推首款AI硬件",
+          "url": "https://flash.jin10.com/detail/20260715050136121800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
+        },
+        {
+          "title": "OpenAI打算发布家用音箱，作为其首款硬件产品",
+          "url": "https://wallstreetcn.com/livenews/3133879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
+        },
+        {
+          "title": "OpenAI表示，其AI智能音箱产品并未侵犯苹果(AAPL.O)的商业机密。",
+          "url": "https://flash.jin10.com/detail/20260715044652988800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
+        },
+        {
+          "title": "市场消息：OpenAI计划推出AI智能音箱作为旗下首款硬件产品，定位为AI陪伴助手。",
+          "url": "https://flash.jin10.com/detail/20260715044636741800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
         }
       ]
     },
@@ -79,8 +123,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 04时10分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 05时56分]"
         },
         {
           "title": "苹果洽谈AI初创公司，拟让大模型直接运行于iPhone",
@@ -128,9 +172,23 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
+        },
+        {
+          "title": "央行将开展14000亿元买断式逆回购",
+          "url": "https://www.douyin.com/hot/2571364",
+          "source": "抖音",
+          "ranks": [
+            14,
+            17,
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 05时56分]"
         },
         {
           "title": "央行将开展14000亿元买断式逆回购",
@@ -144,29 +202,17 @@
           "time_info": "00时14分"
         },
         {
-          "title": "央行将开展14000亿元买断式逆回购",
-          "url": "https://www.douyin.com/hot/2571364",
-          "source": "抖音",
-          "ranks": [
-            14,
-            17,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 04时10分]"
-        },
-        {
           "title": "大衣哥回应不注册抖音账号",
           "url": "https://www.douyin.com/hot/2571159",
           "source": "抖音",
           "ranks": [
             26,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 05时56分]"
         }
       ]
     },
@@ -183,8 +229,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 04时10分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 05时56分]"
         },
         {
           "title": "DeepSeek估值或达4814亿",
@@ -200,6 +246,36 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价又绷不住了网友直言想抄底",
+          "url": "https://www.toutiao.com/trending/7661722713741295679/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时02分 ~ 05时56分]"
+        },
+        {
+          "title": "金价在美国CPI通胀数据发布日涨超1.2%，钯金涨4.1%",
+          "url": "https://wallstreetcn.com/livenews/3133883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
+        }
+      ]
+    },
+    {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
       "match_count": 2,
       "titles": [
@@ -210,11 +286,12 @@
           "ranks": [
             8,
             6,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 04时10分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 05时56分]"
         },
         {
           "title": "Lucid集团跌幅扩大至21%，“特斯拉劲敌”Rivian也跌1%。",
@@ -226,24 +303,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价又绷不住了网友直言想抄底",
-          "url": "https://www.toutiao.com/trending/7661722713741295679/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时02分 ~ 04时10分]"
         }
       ]
     }
