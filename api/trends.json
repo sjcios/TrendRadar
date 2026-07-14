@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T05:56:53.292673+08:00",
-  "total_titles_processed": 601,
+  "generated_at": "2026-07-15T06:56:21.620915+08:00",
+  "total_titles_processed": 666,
   "failed_sources": [],
   "trends": [
     {
@@ -70,7 +70,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
         },
@@ -81,7 +81,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
         },
@@ -92,7 +92,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
         },
@@ -103,9 +103,76 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "央行 抖音 小红书",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "央行将开展14000亿元买断式逆回购",
+          "url": "https://www.douyin.com/hot/2571364",
+          "source": "抖音",
+          "ranks": [
+            14,
+            17,
+            12,
+            20,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 06时56分]"
+        },
+        {
+          "title": "英国央行行长贝利将于十分钟后发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260715035000001800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时10分"
+        },
+        {
+          "title": "美国财长贝森特：美国财政部外国资产控制办公室制裁了多个与伊朗央行关联的钱包，超过1.3亿美元资金被冻结。",
+          "url": "https://flash.jin10.com/detail/20260715064945051800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
+          "title": "央行将开展14000亿元买断式逆回购",
+          "url": "https://www.toutiao.com/trending/7661521641490432036/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时14分"
+        },
+        {
+          "title": "大衣哥回应不注册抖音账号",
+          "url": "https://www.douyin.com/hot/2571159",
+          "source": "抖音",
+          "ranks": [
+            26,
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 06时56分]"
         }
       ]
     },
@@ -120,11 +187,12 @@
           "ranks": [
             17,
             20,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 05时56分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 06时56分]"
         },
         {
           "title": "苹果洽谈AI初创公司，拟让大模型直接运行于iPhone",
@@ -162,61 +230,6 @@
       ]
     },
     {
-      "keyword_group": "央行 抖音 小红书",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "英国央行行长贝利将于十分钟后发表讲话。",
-          "url": "https://flash.jin10.com/detail/20260715035000001800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时10分"
-        },
-        {
-          "title": "央行将开展14000亿元买断式逆回购",
-          "url": "https://www.douyin.com/hot/2571364",
-          "source": "抖音",
-          "ranks": [
-            14,
-            17,
-            12,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 05时56分]"
-        },
-        {
-          "title": "央行将开展14000亿元买断式逆回购",
-          "url": "https://www.toutiao.com/trending/7661521641490432036/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
-        },
-        {
-          "title": "大衣哥回应不注册抖音账号",
-          "url": "https://www.douyin.com/hot/2571159",
-          "source": "抖音",
-          "ranks": [
-            26,
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 05时56分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
@@ -229,8 +242,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 05时56分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 06时56分]"
         },
         {
           "title": "DeepSeek估值或达4814亿",
@@ -256,11 +269,12 @@
           "ranks": [
             16,
             5,
-            28
+            28,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时02分 ~ 05时56分]"
+          "appearance_count": 6,
+          "time_info": "[02时02分 ~ 06时56分]"
         },
         {
           "title": "金价在美国CPI通胀数据发布日涨超1.2%，钯金涨4.1%",
@@ -269,7 +283,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
         }
@@ -287,11 +301,12 @@
             8,
             6,
             16,
-            15
+            15,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 05时56分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 06时56分]"
         },
         {
           "title": "Lucid集团跌幅扩大至21%，“特斯拉劲敌”Rivian也跌1%。",
