@@ -1,8 +1,286 @@
 {
-  "generated_at": "2026-07-15T13:31:22.448689+08:00",
-  "total_titles_processed": 1074,
+  "generated_at": "2026-07-15T16:06:32.876262+08:00",
+  "total_titles_processed": 1236,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "央行 抖音 小红书",
+      "match_count": 24,
+      "titles": [
+        {
+          "title": "大衣哥回应不注册抖音账号",
+          "url": "https://www.douyin.com/hot/2571159",
+          "source": "抖音",
+          "ranks": [
+            26,
+            25,
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时14分 ~ 10时14分]"
+        },
+        {
+          "title": "央行将开展14000亿元买断式逆回购",
+          "url": "https://www.douyin.com/hot/2571364",
+          "source": "抖音",
+          "ranks": [
+            14,
+            17,
+            12,
+            20,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 06时56分]"
+        },
+        {
+          "title": "英国央行行长贝利将于十分钟后发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260715035000001800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时10分"
+        },
+        {
+          "title": "央行：未来一段时期，贷款的降速提质可能成为宏观运行的新常态之一",
+          "url": "https://flash.jin10.com/detail/20260715154328413800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
+          "title": "央行将开展14000亿元买断式逆回购",
+          "url": "https://www.toutiao.com/trending/7661521641490432036/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时14分"
+        },
+        {
+          "title": "欧洲央行管委Kocher：如有需要，随时准备采取货币政策行动。 欧洲央行将采取一切必要措施，使通胀在中期内回归2%。 目前尚未看到第二轮效应。",
+          "url": "https://wallstreetcn.com/livenews/3134105",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "央行：人民币汇率预计会继续双向波动",
+          "url": "https://wallstreetcn.com/livenews/3134198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
+          "title": "加拿大央行将维持“观望模式” 保留加息和降息两种选项",
+          "url": "https://flash.jin10.com/detail/20260715153932008800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
+          "title": "美国财长贝森特：美国财政部外国资产控制办公室制裁了多个与伊朗央行关联的钱包，超过1.3亿美元资金被冻结。",
+          "url": "https://flash.jin10.com/detail/20260715064945051800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时56分 ~ 07时53分]"
+        },
+        {
+          "title": "央行：现阶段7天期逆回购利率还是主要政策利率",
+          "url": "https://wallstreetcn.com/livenews/3134194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
+          "title": "央行：前5月以人民币开展跨境贸易结算比例约30%",
+          "url": "https://flash.jin10.com/detail/20260715153530599800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
+          "title": "央行：研究逐步增加隔夜逆回购的操作频率",
+          "url": "https://wallstreetcn.com/livenews/3134187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
+          "title": "【央行：不宜根据单次公开市场操作量多少判断央行政策取向】7月15日，人民银行副行长邹澜在国新办新闻发布会上表示，人民银行会统筹考虑多种因素变化，合理安排公开市场操作的品种和规模，有时回笼，有时投放，最终是保持流动性总量处于合适水平，从而促进短端利率在政策利率附近平稳运行。某一次的操作量多少是服务于流动性总量调控的需要，不宜根据单次操作量的多少来判断央行的政策取向。相对于央行的操作量，短端市场利率水平是一个更适宜的观测指标。（证券时报）",
+          "url": "https://wallstreetcn.com/livenews/3134185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
+          "title": "央行：加大逆周期和跨周期调节力度 巩固拓展经济稳中向好势头",
+          "url": "https://wallstreetcn.com/livenews/3134184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
+          "title": "央行：截至6月末普惠小微贷款同比增长8.3%",
+          "url": "https://wallstreetcn.com/livenews/3134182",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
+          "title": "【央行：1—6月新发放企业贷款加权平均利率大约为3%】7月15日，人民银行副行长邹澜在国新办新闻发布会上表示，1—6月，新发放企业贷款加权平均利率大约为3%，比上年同期低约20个基点；新发放的个人住房贷款利率约3.1%，与上年同期基本持平。",
+          "url": "https://wallstreetcn.com/livenews/3134180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
+          "title": "央行：研究逐步增加隔夜逆回购的操作频率",
+          "url": "https://flash.jin10.com/detail/20260715153310954800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
+          "title": "欧洲央行管委会成员兼德国央行行长Nagel：6月决议后，欧洲央行利率处于合适水平。 中东局势动荡，不确定性高。 如有必要，欧洲央行必须果断采取行动。 欧洲央行政策将保持警惕立场。",
+          "url": "https://wallstreetcn.com/livenews/3134176",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
+          "title": "加量续作：央行15日将开展14000亿元6个月期买断式逆回购操作",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33583125",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
+          "title": "中国央行：初步统计，2026年6月末社会融资规模存量为462.06万亿元，同比增长7.4%。",
+          "url": "https://wallstreetcn.com/livenews/3134175",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
+          "title": "央行：人民币汇率预计会继续双向波动",
+          "url": "https://flash.jin10.com/detail/20260715153102112800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
+          "title": "中国央行：上半年人民币存款增加17.76万亿元",
+          "url": "https://wallstreetcn.com/livenews/3134170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
+          "title": "央行：截至4月末银行发放科技创新和技术改造贷款1.5万亿元",
+          "url": "https://flash.jin10.com/detail/20260715152903594800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
+          "title": "中国央行公开市场今日净投放4115亿元人民币",
+          "url": "https://wallstreetcn.com/livenews/3133974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        }
+      ]
+    },
     {
       "keyword_group": "chatgpt openai",
       "match_count": 11,
@@ -132,97 +410,6 @@
       ]
     },
     {
-      "keyword_group": "央行 抖音 小红书",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "大衣哥回应不注册抖音账号",
-          "url": "https://www.douyin.com/hot/2571159",
-          "source": "抖音",
-          "ranks": [
-            26,
-            25,
-            28,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 10时14分]"
-        },
-        {
-          "title": "央行将开展14000亿元买断式逆回购",
-          "url": "https://www.douyin.com/hot/2571364",
-          "source": "抖音",
-          "ranks": [
-            14,
-            17,
-            12,
-            20,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 06时56分]"
-        },
-        {
-          "title": "英国央行行长贝利将于十分钟后发表讲话。",
-          "url": "https://flash.jin10.com/detail/20260715035000001800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时10分"
-        },
-        {
-          "title": "央行将开展14000亿元买断式逆回购",
-          "url": "https://www.toutiao.com/trending/7661521641490432036/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
-        },
-        {
-          "title": "欧洲央行管委Kocher：如有需要，随时准备采取货币政策行动。 欧洲央行将采取一切必要措施，使通胀在中期内回归2%。 目前尚未看到第二轮效应。",
-          "url": "https://wallstreetcn.com/livenews/3134105",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        },
-        {
-          "title": "美国财长贝森特：美国财政部外国资产控制办公室制裁了多个与伊朗央行关联的钱包，超过1.3亿美元资金被冻结。",
-          "url": "https://flash.jin10.com/detail/20260715064945051800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时56分 ~ 07时53分]"
-        },
-        {
-          "title": "中国央行公开市场今日净投放4115亿元人民币",
-          "url": "https://wallstreetcn.com/livenews/3133974",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 6,
       "titles": [
@@ -254,22 +441,24 @@
           "url": "https://www.zhihu.com/question/2060645375338180828",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时29分 ~ 13时31分]"
+          "appearance_count": 3,
+          "time_info": "[13时29分 ~ 16时06分]"
         },
         {
           "title": "曝DeepSeek计划明年上市",
           "url": "https://www.baidu.com/s?wd=%E6%9B%9DDeepSeek%E8%AE%A1%E5%88%92%E6%98%8E%E5%B9%B4%E4%B8%8A%E5%B8%82",
           "source": "百度热搜",
           "ranks": [
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时29分 ~ 13时31分]"
+          "appearance_count": 3,
+          "time_info": "[13时29分 ~ 16时06分]"
         },
         {
           "title": "The Information：DeepSeek正寻求新一轮融资，目标金额为74亿美元，公司估值达740亿美元。",
@@ -278,7 +467,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         },
@@ -289,7 +478,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         }
@@ -374,7 +563,7 @@
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "专家：比亚迪不是车企",
@@ -397,11 +586,12 @@
           "url": "https://www.zhihu.com/question/2059993881601749194",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时29分 ~ 13时31分]"
+          "appearance_count": 3,
+          "time_info": "[13时29分 ~ 16时06分]"
         },
         {
           "title": "“新能源车平均车龄1.8年”系误读",
@@ -409,11 +599,23 @@
           "source": "抖音",
           "ranks": [
             11,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时53分 ~ 13时31分]"
+          "appearance_count": 6,
+          "time_info": "[07时53分 ~ 16时06分]"
+        },
+        {
+          "title": "宝马高管称电动车千匹马力是营销噱头",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%9D%E9%A9%AC%E9%AB%98%E7%AE%A1%E7%A7%B0%E7%94%B5%E5%8A%A8%E8%BD%A6%E5%8D%83%E5%8C%B9%E9%A9%AC%E5%8A%9B%E6%98%AF%E8%90%A5%E9%94%80%E5%99%B1%E5%A4%B4%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
         },
         {
           "title": "Lucid集团跌幅扩大至21%，“特斯拉劲敌”Rivian也跌1%。",
@@ -469,11 +671,12 @@
           "url": "https://www.zhihu.com/question/2054328613269398401",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时29分 ~ 13时31分]"
+          "appearance_count": 3,
+          "time_info": "[13时29分 ~ 16时06分]"
         },
         {
           "title": "LoL 官宣将推出怀旧模式，还原老版模型与旧数值且怀长期开放，在玩家日趋流失的现在会是个好做法么？",
