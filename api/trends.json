@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T06:03:12.965820+08:00",
-  "total_titles_processed": 546,
+  "generated_at": "2026-07-17T07:58:47.215843+08:00",
+  "total_titles_processed": 673,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 06时03分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 07时58分]"
         },
         {
           "title": "谷歌(GOOG.O)在美国上线搜索AI模式应用集成功能，支持与更多应用协同。",
@@ -163,11 +163,12 @@
           "ranks": [
             2,
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 06时03分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 07时58分]"
         },
         {
           "title": "报道：苹果拟对iPad mini进行五年来最大规模升级，今年秋季发布新品",
@@ -217,19 +218,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 06时03分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 07时58分]"
         },
         {
           "title": "功夫女足这条抖音艺术已成",
           "url": "https://www.douyin.com/hot/2572892",
           "source": "抖音",
           "ranks": [
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时05分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 07时58分]"
         },
         {
           "title": "美国至7月10日当周外国央行持有美国国债 6.39亿美元，前值-286.05亿美元。",
@@ -238,7 +240,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
         }
@@ -254,11 +256,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 06时03分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 07时58分]"
         },
         {
           "title": "梁文锋打新长鑫科技",
@@ -266,11 +269,40 @@
           "source": "今日头条",
           "ranks": [
             14,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 06时03分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 07时58分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "伯恩斯坦：将2026年黄金价格目标上调至4533美元/盎司，因各国央行正在实现储备多元化，且预计美联储在未来一年内最多只会加息一两次。",
+          "url": "https://flash.jin10.com/detail/20260717075253072800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "【早报】美股存储股再遭重挫；美军连续空袭伊朗；油价、金价双双下跌；多只芯片股发布重要公告",
+          "url": "https://www.cls.cn/detail/2428987",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         }
       ]
     },
