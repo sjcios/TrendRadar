@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16T20:22:14.289358+08:00",
-  "total_titles_processed": 1505,
+  "generated_at": "2026-07-16T23:02:26.672265+08:00",
+  "total_titles_processed": 1666,
   "failed_sources": [],
   "trends": [
     {
@@ -24,17 +24,6 @@
           "time_info": "[00时20分 ~ 13时39分]"
         },
         {
-          "title": "所有人感受抖音里的人",
-          "url": "https://www.douyin.com/hot/2572849",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时09分 ~ 16时10分]"
-        },
-        {
           "title": "功夫女足这条抖音艺术已成",
           "url": "https://www.douyin.com/hot/2572892",
           "source": "抖音",
@@ -45,8 +34,19 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时39分 ~ 20时22分]"
+          "appearance_count": 7,
+          "time_info": "[13时39分 ~ 23时02分]"
+        },
+        {
+          "title": "所有人感受抖音里的人",
+          "url": "https://www.douyin.com/hot/2572849",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时09分 ~ 16时10分]"
         },
         {
           "title": "法兴银行：韩国央行为连续紧缩敞开大门",
@@ -154,7 +154,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时22分"
         },
@@ -277,8 +277,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时58分 ~ 20时22分]"
+          "appearance_count": 4,
+          "time_info": "[18时58分 ~ 23时02分]"
         },
         {
           "title": "科创50指数拉升翻红，此前一度跌超4%，AI手机、影视传媒、消费电子等方向涨幅居前，沪深京三市上涨个股近2700只。",
@@ -322,11 +322,12 @@
           "url": "https://www.douyin.com/hot/2573273",
           "source": "抖音",
           "ranks": [
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时58分 ~ 20时22分]"
+          "appearance_count": 4,
+          "time_info": "[18时58分 ~ 23时02分]"
         },
         {
           "title": "一年级小苹果考上北体播音系",
@@ -434,8 +435,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时26分 ~ 20时22分]"
+          "appearance_count": 9,
+          "time_info": "[10时26分 ~ 23时02分]"
         },
         {
           "title": "美股存储芯片指数初步收跌6.4%，半导体指数跌2.1%。 纳斯达克100指数初步收跌0.3%，成分股中，西部数据初步收跌8.7%，闪迪跌8.5%，美光跌7.9%，Lumentum跌7.3%，希捷科技跌6.1%，思科、英特尔、CoreWeave、AMD至少跌3.4%，Meta、谷歌A涨3%，苹果涨4.1%，汤森路透涨4.2%，PayPal涨17.4%。 亚马逊、微软、3M、Merck初步收涨超2%，与苹果、谷歌A领跑道指成分股。",
@@ -490,7 +491,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时22分"
         },
@@ -531,7 +532,7 @@
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "比亚迪高管：没美国市场销量也超丰田",
@@ -544,6 +545,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时20分 ~ 04时08分]"
+        },
+        {
+          "title": "匈牙利前外长加入比亚迪：曾是最年轻议员，主导“东方开放”政策",
+          "url": "https://news.ifeng.com/c/8uoKLqeKEm0",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时01分 ~ 23时02分]"
         },
         {
           "title": "比亚迪回应海外品牌架构整合",
@@ -641,11 +653,12 @@
           "source": "今日头条",
           "ranks": [
             4,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时58分 ~ 20时22分]"
+          "appearance_count": 5,
+          "time_info": "[18时58分 ~ 23时02分]"
         }
       ]
     },
@@ -660,7 +673,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时22分"
         }
