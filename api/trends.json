@@ -1,103 +1,11 @@
 {
-  "generated_at": "2026-07-16T07:02:11.535953+08:00",
-  "total_titles_processed": 672,
+  "generated_at": "2026-07-16T10:26:49.603972+08:00",
+  "total_titles_processed": 854,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "7款手机端侧大模型获备案！苹果Apple智能在列，阿里、百度提供支持",
-          "url": "https://www.cls.cn/detail/2427348",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 07时02分]"
-        },
-        {
-          "title": "如何评价 Q2 全球智能手机出货量同比下滑，小米跌幅最大，三星、苹果、华为逆势上涨？",
-          "url": "https://www.zhihu.com/question/2060476741349646921",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1,
-            3,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 07时02分]"
-        },
-        {
-          "title": "国行苹果AI完成备案",
-          "url": "https://www.douyin.com/hot/2572485",
-          "source": "抖音",
-          "ranks": [
-            2,
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 07时02分]"
-        },
-        {
-          "title": "王俊凯忙一天打开手机天塌了",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%BF%99%E4%B8%80%E5%A4%A9%E6%89%93%E5%BC%80%E6%89%8B%E6%9C%BA%E5%A4%A9%E5%A1%8C%E4%BA%86%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            18,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 04时08分]"
-        },
-        {
-          "title": "中国用户终于迎来满血iPhone",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%A8%E6%88%B7%E7%BB%88%E4%BA%8E%E8%BF%8E%E6%9D%A5%E6%BB%A1%E8%A1%80iPhone%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时05分 ~ 04时08分]"
-        },
-        {
-          "title": "一年级小苹果考上北体播音系",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B9%B4%E7%BA%A7%E5%B0%8F%E8%8B%B9%E6%9E%9C%E8%80%83%E4%B8%8A%E5%8C%97%E4%BD%93%E6%92%AD%E9%9F%B3%E7%B3%BB%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 00时21分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周三（7月15日），美国科技股七巨头（Magnificent 7）指数涨2.41%，连续第二个交易日走高，报223.13点。 成分股中，苹果收涨4.01%，刷新收盘历史高位至327.50美元，收盘市值4.81万亿美元——相比之下英伟达5.14万亿美元。 “超大”市值科技股指数涨1.12%，报446.55点。",
-          "url": "https://wallstreetcn.com/livenews/3134606",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时59分"
-        }
-      ]
-    },
-    {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 6,
+      "match_count": 11,
       "titles": [
         {
           "title": "雀骨抖音追剧团",
@@ -107,11 +15,56 @@
             28,
             18,
             26,
-            27
+            27,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 07时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 10时26分]"
+        },
+        {
+          "title": "日本财务大臣片山皋月：利率和外汇汇率是由多种因素决定的。 不会对特定的外汇水平发表评论。 将密切关注市场动态和经济指标，以实现财政可持续性。 具体的货币政策手段由日本央行自行决定。",
+          "url": "https://wallstreetcn.com/livenews/3134741",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "韩国央行：今天的利率决议是一致通过的。",
+          "url": "https://wallstreetcn.com/livenews/3134734",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "凯投宏观：韩国央行未来数月或进一步加息",
+          "url": "https://flash.jin10.com/detail/20260716095419471800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：具体货币政策手段由日本央行决定。",
+          "url": "https://flash.jin10.com/detail/20260716095417252800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
         },
         {
           "title": "美联储理事库克关切通胀问题，称如不降温将支持央行采取行动",
@@ -158,6 +111,17 @@
           "time_info": "00时21分"
         },
         {
+          "title": "中国央行公开市场今日净投放6160亿元人民币",
+          "url": "https://wallstreetcn.com/livenews/3134707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
           "title": "加拿大央行行长麦克勒姆：美国经济强劲，需要加拿大的出口。",
           "url": "https://wallstreetcn.com/livenews/3134490",
           "source": "华尔街见闻-快讯",
@@ -171,8 +135,112 @@
       ]
     },
     {
+      "keyword_group": "苹果 Apple Mac iPhone 手机",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "7款手机端侧大模型获备案！苹果Apple智能在列，阿里、百度提供支持",
+          "url": "https://www.cls.cn/detail/2427348",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 07时02分]"
+        },
+        {
+          "title": "如何评价 Q2 全球智能手机出货量同比下滑，小米跌幅最大，三星、苹果、华为逆势上涨？",
+          "url": "https://www.zhihu.com/question/2060476741349646921",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1,
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 07时02分]"
+        },
+        {
+          "title": "国行苹果AI完成备案",
+          "url": "https://www.douyin.com/hot/2572485",
+          "source": "抖音",
+          "ranks": [
+            2,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 10时26分]"
+        },
+        {
+          "title": "科创50指数拉升翻红，此前一度跌超4%，AI手机、影视传媒、消费电子等方向涨幅居前，沪深京三市上涨个股近2700只。",
+          "url": "https://wallstreetcn.com/livenews/3134739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "王俊凯忙一天打开手机天塌了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%BF%99%E4%B8%80%E5%A4%A9%E6%89%93%E5%BC%80%E6%89%8B%E6%9C%BA%E5%A4%A9%E5%A1%8C%E4%BA%86%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 04时08分]"
+        },
+        {
+          "title": "中国用户终于迎来满血iPhone",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%A8%E6%88%B7%E7%BB%88%E4%BA%8E%E8%BF%8E%E6%9D%A5%E6%BB%A1%E8%A1%80iPhone%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时05分 ~ 10时26分]"
+        },
+        {
+          "title": "一年级小苹果考上北体播音系",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B9%B4%E7%BA%A7%E5%B0%8F%E8%8B%B9%E6%9E%9C%E8%80%83%E4%B8%8A%E5%8C%97%E4%BD%93%E6%92%AD%E9%9F%B3%E7%B3%BB%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 00时21分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周三（7月15日），美国科技股七巨头（Magnificent 7）指数涨2.41%，连续第二个交易日走高，报223.13点。 成分股中，苹果收涨4.01%，刷新收盘历史高位至327.50美元，收盘市值4.81万亿美元——相比之下英伟达5.14万亿美元。 “超大”市值科技股指数涨1.12%，报446.55点。",
+          "url": "https://wallstreetcn.com/livenews/3134606",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "美股存储芯片指数初步收跌6.4%，半导体指数跌2.1%。 纳斯达克100指数初步收跌0.3%，成分股中，西部数据初步收跌8.7%，闪迪跌8.5%，美光跌7.9%，Lumentum跌7.3%，希捷科技跌6.1%，思科、英特尔、CoreWeave、AMD至少跌3.4%，Meta、谷歌A涨3%，苹果涨4.1%，汤森路透涨4.2%，PayPal涨17.4%。 亚马逊、微软、3M、Merck初步收涨超2%，与苹果、谷歌A领跑道指成分股。",
@@ -230,13 +298,48 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "巴菲特罕见发声：当每个人都喜欢赌博时，很难找到价值，谷歌能击败95%华尔街推的票",
+          "url": "https://wallstreetcn.com/articles/3777063",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "巴菲特最新访谈：批评当下市场投机潮 揭秘押注谷歌的逻辑",
+          "url": "https://www.cls.cn/detail/2427717",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "DeepSeek工资待遇太恐怖了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B7%A5%E8%B5%84%E5%BE%85%E9%81%87%E5%A4%AA%E6%81%90%E6%80%96%E4%BA%86&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            20,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 10时26分]"
+        },
         {
           "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
           "url": "https://www.zhihu.com/question/2060645375338180828",
@@ -252,16 +355,15 @@
           "time_info": "[00时20分 ~ 07时02分]"
         },
         {
-          "title": "DeepSeek工资待遇太恐怖了",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B7%A5%E8%B5%84%E5%BE%85%E9%81%87%E5%A4%AA%E6%81%90%E6%80%96%E4%BA%86&t=31&band_rank=11&Refer=top",
-          "source": "微博",
+          "title": "如何看待网传 DeepSeek 实习日薪突破 5500 元？这反映了 AI 行业与求职市场哪些现状？",
+          "url": "https://www.zhihu.com/question/2060769193977280048",
+          "source": "知乎",
           "ranks": [
-            11,
-            20
+            3
           ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 07时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
         }
       ]
     },
