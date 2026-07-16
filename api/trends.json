@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16T16:10:04.066346+08:00",
-  "total_titles_processed": 1204,
+  "generated_at": "2026-07-16T18:58:18.898730+08:00",
+  "total_titles_processed": 1390,
   "failed_sources": [],
   "trends": [
     {
@@ -62,11 +62,12 @@
           "source": "抖音",
           "ranks": [
             21,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时39分 ~ 16时10分]"
+          "appearance_count": 4,
+          "time_info": "[13时39分 ~ 18时58分]"
         },
         {
           "title": "韩国央行：今天的利率决议是一致通过的。",
@@ -108,7 +109,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时10分"
         },
@@ -163,7 +164,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时10分"
         },
@@ -204,7 +205,7 @@
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "7款手机端侧大模型获备案！苹果Apple智能在列，阿里、百度提供支持",
@@ -244,6 +245,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时20分 ~ 10时26分]"
+        },
+        {
+          "title": "realme手机退出中国市场",
+          "url": "https://s.weibo.com/weibo?q=%23realme%E6%89%8B%E6%9C%BA%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时58分"
         },
         {
           "title": "科创50指数拉升翻红，此前一度跌超4%，AI手机、影视传媒、消费电子等方向涨幅居前，沪深京三市上涨个股近2700只。",
@@ -369,6 +381,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
+        },
+        {
+          "title": "旧手机换盆原来亏了这么多",
+          "url": "https://www.douyin.com/hot/2573273",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时58分"
         }
       ]
     },
@@ -383,11 +406,12 @@
           "ranks": [
             9,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时26分 ~ 16时10分]"
+          "appearance_count": 5,
+          "time_info": "[10时26分 ~ 18时58分]"
         },
         {
           "title": "美股存储芯片指数初步收跌6.4%，半导体指数跌2.1%。 纳斯达克100指数初步收跌0.3%，成分股中，西部数据初步收跌8.7%，闪迪跌8.5%，美光跌7.9%，Lumentum跌7.3%，希捷科技跌6.1%，思科、英特尔、CoreWeave、AMD至少跌3.4%，Meta、谷歌A涨3%，苹果涨4.1%，汤森路透涨4.2%，PayPal涨17.4%。 亚马逊、微软、3M、Merck初步收涨超2%，与苹果、谷歌A领跑道指成分股。",
@@ -472,7 +496,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "DeepSeek工资待遇太恐怖了",
@@ -512,12 +536,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时26分 ~ 16时10分]"
+        },
+        {
+          "title": "梁文锋打新长鑫科技",
+          "url": "https://www.toutiao.com/trending/7663049647610400299/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时58分"
         }
       ]
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "比亚迪高管：没美国市场销量也超丰田",
@@ -552,6 +587,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
+        },
+        {
+          "title": "匈牙利前外长加入比亚迪释放何信号",
+          "url": "https://www.toutiao.com/trending/7663034468784934419/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时58分"
         }
       ]
     }
