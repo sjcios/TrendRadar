@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T06:48:27.854427+08:00",
-  "total_titles_processed": 588,
+  "generated_at": "2026-07-18T07:52:37.005433+08:00",
+  "total_titles_processed": 658,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             7,
             6,
             20,
-            9
+            9,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 06时48分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 07时52分]"
         },
         {
           "title": "报道：苹果与美国司法部就反垄断案进行早期和解谈判",
@@ -92,8 +93,22 @@
     },
     {
       "keyword_group": "英雄联盟 LOL",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "2026 EWC 英雄联盟项目 BLG 1:2 不敌 DK 无缘四强，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2061603096703104286",
+          "source": "知乎",
+          "ranks": [
+            20,
+            13,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时05分 ~ 07时52分]"
+        },
         {
           "title": "EWC 英雄联盟电竞世界杯淘汰赛 T1 2:0 战胜 MSI 冠军 HLE，如何评价这场比赛？",
           "url": "https://www.zhihu.com/question/2061556273808775032",
@@ -108,34 +123,44 @@
           "time_info": "[02时05分 ~ 05时53分]"
         },
         {
-          "title": "2026 EWC 英雄联盟项目 BLG 1:2 不敌 DK 无缘四强，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/2061603096703104286",
-          "source": "知乎",
+          "title": "英雄联盟",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F&t=31&band_rank=16&Refer=top",
+          "source": "微博",
           "ranks": [
-            20,
-            13,
-            8
+            16
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时05分 ~ 06时48分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
         }
       ]
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "中国汽车市场 5 个月推出 542 款新车，比亚迪高管称「彻底疯了」，这反映了怎样的市场竞争？",
           "url": "https://www.zhihu.com/question/2060791514276615811",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时48分 ~ 07时52分]"
+        },
+        {
+          "title": "男子在非洲卖中国新能源车",
+          "url": "https://www.toutiao.com/trending/7663399625411608630/",
+          "source": "今日头条",
+          "ranks": [
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时48分"
+          "time_info": "07时52分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌1.81%，报6280.72点，本周累计上涨2.61%，7月15-16日持续走高。 热门中概股里，百度初步收跌4.8%，美团、小鹏、腾讯、理想跌超3%，拼多多、日月光半导体、阿里跌超2%，网易涨0.7%，阿特斯太阳能涨1.5%，大全新能源涨2.2%，晶科能源涨3.1%。 ETF中，中国科技指数ETF（CQQQ）收跌5.07%，本周跌9.56%； XtrackersHarvest中证50（ASHS）收跌4.65%，本周跌11.31%； 德银嘉实沪深300指数ETF（ASHR）收跌2.66%，本周跌4.95%； 中概互联网指数ETF（KWEB）收跌2.44%，本周涨1.63%——延续此前两周先后反弹4.39%、5.56%的表现； MSCI新兴市场ex中国ETF（EMXC）收跌1.08%，本周累跌6.64%。",
@@ -147,6 +172,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Kimi K3再掀“DeepSeek时刻”？高盛警告：\"算力扩张时代\"或已走到尽头",
+          "url": "https://wallstreetcn.com/articles/3777230",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
         }
       ]
     },
@@ -182,6 +224,23 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时14分 ~ 06时48分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国际金价险守4000美元关口 美伊冲突升级双方扩大打击范围 | 环球市场",
+          "url": "https://www.cls.cn/detail/2430073",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
         }
       ]
     },
