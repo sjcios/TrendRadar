@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T15:47:36.104258+08:00",
-  "total_titles_processed": 1084,
+  "generated_at": "2026-07-18T17:24:11.241594+08:00",
+  "total_titles_processed": 1185,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "全球首款机器人手机亮相引老外围观",
@@ -30,9 +30,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
+        },
+        {
+          "title": "阿里与荣耀共创面向手机场景的解决方案，已落地Robot Phone",
+          "url": "https://wallstreetcn.com/livenews/3135986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         },
         {
           "title": "报道：苹果与美国司法部就反垄断案进行早期和解谈判",
@@ -55,6 +66,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
+        },
+        {
+          "title": "苹果上调日本部分iPhone售价",
+          "url": "https://wallstreetcn.com/livenews/3135983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         },
         {
           "title": "市场消息：苹果(AAPL.O)正与美国司法部就反垄断诉讼展开初步和解谈判。",
@@ -115,7 +137,7 @@
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "比亚迪巴西工厂迎来第10万辆新能源汽车下线",
@@ -140,6 +162,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时48分 ~ 07时52分]"
+        },
+        {
+          "title": "“床垫界特斯拉”破产背后",
+          "url": "https://www.toutiao.com/trending/7663677809985850934/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 17时24分]"
         },
         {
           "title": "男子在非洲卖中国新能源车",
@@ -170,7 +203,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         }
@@ -178,7 +211,7 @@
     },
     {
       "keyword_group": "英雄联盟 LOL",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "2026 EWC 英雄联盟项目 BLG 1:2 不敌 DK 无缘四强，如何评价这场比赛？",
@@ -219,6 +252,17 @@
           "time_info": "[13时24分 ~ 13时25分]"
         },
         {
+          "title": "深度解析EWC英雄联盟赛事",
+          "url": "https://www.douyin.com/hot/2574951",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 17时24分]"
+        },
+        {
           "title": "英雄联盟",
           "url": "https://s.weibo.com/weibo?q=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -245,8 +289,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时52分 ~ 15时47分]"
+          "appearance_count": 7,
+          "time_info": "[07时52分 ~ 17时24分]"
         },
         {
           "title": "DeepSeek准确估值意外曝光",
@@ -255,7 +299,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         }
@@ -285,7 +329,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         }
@@ -337,11 +381,12 @@
           "ranks": [
             13,
             10,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时52分 ~ 15时47分]"
+          "appearance_count": 7,
+          "time_info": "[07时52分 ~ 17时24分]"
         }
       ]
     }
