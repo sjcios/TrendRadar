@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T05:49:56.242645+08:00",
-  "total_titles_processed": 464,
+  "generated_at": "2026-07-19T06:47:39.836617+08:00",
+  "total_titles_processed": 492,
   "failed_sources": [],
   "trends": [
     {
@@ -38,7 +38,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         }
@@ -56,11 +56,12 @@
             17,
             16,
             15,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 05时49分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 06时47分]"
         },
         {
           "title": "Kimi K3重演“DeepSeek时刻”",
@@ -80,6 +81,17 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "国际金价险守4000美元关口 美伊冲突升级双方扩大打击范围 | 环球市场",
+          "url": "https://www.cls.cn/detail/2430073",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 06时47分]"
+        },
+        {
           "title": "这周金价发生了什么",
           "url": "https://www.toutiao.com/trending/7663819778364345910/",
           "source": "今日头条",
@@ -89,17 +101,6 @@
             21,
             5,
             24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 05时49分]"
-        },
-        {
-          "title": "国际金价险守4000美元关口 美伊冲突升级双方扩大打击范围 | 环球市场",
-          "url": "https://www.cls.cn/detail/2430073",
-          "source": "财联社热门",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -120,8 +121,25 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 05时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 06时47分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "白宫前AI政策官员、 OpenAI战略未来主管迪恩·鲍尔：Kimi K3是一个非常优秀的模型！我不认为它的表现可以简单归因于蒸馏或类似技术。在智能体编程场景中，它的表现似乎基本可以与2026年第一季度最优秀的公开模型相媲美。",
+          "url": "https://flash.jin10.com/detail/20260719055403527800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时47分"
         }
       ]
     },
@@ -136,11 +154,12 @@
           "ranks": [
             22,
             26,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时55分 ~ 05时49分]"
+          "appearance_count": 7,
+          "time_info": "[01时55分 ~ 06时47分]"
         }
       ]
     }
