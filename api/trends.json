@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T07:52:37.005433+08:00",
-  "total_titles_processed": 658,
+  "generated_at": "2026-07-18T10:14:49.253992+08:00",
+  "total_titles_processed": 783,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "全球首款机器人手机亮相引老外围观",
@@ -55,6 +55,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
+        },
+        {
+          "title": "市场消息：苹果(AAPL.O)将日本iPhone售价上调10%。",
+          "url": "https://flash.jin10.com/detail/20260718084050924800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
         },
         {
           "title": "据悉苹果正就反垄断案与美国司法部进行早期和解谈判",
@@ -129,7 +140,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         }
@@ -158,7 +169,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -184,11 +195,12 @@
           "url": "https://wallstreetcn.com/articles/3777230",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时52分 ~ 10时14分]"
         }
       ]
     },
@@ -236,11 +248,12 @@
           "url": "https://www.cls.cn/detail/2430073",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时52分 ~ 10时14分]"
         }
       ]
     },
@@ -254,11 +267,12 @@
           "source": "抖音",
           "ranks": [
             25,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时05分 ~ 06时48分]"
+          "appearance_count": 5,
+          "time_info": "[04时05分 ~ 10时14分]"
         }
       ]
     }
