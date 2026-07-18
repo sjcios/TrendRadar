@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T19:03:09.418875+08:00",
-  "total_titles_processed": 1269,
+  "generated_at": "2026-07-18T21:10:48.290700+08:00",
+  "total_titles_processed": 1421,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "全球首款机器人手机亮相引老外围观",
@@ -35,6 +35,18 @@
           "time_info": "15时47分"
         },
         {
+          "title": "如何看待曝大 S 生前用手机写下遗产分配方案，珠宝、名牌包留给女儿？",
+          "url": "https://www.zhihu.com/question/2060765589857990533",
+          "source": "知乎",
+          "ranks": [
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时02分 ~ 21时10分]"
+        },
+        {
           "title": "阿里与荣耀共创面向手机场景的解决方案，已落地Robot Phone",
           "url": "https://wallstreetcn.com/livenews/3135986",
           "source": "华尔街见闻-快讯",
@@ -59,15 +71,26 @@
           "time_info": "[17时24分 ~ 19时03分]"
         },
         {
-          "title": "如何看待曝大 S 生前用手机写下遗产分配方案，珠宝、名牌包留给女儿？",
-          "url": "https://www.zhihu.com/question/2060765589857990533",
-          "source": "知乎",
+          "title": "用小拇指做手机支架的受害者出现了",
+          "url": "https://www.baidu.com/s?wd=%E7%94%A8%E5%B0%8F%E6%8B%87%E6%8C%87%E5%81%9A%E6%89%8B%E6%9C%BA%E6%94%AF%E6%9E%B6%E7%9A%84%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
-            15
+            8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时02分 ~ 19时03分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
+          "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
+          "url": "https://wallstreetcn.com/articles/3777263",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         },
         {
           "title": "报道：苹果与美国司法部就反垄断案进行早期和解谈判",
@@ -150,7 +173,7 @@
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "比亚迪巴西工厂迎来第10万辆新能源汽车下线",
@@ -186,6 +209,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时23分 ~ 17时24分]"
+        },
+        {
+          "title": "锂电池开征消费税 新能源车要涨价吗",
+          "url": "https://www.toutiao.com/trending/7663809319988629018/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         },
         {
           "title": "男子在非洲卖中国新能源车",
@@ -299,11 +333,12 @@
           "ranks": [
             9,
             7,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时52分 ~ 19时03分]"
+          "appearance_count": 10,
+          "time_info": "[07时52分 ~ 21时10分]"
         },
         {
           "title": "DeepSeek最新估值意外曝光",
@@ -409,8 +444,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时52分 ~ 19时03分]"
+          "appearance_count": 10,
+          "time_info": "[07时52分 ~ 21时10分]"
         }
       ]
     }
