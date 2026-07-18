@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T17:24:11.241594+08:00",
-  "total_titles_processed": 1185,
+  "generated_at": "2026-07-18T19:03:09.418875+08:00",
+  "total_titles_processed": 1269,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "全球首款机器人手机亮相引老外围观",
@@ -39,11 +39,35 @@
           "url": "https://wallstreetcn.com/livenews/3135986",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 19时03分]"
+        },
+        {
+          "title": "苹果上调日本部分iPhone售价",
+          "url": "https://wallstreetcn.com/livenews/3135983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 19时03分]"
+        },
+        {
+          "title": "如何看待曝大 S 生前用手机写下遗产分配方案，珠宝、名牌包留给女儿？",
+          "url": "https://www.zhihu.com/question/2060765589857990533",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 19时03分]"
         },
         {
           "title": "报道：苹果与美国司法部就反垄断案进行早期和解谈判",
@@ -66,17 +90,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
-        },
-        {
-          "title": "苹果上调日本部分iPhone售价",
-          "url": "https://wallstreetcn.com/livenews/3135983",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时24分"
         },
         {
           "title": "市场消息：苹果(AAPL.O)正与美国司法部就反垄断诉讼展开初步和解谈判。",
@@ -277,7 +290,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "Kimi K3再掀“DeepSeek时刻”？高盛警告：\"算力扩张时代\"或已走到尽头",
@@ -289,8 +302,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时52分 ~ 17时24分]"
+          "appearance_count": 9,
+          "time_info": "[07时52分 ~ 19时03分]"
+        },
+        {
+          "title": "DeepSeek最新估值意外曝光",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%9C%80%E6%96%B0%E4%BC%B0%E5%80%BC%E6%84%8F%E5%A4%96%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 19时03分]"
         },
         {
           "title": "DeepSeek准确估值意外曝光",
@@ -385,8 +409,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时52分 ~ 17时24分]"
+          "appearance_count": 9,
+          "time_info": "[07时52分 ~ 19时03分]"
         }
       ]
     }
