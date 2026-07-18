@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T21:10:48.290700+08:00",
-  "total_titles_processed": 1421,
+  "generated_at": "2026-07-18T22:51:20.732522+08:00",
+  "total_titles_processed": 1547,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "全球首款机器人手机亮相引老外围观",
@@ -43,8 +43,32 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时02分 ~ 21时10分]"
+          "appearance_count": 4,
+          "time_info": "[19时02分 ~ 22时51分]"
+        },
+        {
+          "title": "用小拇指做手机支架的受害者出现了",
+          "url": "https://www.baidu.com/s?wd=%E7%94%A8%E5%B0%8F%E6%8B%87%E6%8C%87%E5%81%9A%E6%89%8B%E6%9C%BA%E6%94%AF%E6%9E%B6%E7%9A%84%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时10分 ~ 22时51分]"
+        },
+        {
+          "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
+          "url": "https://wallstreetcn.com/articles/3777263",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时10分 ~ 22时51分]"
         },
         {
           "title": "阿里与荣耀共创面向手机场景的解决方案，已落地Robot Phone",
@@ -69,28 +93,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时24分 ~ 19时03分]"
-        },
-        {
-          "title": "用小拇指做手机支架的受害者出现了",
-          "url": "https://www.baidu.com/s?wd=%E7%94%A8%E5%B0%8F%E6%8B%87%E6%8C%87%E5%81%9A%E6%89%8B%E6%9C%BA%E6%94%AF%E6%9E%B6%E7%9A%84%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时10分"
-        },
-        {
-          "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
-          "url": "https://wallstreetcn.com/articles/3777263",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时10分"
         },
         {
           "title": "报道：苹果与美国司法部就反垄断案进行早期和解谈判",
@@ -168,6 +170,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        },
+        {
+          "title": "机器人手机从概念到现实意味着什么",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BA%E4%BB%8E%E6%A6%82%E5%BF%B5%E5%88%B0%E7%8E%B0%E5%AE%9E%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         }
       ]
     },
@@ -186,6 +199,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时25分 ~ 15时47分]"
+        },
+        {
+          "title": "锂电池开征消费税 新能源车要涨价吗",
+          "url": "https://www.toutiao.com/trending/7663809319988629018/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时10分 ~ 22时51分]"
         },
         {
           "title": "中国汽车市场 5 个月推出 542 款新车，比亚迪高管称「彻底疯了」，这反映了怎样的市场竞争？",
@@ -209,17 +234,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时23分 ~ 17时24分]"
-        },
-        {
-          "title": "锂电池开征消费税 新能源车要涨价吗",
-          "url": "https://www.toutiao.com/trending/7663809319988629018/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时10分"
         },
         {
           "title": "男子在非洲卖中国新能源车",
@@ -365,6 +379,37 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "国际金价险守4000美元关口 美伊冲突升级双方扩大打击范围 | 环球市场",
+          "url": "https://www.cls.cn/detail/2430073",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[07时52分 ~ 22时51分]"
+        },
+        {
+          "title": "这周金价发生了什么",
+          "url": "https://www.toutiao.com/trending/7663819778364345910/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        }
+      ]
+    },
+    {
       "keyword_group": "央行 抖音 小红书",
       "match_count": 2,
       "titles": [
@@ -426,26 +471,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时14分 ~ 06时48分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国际金价险守4000美元关口 美伊冲突升级双方扩大打击范围 | 环球市场",
-          "url": "https://www.cls.cn/detail/2430073",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时52分 ~ 21时10分]"
         }
       ]
     }
