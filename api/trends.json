@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T00:58:10.550808+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-20T01:59:25.677958+08:00",
+  "total_titles_processed": 358,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 00时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 01时59分]"
         },
         {
           "title": "如何看待部分社区认为 DeepSeek-V4 的灰度测试是路由 Claude Fable 、 Opus 等模型？",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 00时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 01时59分]"
         }
       ]
     },
@@ -43,8 +43,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 00时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 01时59分]"
         },
         {
           "title": "特斯拉在德国工厂提升产量，来应对需求增长",
@@ -53,9 +53,9 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时58分 ~ 01时59分]"
         }
       ]
     },
@@ -71,8 +71,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 00时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 01时59分]"
         }
       ]
     },
@@ -85,11 +85,29 @@
           "url": "https://www.zhihu.com/question/2062166923002090163",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 00时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 01时59分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 Apple Mac iPhone 手机",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "丁禹兮忙了一天打开手机天塌了",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E5%BF%99%E4%BA%86%E4%B8%80%E5%A4%A9%E6%89%93%E5%BC%80%E6%89%8B%E6%9C%BA%E5%A4%A9%E5%A1%8C%E4%BA%86%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时59分"
         }
       ]
     }
