@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T04:44:36.688810+08:00",
-  "total_titles_processed": 448,
+  "generated_at": "2026-07-20T05:51:43.375305+08:00",
+  "total_titles_processed": 511,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 04时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 05时51分]"
         },
         {
           "title": "如何看待部分社区认为 DeepSeek-V4 的灰度测试是路由 Claude Fable 、 Opus 等模型？",
@@ -24,11 +24,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 04时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 05时51分]"
         }
       ]
     },
@@ -44,8 +45,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 04时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 05时51分]"
         },
         {
           "title": "特斯拉在德国工厂提升产量，来应对需求增长",
@@ -73,8 +74,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 04时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 05时51分]"
         }
       ]
     },
@@ -89,11 +90,12 @@
           "ranks": [
             9,
             8,
-            5
+            5,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 04时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 05时51分]"
         }
       ]
     },
