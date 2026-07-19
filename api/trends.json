@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T22:54:42.711734+08:00",
-  "total_titles_processed": 1522,
+  "generated_at": "2026-07-19T23:57:13.454466+08:00",
+  "total_titles_processed": 1588,
   "failed_sources": [],
   "trends": [
     {
@@ -51,7 +51,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时54分"
         },
@@ -80,78 +80,8 @@
       ]
     },
     {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "锂电池开征消费税 新能源车要涨价吗",
-          "url": "https://www.toutiao.com/trending/7663809319988629018/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            26,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时55分 ~ 06时47分]"
-        },
-        {
-          "title": "大乌龙!印度狠罚比亚迪6.3亿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356303&amp;topic_name=%E5%A4%A7%E4%B9%8C%E9%BE%99%21%E5%8D%B0%E5%BA%A6%E7%8B%A0%E7%BD%9A%E6%AF%94%E4%BA%9A%E8%BF%AA6.3%E4%BA%BF",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            9,
-            10,
-            11,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时51分 ~ 22时54分]"
-        },
-        {
-          "title": "特斯拉在德国工厂提升产量，来应对需求增长",
-          "url": "https://wallstreetcn.com/livenews/3136285",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时16分 ~ 22时54分]"
-        },
-        {
-          "title": "据港交所文件：奥动新能源股份有限公司向港交所提交上市申请书。",
-          "url": "https://flash.jin10.com/detail/20260719184225351800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时57分"
-        },
-        {
-          "title": "特斯拉计划在德国工厂提升产量，以应对需求增长",
-          "url": "https://flash.jin10.com/detail/20260719212352521800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时54分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "DeepSeek V4「满血版」曝光了！最快明天发布",
@@ -163,8 +93,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时51分 ~ 22时54分]"
+          "appearance_count": 9,
+          "time_info": "[13时51分 ~ 23时57分]"
         },
         {
           "title": "DeepSeek V4 正式版即将发布，有哪些值得关注的亮点？",
@@ -184,6 +114,28 @@
           "time_info": "[00时56分 ~ 10时32分]"
         },
         {
+          "title": "如何看待部分社区认为 DeepSeek-V4 的灰度测试是路由 Claude Fable 、 Opus 等模型？",
+          "url": "https://www.zhihu.com/question/2062188301013071138",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时56分 ~ 23时57分]"
+        },
+        {
+          "title": "用Deepseek生成战地游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8Deepseek%E7%94%9F%E6%88%90%E6%88%98%E5%9C%B0%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时56分 ~ 23时57分]"
+        },
+        {
           "title": "Kimi K3重演“DeepSeek时刻”",
           "url": "https://www.toutiao.com/trending/7663776827566984767/",
           "source": "今日头条",
@@ -197,9 +149,94 @@
       ]
     },
     {
+      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "大乌龙!印度狠罚比亚迪6.3亿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356303&amp;topic_name=%E5%A4%A7%E4%B9%8C%E9%BE%99%21%E5%8D%B0%E5%BA%A6%E7%8B%A0%E7%BD%9A%E6%AF%94%E4%BA%9A%E8%BF%AA6.3%E4%BA%BF",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            9,
+            10,
+            11,
+            13,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时51分 ~ 23时57分]"
+        },
+        {
+          "title": "锂电池开征消费税 新能源车要涨价吗",
+          "url": "https://www.toutiao.com/trending/7663809319988629018/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            26,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时55分 ~ 06时47分]"
+        },
+        {
+          "title": "特斯拉在德国工厂提升产量，来应对需求增长",
+          "url": "https://wallstreetcn.com/livenews/3136285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时16分 ~ 23时57分]"
+        },
+        {
+          "title": "据港交所文件：奥动新能源股份有限公司向港交所提交上市申请书。",
+          "url": "https://flash.jin10.com/detail/20260719184225351800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时57分"
+        },
+        {
+          "title": "特斯拉计划在德国工厂提升产量，以应对需求增长",
+          "url": "https://flash.jin10.com/detail/20260719212352521800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
+        {
+          "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
+          "url": "https://wallstreetcn.com/articles/3777171",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时51分 ~ 23时57分]"
+        },
         {
           "title": "提醒：下周二（7月21日），通用汽车等将发布业绩报告； 下周三，谷歌母公司Alphabet、特斯拉、德州仪器、IBM等将发布业绩报告； 下周四，英特尔、德国思爱普Sap等将发布业绩报告。",
           "url": "https://wallstreetcn.com/livenews/3136067",
@@ -211,19 +248,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时56分 ~ 07时53分]"
-        },
-        {
-          "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
-          "url": "https://wallstreetcn.com/articles/3777171",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时51分 ~ 22时54分]"
         },
         {
           "title": "TCL华星星智X-Intelligence大模型在显示领域超越Gemini 3.1 Pro与GPT-5.5 high",
@@ -283,11 +307,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时31分 ~ 22时54分]"
+          "appearance_count": 11,
+          "time_info": "[10时31分 ~ 23时57分]"
         },
         {
           "title": "佩德里入驻抖音",
