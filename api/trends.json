@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T16:14:12.438238+08:00",
-  "total_titles_processed": 1021,
+  "generated_at": "2026-07-19T18:27:21.913078+08:00",
+  "total_titles_processed": 1179,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
@@ -30,6 +30,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时56分 ~ 03时02分]"
+        },
+        {
+          "title": "手机次次充到100%也伤电池",
+          "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E6%AC%A1%E6%AC%A1%E5%85%85%E5%88%B0100%25%E4%B9%9F%E4%BC%A4%E7%94%B5%E6%B1%A0",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         },
         {
           "title": "华强北iPhone17Pro激光改卡槽",
@@ -82,11 +93,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时51分 ~ 16时14分]"
+          "appearance_count": 4,
+          "time_info": "[13时51分 ~ 18时27分]"
         },
         {
           "title": "Kimi K3重演“DeepSeek时刻”",
@@ -122,11 +134,12 @@
           "url": "https://wallstreetcn.com/articles/3777171",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时51分 ~ 16时14分]"
+          "appearance_count": 4,
+          "time_info": "[13时51分 ~ 18时27分]"
         }
       ]
     },
@@ -188,11 +201,12 @@
           "source": "贴吧",
           "ranks": [
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时51分 ~ 16时14分]"
+          "appearance_count": 4,
+          "time_info": "[13时51分 ~ 18时27分]"
         }
       ]
     },
@@ -208,8 +222,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时31分 ~ 16时14分]"
+          "appearance_count": 6,
+          "time_info": "[10时31分 ~ 18时27分]"
         },
         {
           "title": "佩德里入驻抖音",
