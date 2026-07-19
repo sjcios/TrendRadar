@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T07:53:04.044105+08:00",
-  "total_titles_processed": 556,
+  "generated_at": "2026-07-19T10:32:17.342249+08:00",
+  "total_titles_processed": 707,
   "failed_sources": [],
   "trends": [
     {
@@ -58,11 +58,12 @@
             15,
             10,
             9,
-            6
+            6,
+            18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时56分 ~ 07时53分]"
+          "appearance_count": 12,
+          "time_info": "[00时56分 ~ 10时32分]"
         },
         {
           "title": "Kimi K3重演“DeepSeek时刻”",
@@ -87,11 +88,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时56分 ~ 07时53分]"
+          "appearance_count": 12,
+          "time_info": "[00时56分 ~ 10时32分]"
         },
         {
           "title": "这周金价发生了什么",
@@ -137,11 +139,12 @@
           "url": "https://flash.jin10.com/detail/20260719055403527800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时47分 ~ 07时53分]"
+          "appearance_count": 3,
+          "time_info": "[06时47分 ~ 10时32分]"
         }
       ]
     },
@@ -162,6 +165,23 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时55分 ~ 06时47分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "央行 抖音 小红书",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "环球下周看点：AI交易迎关键考验 财报季、央行决议与中东局势牵动市场",
+          "url": "https://www.cls.cn/detail/2430318",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 10时32分]"
         }
       ]
     }
