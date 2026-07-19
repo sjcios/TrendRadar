@@ -1,329 +1,78 @@
 {
-  "generated_at": "2026-07-19T23:57:13.454466+08:00",
-  "total_titles_processed": 1588,
+  "generated_at": "2026-07-20T00:58:10.550808+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
-          "url": "https://wallstreetcn.com/articles/3777263",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 04时44分]"
-        },
-        {
-          "title": "如何看待曝大 S 生前用手机写下遗产分配方案，珠宝、名牌包留给女儿？",
-          "url": "https://www.zhihu.com/question/2060765589857990533",
-          "source": "知乎",
-          "ranks": [
-            11,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 03时02分]"
-        },
-        {
-          "title": "手机次次充到100%也伤电池",
-          "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E6%AC%A1%E6%AC%A1%E5%85%85%E5%88%B0100%25%E4%B9%9F%E4%BC%A4%E7%94%B5%E6%B1%A0",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时27分 ~ 22时54分]"
-        },
-        {
-          "title": "丁禹兮忙了一天打开手机天塌了",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E5%BF%99%E4%BA%86%E4%B8%80%E5%A4%A9%E6%89%93%E5%BC%80%E6%89%8B%E6%9C%BA%E5%A4%A9%E5%A1%8C%E4%BA%86%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时54分"
-        },
-        {
-          "title": "华强北iPhone17Pro激光改卡槽",
-          "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E5%BC%BA%E5%8C%97iPhone17Pro%E6%BF%80%E5%85%89%E6%94%B9%E5%8D%A1%E6%A7%BD&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时51分"
-        },
-        {
-          "title": "两男子趁乘客候车睡着偷手机被抓",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E7%94%B7%E5%AD%90%E8%B6%81%E4%B9%98%E5%AE%A2%E5%80%99%E8%BD%A6%E7%9D%A1%E7%9D%80%E5%81%B7%E6%89%8B%E6%9C%BA%E8%A2%AB%E6%8A%93",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时49分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
         {
           "title": "DeepSeek V4「满血版」曝光了！最快明天发布",
           "url": "https://wallstreetcn.com/articles/3777339",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            5,
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时51分 ~ 23时57分]"
-        },
-        {
-          "title": "DeepSeek V4 正式版即将发布，有哪些值得关注的亮点？",
-          "url": "https://www.zhihu.com/question/2061407401308152796",
-          "source": "知乎",
-          "ranks": [
-            17,
-            16,
-            15,
-            10,
-            9,
-            6,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时56分 ~ 10时32分]"
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 00时58分]"
         },
         {
           "title": "如何看待部分社区认为 DeepSeek-V4 的灰度测试是路由 Claude Fable 、 Opus 等模型？",
           "url": "https://www.zhihu.com/question/2062188301013071138",
           "source": "知乎",
           "ranks": [
-            9
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[23时56分 ~ 23时57分]"
-        },
-        {
-          "title": "用Deepseek生成战地游戏",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8Deepseek%E7%94%9F%E6%88%90%E6%88%98%E5%9C%B0%E6%B8%B8%E6%88%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时56分 ~ 23时57分]"
-        },
-        {
-          "title": "Kimi K3重演“DeepSeek时刻”",
-          "url": "https://www.toutiao.com/trending/7663776827566984767/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时44分"
+          "time_info": "[00时57分 ~ 00时58分]"
         }
       ]
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
         {
           "title": "大乌龙!印度狠罚比亚迪6.3亿",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356303&amp;topic_name=%E5%A4%A7%E4%B9%8C%E9%BE%99%21%E5%8D%B0%E5%BA%A6%E7%8B%A0%E7%BD%9A%E6%AF%94%E4%BA%9A%E8%BF%AA6.3%E4%BA%BF",
           "source": "贴吧",
           "ranks": [
-            7,
-            9,
-            10,
-            11,
-            13,
-            14,
-            15
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时51分 ~ 23时57分]"
-        },
-        {
-          "title": "锂电池开征消费税 新能源车要涨价吗",
-          "url": "https://www.toutiao.com/trending/7663809319988629018/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            26,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时55分 ~ 06时47分]"
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 00时58分]"
         },
         {
           "title": "特斯拉在德国工厂提升产量，来应对需求增长",
           "url": "https://wallstreetcn.com/livenews/3136285",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
             21
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时16分 ~ 23时57分]"
-        },
-        {
-          "title": "据港交所文件：奥动新能源股份有限公司向港交所提交上市申请书。",
-          "url": "https://flash.jin10.com/detail/20260719184225351800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时57分"
-        },
-        {
-          "title": "特斯拉计划在德国工厂提升产量，以应对需求增长",
-          "url": "https://flash.jin10.com/detail/20260719212352521800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时54分"
+          "time_info": "00时58分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
           "url": "https://wallstreetcn.com/articles/3777171",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9,
-            6,
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时51分 ~ 23时57分]"
-        },
-        {
-          "title": "提醒：下周二（7月21日），通用汽车等将发布业绩报告； 下周三，谷歌母公司Alphabet、特斯拉、德州仪器、IBM等将发布业绩报告； 下周四，英特尔、德国思爱普Sap等将发布业绩报告。",
-          "url": "https://wallstreetcn.com/livenews/3136067",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 07时53分]"
-        },
-        {
-          "title": "TCL华星星智X-Intelligence大模型在显示领域超越Gemini 3.1 Pro与GPT-5.5 high",
-          "url": "https://wallstreetcn.com/livenews/3136253",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            28
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时57分 ~ 21时16分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "国际金价险守4000美元关口 美伊冲突升级双方扩大打击范围 | 环球市场",
-          "url": "https://www.cls.cn/detail/2430073",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时56分 ~ 10时32分]"
-        },
-        {
-          "title": "这周金价发生了什么",
-          "url": "https://www.toutiao.com/trending/7663819778364345910/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            10,
-            21,
-            5,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 05时49分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "央行 抖音 小红书",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "环球下周看点：AI交易迎关键考验 财报季、央行决议与中东局势牵动市场",
-          "url": "https://www.cls.cn/detail/2430318",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时31分 ~ 23时57分]"
-        },
-        {
-          "title": "佩德里入驻抖音",
-          "url": "https://www.douyin.com/hot/2576757",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时51分"
+          "time_info": "[00时57分 ~ 00时58分]"
         }
       ]
     },
@@ -332,16 +81,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "白宫前AI政策官员、 OpenAI战略未来主管迪恩·鲍尔：Kimi K3是一个非常优秀的模型！我不认为它的表现可以简单归因于蒸馏或类似技术。在智能体编程场景中，它的表现似乎基本可以与2026年第一季度最优秀的公开模型相媲美。",
-          "url": "https://flash.jin10.com/detail/20260719055403527800",
-          "source": "金十数据",
+          "title": "如何看待 OpenAI 战略未来负责人对 kimi k3 开源的公开发言？",
+          "url": "https://www.zhihu.com/question/2062166923002090163",
+          "source": "知乎",
           "ranks": [
-            2,
-            22
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时47分 ~ 10时32分]"
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 00时58分]"
         }
       ]
     }
