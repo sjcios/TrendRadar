@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-07-21T05:11:25.577698+08:00",
-  "total_titles_processed": 437,
+  "generated_at": "2026-07-21T07:00:18.540155+08:00",
+  "total_titles_processed": 514,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "为什么豆包没有被 DeepSeek「斩杀」？",
+          "url": "https://www.zhihu.com/question/2061575313973416591",
+          "source": "知乎",
+          "ranks": [
+            15,
+            13,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时01分 ~ 07时00分]"
+        },
         {
           "title": "如何看待最近网传的 DeepSeek v4 正式版灰测？",
           "url": "https://www.zhihu.com/question/2059057378591613636",
@@ -19,17 +33,15 @@
           "time_info": "[02时01分 ~ 02时02分]"
         },
         {
-          "title": "为什么豆包没有被 DeepSeek「斩杀」？",
-          "url": "https://www.zhihu.com/question/2061575313973416591",
+          "title": "如何看待追光总裁称《三国第一部：争洛阳》以曹操为主角，是参考了 DeepSeek 的建议?",
+          "url": "https://www.zhihu.com/question/2061868472049652679",
           "source": "知乎",
           "ranks": [
-            15,
-            13,
-            8
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时01分 ~ 05时11分]"
+          "appearance_count": 2,
+          "time_info": "[06时59分 ~ 07时00分]"
         }
       ]
     },
@@ -45,8 +57,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时01分 ~ 05时11分]"
+          "appearance_count": 6,
+          "time_info": "[02时01分 ~ 07时00分]"
         },
         {
           "title": "全抖音都在恭喜西班牙夺冠",
@@ -55,11 +67,12 @@
           "ranks": [
             24,
             23,
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时01分 ~ 05时11分]"
+          "appearance_count": 6,
+          "time_info": "[02时01分 ~ 07时00分]"
         }
       ]
     },
@@ -74,7 +87,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         }
