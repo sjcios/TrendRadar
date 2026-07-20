@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T02:02:08.618927+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-21T03:53:53.583641+08:00",
+  "total_titles_processed": 376,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://www.zhihu.com/question/2061575313973416591",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 02时02分]"
+          "appearance_count": 3,
+          "time_info": "[02时01分 ~ 03时53分]"
         }
       ]
     },
@@ -43,19 +44,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 02时02分]"
+          "appearance_count": 3,
+          "time_info": "[02时01分 ~ 03时53分]"
         },
         {
           "title": "全抖音都在恭喜西班牙夺冠",
           "url": "https://www.douyin.com/hot/2577840",
           "source": "抖音",
           "ranks": [
-            24
+            24,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 02时02分]"
+          "appearance_count": 3,
+          "time_info": "[02时01分 ~ 03时53分]"
         }
       ]
     }
