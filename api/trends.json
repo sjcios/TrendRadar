@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22T06:55:43.396339+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2026-07-22T07:55:50.780176+08:00",
+  "total_titles_processed": 626,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 06时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 07时55分]"
         },
         {
           "title": "AI逃离沙盒 OpenAI认下Hugging Face被黑事件",
@@ -80,7 +80,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时55分"
         },
@@ -181,11 +181,12 @@
           "ranks": [
             19,
             29,
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时17分 ~ 06时55分]"
+          "appearance_count": 4,
+          "time_info": "[01时17分 ~ 07时55分]"
         },
         {
           "title": "如何评价《绝区零》在游戏活动界面里，把 3.1 版本 PV 的内置跳转链接从 B 站改成了抖音精选？",
@@ -204,11 +205,12 @@
           "url": "https://wallstreetcn.com/livenews/3137761",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            16,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时55分 ~ 07时55分]"
         }
       ]
     },
@@ -225,8 +227,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 06时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 07时55分]"
         }
       ]
     },
@@ -240,11 +242,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            18
+            18,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时07分 ~ 06时55分]"
+          "appearance_count": 3,
+          "time_info": "[05时07分 ~ 07时55分]"
         }
       ]
     },
@@ -258,11 +261,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            13
+            13,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时07分 ~ 06时55分]"
+          "appearance_count": 3,
+          "time_info": "[05时07分 ~ 07时55分]"
         }
       ]
     },
@@ -297,8 +301,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时07分 ~ 06时55分]"
+          "appearance_count": 3,
+          "time_info": "[05时07分 ~ 07时55分]"
         }
       ]
     }
