@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T07:00:18.540155+08:00",
-  "total_titles_processed": 514,
+  "generated_at": "2026-07-21T08:02:07.754694+08:00",
+  "total_titles_processed": 589,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             15,
             13,
             8,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时01分 ~ 07时00分]"
+          "appearance_count": 8,
+          "time_info": "[02时01分 ~ 08时02分]"
         },
         {
           "title": "如何看待最近网传的 DeepSeek v4 正式版灰测？",
@@ -37,11 +38,12 @@
           "url": "https://www.zhihu.com/question/2061868472049652679",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时59分 ~ 07时00分]"
+          "appearance_count": 4,
+          "time_info": "[06时59分 ~ 08时02分]"
         }
       ]
     },
@@ -54,11 +56,12 @@
           "url": "https://www.douyin.com/hot/2578846",
           "source": "抖音",
           "ranks": [
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时01分 ~ 07时00分]"
+          "appearance_count": 8,
+          "time_info": "[02时01分 ~ 08时02分]"
         },
         {
           "title": "全抖音都在恭喜西班牙夺冠",
@@ -71,8 +74,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时01分 ~ 07时00分]"
+          "appearance_count": 8,
+          "time_info": "[02时01分 ~ 08时02分]"
         }
       ]
     },
