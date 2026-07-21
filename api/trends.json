@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T12:14:38.290057+08:00",
-  "total_titles_processed": 815,
+  "generated_at": "2026-07-21T15:32:25.029804+08:00",
+  "total_titles_processed": 983,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "为什么豆包没有被 DeepSeek「斩杀」？",
@@ -44,6 +44,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时59分 ~ 08时02分]"
+        },
+        {
+          "title": "DeepSeek V4 开放灰度测试，你认为能超越 Kimi K3 吗？两个大模型各有哪些优劣？",
+          "url": "https://www.zhihu.com/question/2062579631564093084",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
         }
       ]
     },
@@ -58,9 +69,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 15时32分]"
         },
         {
           "title": "周一（7月20日），美股存储芯片与硬件供应链指数涨1.43%，报192.09点，整体高开低走。 美股超大规模云服务商（Hyperscalers）涨0.67%，报92.61点，美股早盘持续上涨，之后逐步回吐涨幅。 信息科技指数涨1%，报378.18点。 人工智能（AI）赢家指数涨0.73%，报378.70点。 AI软件先驱指数涨0.84%，报109.45点，美股早盘持续反弹，00:00以来高位震荡。 美国科技股七巨头（Magnificent 7）指数涨0.09%，报217.20点。成分股中，特斯拉收跌2.96%，苹果跌2.14%，亚马逊、谷歌A至多涨1.51%，微软涨2.15%。 “超大”市值科技股指数涨0.11%，报431.23点，整体呈现出两波M形走势。",
@@ -78,11 +89,12 @@
           "url": "https://wallstreetcn.com/articles/3777467",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 15时32分]"
         }
       ]
     },
@@ -95,22 +107,24 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
           "source": "贴吧",
           "ranks": [
-            6
+            6,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 15时32分]"
         },
         {
           "title": "OpenAI 负责人称 Kimi 开源是减速主义，他的说法有道理吗？开源对 AI 的发展能带来什么？",
           "url": "https://www.zhihu.com/question/2062575282591209175",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 15时32分]"
         },
         {
           "title": "OpenAI高管炮轰Kimi",
@@ -119,7 +133,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         }
@@ -127,8 +141,19 @@
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "手把手教你关掉藏在手机里的耳朵",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E5%85%B3%E6%8E%89%E8%97%8F%E5%9C%A8%E6%89%8B%E6%9C%BA%E9%87%8C%E7%9A%84%E8%80%B3%E6%9C%B5%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
         {
           "title": "大 S 被曝曾用手机写遗嘱但徐家不认，从法律角度看，手机遗嘱的有效性如何认定？会怎样影响其遗产分配？",
           "url": "https://www.zhihu.com/question/2060759987933263322",
@@ -136,7 +161,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -147,7 +172,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         }
@@ -155,7 +180,7 @@
     },
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "抖音乒乓百分大战再次开战",
@@ -182,6 +207,34 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时01分 ~ 08时02分]"
+        },
+        {
+          "title": "日本内阁官房长官木原稔：货币政策的具体细节应交由日本央行决定。",
+          "url": "https://wallstreetcn.com/livenews/3137418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年07月21日（周二）上海金午盘价为888.94元/克，较国际金价(887.08元/克)，高1.86元/克",
+          "url": "https://flash.jin10.com/detail/20260721150144373800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
         }
       ]
     }
