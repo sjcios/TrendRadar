@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T18:24:38.187236+08:00",
-  "total_titles_processed": 1169,
+  "generated_at": "2026-07-21T20:23:51.177131+08:00",
+  "total_titles_processed": 1307,
   "failed_sources": [],
   "trends": [
     {
@@ -51,7 +51,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -62,7 +62,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -73,7 +73,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -84,7 +84,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         }
@@ -138,11 +138,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时32分 ~ 18时24分]"
+          "appearance_count": 3,
+          "time_info": "[15时32分 ~ 20时23分]"
         },
         {
           "title": "复刻“DeepSeek时刻”？华尔街齐称：Kimi K3反而强化算力需求",
@@ -151,9 +152,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 20时23分]"
         }
       ]
     },
@@ -179,7 +180,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -203,8 +204,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时14分 ~ 18时24分]"
+          "appearance_count": 4,
+          "time_info": "[12时14分 ~ 20时23分]"
         }
       ]
     },
@@ -219,11 +220,12 @@
           "ranks": [
             6,
             10,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时14分 ~ 18时24分]"
+          "appearance_count": 4,
+          "time_info": "[12时14分 ~ 20时23分]"
         },
         {
           "title": "OpenAI 负责人称 Kimi 开源是减速主义，他的说法有道理吗？开源对 AI 的发展能带来什么？",
@@ -318,7 +320,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         }
