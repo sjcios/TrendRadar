@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T01:17:32.662305+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-23T03:15:32.734632+08:00",
+  "total_titles_processed": 395,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 03时15分]"
         },
         {
           "title": "云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 03时15分]"
         },
         {
           "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
@@ -37,19 +37,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 03时15分]"
         },
         {
           "title": "OpenAI 模型「失控」入侵全球最大 AI 开源社区，敲响了哪些 AI 安全警钟？",
           "url": "https://www.zhihu.com/question/2063264614834336987",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 03时15分]"
         },
         {
           "title": "OpenAI遭遇史上首次评测失控事故",
@@ -59,8 +60,58 @@
             16
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 03时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 Apple Mac iPhone 手机",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "iPhone18系列已量产",
+          "url": "https://www.douyin.com/hot/2580964",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 03时15分]"
+        },
+        {
+          "title": "绝版了,真我手机退出国内市场",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356417&amp;topic_name=%E7%BB%9D%E7%89%88%E4%BA%86%2C%E7%9C%9F%E6%88%91%E6%89%8B%E6%9C%BA%E9%80%80%E5%87%BA%E5%9B%BD%E5%86%85%E5%B8%82%E5%9C%BA",
+          "source": "贴吧",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 03时15分]"
+        },
+        {
+          "title": "李昀锐下飞机一看手机天塌了",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%80%E9%94%90%E4%B8%8B%E9%A3%9E%E6%9C%BA%E4%B8%80%E7%9C%8B%E6%89%8B%E6%9C%BA%E5%A4%A9%E5%A1%8C%E4%BA%86%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "三星阔折叠手机发布",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%98%9F%E9%98%94%E6%8A%98%E5%8F%A0%E6%89%8B%E6%9C%BA%E5%8F%91%E5%B8%83%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
         }
       ]
     },
@@ -87,8 +138,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 03时15分]"
         },
         {
           "title": "Reddit股价大跌，媒体报道称其可能限制谷歌访问权限",
@@ -96,45 +147,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "iPhone18系列已量产",
-          "url": "https://www.douyin.com/hot/2580964",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        },
-        {
-          "title": "李昀锐下飞机一看手机天塌了",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%80%E9%94%90%E4%B8%8B%E9%A3%9E%E6%9C%BA%E4%B8%80%E7%9C%8B%E6%89%8B%E6%9C%BA%E5%A4%A9%E5%A1%8C%E4%BA%86%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        },
-        {
-          "title": "绝版了,真我手机退出国内市场",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356417&amp;topic_name=%E7%BB%9D%E7%89%88%E4%BA%86%2C%E7%9C%9F%E6%88%91%E6%89%8B%E6%9C%BA%E9%80%80%E5%87%BA%E5%9B%BD%E5%86%85%E5%B8%82%E5%9C%BA",
-          "source": "贴吧",
-          "ranks": [
-            17
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -151,11 +163,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33628498",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 03时15分]"
         },
         {
           "title": "易烊千玺：祝澎湃新闻12周岁生日快乐",
@@ -165,8 +178,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 03时15分]"
         },
         {
           "title": "陈数：祝澎湃新闻12周年生日快乐",
@@ -176,8 +189,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 03时15分]"
         }
       ]
     },
@@ -186,6 +199,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "如何看待 7 月 22 日 DeepSeek 客户端联网搜索近 4 小时不可用？",
+          "url": "https://www.zhihu.com/question/2063241470010822764",
+          "source": "知乎",
+          "ranks": [
+            17,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 03时15分]"
+        },
+        {
           "title": "吧友做梗图催更DeepSeekV4",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356411&amp;topic_name=%E5%90%A7%E5%8F%8B%E5%81%9A%E6%A2%97%E5%9B%BE%E5%82%AC%E6%9B%B4DeepSeekV4",
           "source": "贴吧",
@@ -193,19 +218,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        },
-        {
-          "title": "如何看待 7 月 22 日 DeepSeek 客户端联网搜索近 4 小时不可用？",
-          "url": "https://www.zhihu.com/question/2063241470010822764",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 03时15分]"
         }
       ]
     },
@@ -218,22 +232,24 @@
           "url": "https://www.toutiao.com/trending/7664856600502599699/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 03时15分]"
         },
         {
           "title": "新能源车跨境自驾遭远程锁车30小时",
           "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E8%B7%A8%E5%A2%83%E8%87%AA%E9%A9%BE%E9%81%AD%E8%BF%9C%E7%A8%8B%E9%94%81%E8%BD%A630%E5%B0%8F%E6%97%B6",
           "source": "百度热搜",
           "ranks": [
-            22
+            22,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 03时15分]"
         }
       ]
     },
@@ -249,19 +265,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 03时15分]"
         },
         {
           "title": "小红书回应IPO传闻：相关信息均不属实",
           "url": "https://m.thepaper.cn/newsDetail_forward_33634641",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 03时15分]"
         }
       ]
     }
