@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-24T07:59:28.046727+08:00",
-  "total_titles_processed": 602,
+  "generated_at": "2026-07-24T11:19:05.615651+08:00",
+  "total_titles_processed": 797,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
+          "url": "https://wallstreetcn.com/articles/3777754",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时54分 ~ 11时19分]"
+        },
         {
           "title": "特斯拉电话会：马斯克称正进行“二战以来美国最快的工业规模扩张”，获美光存储芯片“超级配额”",
           "url": "https://wallstreetcn.com/articles/3777724",
@@ -45,15 +57,17 @@
           "time_info": "[01时34分 ~ 07时59分]"
         },
         {
-          "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
-          "url": "https://wallstreetcn.com/articles/3777754",
-          "source": "华尔街见闻",
+          "title": "美股收盘：七巨头齐跌特斯拉重挫14% 纳指降2%布油站上100美元",
+          "url": "https://www.cls.cn/detail/2435694",
+          "source": "财联社热门",
           "ranks": [
-            2
+            12,
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时54分 ~ 07时59分]"
+          "appearance_count": 5,
+          "time_info": "[06时54分 ~ 11时19分]"
         },
         {
           "title": "美国启动车门安全制度的制定工作，特斯拉已经发生多起相关的死亡事故。",
@@ -65,18 +79,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
-        },
-        {
-          "title": "美股收盘：七巨头齐跌特斯拉重挫14% 纳指降2%布油站上100美元",
-          "url": "https://www.cls.cn/detail/2435694",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时54分 ~ 07时59分]"
         },
         {
           "title": "特斯拉Q2营收大增26%但盈利降18%远逊预期，现金流转负，强调处最大投资阶段丨财报见闻",
@@ -103,6 +105,17 @@
           "time_info": "[06时54分 ~ 07时59分]"
         },
         {
+          "title": "特斯拉崩跌原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E5%B4%A9%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时18分 ~ 11时19分]"
+        },
+        {
           "title": "摩根大通将特斯拉目标价从475.00美元/股下调至445.00美元/股。",
           "url": "https://flash.jin10.com/detail/20260724024132493800",
           "source": "金十数据",
@@ -120,7 +133,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -182,8 +195,175 @@
       ]
     },
     {
+      "keyword_group": "央行 抖音 小红书",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "抖音网友带我逛菲尔兹奖现场",
+          "url": "https://www.douyin.com/hot/2582104",
+          "source": "抖音",
+          "ranks": [
+            7,
+            8,
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时34分 ~ 11时19分]"
+        },
+        {
+          "title": "抖音网友祝贺邓煜王虹获奖",
+          "url": "https://www.douyin.com/hot/2582801",
+          "source": "抖音",
+          "ranks": [
+            23,
+            25,
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时34分 ~ 11时19分]"
+        },
+        {
+          "title": "美国至7月17日当周外国央行持有美国国债 248.14亿美元，前值6.39亿美元。",
+          "url": "https://flash.jin10.com/detail/20260724043339186800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "小红书被曝正主动联系相关老员工，愿补发期权换签署相关条款，真实性多大？若能达成一致，能顺利 IPO 吗？",
+          "url": "https://www.zhihu.com/question/2063292318887539352",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时34分 ~ 05时02分]"
+        },
+        {
+          "title": "德国两年期国债收益率在欧洲央行决议日涨超4个基点，投资者关注国际油价涨势",
+          "url": "https://wallstreetcn.com/livenews/3138998",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时34分 ~ 03时15分]"
+        },
+        {
+          "title": "消息人士：日本央行可能维持通胀风险警告 但认为风险未明显升温",
+          "url": "https://flash.jin10.com/detail/20260724105717546800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        },
+        {
+          "title": "消息人士称，日本央行下周将维持通胀可能超过2%目标的警告，但暗示由油价引发的即时价格冲击风险已较4月有所缓解。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3139198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        },
+        {
+          "title": "欧洲央行考虑提高准备金要求 以缓解巨额亏损压力",
+          "url": "https://flash.jin10.com/detail/20260724021841638800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "市场消息：消息人士称，欧洲央行决策者将讨论提高准备金要求、分层存款利率以及收费机制。围绕欧洲央行资产负债表亏损问题的政治敏感性讨论正日益加剧。",
+          "url": "https://flash.jin10.com/detail/20260724021243468800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "拉加德承诺履职至2027年，欧洲央行继任者之争正式拉开帷幕",
+          "url": "https://wallstreetcn.com/livenews/3138993",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时34分"
+        },
+        {
+          "title": "消息人士称，日本央行的关注重点正转向企业在多大程度上将成本上升转嫁给家庭。",
+          "url": "https://flash.jin10.com/detail/20260724104829775800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        },
+        {
+          "title": "消息人士称，日本央行将在下周维持通胀可能超2%目标的警告，但将暗示由石油引发的即时价格冲击风险已较4月有所缓解。",
+          "url": "https://flash.jin10.com/detail/20260724104811060800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        },
+        {
+          "title": "消息人士称，日本央行很可能维持政策指引，承诺将继续加息。",
+          "url": "https://flash.jin10.com/detail/20260724104752996800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        },
+        {
+          "title": "中国央行公开市场今日净回笼3615亿元人民币",
+          "url": "https://wallstreetcn.com/livenews/3139157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "OpenAI：预计将大规模部署AMD的Helios。",
@@ -216,7 +396,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -285,6 +465,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        },
+        {
+          "title": "OpenAI入侵Hugging Face，引发美国国会提出“AI紧急关停”法案",
+          "url": "https://wallstreetcn.com/livenews/3139178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
         }
       ]
     },
@@ -325,8 +516,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时34分 ~ 07时59分]"
+          "appearance_count": 9,
+          "time_info": "[01时34分 ~ 11时19分]"
         },
         {
           "title": "如何看待谷歌母公司 Alphabet 自由现金流数十年来首次转负？",
@@ -360,7 +551,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -389,109 +580,8 @@
       ]
     },
     {
-      "keyword_group": "央行 抖音 小红书",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "抖音网友带我逛菲尔兹奖现场",
-          "url": "https://www.douyin.com/hot/2582104",
-          "source": "抖音",
-          "ranks": [
-            7,
-            8,
-            11,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时34分 ~ 07时59分]"
-        },
-        {
-          "title": "抖音网友祝贺邓煜王虹获奖",
-          "url": "https://www.douyin.com/hot/2582801",
-          "source": "抖音",
-          "ranks": [
-            23,
-            25,
-            12,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时34分 ~ 07时59分]"
-        },
-        {
-          "title": "美国至7月17日当周外国央行持有美国国债 248.14亿美元，前值6.39亿美元。",
-          "url": "https://flash.jin10.com/detail/20260724043339186800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时02分"
-        },
-        {
-          "title": "小红书被曝正主动联系相关老员工，愿补发期权换签署相关条款，真实性多大？若能达成一致，能顺利 IPO 吗？",
-          "url": "https://www.zhihu.com/question/2063292318887539352",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时34分 ~ 05时02分]"
-        },
-        {
-          "title": "德国两年期国债收益率在欧洲央行决议日涨超4个基点，投资者关注国际油价涨势",
-          "url": "https://wallstreetcn.com/livenews/3138998",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 03时15分]"
-        },
-        {
-          "title": "欧洲央行考虑提高准备金要求 以缓解巨额亏损压力",
-          "url": "https://flash.jin10.com/detail/20260724021841638800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "市场消息：消息人士称，欧洲央行决策者将讨论提高准备金要求、分层存款利率以及收费机制。围绕欧洲央行资产负债表亏损问题的政治敏感性讨论正日益加剧。",
-          "url": "https://flash.jin10.com/detail/20260724021243468800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "拉加德承诺履职至2027年，欧洲央行继任者之争正式拉开帷幕",
-          "url": "https://wallstreetcn.com/livenews/3138993",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时34分"
-        }
-      ]
-    },
-    {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "水果店只卖苹果 其中1款399元1颗",
@@ -522,13 +612,24 @@
           "time_info": "[01时34分 ~ 06时55分]"
         },
         {
+          "title": "司机玩手机致车辆在超车道龟速行驶",
+          "url": "https://www.toutiao.com/trending/7665242071896915977/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时18分 ~ 11时19分]"
+        },
+        {
           "title": "机构密集调研苹果产业链公司",
           "url": "https://wallstreetcn.com/livenews/3139111",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
