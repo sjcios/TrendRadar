@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T01:58:00.089875+08:00",
-  "total_titles_processed": 364,
+  "generated_at": "2026-07-26T03:09:59.620871+08:00",
+  "total_titles_processed": 398,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.douyin.com/hot/2584228",
           "source": "抖音",
           "ranks": [
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 01时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 03时09分]"
         },
         {
           "title": "爸爸带娃玩手机 孩子打翻烧水壶",
@@ -54,8 +55,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 01时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 03时09分]"
         },
         {
           "title": "保罗乔治直播锐评抖音海选球迷",
