@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-26T00:11:07.131003+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-26T01:58:00.089875+08:00",
+  "total_titles_processed": 364,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "永远会被小苹果阿姨的真诚感动",
+          "url": "https://www.douyin.com/hot/2584228",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 01时58分]"
+        },
         {
           "title": "爸爸带娃玩手机 孩子打翻烧水壶",
           "url": "https://www.toutiao.com/trending/7665724480107233316/",
@@ -19,15 +30,15 @@
           "time_info": "[00时10分 ~ 00时11分]"
         },
         {
-          "title": "永远会被小苹果阿姨的真诚感动",
-          "url": "https://www.douyin.com/hot/2584228",
-          "source": "抖音",
+          "title": "爸爸带娃玩手机孩子打翻烧水壶",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%B8%A6%E5%A8%83%E7%8E%A9%E6%89%8B%E6%9C%BA%E5%AD%A9%E5%AD%90%E6%89%93%E7%BF%BB%E7%83%A7%E6%B0%B4%E5%A3%B6%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
           "ranks": [
-            25
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时10分 ~ 00时11分]"
+          "time_info": "[01时57分 ~ 01时58分]"
         }
       ]
     },
@@ -43,8 +54,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 00时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 01时58分]"
         },
         {
           "title": "保罗乔治直播锐评抖音海选球迷",
