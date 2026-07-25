@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T08:04:00.934430+08:00",
-  "total_titles_processed": 557,
+  "generated_at": "2026-07-25T12:09:34.618305+08:00",
+  "total_titles_processed": 764,
   "failed_sources": [],
   "trends": [
     {
@@ -84,7 +84,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
@@ -92,11 +92,12 @@
           "source": "澎湃新闻",
           "ranks": [
             7,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时07分 ~ 08时04分]"
+          "appearance_count": 7,
+          "time_info": "[02时07分 ~ 12时09分]"
         },
         {
           "title": "Anthropic点评“OpenAI入侵事件”：各加公司需要“不断更新评估和安全系统",
@@ -115,6 +116,58 @@
           "source": "知乎",
           "ranks": [
             7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时07分"
+        },
+        {
+          "title": "韩国总统李在明：我先后会见了Anthropic首席执行官Dario Amodei、OpenAI首席执行官Sam Altman、英伟达首席执行官黄仁勋以及博通首席执行官陈福阳，共同探讨了AI时代的合作与未来发展。",
+          "url": "https://flash.jin10.com/detail/20260725103555536800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 Apple Mac iPhone 手机",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OPPO 、 Vivo 拒绝三星存储涨价报价，后续国产手机可能都用长鑫等国产内存吗？",
+          "url": "https://www.zhihu.com/question/2063583824378848408",
+          "source": "知乎",
+          "ranks": [
+            4,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时07分 ~ 08时04分]"
+        },
+        {
+          "title": "除了玩手机还有这么多低成本爱好",
+          "url": "https://s.weibo.com/weibo?q=%E9%99%A4%E4%BA%86%E7%8E%A9%E6%89%8B%E6%9C%BA%E8%BF%98%E6%9C%89%E8%BF%99%E4%B9%88%E5%A4%9A%E4%BD%8E%E6%88%90%E6%9C%AC%E7%88%B1%E5%A5%BD&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        },
+        {
+          "title": "美国总统特朗普声称，欧盟将付出非常大的代价。 批评欧盟针对苹果、Meta的罚款，他们“在掠夺”美国企业。 美国开始对“欧盟针对美国科技企业采取的行动”展开301调查。 “我们预计将会对欧盟‘大幅’加征关税”。 欧元转跌，在美上市ETF欧元做多回吐日内稍早涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3139589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -151,32 +204,19 @@
       ]
     },
     {
-      "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 2,
+      "keyword_group": "央行 抖音 小红书",
+      "match_count": 1,
       "titles": [
         {
-          "title": "OPPO 、 Vivo 拒绝三星存储涨价报价，后续国产手机可能都用长鑫等国产内存吗？",
-          "url": "https://www.zhihu.com/question/2063583824378848408",
-          "source": "知乎",
+          "title": "央行将7月末前后开展4次隔夜逆回购 对冲月底资金波动",
+          "url": "https://www.cls.cn/detail/2436736",
+          "source": "财联社热门",
           "ranks": [
-            4,
-            8,
-            7
+            12
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时07分 ~ 08时04分]"
-        },
-        {
-          "title": "美国总统特朗普声称，欧盟将付出非常大的代价。 批评欧盟针对苹果、Meta的罚款，他们“在掠夺”美国企业。 美国开始对“欧盟针对美国科技企业采取的行动”展开301调查。 “我们预计将会对欧盟‘大幅’加征关税”。 欧元转跌，在美上市ETF欧元做多回吐日内稍早涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3139589",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时07分"
+          "time_info": "12时09分"
         }
       ]
     }
