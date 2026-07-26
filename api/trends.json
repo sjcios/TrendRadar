@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T02:04:07.686966+08:00",
-  "total_titles_processed": 351,
+  "generated_at": "2026-07-27T04:09:03.280661+08:00",
+  "total_titles_processed": 388,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 02时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 04时09分]"
         },
         {
           "title": "硬核逃犯32年不用手机终被逮",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 02时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 04时09分]"
         },
         {
           "title": "提醒：下周一（7月27日）美股盘后，铿腾电子（CDNS）、Rambus将发布业绩报告。 下周二美股盘前，康宁公司（GLW）、波音、可口可乐将发布业绩报告； 美股盘后，希捷科技、恩智浦将、福特汽车发布业绩报告。 下周三美股盘后，微软、Meta、高通、Arm控股、拉姆研究发布业绩报告。 下周四美股盘后，苹果、亚马逊、Coinbase发布业绩报告。 下周五美股盘前，雪佛龙、埃克森美孚发布业绩报告。",
@@ -39,19 +39,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 02时04分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 04时09分]"
         },
         {
           "title": "极客湾手机续航大横评",
           "url": "https://search.bilibili.com/all?keyword=%E6%9E%81%E5%AE%A2%E6%B9%BE%E6%89%8B%E6%9C%BA%E7%BB%AD%E8%88%AA%E5%A4%A7%E6%A8%AA%E8%AF%84",
           "source": "bilibili 热搜",
           "ranks": [
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 02时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 04时09分]"
         },
         {
           "title": "小苹果阿姨感谢网友关心",
@@ -59,11 +60,12 @@
           "source": "抖音",
           "ranks": [
             22,
-            30
+            30,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 02时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 04时09分]"
         }
       ]
     },
@@ -76,11 +78,12 @@
           "url": "https://wallstreetcn.com/articles/3777856",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 02时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 04时09分]"
         }
       ]
     }
