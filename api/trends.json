@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T19:19:04.807207+08:00",
-  "total_titles_processed": 1085,
+  "generated_at": "2026-07-26T21:17:39.844554+08:00",
+  "total_titles_processed": 1212,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "店主卖 7.9 元手机壳时标注「荣耀 XX 型号」被荣耀索赔 38 万元，如何从法律角度解读？",
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时41分 ~ 19时19分]"
+          "appearance_count": 7,
+          "time_info": "[11时41分 ~ 21时17分]"
         },
         {
           "title": "永远会被小苹果阿姨的真诚感动",
@@ -35,26 +36,28 @@
           "time_info": "[00时10分 ~ 08时01分]"
         },
         {
-          "title": "极客湾手机续航大横评",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9E%81%E5%AE%A2%E6%B9%BE%E6%89%8B%E6%9C%BA%E7%BB%AD%E8%88%AA%E5%A4%A7%E6%A8%AA%E8%AF%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时12分 ~ 19时19分]"
-        },
-        {
           "title": "如何看待数码博主极客湾最新一期的《续航大横评》？这会给国产手机厂商和市场带来什么样的影响？",
           "url": "https://www.zhihu.com/question/2064578743788745259",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时18分 ~ 19时19分]"
+          "appearance_count": 3,
+          "time_info": "[19时18分 ~ 21时17分]"
+        },
+        {
+          "title": "极客湾手机续航大横评",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9E%81%E5%AE%A2%E6%B9%BE%E6%89%8B%E6%9C%BA%E7%BB%AD%E8%88%AA%E5%A4%A7%E6%A8%AA%E8%AF%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时12分 ~ 21时17分]"
         },
         {
           "title": "高通宣布 9 月起芯片涨价两位数百分比，将对手机市场产生哪些影响？",
@@ -67,6 +70,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时41分 ~ 17时12分]"
+        },
+        {
+          "title": "小苹果阿姨感谢网友关心",
+          "url": "https://www.douyin.com/hot/2586121",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
         },
         {
           "title": "爸爸带娃玩手机 孩子打翻烧水壶",
@@ -150,6 +164,67 @@
       ]
     },
     {
+      "keyword_group": "央行 抖音 小红书",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "央行将7月末前后开展4次隔夜逆回购 对冲月底资金波动",
+          "url": "https://www.cls.cn/detail/2436736",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时10分 ~ 08时01分]"
+        },
+        {
+          "title": "金十整理：下周重要事件与数据预告——美联储领衔“超级央行周”，海力士、Meta等科技股财报与PCE通胀数据轮番登场",
+          "url": "https://flash.jin10.com/detail/20260726210004874800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        },
+        {
+          "title": "保罗乔治直播锐评抖音海选球迷",
+          "url": "https://www.douyin.com/hot/2584941",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 00时11分]"
+        },
+        {
+          "title": "下周全球瞩目！美日央行利率决议+MAG7与存储巨头财报+国内重磅会议+长鑫挂牌",
+          "url": "https://wallstreetcn.com/articles/3777856",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        },
+        {
+          "title": "分析师：油价重新接近百元大关，全球央行加息警铃再响",
+          "url": "https://flash.jin10.com/detail/20260726172020074800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 4,
       "titles": [
@@ -205,45 +280,6 @@
       ]
     },
     {
-      "keyword_group": "央行 抖音 小红书",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "央行将7月末前后开展4次隔夜逆回购 对冲月底资金波动",
-          "url": "https://www.cls.cn/detail/2436736",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时10分 ~ 08时01分]"
-        },
-        {
-          "title": "保罗乔治直播锐评抖音海选球迷",
-          "url": "https://www.douyin.com/hot/2584941",
-          "source": "抖音",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 00时11分]"
-        },
-        {
-          "title": "分析师：油价重新接近百元大关，全球央行加息警铃再响",
-          "url": "https://flash.jin10.com/detail/20260726172020074800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时19分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -252,11 +288,12 @@
           "url": "https://www.zhihu.com/question/2063587044526404438",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时18分 ~ 19时19分]"
+          "appearance_count": 3,
+          "time_info": "[19时18分 ~ 21时17分]"
         },
         {
           "title": "不满谷歌被重罚，特朗普威胁对欧盟征收巨额关税",
