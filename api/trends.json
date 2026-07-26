@@ -1,86 +1,33 @@
 {
-  "generated_at": "2026-07-26T23:04:20.971863+08:00",
-  "total_titles_processed": 1294,
+  "generated_at": "2026-07-27T00:58:54.528233+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 15,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "店主卖 7.9 元手机壳时标注「荣耀 XX 型号」被荣耀索赔 38 万元，如何从法律角度解读？",
-          "url": "https://www.zhihu.com/question/2064405742971352764",
-          "source": "知乎",
-          "ranks": [
-            5,
-            2,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时41分 ~ 21时17分]"
-        },
         {
           "title": "如何看待数码博主极客湾最新一期的《续航大横评》？这会给国产手机厂商和市场带来什么样的影响？",
           "url": "https://www.zhihu.com/question/2064578743788745259",
           "source": "知乎",
           "ranks": [
-            5,
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时18分 ~ 23时04分]"
-        },
-        {
-          "title": "极客湾手机续航大横评",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9E%81%E5%AE%A2%E6%B9%BE%E6%89%8B%E6%9C%BA%E7%BB%AD%E8%88%AA%E5%A4%A7%E6%A8%AA%E8%AF%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时12分 ~ 23时04分]"
-        },
-        {
-          "title": "永远会被小苹果阿姨的真诚感动",
-          "url": "https://www.douyin.com/hot/2584228",
-          "source": "抖音",
-          "ranks": [
-            25,
-            28,
-            30,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时10分 ~ 08时01分]"
+          "appearance_count": 1,
+          "time_info": "00时58分"
         },
         {
           "title": "硬核逃犯32年不用手机终被逮",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356524&amp;topic_name=%E7%A1%AC%E6%A0%B8%E9%80%83%E7%8A%AF32%E5%B9%B4%E4%B8%8D%E7%94%A8%E6%89%8B%E6%9C%BA%E7%BB%88%E8%A2%AB%E9%80%AE",
           "source": "贴吧",
           "ranks": [
-            3
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时03分 ~ 23时04分]"
-        },
-        {
-          "title": "高通宣布 9 月起芯片涨价两位数百分比，将对手机市场产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2064255303806465925",
-          "source": "知乎",
-          "ranks": [
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时41分 ~ 17时12分]"
+          "appearance_count": 1,
+          "time_info": "00时58分"
         },
         {
           "title": "提醒：下周一（7月27日）美股盘后，铿腾电子（CDNS）、Rambus将发布业绩报告。 下周二美股盘前，康宁公司（GLW）、波音、可口可乐将发布业绩报告； 美股盘后，希捷科技、恩智浦将、福特汽车发布业绩报告。 下周三美股盘后，微软、Meta、高通、Arm控股、拉姆研究发布业绩报告。 下周四美股盘后，苹果、亚马逊、Coinbase发布业绩报告。 下周五美股盘前，雪佛龙、埃克森美孚发布业绩报告。",
@@ -89,296 +36,48 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时04分"
+          "time_info": "00时58分"
+        },
+        {
+          "title": "极客湾手机续航大横评",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9E%81%E5%AE%A2%E6%B9%BE%E6%89%8B%E6%9C%BA%E7%BB%AD%E8%88%AA%E5%A4%A7%E6%A8%AA%E8%AF%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时58分"
         },
         {
           "title": "小苹果阿姨感谢网友关心",
           "url": "https://www.douyin.com/hot/2586121",
           "source": "抖音",
           "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时17分 ~ 23时04分]"
-        },
-        {
-          "title": "爸爸带娃玩手机 孩子打翻烧水壶",
-          "url": "https://www.toutiao.com/trending/7665724480107233316/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            29,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 05时55分]"
-        },
-        {
-          "title": "韩路感谢华为手机",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E8%B7%AF%E6%84%9F%E8%B0%A2%E5%8D%8E%E4%B8%BA%E6%89%8B%E6%9C%BA%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 11时42分]"
-        },
-        {
-          "title": "小伙上门回收手机被客户男友误会殴打",
-          "url": "https://www.toutiao.com/trending/7665651386954465299/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时18分 ~ 19时19分]"
-        },
-        {
-          "title": "爸爸带娃玩手机孩子打翻烧水壶",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%B8%A6%E5%A8%83%E7%8E%A9%E6%89%8B%E6%9C%BA%E5%AD%A9%E5%AD%90%E6%89%93%E7%BF%BB%E7%83%A7%E6%B0%B4%E5%A3%B6%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 01时58分]"
-        },
-        {
-          "title": "苹果为何栽在了印度手里",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E4%B8%BA%E4%BD%95%E6%A0%BD%E5%9C%A8%E4%BA%86%E5%8D%B0%E5%BA%A6%E6%89%8B%E9%87%8C",
-          "source": "百度热搜",
-          "ranks": [
-            16
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时12分"
-        },
-        {
-          "title": "手机实拍记录台风登陆前夕现场",
-          "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E5%AE%9E%E6%8B%8D%E8%AE%B0%E5%BD%95%E5%8F%B0%E9%A3%8E%E7%99%BB%E9%99%86%E5%89%8D%E5%A4%95%E7%8E%B0%E5%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时12分"
-        },
-        {
-          "title": "AI坑惨手机圈",
-          "url": "https://www.toutiao.com/trending/7666708037893099071/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时12分"
+          "time_info": "00时58分"
         }
       ]
     },
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "央行将7月末前后开展4次隔夜逆回购 对冲月底资金波动",
-          "url": "https://www.cls.cn/detail/2436736",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时10分 ~ 08时01分]"
-        },
-        {
-          "title": "金十整理：下周重要事件与数据预告——美联储领衔“超级央行周”，海力士、Meta等科技股财报与PCE通胀数据轮番登场",
-          "url": "https://flash.jin10.com/detail/20260726210004874800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时17分 ~ 23时04分]"
-        },
         {
           "title": "下周全球瞩目！美日央行利率决议+MAG7与存储巨头财报+国内重磅会议+长鑫挂牌",
           "url": "https://wallstreetcn.com/articles/3777856",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时17分 ~ 23时04分]"
-        },
-        {
-          "title": "保罗乔治直播锐评抖音海选球迷",
-          "url": "https://www.douyin.com/hot/2584941",
-          "source": "抖音",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 00时11分]"
-        },
-        {
-          "title": "分析师：油价重新接近百元大关，全球央行加息警铃再响",
-          "url": "https://flash.jin10.com/detail/20260726172020074800",
-          "source": "金十数据",
-          "ranks": [
-            13
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "OpenAI Codex开发人员Thomas Ricouard：我让5.6 Sol稍微提升几何精度和材质细节，效果令人惊喜。这是一个完全在Blender中构建的场景，可以自由操控和漫游，而且它还能持续从中生成颇有格调的静态画面。",
-          "url": "https://flash.jin10.com/detail/20260726044659225800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时55分 ~ 08时01分]"
-        },
-        {
-          "title": "OpenAI Codex产品负责人Tibo：我们已经为所有Codex和ChatGPT Work用户重置了使用额度。昨夜凌晨2点至4点左右，我们遭遇了一次几乎全球范围的服务中断。目前所有服务均已恢复正常。",
-          "url": "https://flash.jin10.com/detail/20260726031905539800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            16,
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时51分 ~ 08时01分]"
-        },
-        {
-          "title": "三星李在镕与OpenAI据悉磋商AI与半导体领域合作方案",
-          "url": "https://flash.jin10.com/detail/20260726125707233800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时35分"
-        },
-        {
-          "title": "OpenAI产品负责人Tibo：ChatGPT Work的活跃用户数量正式超越Codex。",
-          "url": "https://flash.jin10.com/detail/20260726120623343800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "如何看待谷歌豪赌 AI ，自由现金流数十年来首次转负？",
-          "url": "https://www.zhihu.com/question/2063587044526404438",
-          "source": "知乎",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时18分 ~ 21时17分]"
-        },
-        {
-          "title": "不满谷歌被重罚，特朗普威胁对欧盟征收巨额关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33658424",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "立新能源：公司股价近期累计涨幅较大 存在快速下跌风险",
-          "url": "https://flash.jin10.com/detail/20260726161023521800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时12分 ~ 19时19分]"
-        },
-        {
-          "title": "特斯拉三代 Optimus 初步定型，Optimus 量产对全球人形机器人产业有何影响？",
-          "url": "https://www.zhihu.com/question/2058635266215227709",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 11时42分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "交流会纪要外泄影响DeepSeek融资？内部人士：不可信",
-          "url": "https://wallstreetcn.com/livenews/3139801",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时42分 ~ 19时19分]"
+          "time_info": "00时58分"
         }
       ]
     }
