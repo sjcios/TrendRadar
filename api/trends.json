@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T17:12:31.390843+08:00",
-  "total_titles_processed": 970,
+  "generated_at": "2026-07-26T19:19:04.807207+08:00",
+  "total_titles_processed": 1085,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "店主卖 7.9 元手机壳时标注「荣耀 XX 型号」被荣耀索赔 38 万元，如何从法律角度解读？",
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时41分 ~ 17时12分]"
+          "appearance_count": 6,
+          "time_info": "[11时41分 ~ 19时19分]"
         },
         {
           "title": "永远会被小苹果阿姨的真诚感动",
@@ -34,6 +35,28 @@
           "time_info": "[00时10分 ~ 08时01分]"
         },
         {
+          "title": "极客湾手机续航大横评",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9E%81%E5%AE%A2%E6%B9%BE%E6%89%8B%E6%9C%BA%E7%BB%AD%E8%88%AA%E5%A4%A7%E6%A8%AA%E8%AF%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时12分 ~ 19时19分]"
+        },
+        {
+          "title": "如何看待数码博主极客湾最新一期的《续航大横评》？这会给国产手机厂商和市场带来什么样的影响？",
+          "url": "https://www.zhihu.com/question/2064578743788745259",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 19时19分]"
+        },
+        {
           "title": "高通宣布 9 月起芯片涨价两位数百分比，将对手机市场产生哪些影响？",
           "url": "https://www.zhihu.com/question/2064255303806465925",
           "source": "知乎",
@@ -44,17 +67,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时41分 ~ 17时12分]"
-        },
-        {
-          "title": "极客湾手机续航大横评",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9E%81%E5%AE%A2%E6%B9%BE%E6%89%8B%E6%9C%BA%E7%BB%AD%E8%88%AA%E5%A4%A7%E6%A8%AA%E8%AF%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时12分"
         },
         {
           "title": "爸爸带娃玩手机 孩子打翻烧水壶",
@@ -81,6 +93,17 @@
           "time_info": "[11时41分 ~ 11时42分]"
         },
         {
+          "title": "小伙上门回收手机被客户男友误会殴打",
+          "url": "https://www.toutiao.com/trending/7665651386954465299/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 19时19分]"
+        },
+        {
           "title": "爸爸带娃玩手机孩子打翻烧水壶",
           "url": "https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%B8%A6%E5%A8%83%E7%8E%A9%E6%89%8B%E6%9C%BA%E5%AD%A9%E5%AD%90%E6%89%93%E7%BF%BB%E7%83%A7%E6%B0%B4%E5%A3%B6%23&t=31&band_rank=23&Refer=top",
           "source": "微博",
@@ -98,7 +121,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时12分"
         },
@@ -109,7 +132,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时12分"
         },
@@ -120,7 +143,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时12分"
         }
@@ -182,36 +205,8 @@
       ]
     },
     {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "立新能源：公司股价近期累计涨幅较大 存在快速下跌风险",
-          "url": "https://flash.jin10.com/detail/20260726161023521800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时12分"
-        },
-        {
-          "title": "特斯拉三代 Optimus 初步定型，Optimus 量产对全球人形机器人产业有何影响？",
-          "url": "https://www.zhihu.com/question/2058635266215227709",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 11时42分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "央行将7月末前后开展4次隔夜逆回购 对冲月底资金波动",
@@ -234,6 +229,74 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时10分 ~ 00时11分]"
+        },
+        {
+          "title": "分析师：油价重新接近百元大关，全球央行加息警铃再响",
+          "url": "https://flash.jin10.com/detail/20260726172020074800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何看待谷歌豪赌 AI ，自由现金流数十年来首次转负？",
+          "url": "https://www.zhihu.com/question/2063587044526404438",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 19时19分]"
+        },
+        {
+          "title": "不满谷歌被重罚，特朗普威胁对欧盟征收巨额关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33658424",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "立新能源：公司股价近期累计涨幅较大 存在快速下跌风险",
+          "url": "https://flash.jin10.com/detail/20260726161023521800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 19时19分]"
+        },
+        {
+          "title": "特斯拉三代 Optimus 初步定型，Optimus 量产对全球人形机器人产业有何影响？",
+          "url": "https://www.zhihu.com/question/2058635266215227709",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 11时42分]"
         }
       ]
     },
@@ -248,28 +311,12 @@
           "ranks": [
             2,
             11,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时42分 ~ 17时12分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "不满谷歌被重罚，特朗普威胁对欧盟征收巨额关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33658424",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时12分"
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 19时19分]"
         }
       ]
     }
