@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T06:54:35.460534+08:00",
-  "total_titles_processed": 471,
+  "generated_at": "2026-07-26T08:01:20.756915+08:00",
+  "total_titles_processed": 520,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             25,
             28,
-            30
+            30,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 06时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时10分 ~ 08时01分]"
         },
         {
           "title": "爸爸带娃玩手机 孩子打翻烧水壶",
@@ -56,11 +57,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时55分 ~ 06时54分]"
+          "appearance_count": 3,
+          "time_info": "[05时55分 ~ 08时01分]"
         },
         {
           "title": "OpenAI Codex产品负责人Tibo：我们已经为所有Codex和ChatGPT Work用户重置了使用额度。昨夜凌晨2点至4点左右，我们遭遇了一次几乎全球范围的服务中断。目前所有服务均已恢复正常。",
@@ -69,11 +71,12 @@
           "ranks": [
             9,
             16,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时51分 ~ 06时54分]"
+          "appearance_count": 4,
+          "time_info": "[04时51分 ~ 08时01分]"
         }
       ]
     },
@@ -89,8 +92,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时10分 ~ 05时55分]"
+          "appearance_count": 9,
+          "time_info": "[00时10分 ~ 08时01分]"
         },
         {
           "title": "保罗乔治直播锐评抖音海选球迷",
