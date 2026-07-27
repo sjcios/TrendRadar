@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T12:36:39.558151+08:00",
-  "total_titles_processed": 793,
+  "generated_at": "2026-07-27T16:31:50.108563+08:00",
+  "total_titles_processed": 985,
   "failed_sources": [],
   "trends": [
     {
@@ -8,24 +8,25 @@
       "match_count": 9,
       "titles": [
         {
+          "title": "OpenAI模型失控始末曝光，Hugging Face“索赔”1亿美元算力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33662817",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时36分 ~ 16时31分]"
+        },
+        {
           "title": "OpenAI：出现影响ChatGPT的较高错误率，已实施缓解措施，并在监控ChatGPT的恢复情况。",
           "url": "https://wallstreetcn.com/livenews/3140016",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
-          "title": "OpenAI模型失控始末曝光，Hugging Face“索赔”1亿美元算力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33662817",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
@@ -34,11 +35,24 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356534&amp;topic_name=OpenAI%E5%A4%B1%E6%8E%A7%E5%85%A5%E4%BE%B5%2C%E9%81%AD%E7%B4%A2%E8%B5%941%E4%BA%BF%E7%AE%97%E5%8A%9B",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时36分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时36分 ~ 16时31分]"
+        },
+        {
+          "title": "OpenAI失控AI内幕曝光：越狱一周才被发现 还有智能体曾留下“逃脱秘籍”",
+          "url": "https://www.cls.cn/detail/2437261",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时36分 ~ 16时31分]"
         },
         {
           "title": "知情人士称，英伟达正就为OpenAI俄亥俄州数据中心项目提供约2500亿美元财务担保进行谈判。（华尔街日报）",
@@ -52,24 +66,13 @@
           "time_info": "08时10分"
         },
         {
-          "title": "OpenAI失控AI内幕曝光：越狱一周才被发现 还有智能体曾留下“逃脱秘籍”",
-          "url": "https://www.cls.cn/detail/2437261",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
           "title": "OpenAI：出现影响ChatGPT的较高错误率。已实施缓解措施，并在监控ChatGPT的恢复情况。",
           "url": "https://flash.jin10.com/detail/20260727121032306800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
@@ -80,7 +83,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
@@ -109,22 +112,104 @@
       ]
     },
     {
+      "keyword_group": "央行 抖音 小红书",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "下周全球瞩目！美日央行利率决议+MAG7与存储巨头财报+国内重磅会议+长鑫挂牌",
+          "url": "https://wallstreetcn.com/articles/3777856",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 07时01分]"
+        },
+        {
+          "title": "本周全球瞩目！美日央行利率决议+MAG7与存储巨头财报+国内重磅会议+长鑫挂牌",
+          "url": "https://wallstreetcn.com/articles/3777856",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时09分 ~ 08时10分]"
+        },
+        {
+          "title": "英媒：英国贷款机构指责英国央行忽视华尔街资本优势",
+          "url": "https://flash.jin10.com/detail/20260727121341614800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时36分"
+        },
+        {
+          "title": "据英国金融时报：英国贷款机构指责英国央行忽视华尔街在资本方面的优势。",
+          "url": "https://flash.jin10.com/detail/20260727120407718800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时36分"
+        },
+        {
+          "title": "欧洲央行管委卡兹米尔：通胀二次效应一旦形成，扭转代价将十分高昂；欧洲央行必须在这些效应显现之前采取行动。",
+          "url": "https://flash.jin10.com/detail/20260727160803172800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "欧洲央行管委Kazimir：欧洲央行至少还需要再加息一次。",
+          "url": "https://wallstreetcn.com/livenews/3140135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "本周重要事件与数据预告：美联储领衔“超级央行周”，海力士、Meta等科技股财报与PCE通胀数据轮番登场",
+          "url": "https://flash.jin10.com/detail/20260727070041894800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        },
+        {
+          "title": "欧洲央行管委卡兹米尔：欧洲央行至少还需要再加息一次。",
+          "url": "https://flash.jin10.com/detail/20260727160246284800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
       "match_count": 6,
       "titles": [
-        {
-          "title": "硬核逃犯32年不用手机终被逮",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356524&amp;topic_name=%E7%A1%AC%E6%A0%B8%E9%80%83%E7%8A%AF32%E5%B9%B4%E4%B8%8D%E7%94%A8%E6%89%8B%E6%9C%BA%E7%BB%88%E8%A2%AB%E9%80%AE",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时58分 ~ 12时36分]"
-        },
         {
           "title": "如何看待数码博主极客湾最新一期的《续航大横评》？这会给国产手机厂商和市场带来什么样的影响？",
           "url": "https://www.zhihu.com/question/2064578743788745259",
@@ -139,6 +224,20 @@
           "time_info": "[00时58分 ~ 08时10分]"
         },
         {
+          "title": "硬核逃犯32年不用手机终被逮",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356524&amp;topic_name=%E7%A1%AC%E6%A0%B8%E9%80%83%E7%8A%AF32%E5%B9%B4%E4%B8%8D%E7%94%A8%E6%89%8B%E6%9C%BA%E7%BB%88%E8%A2%AB%E9%80%AE",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            5,
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时58分 ~ 16时31分]"
+        },
+        {
           "title": "极客湾手机续航大横评",
           "url": "https://search.bilibili.com/all?keyword=%E6%9E%81%E5%AE%A2%E6%B9%BE%E6%89%8B%E6%9C%BA%E7%BB%AD%E8%88%AA%E5%A4%A7%E6%A8%AA%E8%AF%84",
           "source": "bilibili 热搜",
@@ -151,8 +250,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时58分 ~ 12时36分]"
+          "appearance_count": 12,
+          "time_info": "[00时58分 ~ 16时31分]"
         },
         {
           "title": "小苹果阿姨感谢网友关心",
@@ -188,77 +287,15 @@
           "ranks": [
             26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "央行 抖音 小红书",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "下周全球瞩目！美日央行利率决议+MAG7与存储巨头财报+国内重磅会议+长鑫挂牌",
-          "url": "https://wallstreetcn.com/articles/3777856",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时58分 ~ 07时01分]"
-        },
-        {
-          "title": "本周全球瞩目！美日央行利率决议+MAG7与存储巨头财报+国内重磅会议+长鑫挂牌",
-          "url": "https://wallstreetcn.com/articles/3777856",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时09分 ~ 08时10分]"
-        },
-        {
-          "title": "英媒：英国贷款机构指责英国央行忽视华尔街资本优势",
-          "url": "https://flash.jin10.com/detail/20260727121341614800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
-          "title": "据英国金融时报：英国贷款机构指责英国央行忽视华尔街在资本方面的优势。",
-          "url": "https://flash.jin10.com/detail/20260727120407718800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
-          "title": "本周重要事件与数据预告：美联储领衔“超级央行周”，海力士、Meta等科技股财报与PCE通胀数据轮番登场",
-          "url": "https://flash.jin10.com/detail/20260727070041894800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时10分"
+          "time_info": "12时36分"
         }
       ]
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "为什么被称为「操控之王」的特斯拉赛道圈速成绩并不好？",
@@ -272,15 +309,54 @@
           "time_info": "[08时09分 ~ 08时10分]"
         },
         {
+          "title": "美股盘前，大型科技股普涨，美光科技涨近4%，英伟达、特斯拉涨超1%，英特尔涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3140136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
           "title": "宝马车主逃单3000被抓说这么多吗",
           "url": "https://s.weibo.com/weibo?q=%23%E5%AE%9D%E9%A9%AC%E8%BD%A6%E4%B8%BB%E9%80%83%E5%8D%953000%E8%A2%AB%E6%8A%93%E8%AF%B4%E8%BF%99%E4%B9%88%E5%A4%9A%E5%90%97%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "梁文锋打新长鑫浮盈8.27亿",
+          "url": "https://www.toutiao.com/trending/7666377405216509494/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时30分 ~ 16时31分]"
+        },
+        {
+          "title": "梁文锋打新长鑫科技浮盈8.27亿",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%A2%81%E6%96%87%E9%94%8B%E6%89%93%E6%96%B0%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E6%B5%AE%E7%9B%888.27%E4%BA%BF%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时30分 ~ 16时31分]"
         }
       ]
     },
@@ -295,7 +371,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         }
