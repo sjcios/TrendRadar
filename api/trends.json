@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T03:25:20.209735+08:00",
-  "total_titles_processed": 362,
+  "generated_at": "2026-07-28T05:09:15.125035+08:00",
+  "total_titles_processed": 443,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "约好跟同学写作业 其实是一起玩手机",
@@ -13,11 +13,12 @@
           "source": "百度热搜",
           "ranks": [
             8,
-            9
+            9,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时42分 ~ 03时25分]"
+          "appearance_count": 5,
+          "time_info": "[01时42分 ~ 05时09分]"
         },
         {
           "title": "苹果总市值超越英伟达重返全球第一",
@@ -27,8 +28,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时42分 ~ 03时25分]"
+          "appearance_count": 5,
+          "time_info": "[01时42分 ~ 05时09分]"
         },
         {
           "title": "硬核逃犯32年不用手机终被逮",
@@ -38,19 +39,20 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时42分 ~ 03时25分]"
+          "appearance_count": 5,
+          "time_info": "[01时42分 ~ 05时09分]"
         },
         {
           "title": "男子骑车看手机 碾压路人脚赔9000元",
           "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%AA%91%E8%BD%A6%E7%9C%8B%E6%89%8B%E6%9C%BA+%E7%A2%BE%E5%8E%8B%E8%B7%AF%E4%BA%BA%E8%84%9A%E8%B5%949000%E5%85%83",
           "source": "百度热搜",
           "ranks": [
-            21
+            21,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时25分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时25分 ~ 05时09分]"
         },
         {
           "title": "极客湾手机续航大横评",
@@ -59,9 +61,92 @@
           "ranks": [
             26
           ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时25分 ~ 05时09分]"
+        },
+        {
+          "title": "亚马逊Leo拟部署5105颗卫星，进军手机直连通信市场",
+          "url": "https://wallstreetcn.com/livenews/3140496",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
           "is_new": true,
           "appearance_count": 1,
+          "time_info": "05时09分"
+        },
+        {
+          "title": "美股收盘：海力士跌超7%，苹果市值直逼5万亿美元",
+          "url": "https://flash.jin10.com/detail/20260728040127842800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "特斯拉Optimus项目遭“泼冷水” 知名投资人：短期不会产生收入",
+          "url": "https://www.cls.cn/detail/2437832",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时25分 ~ 05时09分]"
+        },
+        {
+          "title": "新能源车平均车龄仅1.8年系误读背后",
+          "url": "https://www.toutiao.com/trending/7666777093032181787/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时08分 ~ 05时09分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨2.51%，报6257.87点，逼近50日均线（该技术指标目前下移至6294.47点）。 热门中概股里，宝尊电商初步收涨12.8%，小米涨8.3%，亿航智能涨7.5%，文远知行涨5.5%，亚朵、腾讯音乐、金山云涨超5%，大全新能源涨4.2%，理想涨4%，网易涨3.5%，拼多多、腾讯、阿里巴巴涨超2%。 ETF中，中概互联网指数ETF（KWEB）收涨2.70%，中国科技指数ETF（CQQQ）收涨2.43%。 XtrackersHarvest中证50（ASHS）收涨2.03%，德银嘉实沪深300指数ETF（ASHR）收涨1.19%，MSCI新兴市场ex中国ETF（EMXC）收跌0.21%。",
+          "url": "https://wallstreetcn.com/livenews/3140498",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时09分"
+        },
+        {
+          "title": "VERDEK：美国政府机构现可通过VERDEK与美国总务管理局（GSA）签订的合同使用特斯拉V4超级充电桩。",
+          "url": "https://flash.jin10.com/detail/20260728020928713800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
           "time_info": "03时25分"
+        },
+        {
+          "title": "周一（7月27日）纽约尾盘，彭博电动汽车价格回报指数涨1.56%，报3280.64点。 指数全天处于上涨状态，亚太时段持续走高，美股盘初刷新日高至3290.35点。 成分股中，小米集团H股收涨7.34%，禾赛科技ADR目前涨5.6%，文远知行ADR涨5.2%，Lucid集团涨5%，特斯拉劲敌Rivian涨4.8%，地平线H股收涨4.52%，特斯拉目前跌1.4%表现倒数第三，意法半导体法国巴黎股价收跌1.88%，淡水河谷印尼公司收跌2.05%。",
+          "url": "https://wallstreetcn.com/livenews/3140495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时09分"
         }
       ]
     },
@@ -77,8 +162,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时42分 ~ 03时25分]"
+          "appearance_count": 5,
+          "time_info": "[01时42分 ~ 05时09分]"
         },
         {
           "title": "DeepSeek说他先去吃饭了",
@@ -95,34 +180,6 @@
       ]
     },
     {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "特斯拉Optimus项目遭“泼冷水” 知名投资人：短期不会产生收入",
-          "url": "https://www.cls.cn/detail/2437832",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时25分"
-        },
-        {
-          "title": "VERDEK：美国政府机构现可通过VERDEK与美国总务管理局（GSA）签订的合同使用特斯拉V4超级充电桩。",
-          "url": "https://flash.jin10.com/detail/20260728020928713800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时25分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -133,7 +190,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
         }
@@ -151,8 +208,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时42分 ~ 03时25分]"
+          "appearance_count": 5,
+          "time_info": "[01时42分 ~ 05时09分]"
         }
       ]
     },
