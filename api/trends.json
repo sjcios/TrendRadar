@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-07-29T03:21:14.824799+08:00",
-  "total_titles_processed": 380,
+  "generated_at": "2026-07-29T05:06:01.279820+08:00",
+  "total_titles_processed": 448,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "苹果 Apple Mac iPhone 手机",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "芯片抛售蔓延全球，纳指100较峰值跌10%，存储股走低，苹果市值首次突破5万亿美元，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3778080",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时25分 ~ 05时06分]"
+        },
+        {
+          "title": "一图看懂 | 苹果重夺全球市值“王座”，股价年内大涨超24%",
+          "url": "https://www.cls.cn/detail/2439005",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时25分 ~ 05时06分]"
+        },
+        {
+          "title": "苹果市值首次突破5万亿美元",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%B8%82%E5%80%BC%E9%A6%96%E6%AC%A1%E7%AA%81%E7%A0%B45%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时05分 ~ 05时06分]"
+        }
+      ]
+    },
     {
       "keyword_group": "央行 抖音 小红书",
       "match_count": 3,
@@ -15,8 +54,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 03时21分]"
+          "appearance_count": 5,
+          "time_info": "[01时25分 ~ 05时06分]"
         },
         {
           "title": "又一名小红书前员工曝「距期权归属仅剩 8 天被解除劳动合同」，具体情况如何？其中涉及哪些法律问题？",
@@ -67,37 +106,9 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "芯片抛售蔓延全球，纳指100较峰值跌10%，存储股走低，苹果市值首次突破5万亿美元，金银油齐跌",
-          "url": "https://wallstreetcn.com/articles/3778080",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 03时21分]"
-        },
-        {
-          "title": "一图看懂 | 苹果重夺全球市值“王座”，股价年内大涨超24%",
-          "url": "https://www.cls.cn/detail/2439005",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 03时21分]"
         }
       ]
     },
@@ -113,8 +124,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 03时21分]"
+          "appearance_count": 5,
+          "time_info": "[01时25分 ~ 05时06分]"
         }
       ]
     },
