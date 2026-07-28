@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T12:08:14.924644+08:00",
-  "total_titles_processed": 814,
+  "generated_at": "2026-07-28T15:37:44.592715+08:00",
+  "total_titles_processed": 989,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "硬核逃犯32年不用手机终被逮",
@@ -33,6 +33,19 @@
           "time_info": "[01时42分 ~ 08时09分]"
         },
         {
+          "title": "美股收盘：阿斯麦、英伟达领衔“芯片风暴” 苹果重返全球市值第一",
+          "url": "https://www.cls.cn/detail/2438385",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时01分 ~ 15时37分]"
+        },
+        {
           "title": "美股迎芯片风暴 苹果重返市值第一",
           "url": "https://www.toutiao.com/trending/7667348037127114246/",
           "source": "今日头条",
@@ -53,19 +66,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时42分 ~ 07时01分]"
-        },
-        {
-          "title": "美股收盘：阿斯麦、英伟达领衔“芯片风暴” 苹果重返全球市值第一",
-          "url": "https://www.cls.cn/detail/2438385",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时01分 ~ 12时08分]"
         },
         {
           "title": "极客湾手机续航大横评",
@@ -148,13 +148,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
+        },
+        {
+          "title": "宋威龙张婧仪 共享手机密码",
+          "url": "https://s.weibo.com/weibo?q=%E5%AE%8B%E5%A8%81%E9%BE%99%E5%BC%A0%E5%A9%A7%E4%BB%AA%20%E5%85%B1%E4%BA%AB%E6%89%8B%E6%9C%BA%E5%AF%86%E7%A0%81&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
         }
       ]
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "比亚迪人形机器人8月郑州“上岗” 商业服务场景或率先落地",
+          "url": "https://www.cls.cn/detail/2438718",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
         {
           "title": "特斯拉Optimus项目遭“泼冷水” 知名投资人：短期不会产生收入",
           "url": "https://www.cls.cn/detail/2437832",
@@ -165,6 +187,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时25分 ~ 07时01分]"
+        },
+        {
+          "title": "SpaceX已经“跌掉”一个特斯拉 亚马逊入局卫星通信大战 | 环球市场",
+          "url": "https://www.cls.cn/detail/2438416",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时07分 ~ 15时37分]"
         },
         {
           "title": "新能源车平均车龄仅1.8年系误读背后",
@@ -178,26 +212,26 @@
           "time_info": "[05时08分 ~ 07时01分]"
         },
         {
-          "title": "SpaceX已经“跌掉”一个特斯拉 亚马逊入局卫星通信大战 | 环球市场",
-          "url": "https://www.cls.cn/detail/2438416",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时07分 ~ 12时08分]"
-        },
-        {
           "title": "SpaceX市值蒸发了一个特斯拉，市场开始寻找反弹机会",
           "url": "https://flash.jin10.com/detail/20260728115250208800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
+        },
+        {
+          "title": "梅赛德斯-奔驰集团在公布业绩后股价上涨3%。",
+          "url": "https://flash.jin10.com/detail/20260728150533003800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
         },
         {
           "title": "纳斯达克金龙中国指数收涨2.51%，报6257.87点，逼近50日均线（该技术指标目前下移至6294.47点）。 热门中概股里，宝尊电商初步收涨12.8%，小米涨8.3%，亿航智能涨7.5%，文远知行涨5.5%，亚朵、腾讯音乐、金山云涨超5%，大全新能源涨4.2%，理想涨4%，网易涨3.5%，拼多多、腾讯、阿里巴巴涨超2%。 ETF中，中概互联网指数ETF（KWEB）收涨2.70%，中国科技指数ETF（CQQQ）收涨2.43%。 XtrackersHarvest中证50（ASHS）收涨2.03%，德银嘉实沪深300指数ETF（ASHR）收涨1.19%，MSCI新兴市场ex中国ETF（EMXC）收跌0.21%。",
@@ -247,7 +281,7 @@
     },
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "交易员表示，印度央行可能正在出售美元以提振卢比。印度卢比上涨0.3%，报1美元兑95.64印度卢比。",
@@ -256,7 +290,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         },
@@ -265,11 +299,45 @@
           "url": "https://www.douyin.com/hot/2587558",
           "source": "抖音",
           "ranks": [
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时42分 ~ 03时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时42分 ~ 15时37分]"
+        },
+        {
+          "title": "日本央行料将按兵不动，评估6月加息影响",
+          "url": "https://flash.jin10.com/detail/20260728150627885800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
+        {
+          "title": "抖音乒乓百分大战今晚开赛",
+          "url": "https://www.douyin.com/hot/2588035",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
+        {
+          "title": "保罗乔治抖音发文寻找电动车男孩",
+          "url": "https://www.douyin.com/hot/2588068",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
         },
         {
           "title": "日本财务大臣片山皋月：政府与日本央行的关系正常且顺畅，货币政策操作交由日本央行决定。",
@@ -278,7 +346,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         },
@@ -296,6 +364,46 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金十图示：2026年07月28日（周二）上海金午盘价为882.55元/克，较国际金价(880.92元/克)，高1.63元/克",
+          "url": "https://flash.jin10.com/detail/20260728150739432800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
+        {
+          "title": "突破4000美元“拉锯区”，金价筑底信号显现",
+          "url": "https://wallstreetcn.com/livenews/3140540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时01分 ~ 08时09分]"
+        },
+        {
+          "title": "停火砸油只救半日，金价反弹的关键仍在...",
+          "url": "https://flash.jin10.com/detail/20260728114355864800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
@@ -305,11 +413,12 @@
           "source": "贴吧",
           "ranks": [
             1,
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时42分 ~ 12时08分]"
+          "appearance_count": 10,
+          "time_info": "[01时42分 ~ 15时37分]"
         },
         {
           "title": "DeepSeek说他先去吃饭了",
@@ -335,11 +444,12 @@
           "source": "贴吧",
           "ranks": [
             15,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时42分 ~ 12时08分]"
+          "appearance_count": 10,
+          "time_info": "[01时42分 ~ 15时37分]"
         },
         {
           "title": "OpenAI的CEO Altman预计本周将在美国华盛顿特区会见财长贝森特与商务部长卢特尼克。（Politico）",
@@ -351,35 +461,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "突破4000美元“拉锯区”，金价筑底信号显现",
-          "url": "https://wallstreetcn.com/livenews/3140540",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时01分 ~ 08时09分]"
-        },
-        {
-          "title": "停火砸油只救半日，金价反弹的关键仍在...",
-          "url": "https://flash.jin10.com/detail/20260728114355864800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
         }
       ]
     },
