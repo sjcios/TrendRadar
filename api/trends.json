@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T16:37:56.760916+08:00",
-  "total_titles_processed": 1177,
+  "generated_at": "2026-07-29T19:25:45.739355+08:00",
+  "total_titles_processed": 1343,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "一图看懂 | 苹果重夺全球市值“王座”，股价年内大涨超24%",
@@ -35,11 +35,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时58分 ~ 16时37分]"
+          "appearance_count": 5,
+          "time_info": "[07时58分 ~ 19时25分]"
         },
         {
           "title": "芯片抛售蔓延全球，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
@@ -57,11 +58,12 @@
           "url": "https://s.weibo.com/weibo?q=%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E6%8A%8A%E6%89%8B%E6%9C%BA%E4%BA%A4%E7%BB%99%E5%95%86%E5%AE%B6%E5%86%99%E5%A5%BD%E8%AF%84&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
-            4
+            4,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时37分 ~ 19时25分]"
         },
         {
           "title": "苹果呼吁用户尽快完成设备升级",
@@ -83,11 +85,36 @@
           "source": "今日头条",
           "ranks": [
             6,
-            16
+            16,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时51分 ~ 16时37分]"
+          "appearance_count": 4,
+          "time_info": "[10时51分 ~ 19时25分]"
+        },
+        {
+          "title": "女子修手机被店主导出40多张私密照",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%BF%AE%E6%89%8B%E6%9C%BA%E8%A2%AB%E5%BA%97%E4%B8%BB%E5%AF%BC%E5%87%BA40%E5%A4%9A%E5%BC%A0%E7%A7%81%E5%AF%86%E7%85%A7",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时37分 ~ 19时25分]"
+        },
+        {
+          "title": "为什么好多人根本没有意识到，其实大部分人个人手机的性能是超过他个人电脑的？",
+          "url": "https://www.zhihu.com/question/2047098527092828152",
+          "source": "知乎",
+          "ranks": [
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时37分 ~ 19时25分]"
         },
         {
           "title": "苹果市值首次突破5万亿美元",
@@ -101,17 +128,6 @@
           "time_info": "[05时05分 ~ 05时06分]"
         },
         {
-          "title": "女子修手机被店主导出40多张私密照",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%BF%AE%E6%89%8B%E6%9C%BA%E8%A2%AB%E5%BA%97%E4%B8%BB%E5%AF%BC%E5%87%BA40%E5%A4%9A%E5%BC%A0%E7%A7%81%E5%AF%86%E7%85%A7",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时37分"
-        },
-        {
           "title": "A股创业板指午后涨超2%，深证成指涨1.5%，上证指数涨0.7%，乳业、手机游戏、小金属板块涨幅居前。",
           "url": "https://flash.jin10.com/detail/20260729133738626800",
           "source": "金十数据",
@@ -121,17 +137,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
-        },
-        {
-          "title": "为什么好多人根本没有意识到，其实大部分人个人手机的性能是超过他个人电脑的？",
-          "url": "https://www.zhihu.com/question/2047098527092828152",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时37分"
         },
         {
           "title": "为什么好多人根本没有意识到，其实大部分人个人手机的性能是超过他个人电脑（公司等的不算）的？",
@@ -165,6 +170,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "两老人求助小伙修手机 一左一右扇风",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E8%80%81%E4%BA%BA%E6%B1%82%E5%8A%A9%E5%B0%8F%E4%BC%99%E4%BF%AE%E6%89%8B%E6%9C%BA+%E4%B8%80%E5%B7%A6%E4%B8%80%E5%8F%B3%E6%89%87%E9%A3%8E",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
         },
         {
           "title": "SK海力士(SKHY.O)：由于内存供应面临挑战，智能手机和个人电脑的销售将进行临时调整。",
@@ -222,6 +238,19 @@
           "time_info": "[01时25分 ~ 07时58分]"
         },
         {
+          "title": "功夫女足20亿解锁周星驰惊喜抖音",
+          "url": "https://www.douyin.com/hot/2588946",
+          "source": "抖音",
+          "ranks": [
+            15,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时51分 ~ 19时25分]"
+        },
+        {
           "title": "抖音乒乓百分大战下次见",
           "url": "https://www.douyin.com/hot/2588999",
           "source": "抖音",
@@ -246,25 +275,13 @@
           "time_info": "[07时58分 ~ 10时51分]"
         },
         {
-          "title": "功夫女足20亿解锁周星驰惊喜抖音",
-          "url": "https://www.douyin.com/hot/2588946",
-          "source": "抖音",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时51分 ~ 16时37分]"
-        },
-        {
           "title": "英国6月央行消费信贷 18.07亿英镑，预期17亿英镑，前值由16.62亿英镑修正为17.23亿英镑。",
           "url": "https://flash.jin10.com/detail/20260729163008074800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -275,7 +292,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -286,7 +303,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -349,7 +366,7 @@
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "乘联分会：7月1-26日全国乘用车新能源市场零售73.8万辆，同比下降2%",
@@ -358,9 +375,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
+        },
+        {
+          "title": "新能源汽车智驾小蓝灯将禁用",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356616&amp;topic_name=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E6%99%BA%E9%A9%BE%E5%B0%8F%E8%93%9D%E7%81%AF%E5%B0%86%E7%A6%81%E7%94%A8",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
         },
         {
           "title": "17万新能源车开3年电池故障更换要5万",
@@ -385,6 +413,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时25分 ~ 07时58分]"
+        },
+        {
+          "title": "宝马计划明年底前裁员8000人",
+          "url": "https://wallstreetcn.com/livenews/3141547",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
         },
         {
           "title": "奥迪Q9及SQ9正式亮相",
@@ -426,7 +465,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -581,7 +620,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         }
