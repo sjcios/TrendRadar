@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T10:51:51.812463+08:00",
-  "total_titles_processed": 809,
+  "generated_at": "2026-07-29T13:51:49.226205+08:00",
+  "total_titles_processed": 996,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "一图看懂 | 苹果重夺全球市值“王座”，股价年内大涨超24%",
@@ -37,8 +37,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时58分 ~ 10时51分]"
+          "appearance_count": 3,
+          "time_info": "[07时58分 ~ 13时51分]"
         },
         {
           "title": "芯片抛售蔓延全球，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
@@ -57,11 +57,23 @@
           "source": "抖音",
           "ranks": [
             6,
-            7
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时58分 ~ 13时51分]"
+        },
+        {
+          "title": "女子修手机被店主导出40多张私密照",
+          "url": "https://www.toutiao.com/trending/7667415040820101171/",
+          "source": "今日头条",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时58分 ~ 10时51分]"
+          "time_info": "[10时51分 ~ 13时51分]"
         },
         {
           "title": "苹果市值首次突破5万亿美元",
@@ -75,15 +87,26 @@
           "time_info": "[05时05分 ~ 05时06分]"
         },
         {
-          "title": "女子修手机被店主导出40多张私密照",
-          "url": "https://www.toutiao.com/trending/7667415040820101171/",
-          "source": "今日头条",
+          "title": "A股创业板指午后涨超2%，深证成指涨1.5%，上证指数涨0.7%，乳业、手机游戏、小金属板块涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20260729133738626800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时51分"
+          "time_info": "13时51分"
+        },
+        {
+          "title": "为什么好多人根本没有意识到，其实大部分人个人手机的性能是超过他个人电脑（公司等的不算）的？",
+          "url": "https://www.zhihu.com/question/2047098527092828152",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
         },
         {
           "title": "机构：Q2智能手机内存价格环比增长80%以上",
@@ -92,7 +115,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
         },
@@ -122,7 +145,7 @@
     },
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "抖音乒乓百分大战再现里约对决",
@@ -175,15 +198,37 @@
           "time_info": "[07时58分 ~ 10时51分]"
         },
         {
+          "title": "抖音乒乓百分大战下次见",
+          "url": "https://www.douyin.com/hot/2588999",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
+        },
+        {
           "title": "印尼央行：加强货币政策工具以支持印尼盾稳定。",
           "url": "https://flash.jin10.com/detail/20260729102656814800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
+        },
+        {
+          "title": "功夫女足20亿解锁周星驰惊喜抖音",
+          "url": "https://www.douyin.com/hot/2588946",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
         },
         {
           "title": "智利央行将基准利率维持在4.50%不变。",
@@ -203,7 +248,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
         },
@@ -214,77 +259,26 @@
           "ranks": [
             24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "ChatGPT周活跃用户数接近10亿。（Information）",
-          "url": "https://wallstreetcn.com/livenews/3141393",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
         },
         {
-          "title": "OpenAI与Anthropic员工联名致信，呼吁美国政府协助治理AI",
-          "url": "https://wallstreetcn.com/livenews/3141130",
-          "source": "华尔街见闻-快讯",
+          "title": "全抖音都在cos这个八仙",
+          "url": "https://www.douyin.com/hot/2589002",
+          "source": "抖音",
           "ranks": [
-            16,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 03时21分]"
-        },
-        {
-          "title": "OpenAI模型失控新的受害者曝光",
-          "url": "https://www.baidu.com/s?wd=OpenAI%E6%A8%A1%E5%9E%8B%E5%A4%B1%E6%8E%A7%E6%96%B0%E7%9A%84%E5%8F%97%E5%AE%B3%E8%80%85%E6%9B%9D%E5%85%89",
-          "source": "百度热搜",
-          "ranks": [
-            21
+            27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时51分"
-        },
-        {
-          "title": "OpenAI越狱代理攻击范围扩大 再曝一公司客户账户遭入侵",
-          "url": "https://flash.jin10.com/detail/20260729053516327800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时57分"
-        },
-        {
-          "title": "报道：OpenAI“失控智能体”入侵了Modal Labs的一名客户账户",
-          "url": "https://wallstreetcn.com/livenews/3141207",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时57分"
+          "time_info": "13时51分"
         }
       ]
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "17万新能源车开3年电池故障更换要5万",
@@ -311,13 +305,35 @@
           "time_info": "[01时25分 ~ 07时58分]"
         },
         {
+          "title": "奥迪Q9及SQ9正式亮相",
+          "url": "https://www.toutiao.com/trending/7666700842812440618/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
+        },
+        {
+          "title": "比亚迪李云飞：王传福个人没有直接投资长鑫科技",
+          "url": "https://wallstreetcn.com/livenews/3141453",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
+        },
+        {
           "title": "创业板指跌超2%，科创50指数跌超4%，沪指跌0.75%，深成指跌1.62%，算力硬件、半导体芯片、新能源等方向跌幅居前，沪深京三市下跌个股近2500只。",
           "url": "https://wallstreetcn.com/livenews/3141362",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
         },
@@ -328,9 +344,71 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "ChatGPT周活跃用户数接近10亿。（Information）",
+          "url": "https://wallstreetcn.com/livenews/3141393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时51分"
+        },
+        {
+          "title": "OpenAI与Anthropic员工联名致信，呼吁美国政府协助治理AI",
+          "url": "https://wallstreetcn.com/livenews/3141130",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 03时21分]"
+        },
+        {
+          "title": "OpenAI模型失控新的受害者曝光",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E6%A8%A1%E5%9E%8B%E5%A4%B1%E6%8E%A7%E6%96%B0%E7%9A%84%E5%8F%97%E5%AE%B3%E8%80%85%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时51分"
+        },
+        {
+          "title": "OpenAI越狱代理攻击范围扩大 再曝一公司客户账户遭入侵",
+          "url": "https://flash.jin10.com/detail/20260729053516327800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时57分"
+        },
+        {
+          "title": "报道：OpenAI“失控智能体”入侵了Modal Labs的一名客户账户",
+          "url": "https://wallstreetcn.com/livenews/3141207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时57分"
         }
       ]
     },
@@ -373,11 +451,12 @@
           "source": "贴吧",
           "ranks": [
             20,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时25分 ~ 10时51分]"
+          "appearance_count": 9,
+          "time_info": "[01时25分 ~ 13时51分]"
         }
       ]
     },
@@ -392,7 +471,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
         }
