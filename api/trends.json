@@ -1,858 +1,106 @@
 {
-  "generated_at": "2026-07-30T23:52:09.035903+08:00",
-  "total_titles_processed": 1596,
+  "generated_at": "2026-07-31T03:23:37.201624+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "央行 抖音 小红书",
-      "match_count": 29,
-      "titles": [
-        {
-          "title": "半个抖音的知识博主都去四川了",
-          "url": "https://www.douyin.com/hot/2589218",
-          "source": "抖音",
-          "ranks": [
-            6,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 10时10分]"
-        },
-        {
-          "title": "会议纪要：部分加拿大央行官员对经济增长与通胀预期感到担忧",
-          "url": "https://wallstreetcn.com/livenews/3141814",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
-        },
-        {
-          "title": "提醒：北京时间01:30，加拿大央行将披露会议纪要。",
-          "url": "https://wallstreetcn.com/livenews/3141813",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
-        },
-        {
-          "title": "英国央行将于十分钟后公布利率决议、会议纪要和货币政策报告。",
-          "url": "https://flash.jin10.com/detail/20260730185000001800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时07分"
-        },
-        {
-          "title": "抖音乒乓百分大战下次见",
-          "url": "https://www.douyin.com/hot/2588999",
-          "source": "抖音",
-          "ranks": [
-            26,
-            27,
-            23,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 07时04分]"
-        },
-        {
-          "title": "全抖音都在cos这个八仙",
-          "url": "https://www.douyin.com/hot/2589002",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时59分 ~ 06时00分]"
-        },
-        {
-          "title": "功夫女足20亿解锁周星驰惊喜抖音",
-          "url": "https://www.douyin.com/hot/2588946",
-          "source": "抖音",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时51分 ~ 23时52分]"
-        },
-        {
-          "title": "英国央行决议要点汇总",
-          "url": "https://wallstreetcn.com/livenews/3142504",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
-          "title": "央行护航月末资金面，流动性或将平稳跨月",
-          "url": "https://wallstreetcn.com/livenews/3141945",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时04分"
-        },
-        {
-          "title": "英国央行行长：年轻人承受了“低招聘、低解雇”经济的主要冲击",
-          "url": "https://wallstreetcn.com/livenews/3142555",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时52分"
-        },
-        {
-          "title": "日本央行“鹰派信誉”遭拷问，市场押注10月为下一轮加息窗口",
-          "url": "https://flash.jin10.com/detail/20260730130712639800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时40分"
-        },
-        {
-          "title": "三菱日联：若英国央行推高对9月加息的押注，英镑或将上涨",
-          "url": "https://flash.jin10.com/detail/20260730184706526800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时07分"
-        },
-        {
-          "title": "金融博客零对冲：日本央行终于有所行动，美元兑日元大幅下跌，似乎有干预迹象。",
-          "url": "https://flash.jin10.com/detail/20260730214111774800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
-          "title": "加拿大央行会议纪要：中东冲突的持续加大了通胀上行风险。",
-          "url": "https://flash.jin10.com/detail/20260730013330012800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
-        },
-        {
-          "title": "三菱日联：日本央行料维持利率不变 美/日或测试165并加大干预风险",
-          "url": "https://wallstreetcn.com/livenews/3141800",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
-        },
-        {
-          "title": "加拿大央行会议纪要：美国可能加征新关税是“始终存在的下行风险”。",
-          "url": "https://flash.jin10.com/detail/20260730013321212800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
-        },
-        {
-          "title": "加拿大央行会议纪要：部分委员对中期通胀预期的上行迹象表示担忧，但所有委员一致认为长期通胀预期仍保持稳固。",
-          "url": "https://flash.jin10.com/detail/20260730013251960800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
-        },
-        {
-          "title": "加拿大央行会议纪要：但委员们认为，油价维持在高位的时间越长，其通胀影响扩散的风险就越大。",
-          "url": "https://flash.jin10.com/detail/20260730013236098800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
-        },
-        {
-          "title": "加拿大央行会议纪要：委员们一致同意在沟通中重申，不会让油价上涨导致通胀持续。",
-          "url": "https://flash.jin10.com/detail/20260730013219718800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
-        },
-        {
-          "title": "加拿大央行会议纪要：委员们认为，目前尚无充分证据表明油价上涨正在波及其他商品和服务的价格。",
-          "url": "https://flash.jin10.com/detail/20260730013159424800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
-        },
-        {
-          "title": "加拿大央行会议纪要：尽管如此，成员们仍表示不确定性仍然很高，部分原因在于中东冲突的不可预测性。",
-          "url": "https://flash.jin10.com/detail/20260730013137051800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
-        },
-        {
-          "title": "英国央行行长贝利：对第二轮效应发生还没有定论。",
-          "url": "https://wallstreetcn.com/livenews/3142486",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
-          "title": "加拿大央行会议纪要：鉴于增长已恢复且通胀趋于缓和，成员们同意所面临的货币政策权衡已有所减轻。",
-          "url": "https://flash.jin10.com/detail/20260730013122933800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
-        },
-        {
-          "title": "加拿大央行会议纪要：增长的潜在风险包括企业未能继续适应关税、消费者支出韧性降低以及主要城市房地产市场停滞。",
-          "url": "https://flash.jin10.com/detail/20260730013121443800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
-        },
-        {
-          "title": "中国央行公开市场开展2705亿元7天期逆回购操作，操作利率1.40%，持平上次。同时，开展了6000亿元隔夜逆回购操作。今日8040亿元逆回购到期。",
-          "url": "https://wallstreetcn.com/livenews/3142016",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时10分"
-        },
-        {
-          "title": "加拿大央行会议纪要：在加拿大央行7月15日的利率公告前，部分管理委员会成员对经济复苏的可持续性存在分歧。",
-          "url": "https://flash.jin10.com/detail/20260730013036839800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
-        },
-        {
-          "title": "英国央行利率决议看点前瞻",
-          "url": "https://wallstreetcn.com/livenews/3142344",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时07分"
-        },
-        {
-          "title": "英国央行副行长Lombardelli：量化紧缩（QT）仅推动了期限溢价变动的一小部分。 企业正面临充满挑战的经营环境。",
-          "url": "https://wallstreetcn.com/livenews/3142480",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
-          "title": "英国央行行长贝利：没有任何迹象表明货币政策委员会正倾向于加息.",
-          "url": "https://wallstreetcn.com/livenews/3142479",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 17,
-      "titles": [
-        {
-          "title": "千万不要把手机交给商家写好评",
-          "url": "https://s.weibo.com/weibo?q=%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E6%8A%8A%E6%89%8B%E6%9C%BA%E4%BA%A4%E7%BB%99%E5%95%86%E5%AE%B6%E5%86%99%E5%A5%BD%E8%AF%84&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            1,
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 07时04分]"
-        },
-        {
-          "title": "小苹果阿姨劝大家别送东西了",
-          "url": "https://www.douyin.com/hot/2589904",
-          "source": "抖音",
-          "ranks": [
-            22,
-            25,
-            17,
-            20,
-            23,
-            19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 19时07分]"
-        },
-        {
-          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
-          "url": "https://wallstreetcn.com/articles/3778080",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 07时04分]"
-        },
-        {
-          "title": "男子手机无预兆爆炸大腿被烫伤",
-          "url": "https://www.toutiao.com/trending/7667887166919491620/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时07分"
-        },
-        {
-          "title": "女子修手机被店主导出40多张私密照",
-          "url": "https://www.toutiao.com/trending/7667415040820101171/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 07时04分]"
-        },
-        {
-          "title": "小苹果阿姨的家迎来大改造",
-          "url": "https://www.douyin.com/hot/2590563",
-          "source": "抖音",
-          "ranks": [
-            25,
-            21,
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时24分 ~ 23时52分]"
-        },
-        {
-          "title": "男生每天躺玩手机超5小时患血栓",
-          "url": "https://www.toutiao.com/trending/7668165665089683519/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            28,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时07分 ~ 23时52分]"
-        },
-        {
-          "title": "“小苹果阿姨”故事感动全网",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%B0%8F%E8%8B%B9%E6%9E%9C%E9%98%BF%E5%A7%A8%E2%80%9D%E6%95%85%E4%BA%8B%E6%84%9F%E5%8A%A8%E5%85%A8%E7%BD%91",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            30,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时06分 ~ 07时04分]"
-        },
-        {
-          "title": "男子刚买5个月手机无预兆爆炸被烫伤",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%88%9A%E4%B9%B05%E4%B8%AA%E6%9C%88%E6%89%8B%E6%9C%BA%E6%97%A0%E9%A2%84%E5%85%86%E7%88%86%E7%82%B8%E8%A2%AB%E7%83%AB%E4%BC%A4",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时55分 ~ 23时52分]"
-        },
-        {
-          "title": "罗马尼亚男子遇熊淡定玩手机后逃离",
-          "url": "https://www.baidu.com/s?wd=%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A%E7%94%B7%E5%AD%90%E9%81%87%E7%86%8A%E6%B7%A1%E5%AE%9A%E7%8E%A9%E6%89%8B%E6%9C%BA%E5%90%8E%E9%80%83%E7%A6%BB",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时59分 ~ 07时04分]"
-        },
-        {
-          "title": "AI手机大战全面开打",
-          "url": "https://www.baidu.com/s?wd=AI%E6%89%8B%E6%9C%BA%E5%A4%A7%E6%88%98%E5%85%A8%E9%9D%A2%E5%BC%80%E6%89%93",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 07时04分]"
-        },
-        {
-          "title": "Angelababy出门三个手机起步",
-          "url": "https://s.weibo.com/weibo?q=%23Angelababy%E5%87%BA%E9%97%A8%E4%B8%89%E4%B8%AA%E6%89%8B%E6%9C%BA%E8%B5%B7%E6%AD%A5%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时51分 ~ 23时52分]"
-        },
-        {
-          "title": "一加手机2026上半年销量同比增13%",
-          "url": "https://wallstreetcn.com/livenews/3142265",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时24分"
-        },
-        {
-          "title": "特朗普在葬礼上曝光逝者手机号",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E8%91%AC%E7%A4%BC%E4%B8%8A%E6%9B%9D%E5%85%89%E9%80%9D%E8%80%85%E6%89%8B%E6%9C%BA%E5%8F%B7%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "苹果市值首破 5 万亿美元，超越英伟达重夺全球第一，反映市场对 AI 投资逻辑的哪些转变？",
-          "url": "https://www.zhihu.com/question/2065739036937773921",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时07分"
-        },
-        {
-          "title": "小苹果阿姨再谈去世大儿子泪流满面",
-          "url": "https://www.toutiao.com/trending/7667376768371933234/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "小苹果阿姨落泪称每天都在想大儿子",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%8B%B9%E6%9E%9C%E9%98%BF%E5%A7%A8%E8%90%BD%E6%B3%AA%E7%A7%B0%E6%AF%8F%E5%A4%A9%E9%83%BD%E5%9C%A8%E6%83%B3%E5%A4%A7%E5%84%BF%E5%AD%90%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时04分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 9,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动？",
-          "url": "https://www.zhihu.com/question/2065583157664018461",
-          "source": "知乎",
-          "ranks": [
-            12,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时10分 ~ 19时07分]"
-        },
-        {
-          "title": "OpenAI 、 Anthropic 等上千员工联名请愿美政府控制 AI 发展速度，反映了什么？有何影响？",
-          "url": "https://www.zhihu.com/question/2065729146383071132",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时39分 ~ 13时40分]"
-        },
-        {
-          "title": "欧盟委员会发言人：ChatGPT和Roblox均已宣布用户数量超过数字服务法（DSA）阈值。",
-          "url": "https://flash.jin10.com/detail/20260730185354553800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时07分"
-        },
         {
           "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
           "url": "https://www.cls.cn/detail/2441076",
           "source": "财联社热门",
           "ranks": [
-            12,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时07分 ~ 23时52分]"
-        },
-        {
-          "title": "据The Information：思维机器实验室联合创始人温莉莲将重返OpenAI。",
-          "url": "https://flash.jin10.com/detail/20260730014924073800",
-          "source": "金十数据",
-          "ranks": [
-            7
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时06分"
+          "time_info": "03时23分"
         },
         {
-          "title": "OpenAI针对学术研究员推出ChatGPT。 将向10万名研究员免费提供前沿模型的接触权限。 2026年夏季，将首先由1万名研究员可以使用相关模型。",
-          "url": "https://wallstreetcn.com/livenews/3141809",
+          "title": "OpenAI：将GPT-5.6Luna的价格下调80%",
+          "url": "https://wallstreetcn.com/livenews/3142590",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时06分"
-        },
-        {
-          "title": "Analog Devices Inc.（ADI）：漏洞与OpenAI无关。",
-          "url": "https://wallstreetcn.com/livenews/3141939",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时04分"
-        },
-        {
-          "title": "OpenAI首席执行官与美国立法者探讨下一代AI模型",
-          "url": "https://wallstreetcn.com/livenews/3141802",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
-        },
-        {
-          "title": "微软(MSFT.O)首席财务官：第四季度合同积压在不包括OpenAI的情况下增加了25%。",
-          "url": "https://flash.jin10.com/detail/20260730055730100800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时04分"
+          "time_info": "03时23分"
         }
       ]
     },
     {
       "keyword_group": "英雄联盟 LOL",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
         {
           "title": "UP主自制LOL玩家纯度测试",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6LOL%E7%8E%A9%E5%AE%B6%E7%BA%AF%E5%BA%A6%E6%B5%8B%E8%AF%95",
           "source": "bilibili 热搜",
           "ranks": [
-            15,
-            21,
-            18
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时24分 ~ 23时52分]"
-        },
-        {
-          "title": "瓶子君英雄联盟怀旧服组排",
-          "url": "https://search.bilibili.com/all?keyword=%E7%93%B6%E5%AD%90%E5%90%9B%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E6%80%80%E6%97%A7%E6%9C%8D%E7%BB%84%E6%8E%92",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时55分 ~ 23时52分]"
+          "appearance_count": 1,
+          "time_info": "03时23分"
         },
         {
           "title": "一键回到十四年前的LOL",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E9%94%AE%E5%9B%9E%E5%88%B0%E5%8D%81%E5%9B%9B%E5%B9%B4%E5%89%8D%E7%9A%84LOL",
           "source": "bilibili 热搜",
           "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时51分 ~ 23时52分]"
-        },
-        {
-          "title": "UP主自制LOL怀旧测试网站",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6LOL%E6%80%80%E6%97%A7%E6%B5%8B%E8%AF%95%E7%BD%91%E7%AB%99",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时39分 ~ 13时40分]"
-        },
-        {
-          "title": "英雄联盟怀旧服上线",
-          "url": "https://www.douyin.com/hot/2590205",
-          "source": "抖音",
-          "ranks": [
-            29
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时55分"
+          "time_info": "03时23分"
         }
       ]
     },
     {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 5,
+      "keyword_group": "苹果 Apple Mac iPhone 手机",
+      "match_count": 2,
       "titles": [
         {
-          "title": "新能源汽车智驾小蓝灯将禁用",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356616&amp;topic_name=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E6%99%BA%E9%A9%BE%E5%B0%8F%E8%93%9D%E7%81%AF%E5%B0%86%E7%A6%81%E7%94%A8",
-          "source": "贴吧",
+          "title": "别对着陌生人的手机念数字",
+          "url": "https://www.baidu.com/s?wd=%E5%88%AB%E5%AF%B9%E7%9D%80%E9%99%8C%E7%94%9F%E4%BA%BA%E7%9A%84%E6%89%8B%E6%9C%BA%E5%BF%B5%E6%95%B0%E5%AD%97",
+          "source": "百度热搜",
           "ranks": [
-            6,
-            14,
-            19,
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 21时55分]"
-        },
-        {
-          "title": "男孩骑羊骑出了汗血宝马的感觉",
-          "url": "https://www.toutiao.com/trending/7668160291338813491/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            30,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时07分 ~ 23时52分]"
-        },
-        {
-          "title": "比亚迪：公司正加紧提升产能",
-          "url": "https://www.toutiao.com/trending/7666921747123945481/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 02时06分]"
-        },
-        {
-          "title": "特斯拉全球第1000万辆电动车下线 上海超级工厂上半年产量创新高",
-          "url": "https://wallstreetcn.com/livenews/3142375",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时07分"
+          "time_info": "03时23分"
         },
         {
-          "title": "工信部：废止和修订新能源汽车废旧动力电池“梯次利用”相关政策标准",
-          "url": "https://wallstreetcn.com/livenews/3142350",
-          "source": "华尔街见闻-快讯",
+          "title": "男生每天躺玩手机超5小时患血栓",
+          "url": "https://www.toutiao.com/trending/7668165665089683519/",
+          "source": "今日头条",
           "ranks": [
-            25
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时07分"
+          "time_info": "03时23分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "谷歌为macOS版Gemini应用新增Fn键唤醒语音控制功能。",
-          "url": "https://wallstreetcn.com/livenews/3141787",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 02时06分]"
-        },
-        {
-          "title": "谷歌Deepmind推出Gemini Robotics 2机器人AI模型",
-          "url": "https://flash.jin10.com/detail/20260730230757965800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时52分"
-        },
-        {
-          "title": "【谷歌发布Gemini机器人AI模型，旨在解决机器人“灵巧性”难题】Alphabet旗下的谷歌DeepMind发布了一款名为Gemini Robotics 2的新型机器人人工智能模型，该模型使类人机器能够协调全身运动。这一新系统使机器人能够在推理任务的同时进行行走、蹲下和操纵物体，并能自上而下地指挥整个类人机器人。谷歌DeepMind还发布了另外两款机器人AI模型——Gemini Robotics ER 2和On-Device 2。它们可以协同工作或独立运行，以规划多步骤任务并协调多个机器人。",
-          "url": "https://wallstreetcn.com/livenews/3142550",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时52分"
-        },
-        {
-          "title": "甲骨文美股盘前涨幅扩大至4%，甲骨文宣布与谷歌扩大合作伙伴关系，将把谷歌的Gemini模型引入企业应用。",
-          "url": "https://wallstreetcn.com/livenews/3142488",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
       "match_count": 1,
       "titles": [
         {
-          "title": "金价在美联储决议声明发布日涨0.9%，沃什新闻发布会期间刷新日高",
-          "url": "https://wallstreetcn.com/livenews/3141914",
+          "title": "摩根士丹利牵头的银行团体洽谈为Anthropic数据中心贷款150亿美元。 该数据中心得到Alphabet旗下谷歌公司的支持，谷歌担保Anthropic租赁和电费支付。 Nexus数据中心洽谈为数据中心借款150亿美元。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3142601",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时00分"
+          "time_info": "03时23分"
         }
       ]
     }
