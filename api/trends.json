@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T16:24:23.142494+08:00",
-  "total_titles_processed": 1105,
+  "generated_at": "2026-07-30T19:07:53.919431+08:00",
+  "total_titles_processed": 1279,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "半个抖音的知识博主都去四川了",
@@ -41,6 +41,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
+        },
+        {
+          "title": "英国央行将于十分钟后公布利率决议、会议纪要和货币政策报告。",
+          "url": "https://flash.jin10.com/detail/20260730185000001800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "抖音乒乓百分大战下次见",
@@ -88,6 +99,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
+        },
+        {
+          "title": "三菱日联：若英国央行推高对9月加息的押注，英镑或将上涨",
+          "url": "https://flash.jin10.com/detail/20260730184706526800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "加拿大央行会议纪要：中东冲突的持续加大了通胀上行风险。",
@@ -220,12 +242,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
+        },
+        {
+          "title": "英国央行利率决议看点前瞻",
+          "url": "https://wallstreetcn.com/livenews/3142344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         }
       ]
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "千万不要把手机交给商家写好评",
@@ -251,11 +284,12 @@
             17,
             20,
             23,
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 16时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 19时07分]"
         },
         {
           "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
@@ -267,6 +301,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时21分 ~ 07时04分]"
+        },
+        {
+          "title": "男子手机无预兆爆炸大腿被烫伤",
+          "url": "https://www.toutiao.com/trending/7667887166919491620/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "女子修手机被店主导出40多张私密照",
@@ -319,15 +364,38 @@
           "time_info": "[00时21分 ~ 07时04分]"
         },
         {
+          "title": "小苹果阿姨的家迎来大改造",
+          "url": "https://www.douyin.com/hot/2590563",
+          "source": "抖音",
+          "ranks": [
+            25,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 19时07分]"
+        },
+        {
           "title": "一加手机2026上半年销量同比增13%",
           "url": "https://wallstreetcn.com/livenews/3142265",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
+        },
+        {
+          "title": "男生每天躺玩手机超5小时患血栓",
+          "url": "https://www.toutiao.com/trending/7668165665089683519/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "特朗普在葬礼上曝光逝者手机号",
@@ -341,15 +409,15 @@
           "time_info": "00时21分"
         },
         {
-          "title": "小苹果阿姨的家迎来大改造",
-          "url": "https://www.douyin.com/hot/2590563",
-          "source": "抖音",
+          "title": "苹果市值首破 5 万亿美元，超越英伟达重夺全球第一，反映市场对 AI 投资逻辑的哪些转变？",
+          "url": "https://www.zhihu.com/question/2065739036937773921",
+          "source": "知乎",
           "ranks": [
-            25
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时24分"
+          "time_info": "19时07分"
         },
         {
           "title": "小苹果阿姨再谈去世大儿子泪流满面",
@@ -377,8 +445,21 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动？",
+          "url": "https://www.zhihu.com/question/2065583157664018461",
+          "source": "知乎",
+          "ranks": [
+            12,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时10分 ~ 19时07分]"
+        },
         {
           "title": "OpenAI 、 Anthropic 等上千员工联名请愿美政府控制 AI 发展速度，反映了什么？有何影响？",
           "url": "https://www.zhihu.com/question/2065729146383071132",
@@ -391,16 +472,15 @@
           "time_info": "[13时39分 ~ 13时40分]"
         },
         {
-          "title": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动？",
-          "url": "https://www.zhihu.com/question/2065583157664018461",
-          "source": "知乎",
+          "title": "欧盟委员会发言人：ChatGPT和Roblox均已宣布用户数量超过数字服务法（DSA）阈值。",
+          "url": "https://flash.jin10.com/detail/20260730185354553800",
+          "source": "金十数据",
           "ranks": [
-            12,
-            3
+            1
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时10分 ~ 16时24分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "据The Information：思维机器实验室联合创始人温莉莲将重返OpenAI。",
@@ -423,6 +503,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
+        },
+        {
+          "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
+          "url": "https://www.cls.cn/detail/2441076",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "Analog Devices Inc.（ADI）：漏洞与OpenAI无关。",
@@ -460,36 +551,8 @@
       ]
     },
     {
-      "keyword_group": "英雄联盟 LOL",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "UP主自制LOL怀旧测试网站",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6LOL%E6%80%80%E6%97%A7%E6%B5%8B%E8%AF%95%E7%BD%91%E7%AB%99",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时39分 ~ 13时40分]"
-        },
-        {
-          "title": "UP主自制LOL玩家纯度测试",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6LOL%E7%8E%A9%E5%AE%B6%E7%BA%AF%E5%BA%A6%E6%B5%8B%E8%AF%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时24分"
-        }
-      ]
-    },
-    {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "新能源汽车智驾小蓝灯将禁用",
@@ -498,11 +561,12 @@
           "ranks": [
             6,
             14,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 16时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 19时07分]"
         },
         {
           "title": "比亚迪：公司正加紧提升产能",
@@ -515,6 +579,68 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时21分 ~ 02时06分]"
+        },
+        {
+          "title": "特斯拉全球第1000万辆电动车下线 上海超级工厂上半年产量创新高",
+          "url": "https://wallstreetcn.com/livenews/3142375",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
+          "title": "男孩骑羊骑出了汗血宝马的感觉",
+          "url": "https://www.toutiao.com/trending/7668160291338813491/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
+          "title": "工信部：废止和修订新能源汽车废旧动力电池“梯次利用”相关政策标准",
+          "url": "https://wallstreetcn.com/livenews/3142350",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英雄联盟 LOL",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "UP主自制LOL玩家纯度测试",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6LOL%E7%8E%A9%E5%AE%B6%E7%BA%AF%E5%BA%A6%E6%B5%8B%E8%AF%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 19时07分]"
+        },
+        {
+          "title": "UP主自制LOL怀旧测试网站",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6LOL%E6%80%80%E6%97%A7%E6%B5%8B%E8%AF%95%E7%BD%91%E7%AB%99",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时39分 ~ 13时40分]"
         }
       ]
     },
