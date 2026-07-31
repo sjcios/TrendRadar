@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-31T10:38:28.596462+08:00",
-  "total_titles_processed": 597,
+  "generated_at": "2026-07-31T14:12:23.152982+08:00",
+  "total_titles_processed": 792,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "【早报】美科技股全线暴涨；苹果、亚马逊业绩公布；油价下行、黄金走强；宇树科技，8月10日申购",
@@ -14,9 +14,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 14时12分]"
         },
         {
           "title": "苹果总营收略超预期，大中华区营收逊色盘后跌4%",
@@ -39,6 +39,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时08分"
+        },
+        {
+          "title": "黑鲨官宣全面停止手机官方售后，其巅峰时期占据游戏手机 47% 市场份额，游戏手机是不是阶段性伪需求？",
+          "url": "https://www.zhihu.com/question/2066184696107643598",
+          "source": "知乎",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 14时12分]"
+        },
+        {
+          "title": "苹果库克的最后一份财报亮相：赢了业绩，输了预期",
+          "url": "https://www.cls.cn/detail/2442017",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 14时12分]"
         },
         {
           "title": "别对着陌生人的手机念数字",
@@ -86,17 +109,6 @@
           "time_info": "05时08分"
         },
         {
-          "title": "黑鲨官宣全面停止手机官方售后，其巅峰时期占据游戏手机 47% 市场份额，游戏手机是不是阶段性伪需求？",
-          "url": "https://www.zhihu.com/question/2066184696107643598",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
           "title": "苹果(AAPL.O)2026财年Q3大中华区营收为188.2亿美元，市场预期为196.7亿美元。",
           "url": "https://flash.jin10.com/detail/20260731043243783800",
           "source": "金十数据",
@@ -114,7 +126,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
         },
@@ -136,7 +148,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
         },
@@ -163,15 +175,15 @@
           "time_info": "05时08分"
         },
         {
-          "title": "苹果库克的最后一份财报亮相：赢了业绩，输了预期",
-          "url": "https://www.cls.cn/detail/2442017",
-          "source": "财联社热门",
+          "title": "Omdia：第二季度全球智能手机出货量同比下降6%",
+          "url": "https://wallstreetcn.com/livenews/3142921",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时38分"
+          "time_info": "14时12分"
         },
         {
           "title": "小苹果阿姨的家迎来大改造",
@@ -199,7 +211,7 @@
     },
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "据日经新闻：日本政府与日本央行在外汇市场进行干预。",
@@ -230,7 +242,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
         },
@@ -252,7 +264,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
         },
@@ -263,9 +275,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
+        },
+        {
+          "title": "瑞士央行：2026年上半年实现盈利252亿瑞郎。上半年外汇头寸收益达到317亿瑞郎，瑞郎头寸收益为1亿瑞郎。上半年黄金持有量录得64亿瑞郎的估值损失。",
+          "url": "https://flash.jin10.com/detail/20260731131638942800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         }
       ]
     },
@@ -285,24 +308,25 @@
           "time_info": "[03时23分 ~ 05时08分]"
         },
         {
+          "title": "降幅高达80%！OpenAI大砍两款AI模型价格 “Token价格战”升温",
+          "url": "https://www.cls.cn/detail/2442077",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 14时12分]"
+        },
+        {
           "title": "如何看待 OpenAI 将 GPT-5.6Luna 和 Terra 价格大幅度下调？大模型会进入价格战时代吗？",
           "url": "https://www.zhihu.com/question/2066333638568972760",
           "source": "知乎",
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
-          "title": "降幅高达80%！OpenAI大砍两款AI模型价格 “Token价格战”升温",
-          "url": "https://www.cls.cn/detail/2442077",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
         },
@@ -313,7 +337,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
         },
@@ -331,6 +355,56 @@
       ]
     },
     {
+      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "特斯拉正考虑剥离中国业务？特斯拉中国官方回应：不实消息",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33688958",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
+          "title": "男孩骑羊骑出了汗血宝马的感觉",
+          "url": "https://www.toutiao.com/trending/7668160291338813491/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时08分"
+        },
+        {
+          "title": "马斯克在社交平台X上称，有关特斯拉考虑剥离中国业务的媒体报道是“假新闻”。",
+          "url": "https://wallstreetcn.com/livenews/3142911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
+          "title": "特斯拉正考虑剥离中国业务？特斯拉中国官方回应：不实消息",
+          "url": "https://wallstreetcn.com/livenews/3142905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        }
+      ]
+    },
+    {
       "keyword_group": "英雄联盟 LOL",
       "match_count": 3,
       "titles": [
@@ -342,8 +416,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时23分 ~ 10时38分]"
+          "appearance_count": 4,
+          "time_info": "[03时23分 ~ 14时12分]"
         },
         {
           "title": "一键回到十四年前的LOL",
@@ -351,11 +425,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             28,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时23分 ~ 05时08分]"
+          "appearance_count": 3,
+          "time_info": "[03时23分 ~ 14时12分]"
         },
         {
           "title": "如何评价《英雄联盟》「经典模式」？体验过的玩家觉得好不好玩？",
@@ -364,9 +439,9 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 14时12分]"
         }
       ]
     },
@@ -381,7 +456,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
         },
@@ -399,19 +474,19 @@
       ]
     },
     {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
+      "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
         {
-          "title": "男孩骑羊骑出了汗血宝马的感觉",
-          "url": "https://www.toutiao.com/trending/7668160291338813491/",
-          "source": "今日头条",
+          "title": "DeepSeek：DeepSeek-V4-Flash正式版API上线公测 DeepSeek-V4-Pro正式版将会尽快发布",
+          "url": "https://wallstreetcn.com/livenews/3142950",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时08分"
+          "time_info": "14时12分"
         }
       ]
     }
