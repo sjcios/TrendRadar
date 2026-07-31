@@ -1,355 +1,11 @@
 {
-  "generated_at": "2026-07-31T22:17:19.065198+08:00",
-  "total_titles_processed": 1045,
+  "generated_at": "2026-08-01T02:20:20.541797+08:00",
+  "total_titles_processed": 306,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 20,
-      "titles": [
-        {
-          "title": "【早报】美科技股全线暴涨；苹果、亚马逊业绩公布；油价下行、黄金走强；宇树科技，8月10日申购",
-          "url": "https://www.cls.cn/detail/2442025",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时38分 ~ 14时12分]"
-        },
-        {
-          "title": "苹果总营收略超预期，大中华区营收逊色盘后跌4%",
-          "url": "https://flash.jin10.com/detail/20260731044802288800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时08分"
-        },
-        {
-          "title": "苹果(AAPL.O)2026财年Q3服务营收为307.4亿美元，低于市场预期的312.2亿美元。",
-          "url": "https://flash.jin10.com/detail/20260731043546572800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时08分"
-        },
-        {
-          "title": "黑鲨官宣全面停止手机官方售后，其巅峰时期占据游戏手机 47% 市场份额，游戏手机是不是阶段性伪需求？",
-          "url": "https://www.zhihu.com/question/2066184696107643598",
-          "source": "知乎",
-          "ranks": [
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时38分 ~ 14时12分]"
-        },
-        {
-          "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2442973",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时16分 ~ 22时17分]"
-        },
-        {
-          "title": "苹果库克的最后一份财报亮相：赢了业绩，输了预期",
-          "url": "https://www.cls.cn/detail/2442017",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时38分 ~ 14时12分]"
-        },
-        {
-          "title": "美股三大指数集体高开 苹果跌超8%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+%E8%8B%B9%E6%9E%9C%E8%B7%8C%E8%B6%858%25",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时16分 ~ 22时17分]"
-        },
-        {
-          "title": "别对着陌生人的手机念数字",
-          "url": "https://www.baidu.com/s?wd=%E5%88%AB%E5%AF%B9%E7%9D%80%E9%99%8C%E7%94%9F%E4%BA%BA%E7%9A%84%E6%89%8B%E6%9C%BA%E5%BF%B5%E6%95%B0%E5%AD%97",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时23分 ~ 05时08分]"
-        },
-        {
-          "title": "男生每天躺玩手机超5小时患血栓",
-          "url": "https://www.toutiao.com/trending/7668165665089683519/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时23分 ~ 05时08分]"
-        },
-        {
-          "title": "苹果(AAPL.O)2026财年Q3毛利率为50.1%，高于市场预期的47.92%。",
-          "url": "https://flash.jin10.com/detail/20260731043348456800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时08分"
-        },
-        {
-          "title": "苹果公司第三财季营收1094.2亿美元，分析师预期1088.5亿美元。 第三财季大中华区营收188.2亿美元，分析师预期195.8亿美元。 第三财季产品营收786.8亿美元，分析师预期772.5亿美元。 第三财季iPhone营收542.5亿美元，分析师预期536亿美元；iPad营收61.9亿美元（预期68.9亿美元），Mac营收103.5亿美元（预期86.2亿美元），可穿戴设备、居家、周边营收78.8亿美元（预期78.7亿美元）。 第三财季服务营收307.4亿美元，分析师预期313.6亿美元。 第三财季每股收益（EPS）为2.02美元——含0.11美元特朗普关税退税利好效应，分析师预期1.89美元。 第三财季EPS和运营现金流均创历史新高。 派息0.27美元/股。 苹果股价盘后跌2.2%。",
-          "url": "https://wallstreetcn.com/livenews/3142643",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时08分"
-        },
-        {
-          "title": "苹果(AAPL.O)2026财年Q3大中华区营收为188.2亿美元，市场预期为196.7亿美元。",
-          "url": "https://flash.jin10.com/detail/20260731043243783800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时08分"
-        },
-        {
-          "title": "女子做检查时身亡丈夫称麻醉师玩手机",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%81%9A%E6%A3%80%E6%9F%A5%E6%97%B6%E8%BA%AB%E4%BA%A1%E4%B8%88%E5%A4%AB%E7%A7%B0%E9%BA%BB%E9%86%89%E5%B8%88%E7%8E%A9%E6%89%8B%E6%9C%BA%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
-          "title": "财报公布后，苹果(AAPL.O)盘后下挫，现跌2%。",
-          "url": "https://flash.jin10.com/detail/20260731043111025800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时08分"
-        },
-        {
-          "title": "女子做检查身亡 丈夫称麻醉师玩手机",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%81%9A%E6%A3%80%E6%9F%A5%E8%BA%AB%E4%BA%A1+%E4%B8%88%E5%A4%AB%E7%A7%B0%E9%BA%BB%E9%86%89%E5%B8%88%E7%8E%A9%E6%89%8B%E6%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
-          "title": "苹果(AAPL.O)2026财年Q3 iPhone销售业务收入为542.5亿美元，市场预期538.57亿美元。",
-          "url": "https://flash.jin10.com/detail/20260731043055960800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时08分"
-        },
-        {
-          "title": "苹果(AAPL.O)2026财年Q3营收1094.2亿美元，去年同期940.36亿美元，市场预期1085.78亿美元。",
-          "url": "https://flash.jin10.com/detail/20260731043024065800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时08分"
-        },
-        {
-          "title": "Omdia：第二季度全球智能手机出货量同比下降6%",
-          "url": "https://wallstreetcn.com/livenews/3142921",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时12分"
-        },
-        {
-          "title": "小苹果阿姨的家迎来大改造",
-          "url": "https://www.douyin.com/hot/2590563",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时08分"
-        },
-        {
-          "title": "女子手机遭远程操控转账 民警拔卡",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%89%8B%E6%9C%BA%E9%81%AD%E8%BF%9C%E7%A8%8B%E6%93%8D%E6%8E%A7%E8%BD%AC%E8%B4%A6+%E6%B0%91%E8%AD%A6%E6%8B%94%E5%8D%A1",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "央行 抖音 小红书",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "美国财长贝森特：日本央行展现了对货币和金融稳定的坚定承诺。",
-          "url": "https://flash.jin10.com/detail/20260731215229923800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时17分"
-        },
-        {
-          "title": "美国财长贝森特：我们与日本继续保持密切协调。 日本央行已展现出对货币稳定的承诺。 日本经济持续表现良好。 期待在G20会议上见到日本央行行长。",
-          "url": "https://wallstreetcn.com/livenews/3143306",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时17分"
-        },
-        {
-          "title": "据日经新闻：日本政府与日本央行在外汇市场进行干预。",
-          "url": "https://flash.jin10.com/detail/20260731043732594800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时08分"
-        },
-        {
-          "title": "日本政府与日本央行在外汇市场进行干预。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/3142645",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时08分"
-        },
-        {
-          "title": "日本央行7月利率决议看点前瞻",
-          "url": "https://wallstreetcn.com/livenews/3142847",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
-          "title": "美国至7月24日当周外国央行持有美国国债 339.02亿美元，前值248.14亿美元。",
-          "url": "https://flash.jin10.com/detail/20260731043105408800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时08分"
-        },
-        {
-          "title": "美国财长贝森特：期待在G20财长会议上见到日本央行行长植田和男。",
-          "url": "https://flash.jin10.com/detail/20260731214649704800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时17分"
-        },
-        {
-          "title": "日本央行或成黄金短线涨势延续的“胜负手”？月线有望止步于四连跌——新版发布",
-          "url": "https://flash.jin10.com/detail/20260731100010136800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
-          "title": "菲律宾央行：7月年通胀率可能在5.6%至6.6%之间。",
-          "url": "https://flash.jin10.com/detail/20260731095958057800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
-          "title": "瑞士央行：2026年上半年实现盈利252亿瑞郎。上半年外汇头寸收益达到317亿瑞郎，瑞郎头寸收益为1亿瑞郎。上半年黄金持有量录得64亿瑞郎的估值损失。",
-          "url": "https://flash.jin10.com/detail/20260731131638942800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时12分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
+      "match_count": 3,
       "titles": [
         {
           "title": "DeepSeek V4 flash 正式版发布，有哪些亮点值得关注？",
@@ -359,19 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时16分 ~ 22时17分]"
-        },
-        {
-          "title": "DeepSeek-V4-Flash 正式版API上线",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek-V4-Flash",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时16分 ~ 22时17分]"
+          "appearance_count": 1,
+          "time_info": "02时20分"
         },
         {
           "title": "DeepSeek V4 正式版发布，使用体验如何？和降价后的 GPT5.6 luna 对比谁更有优势？",
@@ -381,99 +26,65 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时16分 ~ 22时17分]"
+          "appearance_count": 1,
+          "time_info": "02时20分"
         },
         {
-          "title": "DeepSeek：DeepSeek-V4-Flash正式版API上线公测 DeepSeek-V4-Pro正式版将会尽快发布",
-          "url": "https://wallstreetcn.com/livenews/3142950",
-          "source": "华尔街见闻-快讯",
+          "title": "DeepSeek V4 Flash正式版强在哪",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Flash%E6%AD%A3%E5%BC%8F%E7%89%88%E5%BC%BA%E5%9C%A8%E5%93%AA",
+          "source": "bilibili 热搜",
           "ranks": [
-            1
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时12分"
-        },
-        {
-          "title": "DeepSeekV4能力在GLM5.2和KimiK3之间",
-          "url": "https://s.weibo.com/weibo?q=DeepSeekV4%E8%83%BD%E5%8A%9B%E5%9C%A8GLM5.2%E5%92%8CKimiK3%E4%B9%8B%E9%97%B4&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时16分 ~ 22时17分]"
+          "time_info": "02时20分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "keyword_group": "金价",
+      "match_count": 2,
       "titles": [
         {
-          "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
-          "url": "https://www.cls.cn/detail/2441076",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时23分 ~ 05时08分]"
-        },
-        {
-          "title": "降幅高达80%！OpenAI大砍两款AI模型价格 “Token价格战”升温",
-          "url": "https://www.cls.cn/detail/2442077",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时38分 ~ 14时12分]"
-        },
-        {
-          "title": "如何看待 OpenAI 将 GPT-5.6Luna 和 Terra 价格大幅度下调？大模型会进入价格战时代吗？",
-          "url": "https://www.zhihu.com/question/2066333638568972760",
-          "source": "知乎",
+          "title": "Tether在伊朗战争金价下跌期间再次加大黄金购买力度",
+          "url": "https://wallstreetcn.com/livenews/3143414",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时38分"
+          "time_info": "02时20分"
         },
         {
-          "title": "OpenAI应用研究主管：GPT-5.6 Luna应该会有更多的应用，考虑到模型的快速进展，它的成本低得离谱，速度也很快。",
-          "url": "https://flash.jin10.com/detail/20260731100209277800",
-          "source": "金十数据",
+          "title": "当金价不再上涨 老铺黄金还值多少钱",
+          "url": "https://www.toutiao.com/trending/7668653612649680447/",
+          "source": "今日头条",
           "ranks": [
-            13
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
-          "title": "OpenAI：将GPT-5.6Luna的价格下调80%",
-          "url": "https://wallstreetcn.com/livenews/3142590",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时23分"
+          "time_info": "02时20分"
         }
       ]
     },
     {
       "keyword_group": "英雄联盟 LOL",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "LOL怀旧金曲 重连英雄联盟",
+          "url": "https://search.bilibili.com/all?keyword=LOL%E6%80%80%E6%97%A7%E9%87%91%E6%9B%B2%20%E9%87%8D%E8%BF%9E%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时20分"
+        },
         {
           "title": "UP主自制LOL玩家纯度测试",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6LOL%E7%8E%A9%E5%AE%B6%E7%BA%AF%E5%BA%A6%E6%B5%8B%E8%AF%95",
@@ -482,144 +93,53 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时23分 ~ 22时17分]"
-        },
-        {
-          "title": "一键回到十四年前的LOL",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E9%94%AE%E5%9B%9E%E5%88%B0%E5%8D%81%E5%9B%9B%E5%B9%B4%E5%89%8D%E7%9A%84LOL",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时23分 ~ 14时12分]"
-        },
-        {
-          "title": "如何评价《英雄联盟》「经典模式」？体验过的玩家觉得好不好玩？",
-          "url": "https://www.zhihu.com/question/2066106449672115057",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时38分 ~ 14时12分]"
-        },
-        {
-          "title": "LOL怀旧金曲 重连英雄联盟",
-          "url": "https://search.bilibili.com/all?keyword=LOL%E6%80%80%E6%97%A7%E9%87%91%E6%9B%B2%20%E9%87%8D%E8%BF%9E%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时16分 ~ 22时17分]"
-        },
-        {
-          "title": "英雄联盟经典模式表演赛",
-          "url": "https://s.weibo.com/weibo?q=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E7%BB%8F%E5%85%B8%E6%A8%A1%E5%BC%8F%E8%A1%A8%E6%BC%94%E8%B5%9B&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时16分 ~ 22时17分]"
+          "appearance_count": 1,
+          "time_info": "02时20分"
         }
       ]
     },
     {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 5,
+      "keyword_group": "苹果 Apple Mac iPhone 手机",
+      "match_count": 2,
       "titles": [
         {
-          "title": "特斯拉正考虑剥离中国业务？特斯拉中国官方回应：不实消息",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33688958",
-          "source": "澎湃新闻",
+          "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2442973",
+          "source": "财联社热门",
           "ranks": [
-            16,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时12分 ~ 22时17分]"
-        },
-        {
-          "title": "特斯拉否认「剥离或出售中国业务」，中国业务对其有多重要？怎样从商业角度解读？",
-          "url": "https://www.zhihu.com/question/2066476826868676553",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时16分 ~ 22时17分]"
-        },
-        {
-          "title": "男孩骑羊骑出了汗血宝马的感觉",
-          "url": "https://www.toutiao.com/trending/7668160291338813491/",
-          "source": "今日头条",
-          "ranks": [
-            22
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时08分"
+          "time_info": "02时20分"
         },
         {
-          "title": "马斯克在社交平台X上称，有关特斯拉考虑剥离中国业务的媒体报道是“假新闻”。",
-          "url": "https://wallstreetcn.com/livenews/3142911",
+          "title": "苹果跌幅扩大至10%，创2025年4月以来最大盘中跌幅。苹果预计第四财季营收增长9%至11%，市场预期为增长12.1%。",
+          "url": "https://wallstreetcn.com/livenews/3143397",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时12分"
-        },
-        {
-          "title": "特斯拉正考虑剥离中国业务？特斯拉中国官方回应：不实消息",
-          "url": "https://wallstreetcn.com/livenews/3142905",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时12分"
+          "time_info": "02时20分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
+      "match_count": 1,
       "titles": [
         {
-          "title": "谷歌发布新一代机器人AI模型 剑指“灵巧性”难题",
-          "url": "https://www.cls.cn/detail/2441953",
-          "source": "财联社热门",
+          "title": "特斯拉正考虑剥离中国业务？特斯拉中国官方回应：不实消息",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33688958",
+          "source": "澎湃新闻",
           "ranks": [
-            12
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
-          "title": "摩根士丹利牵头的银行团体洽谈为Anthropic数据中心贷款150亿美元。 该数据中心得到Alphabet旗下谷歌公司的支持，谷歌担保Anthropic租赁和电费支付。 Nexus数据中心洽谈为数据中心借款150亿美元。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3142601",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时23分"
+          "time_info": "02时20分"
         }
       ]
     }
