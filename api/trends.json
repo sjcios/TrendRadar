@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T04:51:12.034380+08:00",
-  "total_titles_processed": 423,
+  "generated_at": "2026-08-02T05:54:34.850123+08:00",
+  "total_titles_processed": 436,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时06分 ~ 04时51分]"
+          "appearance_count": 6,
+          "time_info": "[00时06分 ~ 05时54分]"
         },
         {
           "title": "马斯克关注DeepSeek账号",
@@ -73,8 +73,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时59分 ~ 04时51分]"
+          "appearance_count": 5,
+          "time_info": "[01时59分 ~ 05时54分]"
         }
       ]
     },
@@ -87,11 +87,12 @@
           "url": "https://search.bilibili.com/all?keyword=LOL%E8%B5%9B%E4%BA%8B%E4%B8%80%E5%91%A8%E7%9C%8B%E7%82%B9%E5%90%88%E9%9B%86",
           "source": "bilibili 热搜",
           "ranks": [
-            28
+            28,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时18分"
+          "appearance_count": 2,
+          "time_info": "[03时18分 ~ 05时54分]"
         }
       ]
     },
@@ -107,8 +108,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时06分 ~ 04时51分]"
+          "appearance_count": 6,
+          "time_info": "[00时06分 ~ 05时54分]"
         }
       ]
     }
