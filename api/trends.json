@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-01T19:15:59.514679+08:00",
-  "total_titles_processed": 1148,
+  "generated_at": "2026-08-01T21:16:30.111971+08:00",
+  "total_titles_processed": 1274,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "DeepSeek 居然会对用户说「我去吃饭了」「我去睡了」，为啥会出现这样的现象？",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时05分 ~ 19时15分]"
+          "appearance_count": 4,
+          "time_info": "[17时05分 ~ 21时16分]"
         },
         {
           "title": "DeepSeek V4 Flash正式版强在哪",
@@ -113,11 +113,23 @@
           "url": "https://www.zhihu.com/question/2066595452238160814",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 21时16分]"
+        },
+        {
+          "title": "DeepSeekV4Flash 便宜",
+          "url": "https://s.weibo.com/weibo?q=DeepSeekV4Flash%20%E4%BE%BF%E5%AE%9C&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时15分"
+          "time_info": "21时16分"
         },
         {
           "title": "DeepSeekV4Flash正式版跑分出炉",
@@ -169,8 +181,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时04分 ~ 19时15分]"
+          "appearance_count": 8,
+          "time_info": "[08时04分 ~ 21时16分]"
         },
         {
           "title": "专家：Anthropic与OpenAI入侵事件预示美国安全风险",
@@ -279,7 +291,7 @@
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "特斯拉正考虑剥离中国业务？特斯拉中国官方回应：不实消息",
@@ -291,6 +303,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时20分 ~ 11时42分]"
+        },
+        {
+          "title": "金十整理：2026年7月造车新势力成绩单出炉——比亚迪超41万辆创新高，零跑突破10万大关",
+          "url": "https://flash.jin10.com/detail/20260801203227514800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "特斯拉辟谣剥离中国业务",
@@ -305,6 +328,18 @@
           "time_info": "[06时04分 ~ 08时05分]"
         },
         {
+          "title": "比亚迪：7月销量超41.9万辆 海外销量再创新高",
+          "url": "https://flash.jin10.com/detail/20260801180709070800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 21时16分]"
+        },
+        {
           "title": "比亚迪路天：8月开始大唐产能会持续提升，冲击1.5万台",
           "url": "https://flash.jin10.com/detail/20260801140631165800",
           "source": "金十数据",
@@ -316,24 +351,13 @@
           "time_info": "14时28分"
         },
         {
-          "title": "比亚迪：7月销量超41.9万辆 海外销量再创新高",
-          "url": "https://flash.jin10.com/detail/20260801180709070800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
           "title": "吉利汽车7月销量创同期新高，新能源出口销量同比增616%",
           "url": "https://flash.jin10.com/detail/20260801173325858800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -344,7 +368,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -358,6 +382,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
+        },
+        {
+          "title": "比亚迪7月销售41.9万辆汽车",
+          "url": "https://www.toutiao.com/trending/7668443476165623850/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "上汽通用五菱7月全球销量120050辆，7月新能源销量72695辆。",
@@ -384,8 +419,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时04分 ~ 19时15分]"
+          "appearance_count": 8,
+          "time_info": "[08时04分 ~ 21时16分]"
         },
         {
           "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
@@ -398,8 +433,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时20分 ~ 19时15分]"
+          "appearance_count": 11,
+          "time_info": "[02时20分 ~ 21时16分]"
         },
         {
           "title": "女子做支气管镜时身亡，丈夫称麻醉师全程玩手机，院方则称医生责任不大，卫健部门已介入，责任该如何认定？",
@@ -544,7 +579,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         }
