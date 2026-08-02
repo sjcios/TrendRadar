@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T05:55:27.139682+08:00",
-  "total_titles_processed": 491,
+  "generated_at": "2026-08-03T06:55:58.493696+08:00",
+  "total_titles_processed": 531,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             10,
             6,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 05时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时00分 ~ 06时55分]"
         },
         {
           "title": "DeepSeek-V4系列迎重大升级 性能追平旗舰模型 Agent能力大幅增强",
@@ -30,8 +31,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 05时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时00分 ~ 06时55分]"
         },
         {
           "title": "deepseek 定价按 10 个月回本算都这么便宜了，为什么谷歌投资 ai 还会现金流转负？",
@@ -39,11 +40,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时53分 ~ 05时55分]"
+          "appearance_count": 3,
+          "time_info": "[04时53分 ~ 06时55分]"
         }
       ]
     },
@@ -59,11 +61,12 @@
             2,
             15,
             13,
-            7
+            7,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 05时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时00分 ~ 06时55分]"
         },
         {
           "title": "小米多款手机今起涨价，其市场策略和消费者选择将受何影响？",
@@ -73,11 +76,12 @@
             15,
             8,
             9,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 05时55分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 06时55分]"
         },
         {
           "title": "小米上调部分型号手机售价，普遍涨价300元",
@@ -104,8 +108,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 05时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时00分 ~ 06时55分]"
         },
         {
           "title": "全抖音都在模仿痴迷名场面",
@@ -116,8 +120,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 05时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时00分 ~ 06时55分]"
         }
       ]
     },
@@ -134,8 +138,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 05时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时00分 ~ 06时55分]"
         }
       ]
     },
@@ -151,11 +155,12 @@
             19,
             9,
             8,
-            17
+            17,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 05时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时00分 ~ 06时55分]"
         }
       ]
     },
@@ -173,8 +178,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 05时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时00分 ~ 06时55分]"
         }
       ]
     }
