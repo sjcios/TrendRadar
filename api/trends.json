@@ -1,8 +1,51 @@
 {
-  "generated_at": "2026-08-03T03:07:20.114009+08:00",
-  "total_titles_processed": 440,
+  "generated_at": "2026-08-03T04:53:52.834648+08:00",
+  "total_titles_processed": 479,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "DeepSeek v4 flash 如此强大，接下来发布的 pro 会不会让美国御三家全部倒闭？",
+          "url": "https://www.zhihu.com/question/2067212789714778007",
+          "source": "知乎",
+          "ranks": [
+            10,
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时00分 ~ 04时53分]"
+        },
+        {
+          "title": "DeepSeek-V4系列迎重大升级 性能追平旗舰模型 Agent能力大幅增强",
+          "url": "https://www.cls.cn/detail/2443548",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时00分 ~ 04时53分]"
+        },
+        {
+          "title": "deepseek 定价按 10 个月回本算都这么便宜了，为什么谷歌投资 ai 还会现金流转负？",
+          "url": "https://www.zhihu.com/question/2065010626171293829",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        }
+      ]
+    },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
       "match_count": 3,
@@ -14,11 +57,12 @@
           "ranks": [
             2,
             15,
-            13
+            13,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时00分 ~ 03时07分]"
+          "appearance_count": 6,
+          "time_info": "[00时00分 ~ 04时53分]"
         },
         {
           "title": "小米多款手机今起涨价，其市场策略和消费者选择将受何影响？",
@@ -26,11 +70,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 04时53分]"
         },
         {
           "title": "小米上调部分型号手机售价，普遍涨价300元",
@@ -46,37 +91,6 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "DeepSeek v4 flash 如此强大，接下来发布的 pro 会不会让美国御三家全部倒闭？",
-          "url": "https://www.zhihu.com/question/2067212789714778007",
-          "source": "知乎",
-          "ranks": [
-            10,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时00分 ~ 03时07分]"
-        },
-        {
-          "title": "DeepSeek-V4系列迎重大升级 性能追平旗舰模型 Agent能力大幅增强",
-          "url": "https://www.cls.cn/detail/2443548",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时00分 ~ 03时07分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "央行 抖音 小红书",
       "match_count": 2,
       "titles": [
@@ -88,8 +102,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时00分 ~ 03时07分]"
+          "appearance_count": 6,
+          "time_info": "[00时00分 ~ 04时53分]"
         },
         {
           "title": "全抖音都在模仿痴迷名场面",
@@ -99,8 +113,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时00分 ~ 03时07分]"
+          "appearance_count": 6,
+          "time_info": "[00时00分 ~ 04时53分]"
         }
       ]
     },
@@ -117,8 +131,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时00分 ~ 03时07分]"
+          "appearance_count": 6,
+          "time_info": "[00时00分 ~ 04时53分]"
         }
       ]
     },
@@ -133,11 +147,12 @@
           "ranks": [
             19,
             9,
-            8
+            8,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时00分 ~ 03时07分]"
+          "appearance_count": 6,
+          "time_info": "[00时00分 ~ 04时53分]"
         }
       ]
     },
@@ -155,8 +170,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时00分 ~ 03时07分]"
+          "appearance_count": 6,
+          "time_info": "[00时00分 ~ 04时53分]"
         }
       ]
     }
