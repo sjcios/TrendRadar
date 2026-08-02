@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T18:40:15.860769+08:00",
-  "total_titles_processed": 945,
+  "generated_at": "2026-08-02T20:02:26.083511+08:00",
+  "total_titles_processed": 1043,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "在抖音看演唱会直播",
@@ -14,11 +14,12 @@
           "ranks": [
             30,
             23,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时56分 ~ 18时40分]"
+          "appearance_count": 6,
+          "time_info": "[13时56分 ~ 20时02分]"
         },
         {
           "title": "央行：稳步深化金融改革和对外开放",
@@ -91,6 +92,17 @@
           "time_info": "16时22分"
         },
         {
+          "title": "全抖音都在模仿痴迷名场面",
+          "url": "https://www.douyin.com/hot/2594688",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
           "title": "抖音作者上手揭秘“天下第一刀”",
           "url": "https://www.douyin.com/hot/2593694",
           "source": "抖音",
@@ -105,7 +117,7 @@
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "宝马被曝在中控屏幕推广告",
@@ -119,6 +131,19 @@
           "time_info": "13时56分"
         },
         {
+          "title": "长安汽车宣布，7月交付20.71万辆，其中，新能源交付96500辆，同比增长28.8%。",
+          "url": "https://wallstreetcn.com/livenews/3143656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时22分 ~ 20时02分]"
+        },
+        {
           "title": "比亚迪7月销售41.9万辆汽车",
           "url": "https://www.toutiao.com/trending/7668443476165623850/",
           "source": "今日头条",
@@ -130,18 +155,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时06分 ~ 03时18分]"
-        },
-        {
-          "title": "长安汽车宣布，7月交付20.71万辆，其中，新能源交付96500辆，同比增长28.8%。",
-          "url": "https://wallstreetcn.com/livenews/3143656",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时22分 ~ 18时40分]"
         },
         {
           "title": "比亚迪方程S开启全国巡展",
@@ -161,7 +174,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -175,6 +188,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时06分"
+        },
+        {
+          "title": "比亚迪大汉8月21日成都车展将亮相",
+          "url": "https://www.toutiao.com/trending/7669296754139463723/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "长安汽车：7月交付20.71万辆，其中新能源交付96500辆，同比增长28.8%。",
@@ -223,11 +247,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时22分 ~ 18时40分]"
+          "appearance_count": 3,
+          "time_info": "[16时22分 ~ 20时02分]"
         },
         {
           "title": "小米上调部分型号手机售价，普遍涨价300元",
@@ -285,11 +310,12 @@
           "url": "https://s.weibo.com/weibo?q=%E5%8D%B0%E5%BA%A6%E9%9F%A9%E5%9B%BD%E7%AA%81%E7%84%B6%E5%AE%A3%E7%A7%B0%E6%9C%89%E5%AA%B2%E7%BE%8EDeepSeek%E5%A4%A7%E6%A8%A1%E5%9E%8B&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
-            6
+            6,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时39分 ~ 18时40分]"
+          "appearance_count": 3,
+          "time_info": "[18时39分 ~ 20时02分]"
         },
         {
           "title": "马斯克关注DeepSeek账号",
@@ -331,8 +357,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时59分 ~ 18时40分]"
+          "appearance_count": 13,
+          "time_info": "[01时59分 ~ 20时02分]"
         },
         {
           "title": "OpenAI确认下一代模型Astra存在，以2000美元算力成本破解十项数学未解难题，正向监管层展示",
@@ -344,8 +370,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时53分 ~ 18时40分]"
+          "appearance_count": 8,
+          "time_info": "[06时53分 ~ 20时02分]"
         }
       ]
     },
