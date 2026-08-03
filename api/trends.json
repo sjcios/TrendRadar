@@ -1,8 +1,60 @@
 {
-  "generated_at": "2026-08-03T07:57:47.755874+08:00",
-  "total_titles_processed": 617,
+  "generated_at": "2026-08-03T10:53:10.505290+08:00",
+  "total_titles_processed": 789,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "央行 抖音 小红书",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "部署下半年八大重点！央行定调：适时调整、加力扩内需",
+          "url": "https://wallstreetcn.com/articles/3778506",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时00分 ~ 10时53分]"
+        },
+        {
+          "title": "全抖音都在模仿痴迷名场面",
+          "url": "https://www.douyin.com/hot/2594688",
+          "source": "抖音",
+          "ranks": [
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时00分 ~ 10时53分]"
+        },
+        {
+          "title": "【早报】特朗普称取消打击伊朗，原油大跌、黄金上涨；央行定调下半年货币政策",
+          "url": "https://www.cls.cn/detail/2443662",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时57分 ~ 10时53分]"
+        },
+        {
+          "title": "抖音作者上手揭秘“天下第一刀”",
+          "url": "https://www.douyin.com/hot/2593694",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 10时53分]"
+        }
+      ]
+    },
     {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 3,
@@ -32,8 +84,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 07时57分]"
+          "appearance_count": 11,
+          "time_info": "[00时00分 ~ 10时53分]"
         },
         {
           "title": "deepseek 定价按 10 个月回本算都这么便宜了，为什么谷歌投资 ai 还会现金流转负？",
@@ -84,8 +136,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时07分 ~ 07时57分]"
+          "appearance_count": 9,
+          "time_info": "[01时07分 ~ 10时53分]"
         },
         {
           "title": "小米上调部分型号手机售价，普遍涨价300元",
@@ -97,46 +149,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "央行 抖音 小红书",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "部署下半年八大重点！央行定调：适时调整、加力扩内需",
-          "url": "https://wallstreetcn.com/articles/3778506",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 07时57分]"
-        },
-        {
-          "title": "全抖音都在模仿痴迷名场面",
-          "url": "https://www.douyin.com/hot/2594688",
-          "source": "抖音",
-          "ranks": [
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 07时57分]"
-        },
-        {
-          "title": "【早报】特朗普称取消打击伊朗，原油大跌、黄金上涨；央行定调下半年货币政策",
-          "url": "https://www.cls.cn/detail/2443662",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时57分"
         }
       ]
     },
@@ -154,22 +166,41 @@
             8,
             17,
             6,
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 07时57分]"
+          "appearance_count": 11,
+          "time_info": "[00时00分 ~ 10时53分]"
         },
         {
           "title": "方程豹 7 月销量超 4 万辆，这对新能源汽车市场意味着什么？越野市场需求被打开了吗？",
           "url": "https://www.zhihu.com/question/2066988587279718231",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时57分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时57分 ~ 10时53分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价 OpenAI 、 Anthropic 、谷歌等巨头联名呼吁控制前沿自动化 AI 研发？",
+          "url": "https://www.zhihu.com/question/2065724643378570793",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 10时53分]"
         }
       ]
     },
@@ -183,11 +214,12 @@
           "source": "贴吧",
           "ranks": [
             18,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 07时57分]"
+          "appearance_count": 11,
+          "time_info": "[00时00分 ~ 10时53分]"
         }
       ]
     },
@@ -202,11 +234,12 @@
           "ranks": [
             20,
             19,
-            18
+            18,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时00分 ~ 06时55分]"
+          "appearance_count": 10,
+          "time_info": "[00时00分 ~ 10时53分]"
         }
       ]
     }
