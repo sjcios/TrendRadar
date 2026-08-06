@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T14:29:33.823458+08:00",
-  "total_titles_processed": 1011,
+  "generated_at": "2026-08-06T17:38:55.093704+08:00",
+  "total_titles_processed": 1193,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "长鑫拒绝苹果压价，要求内存采购价不低于三星和 SK 海力士，是否意味议价权彻底反转？可能有哪些影响？",
@@ -119,11 +119,36 @@
           "url": "https://www.cls.cn/detail/2446883",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时13分 ~ 17时38分]"
+        },
+        {
+          "title": "存储芯片成本压力开始释放！余承东称所有手机都要大规模涨价，否则就是亏损销售",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33728067",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时13分 ~ 11时14分]"
+          "time_info": "[14时29分 ~ 17时38分]"
+        },
+        {
+          "title": "苹果压价失灵,长鑫拒绝供货",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356817&amp;topic_name=%E8%8B%B9%E6%9E%9C%E5%8E%8B%E4%BB%B7%E5%A4%B1%E7%81%B5%2C%E9%95%BF%E9%91%AB%E6%8B%92%E7%BB%9D%E4%BE%9B%E8%B4%A7",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 17时38分]"
         },
         {
           "title": "长鑫拒绝苹果压价",
@@ -138,26 +163,15 @@
           "time_info": "[00时41分 ~ 04时26分]"
         },
         {
-          "title": "苹果压价失灵,长鑫拒绝供货",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356817&amp;topic_name=%E8%8B%B9%E6%9E%9C%E5%8E%8B%E4%BB%B7%E5%A4%B1%E7%81%B5%2C%E9%95%BF%E9%91%AB%E6%8B%92%E7%BB%9D%E4%BE%9B%E8%B4%A7",
-          "source": "贴吧",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
-        },
-        {
-          "title": "存储芯片成本压力开始释放！余承东称所有手机都要大规模涨价，否则就是亏损销售",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33728067",
-          "source": "澎湃新闻",
+          "title": "如何看待长鑫拒绝苹果压价",
+          "url": "https://www.toutiao.com/trending/7670808457057930771/",
+          "source": "今日头条",
           "ranks": [
             17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时29分"
+          "time_info": "17时38分"
         },
         {
           "title": "余承东：手机可能要大规模涨价",
@@ -317,48 +331,16 @@
           "time_info": "[00时41分 ~ 02时21分]"
         },
         {
-          "title": "DeepSeek拟调高API价格",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%8B%9F%E8%B0%83%E9%AB%98API%E4%BB%B7%E6%A0%BC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
-        },
-        {
-          "title": "DeepSeek拟上调API服务定价",
-          "url": "https://www.douyin.com/hot/2599312",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
-        },
-        {
-          "title": "DeepSeek拟上调API服务价格",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
-        },
-        {
           "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
           "url": "https://www.zhihu.com/question/2068628771687625392",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 17时38分]"
         },
         {
           "title": "DeepSeek API即将大幅涨价",
@@ -373,26 +355,64 @@
           "time_info": "[11时13分 ~ 14时29分]"
         },
         {
+          "title": "DeepSeek拟上调API服务定价",
+          "url": "https://www.douyin.com/hot/2599312",
+          "source": "抖音",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 17时38分]"
+        },
+        {
+          "title": "DeepSeek拟上调API服务价格",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 17时38分]"
+        },
+        {
+          "title": "DeepSeek拟调高API价格",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%8B%9F%E8%B0%83%E9%AB%98API%E4%BB%B7%E6%A0%BC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 17时38分]"
+        },
+        {
           "title": "DeepSeek预告将大幅涨价 V4正式版发布进入倒计时",
           "url": "https://www.cls.cn/detail/2447135",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 17时38分]"
         },
         {
           "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
           "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 17时38分]"
         },
         {
           "title": "DeepSeek拟上调API服务定价，预计涨幅较大",
@@ -409,7 +429,7 @@
     },
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "2026抖音创作者大会来了",
@@ -473,6 +493,17 @@
           "time_info": "06时12分"
         },
         {
+          "title": "中阿（根廷）两国央行续签双边本币互换协议",
+          "url": "https://flash.jin10.com/detail/20260806170144694800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        },
+        {
           "title": "惠誉：预计越南今年信贷增长将达到18%，高于越南央行指引的15%。",
           "url": "https://flash.jin10.com/detail/20260806102526006800",
           "source": "金十数据",
@@ -530,7 +561,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -541,7 +572,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -610,6 +641,34 @@
       ]
     },
     {
+      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "上交所对凯盛新能源股份有限公司及有关责任人予以监管警示",
+          "url": "https://flash.jin10.com/detail/20260806165248875800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        },
+        {
+          "title": "中国车拿下欧洲人 奔驰老家也沦陷了",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%BD%A6%E6%8B%BF%E4%B8%8B%E6%AC%A7%E6%B4%B2%E4%BA%BA+%E5%A5%94%E9%A9%B0%E8%80%81%E5%AE%B6%E4%B9%9F%E6%B2%A6%E9%99%B7%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        }
+      ]
+    },
+    {
       "keyword_group": "英雄联盟 LOL",
       "match_count": 1,
       "titles": [
@@ -618,28 +677,12 @@
           "url": "https://www.zhihu.com/question/2068385399152403302",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中国车拿下欧洲人 奔驰老家也沦陷了",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%BD%A6%E6%8B%BF%E4%B8%8B%E6%AC%A7%E6%B4%B2%E4%BA%BA+%E5%A5%94%E9%A9%B0%E8%80%81%E5%AE%B6%E4%B9%9F%E6%B2%A6%E9%99%B7%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 17时38分]"
         }
       ]
     }
