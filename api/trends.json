@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T10:36:46.986318+08:00",
-  "total_titles_processed": 486,
+  "generated_at": "2026-08-07T12:53:44.654828+08:00",
+  "total_titles_processed": 679,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "宇树科技IPO定价150.8元，DeepSeek、腾讯等获战略配售",
@@ -16,8 +16,19 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时57分 ~ 12时53分]"
+        },
+        {
+          "title": "如何看待梁文锋旗下幻方量化多只产品收益转负，单月跌幅超 20%？",
+          "url": "https://www.zhihu.com/question/2068637080209421054",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时57分 ~ 10时36分]"
+          "time_info": "[10时36分 ~ 12时53分]"
         },
         {
           "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
@@ -32,17 +43,6 @@
           "time_info": "[07时57分 ~ 10时36分]"
         },
         {
-          "title": "如何看待梁文锋旗下幻方量化多只产品收益转负，单月跌幅超 20%？",
-          "url": "https://www.zhihu.com/question/2068637080209421054",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时36分"
-        },
-        {
           "title": "DeepSeek终于打算激进扩张了",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E7%BB%88%E4%BA%8E%E6%89%93%E7%AE%97%E6%BF%80%E8%BF%9B%E6%89%A9%E5%BC%A0%E4%BA%86",
           "source": "百度热搜",
@@ -52,6 +52,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        },
+        {
+          "title": "DeepSeek拟上调API服务价格",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时57分 ~ 12时53分]"
         },
         {
           "title": "DeepSeek、腾讯等获宇树科技战略配售",
@@ -66,27 +79,26 @@
           "time_info": "[07时57分 ~ 10时36分]"
         },
         {
-          "title": "DeepSeek拟上调API服务价格",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
-          "source": "贴吧",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 10时36分]"
-        },
-        {
           "title": "DeepSeek官宣涨价，且“幅度较大”！",
           "url": "https://wallstreetcn.com/articles/3778814",
           "source": "华尔街见闻",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
+        },
+        {
+          "title": "DeepSeek豪掷1.4亿护航宇树IPO",
+          "url": "https://www.toutiao.com/trending/7671088097861307923/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
         },
         {
           "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
@@ -126,8 +138,33 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时57分 ~ 12时53分]"
+        },
+        {
+          "title": "存储芯片缺货,手机或迎涨价潮",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356842&amp;topic_name=%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E7%BC%BA%E8%B4%A7%2C%E6%89%8B%E6%9C%BA%E6%88%96%E8%BF%8E%E6%B6%A8%E4%BB%B7%E6%BD%AE",
+          "source": "贴吧",
+          "ranks": [
+            17,
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时57分 ~ 12时53分]"
+        },
+        {
+          "title": "iPhone18Pro十二大升级",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E5%8D%81%E4%BA%8C%E5%A4%A7%E5%8D%87%E7%BA%A7%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时57分 ~ 10时36分]"
+          "time_info": "[10时36分 ~ 12时53分]"
         },
         {
           "title": "长鑫拒绝苹果压价",
@@ -142,16 +179,16 @@
           "time_info": "[07时57分 ~ 10时36分]"
         },
         {
-          "title": "存储芯片缺货,手机或迎涨价潮",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356842&amp;topic_name=%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E7%BC%BA%E8%B4%A7%2C%E6%89%8B%E6%9C%BA%E6%88%96%E8%BF%8E%E6%B6%A8%E4%BB%B7%E6%BD%AE",
-          "source": "贴吧",
+          "title": "多家手机品牌回应将大规模涨价，OPPO 、荣耀、小米等部分机型已上调价格，如何看待此次手机涨价潮？",
+          "url": "https://www.zhihu.com/question/2068727171682718365",
+          "source": "知乎",
           "ranks": [
-            17,
-            16
+            9,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时57分 ~ 10时36分]"
+          "time_info": "[10时36分 ~ 12时53分]"
         },
         {
           "title": "苹果压价失灵,长鑫拒绝供货",
@@ -166,28 +203,6 @@
           "time_info": "[07时57分 ~ 10时36分]"
         },
         {
-          "title": "iPhone18Pro十二大升级",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E5%8D%81%E4%BA%8C%E5%A4%A7%E5%8D%87%E7%BA%A7%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时36分"
-        },
-        {
-          "title": "多家手机品牌回应将大规模涨价，OPPO 、荣耀、小米等部分机型已上调价格，如何看待此次手机涨价潮？",
-          "url": "https://www.zhihu.com/question/2068727171682718365",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时36分"
-        },
-        {
           "title": "巡查组提问 工作人员偷用手机查答案",
           "url": "https://www.baidu.com/s?wd=%E5%B7%A1%E6%9F%A5%E7%BB%84%E6%8F%90%E9%97%AE+%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%81%B7%E7%94%A8%E6%89%8B%E6%9C%BA%E6%9F%A5%E7%AD%94%E6%A1%88",
           "source": "百度热搜",
@@ -197,6 +212,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "宝马摩托车在秦岭逆行撞摩托车致1死，遇难者家属：对方交强险过期，未获肇事者赔偿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33728418",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时36分 ~ 12时53分]"
+        },
+        {
+          "title": "比亚迪1-7月海外销量约97万辆",
+          "url": "https://www.toutiao.com/trending/7669759309915521078/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
+          "title": "比亚迪定制版“海獭”日本热卖",
+          "url": "https://www.toutiao.com/trending/7670827360703365126/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
+          "title": "SpaceX、特斯拉官宣投资168亿美元 地球最大芯片厂有新进展",
+          "url": "https://www.cls.cn/detail/2447866",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
         }
       ]
     },
@@ -230,30 +296,30 @@
       ]
     },
     {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
+      "keyword_group": "金价",
       "match_count": 2,
       "titles": [
         {
-          "title": "比亚迪1-7月海外销量约97万辆",
-          "url": "https://www.toutiao.com/trending/7669759309915521078/",
-          "source": "今日头条",
+          "title": "金十图示：2026年08月07日（周五）上海金早盘价为925.22元/克，较国际金价(923.72元/克)，高1.5元/克",
+          "url": "https://flash.jin10.com/detail/20260807102008026800",
+          "source": "金十数据",
           "ranks": [
-            7
+            3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
         },
         {
-          "title": "宝马摩托车在秦岭逆行撞摩托车致1死，遇难者家属：对方交强险过期，未获肇事者赔偿",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33728418",
-          "source": "澎湃新闻",
+          "title": "金价完成首轮仓位修复，4300附近进入新碰撞区！",
+          "url": "https://flash.jin10.com/detail/20260807120847851800",
+          "source": "金十数据",
           "ranks": [
-            20
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时36分"
+          "time_info": "12时53分"
         }
       ]
     },
@@ -275,23 +341,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2026年08月07日（周五）上海金早盘价为925.22元/克，较国际金价(923.72元/克)，高1.5元/克",
-          "url": "https://flash.jin10.com/detail/20260807102008026800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时36分"
-        }
-      ]
-    },
-    {
       "keyword_group": "央行 抖音 小红书",
       "match_count": 1,
       "titles": [
@@ -302,7 +351,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
         }
