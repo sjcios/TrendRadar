@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T12:55:07.782030+08:00",
-  "total_titles_processed": 873,
+  "generated_at": "2026-08-08T13:42:44.116106+08:00",
+  "total_titles_processed": 919,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "2名小孩玩手机低头幅度近乎折叠",
@@ -42,11 +42,12 @@
           "ranks": [
             7,
             3,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时52分 ~ 12时55分]"
+          "appearance_count": 15,
+          "time_info": "[00时52分 ~ 13时42分]"
         },
         {
           "title": "河南濮阳一女子趁店内无人拿走手机",
@@ -93,11 +94,12 @@
           "source": "微博",
           "ranks": [
             10,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时24分 ~ 12时55分]"
+          "appearance_count": 4,
+          "time_info": "[11时24分 ~ 13时42分]"
         },
         {
           "title": "2名小孩玩手机低头幅度近乎折叠",
@@ -120,12 +122,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时48分 ~ 01时49分]"
+        },
+        {
+          "title": "小心这种手机壳正在偷拍你的隐私",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%BF%83%E8%BF%99%E7%A7%8D%E6%89%8B%E6%9C%BA%E5%A3%B3%E6%AD%A3%E5%9C%A8%E5%81%B7%E6%8B%8D%E4%BD%A0%E7%9A%84%E9%9A%90%E7%A7%81%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "梁文锋 只想用座机",
@@ -162,11 +175,12 @@
             18,
             14,
             12,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时39分 ~ 12时55分]"
+          "appearance_count": 9,
+          "time_info": "[04时39分 ~ 13时42分]"
         },
         {
           "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
@@ -177,8 +191,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时24分 ~ 12时55分]"
+          "appearance_count": 5,
+          "time_info": "[09时24分 ~ 13时42分]"
+        },
+        {
+          "title": "梁文锋为什么投王兴兴",
+          "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8A%95%E7%8E%8B%E5%85%B4%E5%85%B4",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
         }
       ]
     },
@@ -201,6 +226,18 @@
           "time_info": "[05时37分 ~ 09时24分]"
         },
         {
+          "title": "金价突破4400美元",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E7%AA%81%E7%A0%B44400%E7%BE%8E%E5%85%83&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时54分 ~ 13时42分]"
+        },
+        {
           "title": "油价金价银价都涨了",
           "url": "https://www.baidu.com/s?wd=%E6%B2%B9%E4%BB%B7%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E9%83%BD%E6%B6%A8%E4%BA%86",
           "source": "百度热搜",
@@ -211,17 +248,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时24分 ~ 12时55分]"
-        },
-        {
-          "title": "金价突破4400美元",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E7%AA%81%E7%A0%B44400%E7%BE%8E%E5%85%83&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时54分 ~ 12时55分]"
         },
         {
           "title": "瑞银：黄金上涨行情具备支撑，金价明年有望向5000美元迈进",
@@ -241,17 +267,6 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "OpenAI：为高性能模型及相关业务落实更严格的安全管控，其中包括隔离测试环境",
-          "url": "https://wallstreetcn.com/livenews/3146841",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
-        },
-        {
           "title": "OpenAI首席执行官Altman称：正推进Astra全面开放使用。",
           "url": "https://wallstreetcn.com/livenews/3146942",
           "source": "华尔街见闻-快讯",
@@ -262,8 +277,19 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时32分 ~ 12时55分]"
+          "appearance_count": 5,
+          "time_info": "[07时32分 ~ 13时42分]"
+        },
+        {
+          "title": "OpenAI：为高性能模型及相关业务落实更严格的安全管控，其中包括隔离测试环境",
+          "url": "https://wallstreetcn.com/livenews/3146841",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时53分"
         },
         {
           "title": "OpenAI：Astra是一款尚未发布的模型，无法排除Astra模型具备关键网络攻击能力",
@@ -292,11 +318,12 @@
             19,
             17,
             20,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时52分 ~ 12时55分]"
+          "appearance_count": 15,
+          "time_info": "[00时52分 ~ 13时42分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
@@ -316,6 +343,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "禁止“抱团”抬价！东北明确新能源集中报价仅限同省同集团",
+          "url": "https://wallstreetcn.com/livenews/3146954",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 13时42分]"
+        },
+        {
           "title": "纳斯达克金龙中国指数收涨0.77%，报6620.75点，本周累计上涨0.34%，持续测试100日均线（该技术指标下移至6569.75点）。 热门中概股里，再鼎医药初步收涨12.2%，大全新能源涨8.8%，晶科能源涨6%，世纪互联涨5%，腾讯涨1.8%，拼多多、阿里巴巴涨超1%，日月光半导体大致持平。 XtrackersHarvest中证50（ASHS）收涨2.76%，本周累涨7.28%，此前两周先后反弹0.27%、0.05%； 中国科技指数ETF（CQQQ）收涨1.72%，本周累涨5.53%，延续上周反弹0.84%的表现； 德银嘉实沪深300指数ETF（ASHR）收涨1.18%，本周反弹2.69%； 中概互联网指数ETF（KWEB）收涨0.99%，本周涨0.60%，延续上周涨8.37%的表现，周线图上7月初以来持续反弹； MSCI新兴市场ex中国ETF（EMXC）收涨0.83%，本周累涨2.82%。",
           "url": "https://wallstreetcn.com/livenews/3146908",
           "source": "华尔街见闻-快讯",
@@ -327,18 +366,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时39分 ~ 06时33分]"
-        },
-        {
-          "title": "禁止“抱团”抬价！东北明确新能源集中报价仅限同省同集团",
-          "url": "https://wallstreetcn.com/livenews/3146954",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 12时55分]"
         }
       ]
     },
@@ -357,8 +384,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时52分 ~ 12时55分]"
+          "appearance_count": 15,
+          "time_info": "[00时52分 ~ 13时42分]"
         }
       ]
     }
