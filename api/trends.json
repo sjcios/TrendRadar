@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T06:27:12.128996+08:00",
-  "total_titles_processed": 458,
+  "generated_at": "2026-08-09T07:27:32.987725+08:00",
+  "total_titles_processed": 479,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             5,
-            13
+            13,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 06时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 07时27分]"
         },
         {
           "title": "这种手机壳可能是医疗垃圾做的",
@@ -29,11 +30,12 @@
             2,
             4,
             12,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 06时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 07时27分]"
         },
         {
           "title": "苹果终于把千问接进Siri：中国版Apple Intelligence来了",
@@ -45,8 +47,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时28分 ~ 06时27分]"
+          "appearance_count": 7,
+          "time_info": "[03时28分 ~ 07时27分]"
         },
         {
           "title": "跑了几天外卖发现，很多人原来是修手机的、修汽车的、修家电的技术人员，有手艺为什么要来跑外卖呢？",
@@ -57,8 +59,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时28分 ~ 06时27分]"
+          "appearance_count": 7,
+          "time_info": "[03时28分 ~ 07时27分]"
         },
         {
           "title": "男子佯装买手机抢走价值7000元手机",
@@ -130,11 +132,12 @@
           "url": "https://www.zhihu.com/question/2068108635620774765",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时26分 ~ 06时27分]"
+          "appearance_count": 3,
+          "time_info": "[06时26分 ~ 07时27分]"
         }
       ]
     },
@@ -150,11 +153,12 @@
             9,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 06时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 07时27分]"
         },
         {
           "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
@@ -166,8 +170,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 06时27分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 07时27分]"
         }
       ]
     },
@@ -184,8 +188,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时28分 ~ 06时27分]"
+          "appearance_count": 7,
+          "time_info": "[03时28分 ~ 07时27分]"
         },
         {
           "title": "央行购金突然加速释放什么信号",
@@ -217,8 +221,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 06时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 07时27分]"
         }
       ]
     },
@@ -233,11 +237,12 @@
           "ranks": [
             30,
             16,
-            11
+            11,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 06时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 07时27分]"
         }
       ]
     },
@@ -253,11 +258,12 @@
             6,
             5,
             4,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 06时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 07时27分]"
         }
       ]
     }
