@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T00:33:04.290471+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-08-10T01:31:16.002706+08:00",
+  "total_titles_processed": 359,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 00时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 01时31分]"
         },
         {
           "title": "【早报】Apple智能可配合阿里千问模型工作；江波龙定增大幅溢价",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 00时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 01时31分]"
         },
         {
           "title": "报道：苹果测试长鑫科技存储芯片，用于iPhone和MacBook",
@@ -36,26 +36,38 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时31分]"
         }
       ]
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "新能源充电站一辆SUV突然起火爆燃",
           "url": "https://www.toutiao.com/trending/7671198968541921289/",
           "source": "今日头条",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 00时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 01时31分]"
+        },
+        {
+          "title": "市场消息：据悉特斯拉(TSLA.O)今年将在日本增加60%的交付网点。",
+          "url": "https://flash.jin10.com/detail/20260810002924011800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时31分"
         }
       ]
     },
@@ -68,11 +80,12 @@
           "url": "https://www.douyin.com/hot/2603733",
           "source": "抖音",
           "ranks": [
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 00时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 01时31分]"
         }
       ]
     }
