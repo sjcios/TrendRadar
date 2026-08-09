@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T05:31:18.709709+08:00",
-  "total_titles_processed": 429,
+  "generated_at": "2026-08-10T06:29:54.589400+08:00",
+  "total_titles_processed": 454,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 05时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 06时29分]"
         },
         {
           "title": "2026 上半年国内手机销量 TOP30 出炉，苹果包揽前三、华为领跑国产，哪些品牌的表现值得关注？",
@@ -29,8 +29,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 05时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 06时29分]"
         },
         {
           "title": "报道：苹果测试长鑫科技存储芯片，用于iPhone和MacBook",
@@ -38,11 +38,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             13,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 05时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 06时29分]"
         }
       ]
     },
@@ -62,8 +63,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 05时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 06时29分]"
         },
         {
           "title": "市场消息：据悉特斯拉(TSLA.O)今年将在日本增加60%的交付网点。",
