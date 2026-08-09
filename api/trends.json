@@ -1,552 +1,51 @@
 {
-  "generated_at": "2026-08-09T23:30:50.329035+08:00",
-  "total_titles_processed": 1405,
+  "generated_at": "2026-08-10T00:33:04.290471+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 28,
+      "match_count": 3,
       "titles": [
         {
-          "title": "上半年国内手机销量TOP30出炉",
-          "url": "https://www.toutiao.com/trending/7670854651357904947/",
-          "source": "今日头条",
+          "title": "2026 上半年国内手机销量 TOP30 出炉，苹果包揽前三、华为领跑国产，哪些品牌的表现值得关注？",
+          "url": "https://www.zhihu.com/question/2069715027674624332",
+          "source": "知乎",
           "ranks": [
-            2,
-            5,
-            13,
-            6
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 07时27分]"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 00时33分]"
         },
         {
           "title": "【早报】Apple智能可配合阿里千问模型工作；江波龙定增大幅溢价",
           "url": "https://www.cls.cn/detail/2449188",
           "source": "财联社热门",
           "ranks": [
-            8,
-            5,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时29分 ~ 23时30分]"
-        },
-        {
-          "title": "苹果终于把千问接进Siri：中国版Apple Intelligence来了",
-          "url": "https://wallstreetcn.com/articles/3778992",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            6,
-            2,
-            3,
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时28分 ~ 14时53分]"
-        },
-        {
-          "title": "这种手机壳可能是医疗垃圾做的",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%A7%8D%E6%89%8B%E6%9C%BA%E5%A3%B3%E5%8F%AF%E8%83%BD%E6%98%AF%E5%8C%BB%E7%96%97%E5%9E%83%E5%9C%BE%E5%81%9A%E7%9A%84%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            2,
-            4,
-            12,
-            13,
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 09时29分]"
-        },
-        {
-          "title": "2026 上半年国内手机销量 TOP30 出炉，苹果包揽前三、华为领跑国产，哪些品牌的表现值得关注？",
-          "url": "https://www.zhihu.com/question/2069715027674624332",
-          "source": "知乎",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时45分 ~ 23时30分]"
-        },
-        {
-          "title": "2026 上半年国内手机销量 TOP30 出炉，苹果包揽前三华为领跑国产，哪些品牌的表现值得关注？",
-          "url": "https://www.zhihu.com/question/2069715027674624332",
-          "source": "知乎",
-          "ranks": [
-            18,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时03分 ~ 19时27分]"
-        },
-        {
-          "title": "跑了几天外卖发现，很多人原来是修手机的、修汽车的、修家电的技术人员，有手艺为什么要来跑外卖呢？",
-          "url": "https://www.zhihu.com/question/2068266947939153909",
-          "source": "知乎",
-          "ranks": [
-            20,
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时28分 ~ 09时29分]"
-        },
-        {
-          "title": "苹果官网已删除Apple智能接入阿里千问页面",
-          "url": "https://wallstreetcn.com/livenews/3147049",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            2,
-            8,
-            11,
-            18,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时03分 ~ 20时45分]"
-        },
-        {
-          "title": "上半年国内手机销量榜",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%9B%BD%E5%86%85%E6%89%8B%E6%9C%BA%E9%94%80%E9%87%8F%E6%A6%9C",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            8,
-            9,
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时41分 ~ 18时32分]"
-        },
-        {
-          "title": "上半年国内手机销量TOP30出炉",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%9B%BD%E5%86%85%E6%89%8B%E6%9C%BA%E9%94%80%E9%87%8FTOP30%E5%87%BA%E7%82%89%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            1,
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时29分 ~ 14时53分]"
-        },
-        {
-          "title": "苹果回应删除接入千问手册：没收到通知，中国大陆还没推出“Apple智能使用千问”功能",
-          "url": "https://wallstreetcn.com/livenews/3147061",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            5,
-            12,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时38分 ~ 20时45分]"
-        },
-        {
-          "title": "男子佯装买手机抢走价值7000元手机",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%BD%AF%E8%A3%85%E4%B9%B0%E6%89%8B%E6%9C%BA%E6%8A%A2%E8%B5%B0%E4%BB%B7%E5%80%BC7000%E5%85%83%E6%89%8B%E6%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时28分 ~ 05时28分]"
-        },
-        {
-          "title": "Apple智能接入阿里千问手册被删，苹果客服回应",
-          "url": "https://flash.jin10.com/detail/20260809172135789800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时38分 ~ 19时27分]"
-        },
-        {
-          "title": "苹果中国官网删除Apple智能接入阿里千问手册",
-          "url": "https://flash.jin10.com/detail/20260809102752884800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时41分 ~ 14时53分]"
-        },
-        {
-          "title": "iPhone18Pro 涨价",
-          "url": "https://s.weibo.com/weibo?q=iPhone18Pro%20%E6%B6%A8%E4%BB%B7&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9,
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时29分 ~ 14时53分]"
-        },
-        {
-          "title": "这种手机壳可能是医疗垃圾做的",
-          "url": "https://www.baidu.com/s?wd=%E8%BF%99%E7%A7%8D%E6%89%8B%E6%9C%BA%E5%A3%B3%E5%8F%AF%E8%83%BD%E6%98%AF%E5%8C%BB%E7%96%97%E5%9E%83%E5%9C%BE%E5%81%9A%E7%9A%84",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时29分 ~ 13时03分]"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 00时33分]"
         },
         {
           "title": "报道：苹果测试长鑫科技存储芯片，用于iPhone和MacBook",
           "url": "https://wallstreetcn.com/livenews/3147106",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
             13
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时33分 ~ 23时30分]"
-        },
-        {
-          "title": "iPhone17下周或涨价",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone17%E4%B8%8B%E5%91%A8%E6%88%96%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时37分 ~ 17时38分]"
-        },
-        {
-          "title": "iPhone18Pro涨价",
-          "url": "https://www.baidu.com/s?wd=iPhone18Pro%E6%B6%A8%E4%BB%B7",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时03分 ~ 14时53分]"
-        },
-        {
-          "title": "苹果AI 千问",
-          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9CAI%20%E5%8D%83%E9%97%AE&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
-        },
-        {
-          "title": "折叠屏iPhone配色",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%8A%98%E5%8F%A0%E5%B1%8FiPhone%E9%85%8D%E8%89%B2%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时37分 ~ 17时38分]"
-        },
-        {
-          "title": "印度两女生手机被偷抓住窃贼痛揍",
-          "url": "https://www.toutiao.com/trending/7671957234343870490/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时45分"
-        },
-        {
-          "title": "医疗垃圾 手机壳",
-          "url": "https://s.weibo.com/weibo?q=%E5%8C%BB%E7%96%97%E5%9E%83%E5%9C%BE%20%E6%89%8B%E6%9C%BA%E5%A3%B3&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时33分"
-        },
-        {
-          "title": "盘点手机圈的那些遗憾",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B9%E6%89%8B%E6%9C%BA%E5%9C%88%E7%9A%84%E9%82%A3%E4%BA%9B%E9%81%97%E6%86%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时32分"
-        },
-        {
-          "title": "曝iPhone18Pro黑色被取消",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DiPhone18Pro%E9%BB%91%E8%89%B2%E8%A2%AB%E5%8F%96%E6%B6%88%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时49分"
-        },
-        {
-          "title": "苹果官网删除千问使用手册",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%AE%98%E7%BD%91%E5%88%A0%E9%99%A4%E5%8D%83%E9%97%AE%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时03分"
-        },
-        {
-          "title": "苹果与阿里巴巴合作，千问AI功能上线Mac",
-          "url": "https://flash.jin10.com/detail/20260808204416510800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "60度低头玩手机等于脖子扛50斤水泥",
-          "url": "https://www.baidu.com/s?wd=60%E5%BA%A6%E4%BD%8E%E5%A4%B4%E7%8E%A9%E6%89%8B%E6%9C%BA%E7%AD%89%E4%BA%8E%E8%84%96%E5%AD%90%E6%89%9B50%E6%96%A4%E6%B0%B4%E6%B3%A5",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "央行 抖音 小红书",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "刺激之夜抖音直播",
-          "url": "https://www.douyin.com/hot/2602052",
-          "source": "抖音",
-          "ranks": [
-            17,
-            15,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时28分 ~ 11时41分]"
-        },
-        {
-          "title": "白宫官员证实特朗普与美联储主席定期通话 强调尊重央行独立性",
-          "url": "https://wallstreetcn.com/livenews/3147067",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时32分 ~ 20时45分]"
-        },
-        {
-          "title": "央行购金突然加速释放什么信号",
-          "url": "https://www.toutiao.com/trending/7671595405942984242/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            15,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时28分 ~ 06时27分]"
-        },
-        {
-          "title": "伊朗央行禁止银行超额提款",
-          "url": "https://flash.jin10.com/detail/20260809183958442800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时27分 ~ 20时45分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "如何看待 OpenCode Go 订阅中 DeepSeek v4 Flash 开启限时双倍活动？",
-          "url": "https://www.zhihu.com/question/2069133357099832441",
-          "source": "知乎",
-          "ranks": [
-            15,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时34分 ~ 05时28分]"
-        },
-        {
-          "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
-          "url": "https://www.zhihu.com/question/2068108635620774765",
-          "source": "知乎",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时26分 ~ 07时27分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "伯克希尔Q2净利润翻倍，单季回购规模创5年来最大，谷歌进入前五大持仓 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778993",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6,
-            5,
-            3,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时31分 ~ 20时45分]"
-        },
-        {
-          "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3147006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            19,
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 09时29分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金价猛涨踏空的人哭麻了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%8C%9B%E6%B6%A8%E8%B8%8F%E7%A9%BA%E7%9A%84%E4%BA%BA%E5%93%AD%E9%BA%BB%E4%BA%86%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30,
-            16,
-            11,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 07时27分]"
-        },
-        {
-          "title": "金价为何突然大涨",
-          "url": "https://www.douyin.com/hot/2602679",
-          "source": "抖音",
-          "ranks": [
-            18,
-            9,
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时53分 ~ 21时49分]"
+          "time_info": "00时33分"
         }
       ]
     },
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "比亚迪纯电 K-car「海獭」Racco 在日本获超 700 辆订单，这对其出海战略意味着什么？",
-          "url": "https://www.zhihu.com/question/2068423027138859669",
-          "source": "知乎",
-          "ranks": [
-            6,
-            5,
-            4,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 09时29分]"
-        },
         {
           "title": "新能源充电站一辆SUV突然起火爆燃",
           "url": "https://www.toutiao.com/trending/7671198968541921289/",
@@ -556,63 +55,24 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[23时29分 ~ 23时30分]"
+          "time_info": "[00时32分 ~ 00时33分]"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "央行 抖音 小红书",
       "match_count": 1,
       "titles": [
         {
-          "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
-          "url": "https://wallstreetcn.com/articles/3778988",
-          "source": "华尔街见闻",
+          "title": "郑润泽发抖音是忘记加bgm了吗",
+          "url": "https://www.douyin.com/hot/2603733",
+          "source": "抖音",
           "ranks": [
-            10,
-            9,
-            8,
-            7,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 11时41分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "英雄联盟 LOL",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "LOL近期赛事焦点汇总",
-          "url": "https://search.bilibili.com/all?keyword=LOL%E8%BF%91%E6%9C%9F%E8%B5%9B%E4%BA%8B%E7%84%A6%E7%82%B9%E6%B1%87%E6%80%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时37分 ~ 17时38分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "澎湃新闻",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "直播丨强台风“白海豚”叩城，澎湃新闻追风记者直击上海防汛第一线",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33744408",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时26分 ~ 19时27分]"
+          "time_info": "[00时32分 ~ 00时33分]"
         }
       ]
     }
