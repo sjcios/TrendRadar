@@ -1,8 +1,172 @@
 {
-  "generated_at": "2026-08-10T19:07:47.937448+08:00",
-  "total_titles_processed": 1336,
+  "generated_at": "2026-08-10T21:03:29.402960+08:00",
+  "total_titles_processed": 1486,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "央行 抖音 小红书",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "匈牙利央行官员盛赞加入欧元区的好处",
+          "url": "https://flash.jin10.com/detail/20260810022549114800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            4,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时37分 ~ 05时31分]"
+        },
+        {
+          "title": "央行：根据《中国人民银行与德意志联邦银行备忘录》，中国人民银行决定授权德意志银行股份有限公司担任法兰克福人民币清算行。",
+          "url": "https://flash.jin10.com/detail/20260810170712535800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
+          "title": "日本经济财政大臣城内实：日本央行在政策方面表现良好。",
+          "url": "https://flash.jin10.com/detail/20260810190109570800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
+          "title": "郑润泽发抖音是忘记加bgm了吗",
+          "url": "https://www.douyin.com/hot/2603733",
+          "source": "抖音",
+          "ranks": [
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 01时31分]"
+        },
+        {
+          "title": "日本经济财政大臣城内实：政府立场未变，尊重日本央行的独立性。",
+          "url": "https://flash.jin10.com/detail/20260810190105776800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
+          "title": "中国央行公开市场开展180亿元7天期逆回购操作，操作利率1.40%，持平上次。今日630亿元逆回购到期。",
+          "url": "https://wallstreetcn.com/livenews/3147182",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        },
+        {
+          "title": "美元兑日元短线下跌约40点，报道：日本央行释放9月加息信号，促使美国加入汇市干预",
+          "url": "https://wallstreetcn.com/livenews/3147516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
+          "title": "抖音首次开放网暴案例评审",
+          "url": "https://wallstreetcn.com/livenews/3147255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
+          "title": "罗马尼亚央行维持基准利率在6.50%不变，符合预期。",
+          "url": "https://wallstreetcn.com/livenews/3147508",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
+          "title": "日本央行与政府博弈加剧：央行想紧缩，首相却想大举扩表",
+          "url": "https://flash.jin10.com/detail/20260810184817115800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
+          "title": "日本央行鹰派信号加码：通胀风险加剧，加息节奏或超预期",
+          "url": "https://flash.jin10.com/detail/20260810110825163800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
+          "title": "印尼总统提名代理行长Destry为印尼央行行长唯一候选人",
+          "url": "https://wallstreetcn.com/livenews/3147321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        },
+        {
+          "title": "日本央行七月会议意见摘要：内阁办公室代表表示，适当的货币政策对实现强劲经济和价格稳定至关重要。希望日本央行采取适当的货币政策，并与政府密切协调政策。",
+          "url": "https://flash.jin10.com/detail/20260810080428649800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        },
+        {
+          "title": "央行：强化金融市场制度建设，维护金融市场平稳运行",
+          "url": "https://flash.jin10.com/detail/20260810182321006800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        }
+      ]
+    },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
       "match_count": 12,
@@ -64,7 +228,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时07分"
         },
@@ -93,6 +257,18 @@
           "time_info": "[17时18分 ~ 19时07分]"
         },
         {
+          "title": "河南 22 岁女孩南太行山失联，手机最后信号不在山林，现已确认遇难，遗体在悬崖被找到，有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2068484771710293896",
+          "source": "知乎",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时07分 ~ 21时03分]"
+        },
+        {
           "title": "手机真会“偷听”我们说话吗",
           "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E7%9C%9F%E4%BC%9A%E2%80%9C%E5%81%B7%E5%90%AC%E2%80%9D%E6%88%91%E4%BB%AC%E8%AF%B4%E8%AF%9D%E5%90%97",
           "source": "百度热搜",
@@ -117,24 +293,13 @@
           "time_info": "[15时29分 ~ 17时18分]"
         },
         {
-          "title": "河南 22 岁女孩南太行山失联，手机最后信号不在山林，现已确认遇难，遗体在悬崖被找到，有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2068484771710293896",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时07分"
-        },
-        {
           "title": "苹果(AAPL.O)盘前下挫1.3%，杰富瑞将苹果公司评级从“持有”下调至“跑输大盘”；同时将目标股价从285.56美元下调至263.66美元。",
           "url": "https://flash.jin10.com/detail/20260810184415901800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时07分"
         },
@@ -152,150 +317,8 @@
       ]
     },
     {
-      "keyword_group": "央行 抖音 小红书",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "匈牙利央行官员盛赞加入欧元区的好处",
-          "url": "https://flash.jin10.com/detail/20260810022549114800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            4,
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时37分 ~ 05时31分]"
-        },
-        {
-          "title": "央行：根据《中国人民银行与德意志联邦银行备忘录》，中国人民银行决定授权德意志银行股份有限公司担任法兰克福人民币清算行。",
-          "url": "https://flash.jin10.com/detail/20260810170712535800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时18分"
-        },
-        {
-          "title": "日本经济财政大臣城内实：日本央行在政策方面表现良好。",
-          "url": "https://flash.jin10.com/detail/20260810190109570800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时07分"
-        },
-        {
-          "title": "郑润泽发抖音是忘记加bgm了吗",
-          "url": "https://www.douyin.com/hot/2603733",
-          "source": "抖音",
-          "ranks": [
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 01时31分]"
-        },
-        {
-          "title": "日本经济财政大臣城内实：政府立场未变，尊重日本央行的独立性。",
-          "url": "https://flash.jin10.com/detail/20260810190105776800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时07分"
-        },
-        {
-          "title": "中国央行公开市场开展180亿元7天期逆回购操作，操作利率1.40%，持平上次。今日630亿元逆回购到期。",
-          "url": "https://wallstreetcn.com/livenews/3147182",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时39分"
-        },
-        {
-          "title": "抖音首次开放网暴案例评审",
-          "url": "https://wallstreetcn.com/livenews/3147255",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "日本央行与政府博弈加剧：央行想紧缩，首相却想大举扩表",
-          "url": "https://flash.jin10.com/detail/20260810184817115800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时07分"
-        },
-        {
-          "title": "日本央行鹰派信号加码：通胀风险加剧，加息节奏或超预期",
-          "url": "https://flash.jin10.com/detail/20260810110825163800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "印尼总统提名代理行长Destry为印尼央行行长唯一候选人",
-          "url": "https://wallstreetcn.com/livenews/3147321",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时29分"
-        },
-        {
-          "title": "日本央行七月会议意见摘要：内阁办公室代表表示，适当的货币政策对实现强劲经济和价格稳定至关重要。希望日本央行采取适当的货币政策，并与政府密切协调政策。",
-          "url": "https://flash.jin10.com/detail/20260810080428649800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时39分"
-        },
-        {
-          "title": "央行：强化金融市场制度建设，维护金融市场平稳运行",
-          "url": "https://flash.jin10.com/detail/20260810182321006800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时07分"
-        }
-      ]
-    },
-    {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "新能源充电站一辆SUV突然起火爆燃",
@@ -324,6 +347,19 @@
           "time_info": "11时53分"
         },
         {
+          "title": "特斯拉将建史上最大芯片厂，这对全球芯片产业有何影响？",
+          "url": "https://www.zhihu.com/question/2068943667189002947",
+          "source": "知乎",
+          "ranks": [
+            14,
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时18分 ~ 21时03分]"
+        },
+        {
           "title": "市场消息：据悉特斯拉(TSLA.O)今年将在日本增加60%的交付网点。",
           "url": "https://flash.jin10.com/detail/20260810002924011800",
           "source": "金十数据",
@@ -335,18 +371,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时31分 ~ 03时32分]"
-        },
-        {
-          "title": "特斯拉将建史上最大芯片厂，这对全球芯片产业有何影响？",
-          "url": "https://www.zhihu.com/question/2068943667189002947",
-          "source": "知乎",
-          "ranks": [
-            14,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时18分 ~ 19时07分]"
         },
         {
           "title": "上半年全球新能源乘用车销量1122万台",
@@ -380,6 +404,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
+        },
+        {
+          "title": "“最像特斯拉”的机器人公司也要IPO",
+          "url": "https://www.toutiao.com/trending/7672347655489457683/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         }
       ]
     },
@@ -416,7 +451,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时07分"
         }
@@ -465,8 +500,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时53分 ~ 19时07分]"
+          "appearance_count": 5,
+          "time_info": "[11时53分 ~ 21时03分]"
         }
       ]
     }
