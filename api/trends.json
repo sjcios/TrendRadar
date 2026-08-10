@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T21:03:29.402960+08:00",
-  "total_titles_processed": 1486,
+  "generated_at": "2026-08-10T22:56:59.947665+08:00",
+  "total_titles_processed": 1620,
   "failed_sources": [],
   "trends": [
     {
@@ -84,7 +84,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时03分"
         },
@@ -106,7 +106,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时03分"
         },
@@ -169,7 +169,7 @@
     },
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "【早报】Apple智能可配合阿里千问模型工作；江波龙定增大幅溢价",
@@ -233,6 +233,19 @@
           "time_info": "19时07分"
         },
         {
+          "title": "河南 22 岁女孩南太行山失联，手机最后信号不在山林，现已确认遇难，遗体在悬崖被找到，有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2068484771710293896",
+          "source": "知乎",
+          "ranks": [
+            11,
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时07分 ~ 22时56分]"
+        },
+        {
           "title": "苹果被曝正测试长鑫存储芯片 用于在中国市场销售的设备",
           "url": "https://www.cls.cn/detail/2449544",
           "source": "财联社热门",
@@ -250,23 +263,12 @@
           "source": "抖音",
           "ranks": [
             7,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时18分 ~ 19时07分]"
-        },
-        {
-          "title": "河南 22 岁女孩南太行山失联，手机最后信号不在山林，现已确认遇难，遗体在悬崖被找到，有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2068484771710293896",
-          "source": "知乎",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时07分 ~ 21时03分]"
+          "appearance_count": 3,
+          "time_info": "[17时18分 ~ 22时56分]"
         },
         {
           "title": "手机真会“偷听”我们说话吗",
@@ -291,6 +293,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时29分 ~ 17时18分]"
+        },
+        {
+          "title": "iPhone18Pro等7款新品彻底泄密",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E7%AD%897%E6%AC%BE%E6%96%B0%E5%93%81%E5%BD%BB%E5%BA%95%E6%B3%84%E5%AF%86%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "苹果(AAPL.O)盘前下挫1.3%，杰富瑞将苹果公司评级从“持有”下调至“跑输大盘”；同时将目标股价从285.56美元下调至263.66美元。",
@@ -353,11 +366,12 @@
           "ranks": [
             14,
             10,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时18分 ~ 21时03分]"
+          "appearance_count": 4,
+          "time_info": "[17时18分 ~ 22时56分]"
         },
         {
           "title": "市场消息：据悉特斯拉(TSLA.O)今年将在日本增加60%的交付网点。",
@@ -412,7 +426,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时03分"
         }
@@ -486,6 +500,23 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌：为谷歌广告和谷歌分析添加人工智能和智能体功能。",
+          "url": "https://flash.jin10.com/detail/20260810223834412800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -500,8 +531,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时53分 ~ 21时03分]"
+          "appearance_count": 6,
+          "time_info": "[11时53分 ~ 22时56分]"
         }
       ]
     }
