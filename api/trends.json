@@ -1,8 +1,99 @@
 {
-  "generated_at": "2026-08-12T01:06:24.638576+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-08-12T02:59:57.550103+08:00",
+  "total_titles_processed": 385,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "苹果 Apple Mac iPhone 手机",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "苹果负责支付与钱包服务的高管Jennifer Bailey将于10月份离职。",
+          "url": "https://wallstreetcn.com/livenews/3148201",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "苹果的买方霸权 第一次在中国失效",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E7%9A%84%E4%B9%B0%E6%96%B9%E9%9C%B8%E6%9D%83+%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%A4%B1%E6%95%88",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 02时59分]"
+        },
+        {
+          "title": "手机NFC功能不要随便打开",
+          "url": "https://www.toutiao.com/trending/7672232082655182884/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 02时59分]"
+        },
+        {
+          "title": "市场消息：负责支付和钱包服务的苹果(AAPL.O)公司高管将于10月离职。",
+          "url": "https://flash.jin10.com/detail/20260812015140237800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "谷歌：Gemini月活用户数超过10亿",
+          "url": "https://wallstreetcn.com/livenews/3148199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：Gemini应用的月活跃用户超过10亿，成为谷歌历史上增长速度最快的产品。",
+          "url": "https://flash.jin10.com/detail/20260812014236644800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：将视频点播服务引入Google TV Freeplay。",
+          "url": "https://flash.jin10.com/detail/20260812012754420800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        }
+      ]
+    },
     {
       "keyword_group": "chatgpt openai",
       "match_count": 3,
@@ -12,11 +103,12 @@
           "url": "https://wallstreetcn.com/livenews/3148176",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 02时59分]"
         },
         {
           "title": "OpenAI高管Brad Lightcap将离职，开启“新项目”",
@@ -43,30 +135,31 @@
       ]
     },
     {
-      "keyword_group": "苹果 Apple Mac iPhone 手机",
+      "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
         {
-          "title": "苹果的买方霸权 第一次在中国失效",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E7%9A%84%E4%B9%B0%E6%96%B9%E9%9C%B8%E6%9D%83+%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%A4%B1%E6%95%88",
-          "source": "百度热搜",
+          "title": "怎么看 DeepSeek 注册 Harness 公众号并选用黑鲸鱼 logo ？",
+          "url": "https://www.zhihu.com/question/2070437867311174069",
+          "source": "知乎",
           "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
-        },
-        {
-          "title": "手机NFC功能不要随便打开",
-          "url": "https://www.toutiao.com/trending/7672232082655182884/",
-          "source": "今日头条",
-          "ranks": [
+            19,
             18
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 02时59分]"
+        },
+        {
+          "title": "梁文锋跻身全球最富有50人之列",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%A2%81%E6%96%87%E9%94%8B%E8%B7%BB%E8%BA%AB%E5%85%A8%E7%90%83%E6%9C%80%E5%AF%8C%E6%9C%8950%E4%BA%BA%E4%B9%8B%E5%88%97%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时06分"
+          "time_info": "02时59分"
         }
       ]
     },
@@ -82,36 +175,37 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 02时59分]"
         },
         {
           "title": "比亚迪2027款海豹06上市",
           "url": "https://www.toutiao.com/trending/7672587129632882738/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 02时59分]"
         }
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
+      "keyword_group": "央行 抖音 小红书",
       "match_count": 1,
       "titles": [
         {
-          "title": "怎么看 DeepSeek 注册 Harness 公众号并选用黑鲸鱼 logo ？",
-          "url": "https://www.zhihu.com/question/2070437867311174069",
-          "source": "知乎",
+          "title": "法国央行预计法国经济第三季度将增长0.2%。",
+          "url": "https://flash.jin10.com/detail/20260812020227335800",
+          "source": "金十数据",
           "ranks": [
-            19
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时06分"
+          "time_info": "02时59分"
         }
       ]
     }
