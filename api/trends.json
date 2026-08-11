@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T18:56:09.936019+08:00",
-  "total_titles_processed": 1545,
+  "generated_at": "2026-08-11T19:43:28.773473+08:00",
+  "total_titles_processed": 1635,
   "failed_sources": [],
   "trends": [
     {
@@ -250,6 +250,19 @@
           "time_info": "02时55分"
         },
         {
+          "title": "iPhone前景隐忧引发华尔街看空情绪升温：六家机构发出苹果卖出信号，创2012年以来之最",
+          "url": "https://wallstreetcn.com/articles/3779096",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时59分 ~ 19时43分]"
+        },
+        {
           "title": "女子称汤泉洗澡遇男孩举手机玩",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%B1%A4%E6%B3%89%E6%B4%97%E6%BE%A1%E9%81%87%E7%94%B7%E5%AD%A9%E4%B8%BE%E6%89%8B%E6%9C%BA%E7%8E%A9",
           "source": "百度热搜",
@@ -260,18 +273,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时04分 ~ 18时56分]"
-        },
-        {
-          "title": "iPhone前景隐忧引发华尔街看空情绪升温：六家机构发出苹果卖出信号，创2012年以来之最",
-          "url": "https://wallstreetcn.com/articles/3779096",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时59分 ~ 18时56分]"
         },
         {
           "title": "手机NFC功能不要随便打开",
@@ -446,7 +447,7 @@
     },
     {
       "keyword_group": "央行 抖音 小红书",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "澳洲央行：尽管中东冲突对通胀的影响迄今为止小于预期，但整体通胀率仍然过高。",
@@ -458,6 +459,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时07分"
+        },
+        {
+          "title": "巴西央行：货币政策必须保持紧缩。",
+          "url": "https://flash.jin10.com/detail/20260811190522330800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
         },
         {
           "title": "通胀风险挥之不去 韩国央行副行长暗示可能进一步加息",
@@ -496,8 +508,19 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "DeepSeek招土木工程师，科技大厂争锋延伸至传统资源领域",
+          "url": "https://wallstreetcn.com/livenews/3148048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
+        },
         {
           "title": "如何评价即将发布的 DeepSeek-V4 Pro 正式版，有哪些亮点？",
           "url": "https://www.zhihu.com/question/2067921583944085650",
@@ -524,7 +547,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "谷歌公司：相信我们遵守美国得州数据中心标准。",
@@ -548,6 +571,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
+        },
+        {
+          "title": "法国媒体机构全国新闻信息联盟：已向法国反垄断监管机构就谷歌(GOOG.O)的人工智能业务提出申诉。",
+          "url": "https://flash.jin10.com/detail/20260811185539534800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
         }
       ]
     },
@@ -555,6 +589,18 @@
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
+        {
+          "title": "金价冲上4400美元 黄金股为何跳水",
+          "url": "https://www.toutiao.com/trending/7672685366725316123/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时55分 ~ 19时43分]"
+        },
         {
           "title": "国际金价周一涨1.1%，现货白银涨3.2%",
           "url": "https://wallstreetcn.com/livenews/3147700",
@@ -566,17 +612,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时40分 ~ 07时33分]"
-        },
-        {
-          "title": "金价冲上4400美元 黄金股为何跳水",
-          "url": "https://www.toutiao.com/trending/7672685366725316123/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时55分 ~ 18时56分]"
         }
       ]
     },
@@ -591,11 +626,12 @@
           "ranks": [
             15,
             17,
-            19
+            19,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时04分 ~ 18时56分]"
+          "appearance_count": 6,
+          "time_info": "[15时04分 ~ 19时43分]"
         }
       ]
     }
