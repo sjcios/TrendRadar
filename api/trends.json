@@ -1,23 +1,249 @@
 {
-  "generated_at": "2026-08-12T16:16:25.287626+08:00",
-  "total_titles_processed": 991,
+  "generated_at": "2026-08-12T19:44:12.921001+08:00",
+  "total_titles_processed": 1183,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 12,
+      "keyword_group": "央行 抖音 小红书",
+      "match_count": 21,
       "titles": [
         {
-          "title": "几块钱的手机壳可能在消耗你的健康",
-          "url": "https://www.toutiao.com/trending/7671708004344922175/",
-          "source": "今日头条",
+          "title": "中国央行：下半年投资仍有较大增长空间",
+          "url": "https://wallstreetcn.com/livenews/3148600",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时16分"
+          "time_info": "19时44分"
         },
+        {
+          "title": "央行：综合运用并适时调整货币政策工具 保持流动性充裕和社会融资条件相对宽松",
+          "url": "https://www.cls.cn/detail/2452559",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时43分 ~ 19时44分]"
+        },
+        {
+          "title": "中国央行公开市场7天期逆回购操作量为零。今日50亿元逆回购到期。",
+          "url": "https://wallstreetcn.com/livenews/3148326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "曝小红书打造全新“AI导购”功能，官方暂无回应",
+          "url": "https://wallstreetcn.com/livenews/3148389",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
+          "title": "中国央行：拓展丰富中央银行宏观审慎与金融稳定功能，创新金融工具，维护金融市场平稳运行",
+          "url": "https://wallstreetcn.com/livenews/3148596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
+          "title": "法国央行预计法国经济第三季度将增长0.2%。",
+          "url": "https://flash.jin10.com/detail/20260812020227335800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "法国央行：预计法国第三季度GDP增长0.2%",
+          "url": "https://flash.jin10.com/detail/20260812031522893800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "中国央行：预计本轮主要经济体央行货币政策调整将相对温和",
+          "url": "https://wallstreetcn.com/livenews/3148594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
+          "title": "中国央行：将着力推动数据报告库强化组织建设，完善各项制度规则",
+          "url": "https://wallstreetcn.com/livenews/3148593",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
+          "title": "中国央行：以市场化方式引导地方法人金融机构加大对民营企业的信贷投放",
+          "url": "https://wallstreetcn.com/livenews/3148592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
+          "title": "中国央行：逐步增加隔夜逆回购的操作频率，进一步畅通政策利率向市场利率的传导",
+          "url": "https://wallstreetcn.com/livenews/3148590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
+          "title": "中国央行：淡化对贷款这个单一融资渠道的关注，把贷款和债券融资等合并观察",
+          "url": "https://wallstreetcn.com/livenews/3148585",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
+          "title": "印度通胀稳守目标区间 央行加息预期进一步降温",
+          "url": "https://flash.jin10.com/detail/20260812192904371800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
+          "title": "中国央行：稳定市场预期，防范汇率超调风险",
+          "url": "https://wallstreetcn.com/livenews/3148582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
+          "title": "中国央行：加强对扩大内需、科技创新、中小微企业等重点领域的金融支持",
+          "url": "https://wallstreetcn.com/livenews/3148581",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
+          "title": "法国央行预计第三季度经济保持增长势头",
+          "url": "https://wallstreetcn.com/livenews/3148207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "中国央行：及时谋划出台务实管用的增量政策，加大逆周期调节力度",
+          "url": "https://wallstreetcn.com/livenews/3148595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
+          "title": "贝森特与高市早苗在日本央行问题上的分歧可能破坏日元反弹",
+          "url": "https://flash.jin10.com/detail/20260812111817174800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
+          "title": "中国央行发布2026年第二季度中国货币政策执行报告",
+          "url": "https://wallstreetcn.com/livenews/3148580",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
+          "title": "中国央行逆回购操作当日实现净回笼50亿元",
+          "url": "https://flash.jin10.com/detail/20260812092229347800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "中国央行：根据公开市场业务一级交易商的需求，2026年8月12日7天期逆回购操作量为零。",
+          "url": "https://flash.jin10.com/detail/20260812092055712800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 Apple Mac iPhone 手机",
+      "match_count": 14,
+      "titles": [
         {
           "title": "苹果负责支付与钱包服务的高管Jennifer Bailey将于10月份离职。",
           "url": "https://wallstreetcn.com/livenews/3148201",
@@ -28,6 +254,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
+        },
+        {
+          "title": "几块钱的手机壳可能在消耗你的健康",
+          "url": "https://www.toutiao.com/trending/7671708004344922175/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时16分 ~ 19时44分]"
         },
         {
           "title": "手机NFC功能不要随便打开",
@@ -66,6 +304,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时46分 ~ 12时06分]"
+        },
+        {
+          "title": "雷军称小米成功量产发光材料，成为国内首家实现底层发光材料自研的手机厂商，有哪些突破？会带来什么改变？",
+          "url": "https://www.zhihu.com/question/2070796946256519933",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时43分 ~ 19时44分]"
+        },
+        {
+          "title": "荣耀RobotPhone拉高手机影像天花板",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8D%A3%E8%80%80RobotPhone%E6%8B%89%E9%AB%98%E6%89%8B%E6%9C%BA%E5%BD%B1%E5%83%8F%E5%A4%A9%E8%8A%B1%E6%9D%BF%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时43分 ~ 19时44分]"
         },
         {
           "title": "iPhone18Pro成本",
@@ -107,7 +367,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -118,7 +378,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -140,109 +400,15 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         }
       ]
     },
     {
-      "keyword_group": "央行 抖音 小红书",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "中国央行公开市场7天期逆回购操作量为零。今日50亿元逆回购到期。",
-          "url": "https://wallstreetcn.com/livenews/3148326",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "曝小红书打造全新“AI导购”功能，官方暂无回应",
-          "url": "https://wallstreetcn.com/livenews/3148389",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
-          "title": "法国央行预计法国经济第三季度将增长0.2%。",
-          "url": "https://flash.jin10.com/detail/20260812020227335800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时59分"
-        },
-        {
-          "title": "法国央行：预计法国第三季度GDP增长0.2%",
-          "url": "https://flash.jin10.com/detail/20260812031522893800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时02分"
-        },
-        {
-          "title": "法国央行预计第三季度经济保持增长势头",
-          "url": "https://wallstreetcn.com/livenews/3148207",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时02分"
-        },
-        {
-          "title": "贝森特与高市早苗在日本央行问题上的分歧可能破坏日元反弹",
-          "url": "https://flash.jin10.com/detail/20260812111817174800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
-          "title": "中国央行逆回购操作当日实现净回笼50亿元",
-          "url": "https://flash.jin10.com/detail/20260812092229347800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "中国央行：根据公开市场业务一级交易商的需求，2026年8月12日7天期逆回购操作量为零。",
-          "url": "https://flash.jin10.com/detail/20260812092055712800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        }
-      ]
-    },
-    {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "5 万元以下微型车遇冷，40 万元以上新能源车热销，这说明了什么？",
@@ -256,6 +422,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时06分 ~ 09时46分]"
+        },
+        {
+          "title": "云南曲靖警方通报“游客自驾遭奔驰堵路后冲突受伤”：行拘2人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33762016",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时46分 ~ 19时44分]"
         },
         {
           "title": "比亚迪闪充开抢10万级市场",
@@ -283,16 +462,26 @@
           "time_info": "[01时06分 ~ 04时02分]"
         },
         {
-          "title": "云南曲靖警方通报“游客自驾遭奔驰堵路后冲突受伤”：行拘2人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33762016",
-          "source": "澎湃新闻",
+          "title": "新能源汽车月度新车销量占比首超60%",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E6%9C%88%E5%BA%A6%E6%96%B0%E8%BD%A6%E9%94%80%E9%87%8F%E5%8D%A0%E6%AF%94%E9%A6%96%E8%B6%8560%25",
+          "source": "百度热搜",
           "ranks": [
-            19,
-            18
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时46分 ~ 16时16分]"
+          "appearance_count": 2,
+          "time_info": "[19时43分 ~ 19时44分]"
+        },
+        {
+          "title": "曝大众酝酿把中国新能源车卖到欧洲",
+          "url": "https://www.toutiao.com/trending/7672708319464292395/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时43分 ~ 19时44分]"
         },
         {
           "title": "比亚迪海獭日本订单破千",
@@ -325,6 +514,18 @@
           "time_info": "[01时06分 ~ 12时06分]"
         },
         {
+          "title": "135家私募打新宇树科技获配：头部量化扎堆入围 ，梁文锋旗下幻方、九章拿下私募最大份额",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33764096",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时16分 ~ 19时44分]"
+        },
+        {
           "title": "梁文锋跻身全球最富有50人之列",
           "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B%E8%B7%BB%E8%BA%AB%E5%85%A8%E7%90%83%E6%9C%80%E5%AF%8C%E6%9C%8950%E4%BA%BA%E4%B9%8B%E5%88%97",
           "source": "百度热搜",
@@ -347,23 +548,12 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时59分 ~ 04时02分]"
-        },
-        {
-          "title": "135家私募打新宇树科技获配：头部量化扎堆入围 ，梁文锋旗下幻方、九章拿下私募最大份额",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33764096",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时16分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "谷歌：Gemini月活用户数超过10亿",
@@ -398,6 +588,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
+        },
+        {
+          "title": "【但斌美股持仓“大换血”】具体操作上，东方港湾海外基金清仓了苹果、三倍做多纳斯达克100ETF、特斯拉、CIRCLE INTERNET GROUP INC等6只标的。同时，其新买入英特尔、闪迪、超威半导体、迈威尔科技、Arm Holdings plc ADR、博通、Lumentum等7只标的，上述标的均为AI硬件相关公司。从整体的持仓情况来看，东方港湾美股第一大重仓股仍为谷歌-C，持仓占其组合的比重约为23%，相比一季度有所减仓。同时，东方港湾还清仓了谷歌-A及二倍做多谷歌ETF。（上证报）",
+          "url": "https://wallstreetcn.com/livenews/3148567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         }
       ]
     },
