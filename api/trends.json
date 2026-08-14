@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T05:35:35.566986+08:00",
-  "total_titles_processed": 440,
+  "generated_at": "2026-08-15T06:21:41.442051+08:00",
+  "total_titles_processed": 474,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
         },
@@ -26,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时51分 ~ 05时35分]"
+          "appearance_count": 5,
+          "time_info": "[02时51分 ~ 06时21分]"
         },
         {
           "title": "DeepSeek Harness实测",
@@ -36,11 +36,12 @@
           "ranks": [
             8,
             9,
-            18
+            18,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时51分 ~ 05时35分]"
+          "appearance_count": 5,
+          "time_info": "[02时51分 ~ 06时21分]"
         },
         {
           "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
@@ -50,8 +51,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时51分 ~ 05时35分]"
+          "appearance_count": 5,
+          "time_info": "[02时51分 ~ 06时21分]"
         }
       ]
     },
@@ -67,30 +68,32 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时51分 ~ 05时35分]"
+          "appearance_count": 5,
+          "time_info": "[02时51分 ~ 06时21分]"
         },
         {
           "title": "对着别人手机念数字就可能背上贷款",
           "url": "https://www.baidu.com/s?wd=%E5%AF%B9%E7%9D%80%E5%88%AB%E4%BA%BA%E6%89%8B%E6%9C%BA%E5%BF%B5%E6%95%B0%E5%AD%97%E5%B0%B1%E5%8F%AF%E8%83%BD%E8%83%8C%E4%B8%8A%E8%B4%B7%E6%AC%BE",
           "source": "百度热搜",
           "ranks": [
-            24
+            24,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时51分 ~ 05时35分]"
+          "appearance_count": 4,
+          "time_info": "[02时51分 ~ 06时21分]"
         },
         {
           "title": "索罗斯基金管理公司披露增持29,004股苹果(AAPL.O)股份，持仓升至529,538股。",
           "url": "https://flash.jin10.com/detail/20260815045930926800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时21分]"
         }
       ]
     },
@@ -106,8 +109,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时51分 ~ 05时35分]"
+          "appearance_count": 5,
+          "time_info": "[02时51分 ~ 06时21分]"
         },
         {
           "title": "CORTIS抖音粉丝破500万",
@@ -143,22 +146,53 @@
           "url": "https://wallstreetcn.com/livenews/3149876",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时21分]"
         },
         {
           "title": "伯克希尔哈撒韦Q2增持谷歌",
           "url": "https://wallstreetcn.com/livenews/3149872",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价反复跳水 老铺黄金罕见大促",
+          "url": "https://www.toutiao.com/trending/7673177168197992475/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时21分]"
+        },
+        {
+          "title": "周五（8月14日）纽约尾盘，国际贵金属期货收盘涨跌不一。 现货黄金先跌后涨，日内涨幅0.6%，报4375.67美元/盎司，本周累计上涨0.81%。 COMEX黄金期货涨0.26%报4432.00美元/盎司，本周累计上涨0.73%。美国经济数据走弱令美联储加息预期降温，叠加中东局势不确定性，加上央行长期净增持黄金托底，共同支撑金价。 现货白银涨0.40%，报64.667美元/盎司，本周累涨超1.8%。 COMEX白银期货跌0.26%报64.83美元/盎司，本周累计上涨2.09%。",
+          "url": "https://wallstreetcn.com/livenews/3149887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时35分"
+          "time_info": "06时21分"
         }
       ]
     },
@@ -174,25 +208,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时51分 ~ 05时35分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价反复跳水 老铺黄金罕见大促",
-          "url": "https://www.toutiao.com/trending/7673177168197992475/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时35分"
+          "appearance_count": 5,
+          "time_info": "[02时51分 ~ 06时21分]"
         }
       ]
     }
