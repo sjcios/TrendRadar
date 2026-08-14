@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-08-15T02:52:01.800444+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-08-15T04:29:30.074255+08:00",
+  "total_titles_processed": 378,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 3,
       "titles": [
-        {
-          "title": "DeepSeek Harness实测",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%AE%9E%E6%B5%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时51分 ~ 02时52分]"
-        },
         {
           "title": "俱往矣!DeepSeek大幅涨价",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
@@ -26,8 +15,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时51分 ~ 02时52分]"
+          "appearance_count": 3,
+          "time_info": "[02时51分 ~ 04时29分]"
+        },
+        {
+          "title": "DeepSeek Harness实测",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%AE%9E%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时51分 ~ 04时29分]"
         },
         {
           "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
@@ -37,8 +38,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时51分 ~ 02时52分]"
+          "appearance_count": 3,
+          "time_info": "[02时51分 ~ 04时29分]"
         }
       ]
     },
@@ -54,19 +55,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时51分 ~ 02时52分]"
+          "appearance_count": 3,
+          "time_info": "[02时51分 ~ 04时29分]"
         },
         {
           "title": "CORTIS抖音粉丝破500万",
           "url": "https://www.douyin.com/hot/2608724",
           "source": "抖音",
           "ranks": [
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时51分 ~ 02时52分]"
+          "appearance_count": 3,
+          "time_info": "[02时51分 ~ 04时29分]"
         },
         {
           "title": "发癫吧后浪抖音粉丝突破400万",
@@ -93,8 +95,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时51分 ~ 02时52分]"
+          "appearance_count": 3,
+          "time_info": "[02时51分 ~ 04时29分]"
         },
         {
           "title": "对着别人手机念数字就可能背上贷款",
@@ -121,8 +123,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时51分 ~ 02时52分]"
+          "appearance_count": 3,
+          "time_info": "[02时51分 ~ 04时29分]"
         }
       ]
     }
