@@ -1,75 +1,23 @@
 {
-  "generated_at": "2026-08-15T07:30:05.848996+08:00",
-  "total_titles_processed": 501,
+  "generated_at": "2026-08-15T09:07:03.110902+08:00",
+  "total_titles_processed": 608,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "俱往矣!DeepSeek大幅涨价",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
-          "source": "贴吧",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时51分 ~ 07时30分]"
-        },
-        {
-          "title": "DeepSeek Harness实测",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%AE%9E%E6%B5%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            9,
-            18,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时51分 ~ 07时30分]"
-        },
-        {
-          "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
-          "url": "https://wallstreetcn.com/articles/3779418",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时51分 ~ 07时30分]"
-        },
-        {
-          "title": "DeepSeek Harness是什么",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E6%98%AF%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时35分"
-        }
-      ]
-    },
-    {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "发力中国市场！据称苹果训练了一款“中国定制”大模型，开启AI双轨布局",
           "url": "https://www.cls.cn/detail/2454596",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时51分 ~ 07时30分]"
+          "appearance_count": 9,
+          "time_info": "[02时51分 ~ 09时07分]"
         },
         {
           "title": "对着别人手机念数字就可能背上贷款",
@@ -78,11 +26,24 @@
           "ranks": [
             24,
             21,
-            18
+            18,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时51分 ~ 07时30分]"
+          "appearance_count": 8,
+          "time_info": "[02时51分 ~ 09时07分]"
+        },
+        {
+          "title": "王楚然一看手机天又塌了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E7%84%B6%E4%B8%80%E7%9C%8B%E6%89%8B%E6%9C%BA%E5%A4%A9%E5%8F%88%E5%A1%8C%E4%BA%86%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时29分 ~ 09时07分]"
         },
         {
           "title": "索罗斯基金管理公司披露增持29,004股苹果(AAPL.O)股份，持仓升至529,538股。",
@@ -98,15 +59,109 @@
           "time_info": "[05时35分 ~ 07时30分]"
         },
         {
-          "title": "王楚然一看手机天又塌了",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E7%84%B6%E4%B8%80%E7%9C%8B%E6%89%8B%E6%9C%BA%E5%A4%A9%E5%8F%88%E5%A1%8C%E4%BA%86%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
+          "title": "大规模涨价 手机快买不起了",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%B6%A8%E4%BB%B7+%E6%89%8B%E6%9C%BA%E5%BF%AB%E4%B9%B0%E4%B8%8D%E8%B5%B7%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
-            12
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时29分 ~ 07时30分]"
+          "time_info": "[09时06分 ~ 09时07分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
+          "url": "https://wallstreetcn.com/articles/3779418",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时51分 ~ 09时07分]"
+        },
+        {
+          "title": "俱往矣!DeepSeek大幅涨价",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时51分 ~ 09时07分]"
+        },
+        {
+          "title": "DeepSeek Harness实测",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%AE%9E%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            9,
+            18,
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时51分 ~ 09时07分]"
+        },
+        {
+          "title": "DeepSeek Harness是什么",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E6%98%AF%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美国少年杀死母亲、弟弟，被指用ChatGPT策划",
+          "url": "https://news.ifeng.com/c/8vaHkh2o1IS",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时51分 ~ 09时07分]"
+        },
+        {
+          "title": "英伟达缩减为OpenAI数据中心提供2500亿美元担保的计划",
+          "url": "https://flash.jin10.com/detail/20260815090110907800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时07分"
+        },
+        {
+          "title": "据华尔街日报：消息人士称，英伟达(NVDA.O)与OpenAI已修订在俄亥俄州10千兆瓦数据中心项目的交易提议结构。英伟达将保证5吉瓦的项目，将担保金额从2500亿美元降低至不足1200亿美元。",
+          "url": "https://flash.jin10.com/detail/20260815080428529800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时07分"
         }
       ]
     },
@@ -122,8 +177,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时51分 ~ 07时30分]"
+          "appearance_count": 9,
+          "time_info": "[02时51分 ~ 09时07分]"
         },
         {
           "title": "CORTIS抖音粉丝破500万",
@@ -192,11 +247,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            9
+            9,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时21分 ~ 07时30分]"
+          "appearance_count": 3,
+          "time_info": "[06时21分 ~ 09时07分]"
         },
         {
           "title": "金价反复跳水 老铺黄金罕见大促",
@@ -209,23 +265,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时35分 ~ 06时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国少年杀死母亲、弟弟，被指用ChatGPT策划",
-          "url": "https://news.ifeng.com/c/8vaHkh2o1IS",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时51分 ~ 07时30分]"
         }
       ]
     }
