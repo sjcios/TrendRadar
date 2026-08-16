@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T19:19:15.815285+08:00",
-  "total_titles_processed": 856,
+  "generated_at": "2026-08-16T20:36:51.144584+08:00",
+  "total_titles_processed": 934,
   "failed_sources": [],
   "trends": [
     {
@@ -106,8 +106,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时10分 ~ 19时19分]"
+          "appearance_count": 12,
+          "time_info": "[09时10分 ~ 20时36分]"
         },
         {
           "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -119,8 +119,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时58分 ~ 19时19分]"
+          "appearance_count": 10,
+          "time_info": "[10时58分 ~ 20时36分]"
         },
         {
           "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
@@ -129,11 +129,12 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时36分 ~ 19时19分]"
+          "appearance_count": 9,
+          "time_info": "[14时36分 ~ 20时36分]"
         },
         {
           "title": "英伟达拟投资SB Energy 30亿美元，布局OpenAI数据中心",
@@ -227,11 +228,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时29分 ~ 19时19分]"
+          "appearance_count": 7,
+          "time_info": "[15时29分 ~ 20时36分]"
         },
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
@@ -252,11 +254,12 @@
           "url": "https://wallstreetcn.com/articles/3779522",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时18分 ~ 19时19分]"
+          "appearance_count": 3,
+          "time_info": "[19时18分 ~ 20时36分]"
         },
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
@@ -286,8 +289,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时10分 ~ 19时19分]"
+          "appearance_count": 6,
+          "time_info": "[09时10分 ~ 20时36分]"
         },
         {
           "title": "阿富汗民众呼吁美国应尽快归还阿央行资产",
