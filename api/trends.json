@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T12:40:16.819778+08:00",
-  "total_titles_processed": 746,
+  "generated_at": "2026-08-17T23:25:04.558534+08:00",
+  "total_titles_processed": 996,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple Mac iPhone 手机",
-      "match_count": 8,
+      "match_count": 13,
       "titles": [
         {
           "title": "建议这类手机壳赶紧扔掉",
@@ -17,6 +17,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时53分 ~ 12时40分]"
+        },
+        {
+          "title": "9块9包邮的手机壳还敢买吗",
+          "url": "https://www.baidu.com/s?wd=9%E5%9D%979%E5%8C%85%E9%82%AE%E7%9A%84%E6%89%8B%E6%9C%BA%E5%A3%B3%E8%BF%98%E6%95%A2%E4%B9%B0%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时24分 ~ 23时25分]"
+        },
+        {
+          "title": "闪过念头就刷到广告 是手机在偷听吗",
+          "url": "https://www.baidu.com/s?wd=%E9%97%AA%E8%BF%87%E5%BF%B5%E5%A4%B4%E5%B0%B1%E5%88%B7%E5%88%B0%E5%B9%BF%E5%91%8A+%E6%98%AF%E6%89%8B%E6%9C%BA%E5%9C%A8%E5%81%B7%E5%90%AC%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时24分 ~ 23时25分]"
         },
         {
           "title": "手机壳 医疗垃圾",
@@ -56,6 +78,17 @@
           "time_info": "[11时53分 ~ 12时40分]"
         },
         {
+          "title": "曝iPhone18ProMax独占可变光圈",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DiPhone18ProMax%E7%8B%AC%E5%8D%A0%E5%8F%AF%E5%8F%98%E5%85%89%E5%9C%88%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时24分 ~ 23时25分]"
+        },
+        {
           "title": "iPhoneUltra备货量",
           "url": "https://s.weibo.com/weibo?q=%23iPhoneUltra%E5%A4%87%E8%B4%A7%E9%87%8F%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -89,6 +122,28 @@
           "time_info": "[12时39分 ~ 12时40分]"
         },
         {
+          "title": "如何看待追觅卖出首台 AURORA 手机，售价超 20 万元？靠高奢定制切入手机赛道可行吗？",
+          "url": "https://www.zhihu.com/question/2071642621957747105",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时24分 ~ 23时25分]"
+        },
+        {
+          "title": "eSIM手机出货量将暴涨20倍",
+          "url": "https://www.baidu.com/s?wd=eSIM%E6%89%8B%E6%9C%BA%E5%87%BA%E8%B4%A7%E9%87%8F%E5%B0%86%E6%9A%B4%E6%B6%A820%E5%80%8D",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时24分 ~ 23时25分]"
+        },
+        {
           "title": "手机消费毁了逛街和创造力吗",
           "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E6%B6%88%E8%B4%B9%E6%AF%81%E4%BA%86%E9%80%9B%E8%A1%97%E5%92%8C%E5%88%9B%E9%80%A0%E5%8A%9B%E5%90%97",
           "source": "百度热搜",
@@ -98,6 +153,101 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "央行 抖音 小红书",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "印度5年期国债收益率升幅扩大至8个基点。此前印度央行宣布，将提前关闭针对海外居民的特别美元存款窗口。",
+          "url": "https://wallstreetcn.com/livenews/3150215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "交易员：印度央行可能在出售美元以支持卢比。",
+          "url": "https://flash.jin10.com/detail/20260817113317265800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
+          "title": "德银：央行购金+ETF流入，黄金处于“爆炸性”上涨阶段",
+          "url": "https://wallstreetcn.com/articles/3779529",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时53分 ~ 12时40分]"
+        },
+        {
+          "title": "日央行加息难改日元下行路径？摩根大通维持164目标——新版发布",
+          "url": "https://flash.jin10.com/detail/20260817112811874800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
+          "title": "前日本财务省官员：日本央行应每次会议都加息",
+          "url": "https://flash.jin10.com/detail/20260817121919648800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "智利央行以平均914.04智利比索兑1美元的汇率出售6400万美元外汇远期合约。",
+          "url": "https://flash.jin10.com/detail/20260817224626111800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
+          "title": "中国央行今日7天期逆回购操作量为零。同时，开展了5655亿元隔夜逆回购操作。今日3670亿元逆回购到期。",
+          "url": "https://wallstreetcn.com/livenews/3150147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
+          "title": "本周中国央行公开市场短期限逆回购到期规模将为3670亿元",
+          "url": "https://wallstreetcn.com/livenews/3150144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时53分"
         }
       ]
     },
@@ -189,92 +339,8 @@
       ]
     },
     {
-      "keyword_group": "央行 抖音 小红书",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "印度5年期国债收益率升幅扩大至8个基点。此前印度央行宣布，将提前关闭针对海外居民的特别美元存款窗口。",
-          "url": "https://wallstreetcn.com/livenews/3150215",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时40分"
-        },
-        {
-          "title": "交易员：印度央行可能在出售美元以支持卢比。",
-          "url": "https://flash.jin10.com/detail/20260817113317265800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "德银：央行购金+ETF流入，黄金处于“爆炸性”上涨阶段",
-          "url": "https://wallstreetcn.com/articles/3779529",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时53分 ~ 12时40分]"
-        },
-        {
-          "title": "日央行加息难改日元下行路径？摩根大通维持164目标——新版发布",
-          "url": "https://flash.jin10.com/detail/20260817112811874800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "前日本财务省官员：日本央行应每次会议都加息",
-          "url": "https://flash.jin10.com/detail/20260817121919648800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时40分"
-        },
-        {
-          "title": "中国央行今日7天期逆回购操作量为零。同时，开展了5655亿元隔夜逆回购操作。今日3670亿元逆回购到期。",
-          "url": "https://wallstreetcn.com/livenews/3150147",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "本周中国央行公开市场短期限逆回购到期规模将为3670亿元",
-          "url": "https://wallstreetcn.com/livenews/3150144",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
@@ -345,6 +411,69 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时39分 ~ 12时40分]"
+        },
+        {
+          "title": "市场消息：美国金融服务公司Synchrony宣布与OpenAI达成企业合作协议，Synchrony将部署GPT-5.6 Sol、Terra和Luna模型，还将推出ChatGPT插件。",
+          "url": "https://flash.jin10.com/detail/20260817230059912800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "比亚迪国内销量骤降 35.6%，吉利重启销冠之争，如何看待新能源汽车市场竞争格局？",
+          "url": "https://www.zhihu.com/question/2071644037833135057",
+          "source": "知乎",
+          "ranks": [
+            10,
+            8,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时53分 ~ 23时25分]"
+        },
+        {
+          "title": "BBA集体大降价：宝马5系跌至28万",
+          "url": "https://www.toutiao.com/trending/7674820864836239396/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时24分 ~ 23时25分]"
+        },
+        {
+          "title": "新能源冷藏车销量快速增长，冷链绿色转型提速",
+          "url": "https://wallstreetcn.com/livenews/3150076",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        },
+        {
+          "title": "BBA集体大降价：宝马5系跌至28万",
+          "url": "https://www.baidu.com/s?wd=BBA%E9%9B%86%E4%BD%93%E5%A4%A7%E9%99%8D%E4%BB%B7%EF%BC%9A%E5%AE%9D%E9%A9%AC5%E7%B3%BB%E8%B7%8C%E8%87%B328%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时24分 ~ 23时25分]"
         }
       ]
     },
@@ -394,7 +523,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金价大涨藏着什么信号",
@@ -417,35 +546,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "新能源冷藏车销量快速增长，冷链绿色转型提速",
-          "url": "https://wallstreetcn.com/livenews/3150076",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
         },
         {
-          "title": "比亚迪国内销量骤降 35.6%，吉利重启销冠之争，如何看待新能源汽车市场竞争格局？",
-          "url": "https://www.zhihu.com/question/2071644037833135057",
-          "source": "知乎",
+          "title": "金价回调半年抛压基本释放",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%9B%9E%E8%B0%83%E5%8D%8A%E5%B9%B4%E6%8A%9B%E5%8E%8B%E5%9F%BA%E6%9C%AC%E9%87%8A%E6%94%BE%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
           "ranks": [
-            10,
-            8
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时53分 ~ 12时40分]"
+          "appearance_count": 2,
+          "time_info": "[23时24分 ~ 23时25分]"
         }
       ]
     }
