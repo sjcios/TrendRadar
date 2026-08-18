@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-18T07:21:33.756553+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-08-18T10:55:49.625316+08:00",
+  "total_titles_processed": 516,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新能源 比亚迪 特斯拉 宝马 奥迪 奔驰 看车 车降价",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "特斯拉为什么不上新车型，不配置冰箱彩电大沙发？",
+          "url": "https://www.zhihu.com/question/2065004542933067231",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 10时55分]"
+        },
         {
           "title": "BBA集体大降价：宝马5系跌至28万",
           "url": "https://www.toutiao.com/trending/7674820864836239396/",
@@ -30,15 +41,37 @@
           "time_info": "07时21分"
         },
         {
-          "title": "特斯拉为什么不上新车型，不配置冰箱彩电大沙发？",
-          "url": "https://www.zhihu.com/question/2065004542933067231",
-          "source": "知乎",
+          "title": "BBA大降价 宝马5系跌至28万",
+          "url": "https://s.weibo.com/weibo?q=BBA%E5%A4%A7%E9%99%8D%E4%BB%B7%20%E5%AE%9D%E9%A9%AC5%E7%B3%BB%E8%B7%8C%E8%87%B328%E4%B8%87&t=31&band_rank=11&Refer=top",
+          "source": "微博",
           "ranks": [
-            5
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "10时55分"
+        },
+        {
+          "title": "特斯拉Cybercab有望本月投放运营",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89Cybercab%E6%9C%89%E6%9C%9B%E6%9C%AC%E6%9C%88%E6%8A%95%E6%94%BE%E8%BF%90%E8%90%A5",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "BBA集体大降价 奔驰奥迪最高降超10万",
+          "url": "https://www.toutiao.com/trending/7674219656752316470/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         },
         {
           "title": "BBA集体大降价：宝马5系跌至28万",
@@ -62,22 +95,52 @@
           "url": "https://www.baidu.com/s?wd=%E9%97%AA%E8%BF%87%E5%BF%B5%E5%A4%B4%E5%B0%B1%E5%88%B7%E5%88%B0%E5%B9%BF%E5%91%8A+%E6%98%AF%E6%89%8B%E6%9C%BA%E5%9C%A8%E5%81%B7%E5%90%AC%E5%90%97",
           "source": "百度热搜",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 10时55分]"
         },
         {
           "title": "如何看待追觅卖出首台 AURORA 手机，售价超 20 万元？靠高奢定制切入手机赛道可行吗？",
           "url": "https://www.zhihu.com/question/2071642621957747105",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 10时55分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "央行 抖音 小红书",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "新西兰联储围绕支付系统建议公开征求意见。 该央行将考虑系统结构性现代化的必要性。",
+          "url": "https://wallstreetcn.com/livenews/3150707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "中国央行连续6个工作日7天期逆回购操作量为零，今日开展4697亿元人民币隔夜逆回购操作，净回笼958亿元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3150760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         }
       ]
     },
@@ -90,11 +153,46 @@
           "url": "https://www.zhihu.com/question/2072103596481683649",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 10时55分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据日经新闻：谷歌计划于2027年停止在中国生产Pixel产品。",
+          "url": "https://flash.jin10.com/detail/20260818103300586800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "10时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "ChatGPT将变“购物车”？零售商专属信用卡发行商携手OpenAI推进AI内购",
+          "url": "https://www.cls.cn/detail/2456537",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         }
       ]
     },
@@ -116,19 +214,19 @@
       ]
     },
     {
-      "keyword_group": "央行 抖音 小红书",
+      "keyword_group": "黄金",
       "match_count": 1,
       "titles": [
         {
-          "title": "新西兰联储围绕支付系统建议公开征求意见。 该央行将考虑系统结构性现代化的必要性。",
-          "url": "https://wallstreetcn.com/livenews/3150707",
-          "source": "华尔街见闻-快讯",
+          "title": "【早报】美股AI板块逆势走强；原油、黄金双双上行；一线城市二手房价格连续5个月上涨",
+          "url": "https://www.cls.cn/detail/2456585",
+          "source": "财联社热门",
           "ranks": [
-            18
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "10时55分"
         }
       ]
     }
